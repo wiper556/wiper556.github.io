@@ -62,6 +62,8 @@ BEGIN = ("  // BUILD:%s:start ここから下は tools/build_data.py が %s か�
          "生成しています。直接編集しないこと")
 END = "  // BUILD:%s:end"
 WRAP = 118
+BS = chr(92)          # 正規表現に書くバックスラッシュ
+BSN = chr(92) + "n"   # json.dumps が出す改行の表現
 
 # 一覧ページに載せるフィールド(配列名 → フィールド名の集合)。
 # 中身は「一覧の表・並べ替え・検索・●マークが実際に読んでいるもの」だけ。
@@ -401,6 +403,65 @@ def replace_card_art(dry=False):
     same = new == text
     print("  %-24s %3d件 %s (くじの絵)"
           % (ART_FILE, len(nos), "変化なし" if same else "書き換え"))
+    if not same and not dry:
+        io.open(p, "w", encoding="utf-8", newline="").write(new)
+        return 1
+    return 0
+
+
+# 本丸防御陣形で自分の編成コストを減らすスキル(2026-09-08)。
+#
+# **手で並べない。** 効果文が正本にあるので、そこから取る。
+# 本丸シミュはコスト上限60に対して編成を組む道具なので、この軽減が入らないと
+# 「置けるのに置けないと出る」ことになる。
+#
+# 拾うのは**この武将自身のコストを減らすもの**だけ。次は別物なので拾わない:
+#   ・敵軍の編成に依存して攻撃/防御に加算するもの(六冥緋侠ノ神謀・鉄砲豪商・救世ノ法軍)
+#   ・コストの**上限**を上げるもの(無辜ノ哀炎)
+# 所領防御陣形にしか効かないものも、本丸のページでは拾わない。
+HC_FILE = "assets/js/ixa-data.js"
+HC_BEGIN = ("// BUILD:honmaruCostDelta:start ここから下は tools/build_data.py が "
+            "data/skill/ から生成しています。直接編集しないこと")
+HC_END = "// BUILD:honmaruCostDelta:end"
+HC_PAT = re.compile(
+    r"本丸防御陣形[^。" + BS + "n]*?配[置属]時[^。" + BS + "n]*?"
+    r"この武将の編成コスト(?:消費)?を" + BS + r"s*-" + BS + r"s*([" + BS + r"d.]+)" + BS + r"s*(?:する|し)")
+
+
+def collect_honmaru_cost():
+    out = {}
+    for f in sorted(glob.glob(os.path.join(ROOT, "data", "skill", "*.json"))):
+        j = json.load(io.open(f, encoding="utf-8"))
+        blob = json.dumps(j, ensure_ascii=False).replace(BSN, chr(10))
+        m = HC_PAT.search(blob)
+        if m:
+            out[j["name"]] = float(m.group(1))
+    return out
+
+
+def build_honmaru_cost_block(d):
+    lines = [HC_BEGIN, "const HONMARU_COST_DELTA = {"]
+    for k in sorted(d):
+        lines.append("  %s: %s," % (json.dumps(k, ensure_ascii=False), -d[k]))
+    lines.append("};")
+    lines.append(HC_END)
+    return chr(10).join(lines)
+
+
+def replace_honmaru_cost(dry=False):
+    p = os.path.join(ROOT, HC_FILE)
+    if not os.path.exists(p):
+        return 0
+    text = io.open(p, encoding="utf-8", newline="").read()
+    lo, hi = text.find(HC_BEGIN), text.find(HC_END)
+    if lo < 0 or hi < 0:
+        print("  %-24s [停止] BUILD:honmaruCostDelta のマーカーが無い" % HC_FILE)
+        return 1
+    d = collect_honmaru_cost()
+    new = text[:lo] + build_honmaru_cost_block(d) + text[hi + len(HC_END):]
+    same = new == text
+    print("  %-24s %3d件 %s (本丸のコスト軽減)"
+          % (HC_FILE, len(d), "変化なし" if same else "書き換え"))
     if not same and not dry:
         io.open(p, "w", encoding="utf-8", newline="").write(new)
         return 1
@@ -818,6 +879,7 @@ def main(dry=False):
     changed += replace_busho_index(dry)
     changed += replace_axis(dry)
     changed += replace_card_art(dry)
+    changed += replace_honmaru_cost(dry)
     changed += replace_kyoku_ps(dry)
     changed += replace_rate_table(dry)
     print("書き換えたページ %d件%s" % (changed, "(--dry-run)" if dry else ""))
