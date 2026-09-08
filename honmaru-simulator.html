@@ -125,6 +125,10 @@
         <input type="number" id="hmCostLimit" value="60" min="0" step="0.5">
       </div>
       <div class="hm-field">
+        <label for="hmCastle">城の防御補正(%)</label>
+        <input type="number" id="hmCastle" value="0" min="0" step="1">
+      </div>
+      <div class="hm-field">
         <label for="hmBreak">ランク(全員に適用)</label>
         <select id="hmBreak" class="hm-wide">
           <option>限界突破</option>
@@ -158,8 +162,12 @@
 
     <div class="hm-total">
       <div>
-        <div style="font-size:12px;font-weight:700;opacity:.7;">陣形総防御力(兵科相性なし)</div>
+        <div style="font-size:12px;font-weight:700;opacity:.7;">陣形総防御力(素・兵科相性なし)</div>
         <div class="hm-total-num" id="hmTotalDef">0</div>
+      </div>
+      <div>
+        <div style="font-size:12px;font-weight:700;opacity:.7;">城の補正込み</div>
+        <div class="hm-total-num" id="hmTotalDefCastle">0</div>
       </div>
       <div>
         <div style="font-size:12px;font-weight:700;opacity:.7;">編成コスト</div>
@@ -194,7 +202,11 @@
         <li><strong>編成コストの上限は本丸防御陣形が60</strong>(上の欄で変えられます)。<strong>所領防御陣形は40</strong>で別物なので、混ぜないこと(2026-09-08 うぐさん。60を40にする間違いを一度やった)。</li>
         <li>兵科相性は防御側の防御力にかかる補正です。槍は騎馬に強く、騎馬は弓に強く、弓は槍に強い、という3すくみに、兵器兵科との相性を加えたものを使っています。鉄砲足軽は槍兵科、焙烙火矢は弓兵科、騎馬鉄砲は騎馬兵科として相性判定します(スキルの発動対象としては兵器兵科のままです)。</li>
         <li>統率①②は武将データの統率ランクから自動で入れています。手で直せます。</li>
-        <li>スキルは<strong>初期スキルのみ</strong>を自動で見ています。追加スキル・極限スキル、陣形の配置位置に依存する効果、加勢限定の倍率はまだ計算に入っていません。</li>
+        <li><strong>城の防御補正</strong>は上の欄に合計%を手で入れてください。<strong>素の防御力と補正込みの両方を出します</strong>(2026-09-08 うぐさん)。施設ごとの内訳はまだ持っていないので、いまは手入力です。</li>
+        <li><strong>加勢は本丸防御陣形に入りません</strong>(2026-09-08 うぐさん確認)。そのため加勢限定の倍率は計算に入れていません。</li>
+        <li>スキルは<strong>初期スキルのみ</strong>を自動で見ています。追加スキル・極限スキルはまだ計算に入っていません。</li>
+        <li><strong>陣形の配置位置に依存する効果は、まだ検証できていません</strong>(2026-09-08 うぐさん「要検証。スキルごとに対応することになる」)。まとめて扱える規則が無いので、確かめられたスキルから1件ずつ入れていきます。</li>
+        <li><strong>所領防御陣形は別のもの</strong>です。このページは本丸防御陣形だけを扱います(コスト上限も本丸60 / 所領40で違います)。</li>
       </ul>
     </div>
 
@@ -474,6 +486,7 @@
     }
 
     $('hmTotalDef').textContent = fmt(total);
+    $('hmTotalDefCastle').textContent = fmt(total * castleRate());
     $('hmTotalTroops').textContent = fmt(troops);
     $('hmTotalMembers').textContent = members + ' / 24';
     const limit = parseFloat($('hmCostLimit').value) || 0;
@@ -485,6 +498,14 @@
     save();
   }
 
+  // 城の防御補正。**陣形の防御力とは別のものなので、素の値も必ず並べて出す。**
+  // 施設ごとの内訳はまだ持っていないので、合計%を手で入れてもらう形にしている
+  // (2026-09-08 うぐさん「城の補正は入れるが素の防御力もわかるようにする」)。
+  function castleRate(){
+    const v = parseFloat($("hmCastle").value);
+    return (isFinite(v) && v > 0) ? (1 + v / 100) : 1;
+  }
+
   function renderWeakTable(bt, alloc){
     const cats = TROOP_COMPAT_CATEGORIES;
     const rows = [];
@@ -493,8 +514,9 @@
 
     for(let r = 0; r < ROWS; r++){
       const vals = {};
+      const cr = castleRate();
       cats.forEach(cat => {
-        const v = evalRow(r, bt, alloc, cat).def;
+        const v = evalRow(r, bt, alloc, cat).def * cr;
         vals[cat] = v; totals[cat] += v;
       });
       rows.push(vals);
@@ -537,6 +559,7 @@
       localStorage.setItem(STORE_KEY, JSON.stringify({
         board: board,
         costLimit: $('hmCostLimit').value,
+        castle: $('hmCastle').value,
         breakthrough: $('hmBreak').value,
         alloc: $('hmAlloc').value
       }));
@@ -548,6 +571,7 @@
     try{ d = JSON.parse(localStorage.getItem(STORE_KEY) || 'null'); }catch(e){ d = null; }
     if(!d) return;
     if(d.costLimit)    $('hmCostLimit').value = d.costLimit;
+    if(d.castle !== undefined) $('hmCastle').value = d.castle;
     if(d.breakthrough) $('hmBreak').value = d.breakthrough;
     if(d.alloc)        $('hmAlloc').value = d.alloc;
     if(!Array.isArray(d.board)) return;
@@ -567,7 +591,7 @@
 
   function bindControls(){
     $('hmCalc').addEventListener('click', recalc);
-    ['hmCostLimit', 'hmBreak', 'hmAlloc'].forEach(id => {
+    ['hmCostLimit', 'hmCastle', 'hmBreak', 'hmAlloc'].forEach(id => {
       $(id).addEventListener('change', recalc);
     });
     $('hmBulkSoldier').addEventListener('change', e => {
