@@ -8170,6 +8170,21 @@ const specialSkills = {
 // カードNo. → 章。武将候補の並べ替え(レアリティ→章の新しい順→No.の大きい順)に使う。
 // 章の正本は data/busho*/{No}.json の ch で、ここはそこから作った写し。
 // 章が「未確認」の武将と、まだ登録していない武将は載っていない。
+// BUILD:honmaruCostDelta:start ここから下は tools/build_data.py が data/skill/ から生成しています。直接編集しないこと
+const HONMARU_COST_DELTA = {
+  "三千世界神将": -1.0,
+  "幕天席地": -5.0,
+  "煽風": -1.0,
+  "諫議太傅": -1.0,
+  "豊国大明神": -2.0,
+  "錘焔ノ空帯": -1.0,
+  "錘焔ノ藍帯": -1.5,
+  "鬼神ノ軍法": -1.5,
+  "黒井ノ孤鬼": -1.0,
+  "龍神ノ加護": -0.5,
+};
+// BUILD:honmaruCostDelta:end
+
 // BUILD:generalChapters:start ここから下は tools/build_data.py が data/busho*/ から生成しています。直接編集しないこと
 const generalChapters = {
   "1007":3, "1013":3, "1015":3, "1016":3, "1017":3, "1018":4, "1019":4, "1020":4, "1021":4, "1022":4, "1023":4,

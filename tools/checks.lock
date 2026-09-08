@@ -126,7 +126,7 @@
   "docs/rollback-floor.txt": "d768999b655e8351",
   "tools/audit_characters.py": "8653ca667cb1a67b",
   "tools/audit_selftest.py": "6ec1f15292bded98",
-  "tools/build_data.py": "8f59209d67c20a62",
+  "tools/build_data.py": "69841b655d785af9",
   "tools/check_generated.py": "a027fdefcbbe7d11",
   "tools/check_js.py": "f526e38ba6043f3d",
   "tools/extract_data.py": "76e0b880bc19f0e6",
