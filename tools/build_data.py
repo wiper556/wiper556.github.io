@@ -47,6 +47,7 @@ data/ の "notes"(要素全体) と 行の "note" は**書き戻さない**。
     python tools/build_data.py --dry-run  # 差分の有無だけ見る
 """
 import collections
+import datetime
 import glob
 import io
 import json
@@ -403,6 +404,106 @@ def replace_card_art(dry=False):
     same = new == text
     print("  %-24s %3d件 %s (くじの絵)"
           % (ART_FILE, len(nos), "変化なし" if same else "書き換え"))
+    if not same and not dry:
+        io.open(p, "w", encoding="utf-8", newline="").write(new)
+        return 1
+    return 0
+
+
+# シミュレーターの武将DB(generalGrowthDB)を正本から作る(2026-09-08)。
+#
+# **BUILD:simGenerals のマーカーはあったのに、生成している処理が1つも無かった。**
+# 「ここから下は正本から写しています」と書いてあるのに誰も写しておらず、
+# 手で保守されたまま置き去りになっていた。結果、正本2697体に対して
+# シミュに載っているのは1077体(4割)。特は694体中80体しか載っていない。
+# 本丸シミュでコスト軽減スキルを効かせても、対象の武将がDBに居なくて使えなかった。
+#
+# **手書き分(ブロックの外の587件)には一切触らない。** note に取り込み経緯や
+# 期間限定の説明が入っており、正本には無い情報がある。
+# 同じNo.が手書きにあれば、そちらを優先して生成側からは外す
+# (build_special_skills.py と同じ考え方)。
+SG_FILE = "assets/js/ixa-data.js"
+SG_BEGIN = ("  // BUILD:simGenerals:start ここから下は tools/build_data.py が "
+            "正本(data/busho*/)から生成しています。" + chr(10)
+            + "  // **手で編集しないこと。** 直すときは正本を直して作り直す。")
+SG_END = "  // BUILD:simGenerals:end"
+# 計算に要る値。これが欠けている札は載せない(載せると0で計算されて黙って狂う)。
+SG_NEED = ("atkBase", "defBase", "lv0Troops")
+
+
+def _num(v):
+    if isinstance(v, float) and v == int(v):
+        return "%.1f" % v
+    return repr(v)
+
+
+def collect_sim_generals(hand):
+    out = []
+    skipped = 0
+    for f in sorted(glob.glob(os.path.join(ROOT, "data", "busho*", "*.json"))):
+        no = os.path.basename(f)[:-5]
+        if no in hand:
+            continue
+        j = json.load(io.open(f, encoding="utf-8"))
+        if any(j.get(k) is None for k in SG_NEED):
+            skipped += 1
+            continue
+        out.append(j)
+    return out, skipped
+
+
+def build_sim_generals_block(rows, src_name):
+    lines = [SG_BEGIN]
+    for j in rows:
+        e = ["  {", "    name: %s," % json.dumps(j["name"], ensure_ascii=False),
+             "    no: '%s'," % j["no"]]
+        if isinstance(j.get("cost"), (int, float)):
+            e.append("    cost: %s," % _num(j["cost"]))
+        if j.get("initialSkill"):
+            e.append("    initialSkill: %s,"
+                     % json.dumps(j["initialSkill"], ensure_ascii=False))
+        e.append("    lv0Troops: %s," % _num(j["lv0Troops"]))
+        for a, b in (("atkBase", "atkGrowth"), ("defBase", "defGrowth"),
+                     ("tacticsBase", "tacticsGrowth")):
+            if j.get(a) is None:
+                continue
+            g = j.get(b)
+            e.append("    %s: %s, %s: %s," % (a, _num(j[a]), b,
+                                              "null" if g is None else _num(g)))
+        rg = j.get("rankGrades") or {}
+        if rg and not any(v is None for v in rg.values()):
+            e.append("    rankGrades: {yari:'%s', yumi:'%s', uma:'%s', ki:'%s'},"
+                     % (rg.get("yari"), rg.get("yumi"), rg.get("uma"), rg.get("ki")))
+        e.append("    defaultBreakthrough: '天限突破',")
+        e.append("    defaultStatAlloc: '攻撃振り',")
+        e.append("    note: '%s に正本から生成。成長値が null のものは未確認。'"
+                 % src_name)
+        e.append("  },")
+        lines.extend(e)
+    lines.append(SG_END)
+    return chr(10).join(lines)
+
+
+def replace_sim_generals(dry=False, today=None):
+    p = os.path.join(ROOT, SG_FILE)
+    if not os.path.exists(p):
+        return 0
+    text = io.open(p, encoding="utf-8", newline="").read()
+    lo = text.find("  // BUILD:simGenerals:start")
+    hi = text.find(SG_END)
+    if lo < 0 or hi < 0:
+        print("  %-24s [停止] BUILD:simGenerals のマーカーが無い" % SG_FILE)
+        return 1
+    # ブロックの外(手書き)にあるNo.を集める。生成側では出さない。
+    outside = text[text.find("const generalGrowthDB"):lo] + text[hi + len(SG_END):]
+    hand = set(re.findall(r"no:\s*'(\d+)'", outside))
+    rows, skipped = collect_sim_generals(hand)
+    new = text[:lo] + build_sim_generals_block(
+        rows, today or datetime.date.today().isoformat()) + text[hi + len(SG_END):]
+    same = new == text
+    print("  %-24s %4d件(手書き%d件は据え置き / 値が足りず除外%d件) %s (シミュの武将DB)"
+          % (SG_FILE, len(rows), len(hand), skipped,
+             "変化なし" if same else "書き換え"))
     if not same and not dry:
         io.open(p, "w", encoding="utf-8", newline="").write(new)
         return 1
@@ -879,6 +980,7 @@ def main(dry=False):
     changed += replace_busho_index(dry)
     changed += replace_axis(dry)
     changed += replace_card_art(dry)
+    changed += replace_sim_generals(dry)
     changed += replace_honmaru_cost(dry)
     changed += replace_kyoku_ps(dry)
     changed += replace_rate_table(dry)
