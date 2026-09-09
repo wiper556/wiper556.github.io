@@ -215,8 +215,97 @@ def page(*, title, desc, canon, styles, body, crumb, img):
     }
 
 
+# 武将ページに、正本にあるのに出していなかった情報を足す(2026-09-09)。
+#
+# なぜ要るか: 検索から大量に弾かれた。ページを数えると本文の中央値が844字で、
+# うち約300字はメニューとフッター。**無作為6枚で比べるとページ固有の語は25〜66語**
+# しかなく、テンプレートを差し替えただけのページが3600枚ある形になっていた。
+#
+# 字数を稼ぐために定型文を足すのは逆効果(全ページ共通の文が増えて重複が悪化する)。
+# **正本が持っているのにページに出していない情報**を出す。追加取材は要らない。
+#   章       2475体が持っている
+#   兵科・効果 2686体が持っている
+# あわせて、いまのくじの排出割合を出す。うちはくじの正本を持っているので出せる。
+#
+# **やらないこと: 同コスト帯での順位付け。** うぐさんの判断(2026-09-09)。
+
+GACHA_POOLS = (
+    ("単発・10連1〜9枚目",
+     ["KETSU_CHARS", "TEN_CHARS", "KYOKU_CHARS", "TOKU_CHARS", "JOU_CHARS"]),
+    ("10連10枚目(ブースト)",
+     ["KETSU_CHARS_BOOST", "TEN_CHARS_BOOST", "KYOKU_CHARS_BOOST",
+      "TOKU_CHARS_BOOST", "JOU_CHARS_BOOST"]),
+    ("10連10枚目(救済)",
+     ["KETSU_CHARS_BOOST", "TEN_CHARS_BOOST", "KYOKU_CHARS_GUARANTEE"]),
+)
+GACHA_ENTRY = r"\{no:(\d+),\s*name:'[^']*',\s*w:([\d.]+)"
+GACHA_PERIOD = r'<p class="period-banner">開催期間:\s*([^<]*)</p>'
+
+
+def gacha_rates():
+    """いまのくじの武将別排出割合。No. -> [(パターン名, 割合)]。
+
+    gacha-simulator.html の配列をそのまま読む。
+    **別に持つと片側だけ古くなる**ので、くじの正本はあのページ1つに置いたまま使う。
+    """
+    try:
+        text = io.open(os.path.join(ROOT, "gacha-simulator.html"),
+                       encoding="utf-8").read()
+    except OSError:
+        return {}, ""
+    out = {}
+    for label, names in GACHA_POOLS:
+        for n in names:
+            m = re.search(r"const " + n + r"\s*=\s*\[(.*?)\n\s*\];", text, re.S)
+            if not m:
+                continue
+            for no, w in re.findall(GACHA_ENTRY, m.group(1)):
+                out.setdefault(no, []).append((label, w))
+    mp = re.search(GACHA_PERIOD, text)
+    return out, (mp.group(1).strip() if mp else "")
+
+
+def _rows_table(rows):
+    cells = "".join(
+        '<tr><th style="text-align:left;white-space:nowrap;">%s</th>'
+        '<td>%s</td></tr>' % (k, v) for k, v in rows)
+    return '<table class="tk-table"><tbody>%s</tbody></table>' % cells
+
+
+def extra_block(e, rates, period):
+    """武将ページの末尾に足す欄。**正本に値が無い項目は出さない。**
+
+    値の無い行を「-」で埋めると、全ページ共通の文字列が増えて薄さが悪化する。
+    """
+    rows = []
+    for key, label in (("ch", "登場した章"), ("troop", "兵科"),
+                       ("effect", "効果の要約"), ("sub", "補足")):
+        if e.get(key):
+            rows.append((label, esc(str(e[key]))))
+    html = ""
+    if rows:
+        html += ('<div class="skl-detail-block"><h2>この武将について</h2>%s</div>'
+                 % _rows_table(rows))
+    r = rates.get(str(e.get("no")))
+    if r:
+        html += ('<div class="skl-detail-block">'
+                 '<h2>いまのくじでの排出割合</h2>'
+                 '<p>開催期間: %s</p>%s'
+                 '<p style="font-size:13px;opacity:.75;">'
+                 'ゲーム内の「確率情報」の画面から書き写した値です。'
+                 'くじが入れ替わると変わります。'
+                 '<a href="../gacha-simulator.html">金くじシミュレーター</a>で'
+                 '実際に引いて試せます。</p></div>'
+                 % (esc(period), _rows_table([(lb, w + "%") for lb, w in r])))
+    return html
+
+
 def main(HOST):
     made = {'busho': [], 'skill': []}
+    # くじの排出割合は全ページで同じものを使うので、ここで1度だけ読む
+    grates, gperiod = gacha_rates()
+    print('くじの排出割合: %d体 / %s'
+          % (len(grates), gperiod or '期間不明'))
     for d in ('busho', 'skill'):
         os.makedirs(d, exist_ok=True)
 
@@ -315,6 +404,10 @@ def main(HOST):
                              ('全スキル', '../' + listpage), (name, None)]
                     key = name
 
+                # 正本にあるのに出していなかった情報を足す(2026-09-09)。
+                # **武将ページだけ。** スキルページには章も兵科も無い。
+                if outdir == 'busho':
+                    detail += extra_block(e, grates, gperiod)
                 body = ('    <h1 class="page-title">%s</h1>\n%s\n%s' % (h1, detail, back))
                 io.open(os.path.join(outdir, fname), 'w', encoding='utf-8', newline='').write(
                     page(title=title, desc=desc, canon=BASE + outdir + '/' + urllib.parse.quote(fname),

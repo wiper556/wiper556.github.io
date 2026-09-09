@@ -452,7 +452,7 @@ def collect_sim_generals(hand):
     return out, skipped
 
 
-def build_sim_generals_block(rows, src_name):
+def build_sim_generals_block(rows):
     lines = [SG_BEGIN]
     for j in rows:
         e = ["  {", "    name: %s," % json.dumps(j["name"], ensure_ascii=False),
@@ -476,15 +476,17 @@ def build_sim_generals_block(rows, src_name):
                      % (rg.get("yari"), rg.get("yumi"), rg.get("uma"), rg.get("ki")))
         e.append("    defaultBreakthrough: '天限突破',")
         e.append("    defaultStatAlloc: '攻撃振り',")
-        e.append("    note: '%s に正本から生成。成長値が null のものは未確認。'"
-                 % src_name)
+        # **生成物に今日の日付を入れない。** 日付が変わるだけで中身が変わり、
+        # check_generated が毎日「生成物とデータが食い違っている」で落ちる
+        # (2026-09-09 に実際に落ちた。前日に自分で入れた不具合)。
+        e.append("    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'")
         e.append("  },")
         lines.extend(e)
     lines.append(SG_END)
     return chr(10).join(lines)
 
 
-def replace_sim_generals(dry=False, today=None):
+def replace_sim_generals(dry=False):
     p = os.path.join(ROOT, SG_FILE)
     if not os.path.exists(p):
         return 0
@@ -498,8 +500,7 @@ def replace_sim_generals(dry=False, today=None):
     outside = text[text.find("const generalGrowthDB"):lo] + text[hi + len(SG_END):]
     hand = set(re.findall(r"no:\s*'(\d+)'", outside))
     rows, skipped = collect_sim_generals(hand)
-    new = text[:lo] + build_sim_generals_block(
-        rows, today or datetime.date.today().isoformat()) + text[hi + len(SG_END):]
+    new = text[:lo] + build_sim_generals_block(rows) + text[hi + len(SG_END):]
     same = new == text
     print("  %-24s %4d件(手書き%d件は据え置き / 値が足りず除外%d件) %s (シミュの武将DB)"
           % (SG_FILE, len(rows), len(hand), skipped,
