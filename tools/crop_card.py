@@ -192,16 +192,25 @@ def crop_one(no, verbose=True, origin=None):
 
 if __name__ == "__main__":
     args = sys.argv[1:]
-    # --origin 左,上 … 検出に失敗したとき、位置を手で指定して1枚だけ切り抜く
+    # --origin 左,上 … 検出に失敗したとき、位置を手で指定して切り抜く
     manual = None
     if "--origin" in args:
         i = args.index("--origin")
         manual = tuple(int(v) for v in args[i + 1].split(","))
         del args[i:i + 2]
-        if len(args) != 1:
-            raise SystemExit("--origin は No. を1つだけ指定して使う")
-        e = crop_one(args[0], origin=manual)
-        raise SystemExit(("★" + e) if e else 0)
+        if not args:
+            raise SystemExit("--origin は No. を1つ以上指定して使う")
+        # 2026-09-09: 白黒のスクリーンショットではハートの赤が消えるので自動検出が
+        # 効かない(うぐさんが持っていない札はゲーム内で白黒になる)。
+        # **同じ画面から撮った束は配置も大きさも同じ**なので、1枚で基点を決めれば
+        # 残りは同じ基点で通る。No.を1つに限っていると1枚ずつ叩くことになるので、
+        # まとめて指定できるようにする。
+        # crop_one はエラー文なら文字列、成功なら None を返す。
+        errs = [x for x in (crop_one(no, origin=manual) for no in args) if x]
+        for x in errs:
+            print("★" + x)
+        print("完了: %d件中 %d件失敗" % (len(args), len(errs)))
+        raise SystemExit(1 if errs else 0)
     if args and args[0] == "--all":
         nos = sorted((p.stem.split("_")[-1] for p in ARCH.glob("*.png")), key=int)
     else:
