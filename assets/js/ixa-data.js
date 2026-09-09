@@ -10457,7 +10457,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "犬千代",
@@ -10471,7 +10471,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "日吉丸",
@@ -10485,7 +10485,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉法師",
@@ -10499,7 +10499,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "虎寿丸",
@@ -10513,7 +10513,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "猿夜叉丸",
@@ -10527,7 +10527,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "虎千代",
@@ -10541,7 +10541,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "竹千代",
@@ -10555,7 +10555,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "梵天丸",
@@ -10569,7 +10569,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "茶々",
@@ -10583,7 +10583,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "勝千代",
@@ -10597,7 +10597,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "源五郎",
@@ -10611,7 +10611,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "虎之助",
@@ -10625,7 +10625,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "弥三郎",
@@ -10639,7 +10639,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "彦太郎",
@@ -10653,7 +10653,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松寿丸",
@@ -10667,7 +10667,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐吉",
@@ -10681,7 +10681,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "茶々（2）",
@@ -10695,7 +10695,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉法師（2）",
@@ -10709,7 +10709,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田慶次",
@@ -10723,7 +10723,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "塚山由太郎",
@@ -10737,7 +10737,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "チョコボ",
@@ -10751,7 +10751,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "ミート",
@@ -10765,7 +10765,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鬼庭良直",
@@ -10778,7 +10778,7 @@ const generalGrowthDB = [
     tacticsBase: 250.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津歳久",
@@ -10791,7 +10791,7 @@ const generalGrowthDB = [
     tacticsBase: 350.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝倉景鏡",
@@ -10804,7 +10804,7 @@ const generalGrowthDB = [
     tacticsBase: 330.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "海北綱親",
@@ -10817,7 +10817,7 @@ const generalGrowthDB = [
     tacticsBase: 380.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "十河一存",
@@ -10830,7 +10830,7 @@ const generalGrowthDB = [
     tacticsBase: 370.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小島弥太郎",
@@ -10843,7 +10843,7 @@ const generalGrowthDB = [
     tacticsBase: 100.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蜂須賀小六",
@@ -10856,7 +10856,7 @@ const generalGrowthDB = [
     tacticsBase: 390.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "細川幽斎",
@@ -10869,7 +10869,7 @@ const generalGrowthDB = [
     tacticsBase: 410.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "原虎胤",
@@ -10882,7 +10882,7 @@ const generalGrowthDB = [
     tacticsBase: 220.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "飯富虎昌",
@@ -10895,7 +10895,7 @@ const generalGrowthDB = [
     tacticsBase: 190.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "平手政秀",
@@ -10908,7 +10908,7 @@ const generalGrowthDB = [
     tacticsBase: 385.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅井久政",
@@ -10921,7 +10921,7 @@ const generalGrowthDB = [
     tacticsBase: 270.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "角隈石宗",
@@ -10934,7 +10934,7 @@ const generalGrowthDB = [
     tacticsBase: 400.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "新納忠元",
@@ -10947,7 +10947,7 @@ const generalGrowthDB = [
     tacticsBase: 280.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "相馬盛胤",
@@ -10960,7 +10960,7 @@ const generalGrowthDB = [
     tacticsBase: 230.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "陶晴賢",
@@ -10973,7 +10973,7 @@ const generalGrowthDB = [
     tacticsBase: 385.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤利三",
@@ -10986,7 +10986,7 @@ const generalGrowthDB = [
     tacticsBase: 365.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉憲政",
@@ -10999,7 +10999,7 @@ const generalGrowthDB = [
     tacticsBase: 300.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好義賢",
@@ -11012,7 +11012,7 @@ const generalGrowthDB = [
     tacticsBase: 395.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "和田惟政",
@@ -11025,7 +11025,7 @@ const generalGrowthDB = [
     tacticsBase: 355.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "森可成",
@@ -11038,7 +11038,7 @@ const generalGrowthDB = [
     tacticsBase: 285.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尼子誠久",
@@ -11051,7 +11051,7 @@ const generalGrowthDB = [
     tacticsBase: 150.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尼子晴久",
@@ -11064,7 +11064,7 @@ const generalGrowthDB = [
     tacticsBase: 290.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "稲葉一鉄",
@@ -11077,7 +11077,7 @@ const generalGrowthDB = [
     tacticsBase: 290.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "氏家定直",
@@ -11090,7 +11090,7 @@ const generalGrowthDB = [
     tacticsBase: 360.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "氏家卜全",
@@ -11103,7 +11103,7 @@ const generalGrowthDB = [
     tacticsBase: 310.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "熊谷信直",
@@ -11116,7 +11116,7 @@ const generalGrowthDB = [
     tacticsBase: 135.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉田孝頼",
@@ -11129,7 +11129,7 @@ const generalGrowthDB = [
     tacticsBase: 390.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "直江景綱",
@@ -11142,7 +11142,7 @@ const generalGrowthDB = [
     tacticsBase: 375.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小山田信茂",
@@ -11155,7 +11155,7 @@ const generalGrowthDB = [
     tacticsBase: 305.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木曽義昌",
@@ -11168,7 +11168,7 @@ const generalGrowthDB = [
     tacticsBase: 230.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "百武賢兼",
@@ -11181,7 +11181,7 @@ const generalGrowthDB = [
     tacticsBase: 190.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "江里口信常",
@@ -11194,7 +11194,7 @@ const generalGrowthDB = [
     tacticsBase: 130.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "円城寺信胤",
@@ -11207,7 +11207,7 @@ const generalGrowthDB = [
     tacticsBase: 155.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "甲斐宗運",
@@ -11220,7 +11220,7 @@ const generalGrowthDB = [
     tacticsBase: 405.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉弘鑑理",
@@ -11233,7 +11233,7 @@ const generalGrowthDB = [
     tacticsBase: 160.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "臼杵鑑速",
@@ -11246,7 +11246,7 @@ const generalGrowthDB = [
     tacticsBase: 250.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉岡長増",
@@ -11259,7 +11259,7 @@ const generalGrowthDB = [
     tacticsBase: 385.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "赤尾清綱",
@@ -11272,7 +11272,7 @@ const generalGrowthDB = [
     tacticsBase: 200.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "安藤守就",
@@ -11285,7 +11285,7 @@ const generalGrowthDB = [
     tacticsBase: 310.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝比奈泰朝",
@@ -11298,7 +11298,7 @@ const generalGrowthDB = [
     tacticsBase: 275.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝倉景健",
@@ -11311,7 +11311,7 @@ const generalGrowthDB = [
     tacticsBase: 210.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "荒木村重",
@@ -11324,7 +11324,7 @@ const generalGrowthDB = [
     tacticsBase: 290.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "雨森清貞",
@@ -11337,7 +11337,7 @@ const generalGrowthDB = [
     tacticsBase: 300.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大崎義直",
@@ -11350,7 +11350,7 @@ const generalGrowthDB = [
     tacticsBase: 135.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大村純忠",
@@ -11363,7 +11363,7 @@ const generalGrowthDB = [
     tacticsBase: 350.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高山右近",
@@ -11376,7 +11376,7 @@ const generalGrowthDB = [
     tacticsBase: 370.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "有馬晴信",
@@ -11389,7 +11389,7 @@ const generalGrowthDB = [
     tacticsBase: 360.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "可児才蔵",
@@ -11402,7 +11402,7 @@ const generalGrowthDB = [
     tacticsBase: 185.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蒲生氏郷",
@@ -11415,7 +11415,7 @@ const generalGrowthDB = [
     tacticsBase: 340.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "古田織部",
@@ -11428,7 +11428,7 @@ const generalGrowthDB = [
     tacticsBase: 280.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "糟屋武則",
@@ -11441,7 +11441,7 @@ const generalGrowthDB = [
     tacticsBase: 330.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "平野長泰",
@@ -11454,7 +11454,7 @@ const generalGrowthDB = [
     tacticsBase: 280.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "白石宗実",
@@ -11467,7 +11467,7 @@ const generalGrowthDB = [
     tacticsBase: 400.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条高広",
@@ -11480,7 +11480,7 @@ const generalGrowthDB = [
     tacticsBase: 320.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真柄直隆",
@@ -11493,7 +11493,7 @@ const generalGrowthDB = [
     tacticsBase: 345.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田有楽斎",
@@ -11506,7 +11506,7 @@ const generalGrowthDB = [
     tacticsBase: 350.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "相馬義胤",
@@ -11519,7 +11519,7 @@ const generalGrowthDB = [
     tacticsBase: 300.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "筑紫広門",
@@ -11532,7 +11532,7 @@ const generalGrowthDB = [
     tacticsBase: 300.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大友義統",
@@ -11545,7 +11545,7 @@ const generalGrowthDB = [
     tacticsBase: 280.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "来島通康",
@@ -11558,7 +11558,7 @@ const generalGrowthDB = [
     tacticsBase: 320.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山名豊国",
@@ -11571,7 +11571,7 @@ const generalGrowthDB = [
     tacticsBase: 330.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大久保忠世",
@@ -11584,7 +11584,7 @@ const generalGrowthDB = [
     tacticsBase: 350.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "渡辺勘兵衛",
@@ -11597,7 +11597,7 @@ const generalGrowthDB = [
     tacticsBase: 300.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "成田長親",
@@ -11610,7 +11610,7 @@ const generalGrowthDB = [
     tacticsBase: 345.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明石全登",
@@ -11623,7 +11623,7 @@ const generalGrowthDB = [
     tacticsBase: 290.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "竹中重門",
@@ -11636,7 +11636,7 @@ const generalGrowthDB = [
     tacticsBase: 320.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "穴山梅雪",
@@ -11649,7 +11649,7 @@ const generalGrowthDB = [
     tacticsBase: 330.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "寺沢広高",
@@ -11662,7 +11662,7 @@ const generalGrowthDB = [
     tacticsBase: 380.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小川祐忠",
@@ -11675,7 +11675,7 @@ const generalGrowthDB = [
     tacticsBase: 360.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "稲富一夢",
@@ -11688,7 +11688,7 @@ const generalGrowthDB = [
     tacticsBase: 330.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "跡部勝資",
@@ -11701,7 +11701,7 @@ const generalGrowthDB = [
     tacticsBase: 350.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大久保忠教",
@@ -11714,7 +11714,7 @@ const generalGrowthDB = [
     tacticsBase: 370.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "生駒一正",
@@ -11727,7 +11727,7 @@ const generalGrowthDB = [
     tacticsBase: 345.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "赤座直保",
@@ -11740,7 +11740,7 @@ const generalGrowthDB = [
     tacticsBase: 335.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "戸田勝成",
@@ -11753,7 +11753,7 @@ const generalGrowthDB = [
     tacticsBase: 345.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "岩成友通",
@@ -11766,7 +11766,7 @@ const generalGrowthDB = [
     tacticsBase: 330.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朽木元綱",
@@ -11779,7 +11779,7 @@ const generalGrowthDB = [
     tacticsBase: 345.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "笠原康勝",
@@ -11792,7 +11792,7 @@ const generalGrowthDB = [
     tacticsBase: 320.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "富士信忠",
@@ -11805,7 +11805,7 @@ const generalGrowthDB = [
     tacticsBase: 380.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝倉景紀",
@@ -11818,7 +11818,7 @@ const generalGrowthDB = [
     tacticsBase: 350.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小国頼久",
@@ -11832,7 +11832,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'E', uma:'C', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "内藤昌豊",
@@ -11845,7 +11845,7 @@ const generalGrowthDB = [
     tacticsBase: 250.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高坂昌信",
@@ -11858,7 +11858,7 @@ const generalGrowthDB = [
     tacticsBase: 250.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "馬場信房",
@@ -11871,7 +11871,7 @@ const generalGrowthDB = [
     tacticsBase: 250.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山県昌景",
@@ -11884,7 +11884,7 @@ const generalGrowthDB = [
     tacticsBase: 250.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "古田重勝",
@@ -11897,7 +11897,7 @@ const generalGrowthDB = [
     tacticsBase: 330.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉景信",
@@ -11910,7 +11910,7 @@ const generalGrowthDB = [
     tacticsBase: 350.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大熊朝秀",
@@ -11923,7 +11923,7 @@ const generalGrowthDB = [
     tacticsBase: 300.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "一柳直盛",
@@ -11936,7 +11936,7 @@ const generalGrowthDB = [
     tacticsBase: 270.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "太田一吉",
@@ -11950,7 +11950,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "椿姫",
@@ -11964,7 +11964,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'F', yumi:'D', uma:'E', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蠣崎季広",
@@ -11978,7 +11978,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "中川秀成",
@@ -11991,7 +11991,7 @@ const generalGrowthDB = [
     tacticsBase: 320.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "米谷常秀",
@@ -12004,7 +12004,7 @@ const generalGrowthDB = [
     tacticsBase: 360.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒岩種直",
@@ -12018,7 +12018,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "酒井家次",
@@ -12032,7 +12032,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "森好之",
@@ -12046,7 +12046,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'E', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏房",
@@ -12060,7 +12060,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "堀秀治",
@@ -12074,7 +12074,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宮部長房",
@@ -12088,7 +12088,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'E', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "谷衛友",
@@ -12102,7 +12102,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鳥屋尾満栄",
@@ -12116,7 +12116,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'F', yumi:'B', uma:'F', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蒲生賢秀",
@@ -12130,7 +12130,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "安宅冬康",
@@ -12144,7 +12144,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'F', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大関高増",
@@ -12158,7 +12158,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'C', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "福留親政",
@@ -12172,7 +12172,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "七条兼仲",
@@ -12186,7 +12186,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "中村一氏",
@@ -12200,7 +12200,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柴田勝豊",
@@ -12214,7 +12214,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "平岡頼勝",
@@ -12228,7 +12228,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "福原直高",
@@ -12242,7 +12242,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鳥居忠吉",
@@ -12256,7 +12256,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'C', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "西園寺実充",
@@ -12270,7 +12270,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "太田左近",
@@ -12284,7 +12284,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'E', uma:'E', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "中川清秀",
@@ -12298,7 +12298,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'E', yumi:'D', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤龍興",
@@ -12312,7 +12312,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'E', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊東マンショ",
@@ -12326,7 +12326,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇喜多モニカ",
@@ -12340,7 +12340,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅井政元",
@@ -12354,7 +12354,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "原田直政",
@@ -12368,7 +12368,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'E', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "薄田兼相",
@@ -12382,7 +12382,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'E', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "淡輪重政",
@@ -12396,7 +12396,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "内ヶ島氏理",
@@ -12410,7 +12410,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'E', uma:'D', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "扇谷定正",
@@ -12424,7 +12424,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'C', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "一条信龍",
@@ -12438,7 +12438,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝比奈信置",
@@ -12452,7 +12452,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'F', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "土橋平次",
@@ -12466,7 +12466,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'E', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "絶姫",
@@ -12480,7 +12480,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "清水康英",
@@ -12494,7 +12494,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'E', yumi:'D', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "温井景隆",
@@ -12508,7 +12508,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平広忠",
@@ -12522,7 +12522,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'D', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小田氏治",
@@ -12535,7 +12535,7 @@ const generalGrowthDB = [
     tacticsBase: 390.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "猪苗代盛国",
@@ -12549,7 +12549,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "田尻鑑種",
@@ -12563,7 +12563,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山崎片家",
@@ -12577,7 +12577,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鈴木重則",
@@ -12591,7 +12591,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'E', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "坂井久蔵",
@@ -12605,7 +12605,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "足利義栄",
@@ -12619,7 +12619,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "森下通与",
@@ -12633,7 +12633,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "益田元祥",
@@ -12647,7 +12647,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'B', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好康長",
@@ -12661,7 +12661,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "興津清房",
@@ -12675,7 +12675,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊丹康直",
@@ -12689,7 +12689,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "おたあ",
@@ -12703,7 +12703,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'E', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本城常光",
@@ -12717,7 +12717,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津久保",
@@ -12731,7 +12731,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利秀包",
@@ -12745,7 +12745,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'B', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "来島通康（2）",
@@ -12759,7 +12759,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "堀内氏善",
@@ -12773,7 +12773,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'E', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木下家定",
@@ -12787,7 +12787,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "奥平貞治",
@@ -12801,7 +12801,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'B', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "五島玄雅",
@@ -12815,7 +12815,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'E', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "水野信元",
@@ -12829,7 +12829,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "羽柴秀勝",
@@ -12843,7 +12843,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'E', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小野道好",
@@ -12857,7 +12857,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長谷川守知",
@@ -12871,7 +12871,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山川朝信",
@@ -12885,7 +12885,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "冷泉隆豊",
@@ -12899,7 +12899,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "由良成繁",
@@ -12913,7 +12913,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "白井浄三",
@@ -12927,7 +12927,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'D', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小出吉親",
@@ -12941,7 +12941,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "堀尾茂助",
@@ -12955,7 +12955,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'E', yumi:'D', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "田丸直昌",
@@ -12969,7 +12969,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "向井正綱",
@@ -12983,7 +12983,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'E', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "楽巌寺雅方",
@@ -12997,7 +12997,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "肝付兼続",
@@ -13011,7 +13011,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松永長頼",
@@ -13025,7 +13025,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "原田直政（2）",
@@ -13039,7 +13039,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "米良重方",
@@ -13053,7 +13053,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "コックス",
@@ -13067,7 +13067,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "猪俣邦憲",
@@ -13081,7 +13081,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "肝付兼続（2）",
@@ -13095,7 +13095,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大藤信基",
@@ -13109,7 +13109,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'E', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "金森長近",
@@ -13123,7 +13123,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒田長政",
@@ -13137,7 +13137,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "南条広継",
@@ -13151,7 +13151,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "冨田氏実",
@@ -13165,7 +13165,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信広",
@@ -13179,7 +13179,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蘆名盛隆",
@@ -13193,7 +13193,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "今川氏豊",
@@ -13207,7 +13207,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "滝川益氏",
@@ -13221,7 +13221,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明智光綱",
@@ -13235,7 +13235,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "笑窪御前",
@@ -13249,7 +13249,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三淵藤英",
@@ -13263,7 +13263,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "汐崎重盛",
@@ -13277,7 +13277,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "一色義道",
@@ -13291,7 +13291,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "おゑん",
@@ -13305,7 +13305,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "西郷純堯",
@@ -13319,7 +13319,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大崎義隆",
@@ -13333,7 +13333,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "服部康成",
@@ -13347,7 +13347,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木幡高清",
@@ -13361,7 +13361,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三村家親",
@@ -13375,7 +13375,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'E', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "室賀正武",
@@ -13389,7 +13389,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "五味貞氏",
@@ -13403,7 +13403,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "秋元義久",
@@ -13417,7 +13417,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "天徳寺宝衍",
@@ -13431,7 +13431,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊勢貞興",
@@ -13445,7 +13445,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木戸孝範",
@@ -13459,7 +13459,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山本勘蔵",
@@ -13473,7 +13473,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "福原貞俊",
@@ -13487,7 +13487,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "梅津政景",
@@ -13501,7 +13501,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "千々石ミゲル",
@@ -13515,7 +13515,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "海北友松",
@@ -13529,7 +13529,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "仙石忠政",
@@ -13543,7 +13543,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "皆川広照",
@@ -13557,7 +13557,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒田忠之",
@@ -13571,7 +13571,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "具志頭朝盛",
@@ -13585,7 +13585,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長連龍",
@@ -13599,7 +13599,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "千葉直重",
@@ -13613,7 +13613,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田信政",
@@ -13627,7 +13627,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松井康之",
@@ -13641,7 +13641,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "天草久種",
@@ -13655,7 +13655,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木造長政",
@@ -13669,7 +13669,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'E', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鵜殿長照",
@@ -13683,7 +13683,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浦上宗景",
@@ -13697,7 +13697,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "杉興運",
@@ -13711,7 +13711,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "稲田植元",
@@ -13725,7 +13725,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "工藤業綱",
@@ -13739,7 +13739,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "各務元正",
@@ -13753,7 +13753,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前野長康",
@@ -13767,7 +13767,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "杉原家次",
@@ -13781,7 +13781,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "戸田康光",
@@ -13795,7 +13795,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "海野棟綱",
@@ -13809,7 +13809,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "楠木正盛",
@@ -13823,7 +13823,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木俣守勝",
@@ -13837,7 +13837,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "阿蘇惟将",
@@ -13851,7 +13851,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島信勝",
@@ -13865,7 +13865,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "隈姫",
@@ -13879,7 +13879,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "庵原朝昌",
@@ -13893,7 +13893,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "針生盛信",
@@ -13907,7 +13907,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "一色藤長",
@@ -13921,7 +13921,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "清水景治",
@@ -13935,7 +13935,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "河合吉統",
@@ -13949,7 +13949,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "両角虎定",
@@ -13963,7 +13963,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "赤松広通",
@@ -13977,7 +13977,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "原昌胤",
@@ -13991,7 +13991,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山崎長徳",
@@ -14005,7 +14005,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "桂元澄",
@@ -14019,7 +14019,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田元繁",
@@ -14033,7 +14033,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "穂井田元清",
@@ -14047,7 +14047,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "丹羽氏重",
@@ -14061,7 +14061,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "内藤興盛",
@@ -14075,7 +14075,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "敷地藤安",
@@ -14089,7 +14089,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柳川調信",
@@ -14103,7 +14103,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "篠原長房",
@@ -14117,7 +14117,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小西隆佐",
@@ -14131,7 +14131,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "桜庭直綱",
@@ -14145,7 +14145,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "足立重信",
@@ -14159,7 +14159,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "赤沢宗伝",
@@ -14173,7 +14173,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝倉景隆",
@@ -14187,7 +14187,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "繁沢元氏",
@@ -14201,7 +14201,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝倉景総",
@@ -14215,7 +14215,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木全忠澄",
@@ -14229,7 +14229,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "滝川雄利",
@@ -14243,7 +14243,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "岡田重孝",
@@ -14257,7 +14257,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝倉景紀（2）",
@@ -14271,7 +14271,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "林為忠",
@@ -14285,7 +14285,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "甲斐親英",
@@ -14299,7 +14299,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "二本松義継",
@@ -14313,7 +14313,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好吉房",
@@ -14327,7 +14327,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宮田光次",
@@ -14341,7 +14341,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宮川房長",
@@ -14355,7 +14355,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "問田隆盛",
@@ -14369,7 +14369,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "多功綱継",
@@ -14383,7 +14383,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "池田利隆",
@@ -14397,7 +14397,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'E', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅野忠吉",
@@ -14411,7 +14411,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多忠純",
@@ -14425,7 +14425,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上田重安",
@@ -14439,7 +14439,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "横田尹松",
@@ -14453,7 +14453,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小笠原秀清",
@@ -14467,7 +14467,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達成実（2）",
@@ -14481,7 +14481,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "白石宗実",
@@ -14495,7 +14495,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤利三（2）",
@@ -14509,7 +14509,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "阿波鳴門之介",
@@ -14523,7 +14523,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明石全登（2）",
@@ -14537,7 +14537,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利勝永（2）",
@@ -14551,7 +14551,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鬼庭綱元",
@@ -14565,7 +14565,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐竹義宣（2）",
@@ -14579,7 +14579,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "太田三楽",
@@ -14593,7 +14593,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大島雲八",
@@ -14607,7 +14607,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上泉信綱",
@@ -14620,7 +14620,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "お福",
@@ -14634,7 +14634,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高橋紹運（2）",
@@ -14648,7 +14648,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蒲生氏郷（3）",
@@ -14662,7 +14662,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "後藤又兵衛（2）",
@@ -14676,7 +14676,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "春日虎綱",
@@ -14690,7 +14690,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "次郎法師",
@@ -14704,7 +14704,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大友義鎮",
@@ -14718,7 +14718,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信忠（2）",
@@ -14732,7 +14732,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "渡辺了",
@@ -14746,7 +14746,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "天徳寺礼能",
@@ -14760,7 +14760,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "中馬大蔵",
@@ -14774,7 +14774,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "水谷正村",
@@ -14788,7 +14788,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小野和泉",
@@ -14802,7 +14802,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'SS', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤清正（2）",
@@ -14816,7 +14816,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'SS', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "福島正則（2）",
@@ -14830,7 +14830,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'SS', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅香庄次郎",
@@ -14844,7 +14844,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "皎月院-復刻-",
@@ -14858,7 +14858,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏綱-復刻-",
@@ -14872,7 +14872,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "妙玖-復刻Ⅱ-",
@@ -14886,7 +14886,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "池田勝入斎-復刻-",
@@ -14900,7 +14900,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "駒姫-復刻-",
@@ -14914,7 +14914,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉乃-復刻-",
@@ -14928,7 +14928,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "内藤如安-復刻-",
@@ -14942,7 +14942,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明石全登-復刻-（2）",
@@ -14956,7 +14956,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "果心居士-復刻Ⅰ-",
@@ -14969,7 +14969,7 @@ const generalGrowthDB = [
     tacticsBase: 570, tacticsGrowth: 3,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "早川殿-復刻-",
@@ -14983,7 +14983,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "茶々-復刻Ⅱ-",
@@ -14997,7 +14997,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田三郎信長（2）",
@@ -15011,7 +15011,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明智光秀（3）",
@@ -15025,7 +15025,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "胡蝶",
@@ -15039,7 +15039,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "生駒類",
@@ -15053,7 +15053,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田慶次（4）",
@@ -15067,7 +15067,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'SS', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達政宗（3）",
@@ -15081,7 +15081,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田幸村（6）",
@@ -15095,7 +15095,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "直江兼続（5）",
@@ -15109,7 +15109,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明智十兵衛",
@@ -15123,7 +15123,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "煕子（2）",
@@ -15137,7 +15137,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "お市（2）",
@@ -15151,7 +15151,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信長（2）",
@@ -15165,7 +15165,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信長（3）",
@@ -15179,7 +15179,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "羽柴秀吉（3）",
@@ -15193,7 +15193,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川家康",
@@ -15207,7 +15207,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田信玄（2）",
@@ -15221,7 +15221,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長尾景虎",
@@ -15235,7 +15235,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達政宗（4）",
@@ -15249,7 +15249,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田信繁",
@@ -15263,7 +15263,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津義弘（3）",
@@ -15277,7 +15277,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利元就（2）",
@@ -15291,7 +15291,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大友宗麟（2）",
@@ -15305,7 +15305,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部元親（2）",
@@ -15319,7 +15319,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐竹義宣（3）",
@@ -15333,7 +15333,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏康",
@@ -15347,7 +15347,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "淀-復刻-",
@@ -15361,7 +15361,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "安土城",
@@ -15375,7 +15375,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "中津城",
@@ -15389,7 +15389,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "会津若松城",
@@ -15403,7 +15403,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "熊本城",
@@ -15417,7 +15417,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大坂城",
@@ -15431,7 +15431,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐々木小次郎-復刻-（2）",
@@ -15445,7 +15445,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平元康",
@@ -15459,7 +15459,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "東城咲耶子",
@@ -15473,7 +15473,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "瀬名姫（3）",
@@ -15487,7 +15487,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "曲直瀬道三-復刻Ⅱ-",
@@ -15501,7 +15501,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "あやめ",
@@ -15515,7 +15515,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "妙玖（2）",
@@ -15529,7 +15529,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三条の方",
@@ -15543,7 +15543,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "和田惟政（2）",
@@ -15557,7 +15557,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田幸村（7）",
@@ -15571,7 +15571,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝倉宗滴",
@@ -15585,7 +15585,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長尾為景",
@@ -15599,7 +15599,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "太田道灌",
@@ -15613,7 +15613,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好元長",
@@ -15627,7 +15627,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅井亮政",
@@ -15641,7 +15641,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "六角高頼",
@@ -15655,7 +15655,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "今川氏親",
@@ -15669,7 +15669,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信秀",
@@ -15683,7 +15683,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鈴木佐太夫",
@@ -15697,7 +15697,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津日新斎",
@@ -15711,7 +15711,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "水野勝成",
@@ -15725,7 +15725,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊藤一刀斎",
@@ -15739,7 +15739,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川家光",
@@ -15753,7 +15753,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "桃源院",
@@ -15767,7 +15767,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "春日局",
@@ -15781,7 +15781,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蘆名止々斎",
@@ -15794,7 +15794,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "百地丹波",
@@ -15808,7 +15808,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "以心崇伝",
@@ -15822,7 +15822,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尼子経久",
@@ -15836,7 +15836,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "愛洲移香斎",
@@ -15850,7 +15850,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'SS', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "足利義輝（2）",
@@ -15864,7 +15864,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条幻庵（2）",
@@ -15878,7 +15878,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "細川晴元",
@@ -15892,7 +15892,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "今川氏親（2）",
@@ -15906,7 +15906,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "足利義晴",
@@ -15920,7 +15920,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "帰蝶",
@@ -15934,7 +15934,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "堀秀政",
@@ -15948,7 +15948,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多忠勝（3）",
@@ -15962,7 +15962,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "妙喜尼",
@@ -15976,7 +15976,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鈴木佐太夫（2）",
@@ -15990,7 +15990,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "快川紹喜",
@@ -16004,7 +16004,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "津田監物",
@@ -16018,7 +16018,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長尾景春",
@@ -16032,7 +16032,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三浦道寸",
@@ -16046,7 +16046,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "於大の方（2）",
@@ -16060,7 +16060,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "阿茶局",
@@ -16073,7 +16073,7 @@ const generalGrowthDB = [
     tacticsBase: 550.0, tacticsGrowth: 2.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "荒木だし",
@@ -16087,7 +16087,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝比奈摩仙名",
@@ -16100,7 +16100,7 @@ const generalGrowthDB = [
     tacticsBase: 520.0, tacticsGrowth: 2.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "悪景政",
@@ -16114,7 +16114,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'SS'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田昌親",
@@ -16128,7 +16128,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "渡辺了（2）",
@@ -16142,7 +16142,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'SS', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長尾景春（2）",
@@ -16156,7 +16156,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "御ツマキ",
@@ -16170,7 +16170,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒田長政（2）",
@@ -16184,7 +16184,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柴田勝家（2）",
@@ -16198,7 +16198,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津義弘（2）",
@@ -16212,7 +16212,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田幸村（2）",
@@ -16226,7 +16226,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田幸村（3）",
@@ -16240,7 +16240,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "お市",
@@ -16254,7 +16254,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "直江兼続（2）",
@@ -16268,7 +16268,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "花房職秀",
@@ -16282,7 +16282,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "村上義清",
@@ -16296,7 +16296,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "津軽為信",
@@ -16310,7 +16310,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'C', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "可児才蔵",
@@ -16324,7 +16324,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "九戸政実",
@@ -16338,7 +16338,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明智秀満",
@@ -16352,7 +16352,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田慶次（2）",
@@ -16366,7 +16366,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤道三（3）",
@@ -16380,7 +16380,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尚巴志",
@@ -16394,7 +16394,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山中鹿介（2）",
@@ -16408,7 +16408,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "水原親憲",
@@ -16422,7 +16422,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大谷吉継（2）",
@@ -16436,7 +16436,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花道雪（2）",
@@ -16450,7 +16450,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山県昌景（3）",
@@ -16464,7 +16464,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石田三成（2）",
@@ -16478,7 +16478,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島左近（3）",
@@ -16492,7 +16492,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部盛親（2）",
@@ -16506,7 +16506,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大野治房",
@@ -16520,7 +16520,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "村上武吉（2）",
@@ -16534,7 +16534,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "竹中半兵衛（2）",
@@ -16548,7 +16548,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉謙信（2）",
@@ -16562,7 +16562,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "豪姫",
@@ -16576,7 +16576,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山本勘助（2）",
@@ -16590,7 +16590,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田幸隆（2）",
@@ -16604,7 +16604,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多富正（2）",
@@ -16618,7 +16618,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "亀井茲矩",
@@ -16632,7 +16632,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐々成政",
@@ -16646,7 +16646,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山科勝成",
@@ -16660,7 +16660,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'SS'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津家久（2）",
@@ -16674,7 +16674,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川秀忠（2）",
@@ -16688,7 +16688,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "清水宗治",
@@ -16702,7 +16702,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蜂須賀小六",
@@ -16716,7 +16716,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒田官兵衛（4）",
@@ -16730,7 +16730,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "岡左内-復刻-",
@@ -16744,7 +16744,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "茶々-復刻Ⅰ-",
@@ -16758,7 +16758,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "花舜夫人-復刻Ⅰ-",
@@ -16772,7 +16772,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田慶次-復刻Ⅰ-",
@@ -16786,7 +16786,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多忠勝-復刻-（2）",
@@ -16800,7 +16800,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黄梅院-復刻Ⅰ-",
@@ -16814,7 +16814,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "細川ガラシャ-復刻Ⅰ-",
@@ -16828,7 +16828,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柳生石舟斎-復刻Ⅰ-",
@@ -16841,7 +16841,7 @@ const generalGrowthDB = [
     tacticsBase: 400.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "丹羽長秀-復刻-",
@@ -16855,7 +16855,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "瑞渓院-復刻-",
@@ -16869,7 +16869,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "義姫-復刻-",
@@ -16883,7 +16883,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤清正-復刻-",
@@ -16897,7 +16897,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "風魔小太郎-復刻Ⅰ-",
@@ -16911,7 +16911,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "定恵院-復刻-",
@@ -16925,7 +16925,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高台院-復刻-",
@@ -16939,7 +16939,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田幸村-復刻-（2）",
@@ -16953,7 +16953,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花宗茂-復刻-（2）",
@@ -16967,7 +16967,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "おまつ-復刻-（2）",
@@ -16981,7 +16981,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇喜多モニカ-復刻-",
@@ -16995,7 +16995,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花宗茂-復刻-",
@@ -17009,7 +17009,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田三郎信長",
@@ -17023,7 +17023,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "直江兼続（3）",
@@ -17037,7 +17037,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "直江兼続（4）",
@@ -17051,7 +17051,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒田官兵衛（3）",
@@ -17065,7 +17065,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達政宗（2）",
@@ -17079,7 +17079,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "奥村助右衛門",
@@ -17093,7 +17093,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田幸村（5）",
@@ -17107,7 +17107,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇喜多モニカ",
@@ -17121,7 +17121,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "千代",
@@ -17135,7 +17135,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "京極竜子",
@@ -17149,7 +17149,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "千姫",
@@ -17163,7 +17163,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "亀寿姫",
@@ -17177,7 +17177,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "帰蝶（2）",
@@ -17191,7 +17191,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "仙石権兵衛",
@@ -17205,7 +17205,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "豊臣関白秀吉",
@@ -17219,7 +17219,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津中書家久",
@@ -17233,7 +17233,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "村松殿",
@@ -17247,7 +17247,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田幸村",
@@ -17261,7 +17261,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大内周防介",
@@ -17275,7 +17275,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤嘉明（2）",
@@ -17289,7 +17289,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "脇坂安治",
@@ -17303,7 +17303,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'SS', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柿崎景家（4）",
@@ -17317,7 +17317,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多忠勝",
@@ -17331,7 +17331,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒田官兵衛",
@@ -17345,7 +17345,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'S', uma:'D', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津義弘",
@@ -17359,7 +17359,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'C', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田昌幸",
@@ -17373,7 +17373,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉謙信",
@@ -17387,7 +17387,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'S', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "竹中半兵衛（4）",
@@ -17401,7 +17401,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柳生石舟斎",
@@ -17415,7 +17415,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "羽柴秀吉",
@@ -17429,7 +17429,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "足利義輝",
@@ -17443,7 +17443,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信長",
@@ -17457,7 +17457,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石田三成",
@@ -17471,7 +17471,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島左近",
@@ -17485,7 +17485,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'E', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田慶次",
@@ -17499,7 +17499,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "直江兼続",
@@ -17513,7 +17513,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田幸村",
@@ -17527,7 +17527,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "茶々",
@@ -17541,7 +17541,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'B', uma:'E', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宮本武蔵",
@@ -17555,7 +17555,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'E', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐々木小次郎",
@@ -17569,7 +17569,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'E', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花宗茂",
@@ -17583,7 +17583,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "福島正則",
@@ -17597,7 +17597,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'D', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤清正",
@@ -17611,7 +17611,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小早川隆景",
@@ -17625,7 +17625,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'S', uma:'A', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田利家",
@@ -17639,7 +17639,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉景勝",
@@ -17653,7 +17653,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柴田勝家",
@@ -17667,7 +17667,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蒲生氏郷",
@@ -17681,7 +17681,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達政宗",
@@ -17695,7 +17695,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤道三",
@@ -17709,7 +17709,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "豊臣秀頼",
@@ -17723,7 +17723,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'D', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒田長政",
@@ -17737,7 +17737,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田勝頼",
@@ -17751,7 +17751,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅野幸長",
@@ -17765,7 +17765,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小西行長",
@@ -17779,7 +17779,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "BushoCard/2035毛利輝元",
@@ -17793,7 +17793,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝倉義景",
@@ -17807,7 +17807,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明智光秀",
@@ -17821,7 +17821,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "井伊直虎",
@@ -17835,7 +17835,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "服部半蔵",
@@ -17849,7 +17849,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柳生宗矩",
@@ -17863,7 +17863,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'F', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柿崎景家",
@@ -17877,7 +17877,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山県昌景",
@@ -17891,7 +17891,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'E', uma:'S', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多富正",
@@ -17905,7 +17905,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "今川義元",
@@ -17919,7 +17919,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田信玄",
@@ -17933,7 +17933,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "森蘭丸",
@@ -17947,7 +17947,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多正信",
@@ -17961,7 +17961,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "結城秀康",
@@ -17975,7 +17975,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "妙玖",
@@ -17989,7 +17989,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平信康",
@@ -18003,7 +18003,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "村上武吉",
@@ -18017,7 +18017,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花誾千代",
@@ -18030,7 +18030,7 @@ const generalGrowthDB = [
     tacticsBase: 410, tacticsGrowth: 2,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "酒井忠次",
@@ -18044,7 +18044,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "六角定頼",
@@ -18058,7 +18058,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇佐美定満",
@@ -18072,7 +18072,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤朝信",
@@ -18086,7 +18086,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山県昌景（2）",
@@ -18100,7 +18100,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "馬場信房",
@@ -18114,7 +18114,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'S', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高坂昌信",
@@ -18128,7 +18128,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "内藤昌豊",
@@ -18142,7 +18142,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田信繁",
@@ -18156,7 +18156,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "竹中半兵衛",
@@ -18170,7 +18170,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "片倉小十郎",
@@ -18184,7 +18184,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津貴久",
@@ -18198,7 +18198,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大谷吉継",
@@ -18212,7 +18212,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津豊久",
@@ -18226,7 +18226,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'D', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "細川ガラシャ",
@@ -18240,7 +18240,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "風魔小太郎",
@@ -18254,7 +18254,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好長慶",
@@ -18268,7 +18268,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏政",
@@ -18282,7 +18282,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "濃姫",
@@ -18296,7 +18296,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤道三（2）",
@@ -18310,7 +18310,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北畠具教",
@@ -18324,7 +18324,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'E', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉川元春",
@@ -18338,7 +18338,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山中鹿介",
@@ -18352,7 +18352,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高橋紹運",
@@ -18366,7 +18366,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "岡左内",
@@ -18380,7 +18380,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "太田資正",
@@ -18394,7 +18394,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部元親",
@@ -18408,7 +18408,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "霧隠才蔵",
@@ -18422,7 +18422,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大友宗麟",
@@ -18436,7 +18436,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇喜多秀家",
@@ -18450,7 +18450,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "瑞渓院",
@@ -18464,7 +18464,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "最上義光",
@@ -18478,7 +18478,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平忠輝",
@@ -18492,7 +18492,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島左近（2）",
@@ -18506,7 +18506,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利元就",
@@ -18520,7 +18520,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山本勘助",
@@ -18534,7 +18534,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "瀬名姫",
@@ -18548,7 +18548,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "花舜夫人",
@@ -18562,7 +18562,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "愛姫",
@@ -18576,7 +18576,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "母里太兵衛",
@@ -18590,7 +18590,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "後藤又兵衛",
@@ -18604,7 +18604,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒田官兵衛（2）",
@@ -18618,7 +18618,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "義姫",
@@ -18632,7 +18632,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇喜多直家",
@@ -18646,7 +18646,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花道雪",
@@ -18660,7 +18660,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津義久",
@@ -18674,7 +18674,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "太原雪斎",
@@ -18688,7 +18688,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "羽柴秀長",
@@ -18702,7 +18702,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高台院",
@@ -18716,7 +18716,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部盛親",
@@ -18730,7 +18730,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川秀忠",
@@ -18744,7 +18744,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津家久",
@@ -18758,7 +18758,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "由布惟信",
@@ -18772,7 +18772,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "井伊直政",
@@ -18786,7 +18786,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "初",
@@ -18800,7 +18800,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇佐美定行",
@@ -18814,7 +18814,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "里見義実",
@@ -18828,7 +18828,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "飯富虎昌",
@@ -18842,7 +18842,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'D', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田幸隆",
@@ -18856,7 +18856,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明石全登",
@@ -18870,7 +18870,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本願寺顕如",
@@ -18884,7 +18884,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黄梅院",
@@ -18898,7 +18898,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'D', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条綱成",
@@ -18912,7 +18912,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "足利義昭",
@@ -18926,7 +18926,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "お犬の方",
@@ -18940,7 +18940,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多忠勝（2）",
@@ -18954,7 +18954,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "榊原康政",
@@ -18968,7 +18968,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田信之",
@@ -18982,7 +18982,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐竹義宣",
@@ -18996,7 +18996,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蒲生氏郷（2）",
@@ -19010,7 +19010,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "定恵院（2）",
@@ -19024,7 +19024,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "光姫",
@@ -19038,7 +19038,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "光姫（2）",
@@ -19052,7 +19052,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "光姫（3）",
@@ -19066,7 +19066,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達成実",
@@ -19080,7 +19080,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "南部晴政",
@@ -19094,7 +19094,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "五郎八姫",
@@ -19108,7 +19108,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鍋島直茂",
@@ -19122,7 +19122,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "龍造寺隆信",
@@ -19136,7 +19136,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "滝川一益",
@@ -19150,7 +19150,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "丹羽長秀",
@@ -19164,7 +19164,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田幸村（4）",
@@ -19178,7 +19178,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "おまつ（2）",
@@ -19192,7 +19192,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長野業正",
@@ -19206,7 +19206,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤義龍",
@@ -19220,7 +19220,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "藤堂高虎",
@@ -19234,7 +19234,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "羽柴秀吉（2）",
@@ -19248,7 +19248,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "平手政秀",
@@ -19262,7 +19262,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花宗茂（2）",
@@ -19276,7 +19276,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "甲斐宗運",
@@ -19290,7 +19290,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利勝永",
@@ -19304,7 +19304,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宮本武蔵（2）",
@@ -19318,7 +19318,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐々木小次郎（2）",
@@ -19332,7 +19332,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達輝宗",
@@ -19346,7 +19346,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "慶誾尼",
@@ -19360,7 +19360,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉景勝（2）",
@@ -19374,7 +19374,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "細川忠興",
@@ -19388,7 +19388,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好義賢",
@@ -19402,7 +19402,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "馬場信房（2）",
@@ -19416,7 +19416,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "甲斐姫",
@@ -19430,7 +19430,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝比奈泰朝",
@@ -19444,7 +19444,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "綾御前",
@@ -19458,7 +19458,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "陶晴賢",
@@ -19472,7 +19472,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "菊姫",
@@ -19486,7 +19486,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田利家（2）",
@@ -19500,7 +19500,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇都宮成綱",
@@ -19514,7 +19514,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "赤井直正",
@@ -19528,7 +19528,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "玉鶴姫",
@@ -19542,7 +19542,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田勝頼（2）",
@@ -19556,7 +19556,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "甲斐姫（2）",
@@ -19570,7 +19570,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "愛姫（2）",
@@ -19584,7 +19584,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉憲政",
@@ -19598,7 +19598,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "諏訪姫",
@@ -19612,7 +19612,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津忠恒",
@@ -19626,7 +19626,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大道寺政繁",
@@ -19640,7 +19640,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "里見義弘",
@@ -19654,7 +19654,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木村重成",
@@ -19668,7 +19668,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "片倉重長",
@@ -19682,7 +19682,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北信愛",
@@ -19696,7 +19696,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小田氏治",
@@ -19710,7 +19710,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信忠",
@@ -19724,7 +19724,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "井伊直虎（2）",
@@ -19738,7 +19738,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "井伊直政（2）",
@@ -19752,7 +19752,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "結城秀康（2）",
@@ -19766,7 +19766,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "慶寿院",
@@ -19780,7 +19780,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅野長政",
@@ -19794,7 +19794,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅野幸長（2）",
@@ -19808,7 +19808,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "深水長智",
@@ -19822,7 +19822,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝倉宗滴（2）",
@@ -19836,7 +19836,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏綱（2）",
@@ -19850,7 +19850,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本願寺顕如（2）",
@@ -19864,7 +19864,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "仙石秀久",
@@ -19878,7 +19878,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "波多野秀治",
@@ -19892,7 +19892,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "於大の方",
@@ -19906,7 +19906,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "井伊直孝",
@@ -19920,7 +19920,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部国親",
@@ -19934,7 +19934,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅井亮政（2）",
@@ -19948,7 +19948,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "太田道灌（2）",
@@ -19962,7 +19962,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長尾為景（2）",
@@ -19976,7 +19976,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小少将",
@@ -19990,7 +19990,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "九鬼嘉隆",
@@ -20004,7 +20004,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "甘利虎泰",
@@ -20018,7 +20018,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "磯野員昌",
@@ -20032,7 +20032,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "猿飛佐助",
@@ -20046,7 +20046,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "細川幽斎",
@@ -20060,7 +20060,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津家久（3）",
@@ -20074,7 +20074,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "板垣信方",
@@ -20088,7 +20088,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松姫",
@@ -20102,7 +20102,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "亘理元宗",
@@ -20116,7 +20116,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤利三",
@@ -20130,7 +20130,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "南陽院",
@@ -20144,7 +20144,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "百地三太夫",
@@ -20157,7 +20157,7 @@ const generalGrowthDB = [
     tacticsBase: 470, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "津田宗及",
@@ -20171,7 +20171,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田信繁（2）",
@@ -20185,7 +20185,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "楠木正虎",
@@ -20199,7 +20199,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "成松信勝",
@@ -20213,7 +20213,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "煕子",
@@ -20227,7 +20227,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長尾政景",
@@ -20241,7 +20241,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉弘鑑理",
@@ -20255,7 +20255,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部信親",
@@ -20269,7 +20269,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "玉鶴姫（2）",
@@ -20283,7 +20283,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "酒井忠次（2）",
@@ -20297,7 +20297,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "田原親賢",
@@ -20311,7 +20311,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "清水政勝",
@@ -20325,7 +20325,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平清康（2）",
@@ -20339,7 +20339,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田幸隆（3）",
@@ -20353,7 +20353,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "竹林院",
@@ -20367,7 +20367,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鶴姫",
@@ -20381,7 +20381,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "一条兼定",
@@ -20395,7 +20395,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高坂昌信（2）",
@@ -20409,7 +20409,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "虎御前",
@@ -20423,7 +20423,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "安芸国虎",
@@ -20437,7 +20437,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "祥鳳",
@@ -20451,7 +20451,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "羽柴秀長（2）",
@@ -20465,7 +20465,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津忠恒（2）",
@@ -20479,7 +20479,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "以心崇伝（2）",
@@ -20493,7 +20493,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "れんみつ",
@@ -20507,7 +20507,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "含笑院",
@@ -20521,7 +20521,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "随風",
@@ -20535,7 +20535,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "虎哉宗乙",
@@ -20549,7 +20549,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "華陽院",
@@ -20563,7 +20563,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柿崎景家（2）",
@@ -20577,7 +20577,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "濃姫（2）",
@@ -20591,7 +20591,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鮭延秀綱",
@@ -20605,7 +20605,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "春日局（2）",
@@ -20619,7 +20619,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平信康（2）",
@@ -20633,7 +20633,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "片倉小十郎（2）",
@@ -20647,7 +20647,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "細川忠興（2）",
@@ -20661,7 +20661,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐野盛綱",
@@ -20675,7 +20675,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木村重成（2）",
@@ -20689,7 +20689,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小野鎮幸",
@@ -20703,7 +20703,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "安国寺恵瓊",
@@ -20717,7 +20717,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "愛姫（3）",
@@ -20731,7 +20731,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大久保長安",
@@ -20745,7 +20745,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "和田惟政",
@@ -20759,7 +20759,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長野業正（2）",
@@ -20773,7 +20773,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "陽泰院",
@@ -20787,7 +20787,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉川元春（2）",
@@ -20801,7 +20801,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "お船の方",
@@ -20815,7 +20815,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宝蔵院胤栄",
@@ -20829,7 +20829,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "荒木村重",
@@ -20843,7 +20843,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤朝信（2）",
@@ -20857,7 +20857,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "太原雪斎（2）",
@@ -20871,7 +20871,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宗義智",
@@ -20885,7 +20885,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊勢龍姫",
@@ -20899,7 +20899,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多正純",
@@ -20913,7 +20913,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "冬姫",
@@ -20927,7 +20927,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "仁科盛信",
@@ -20940,7 +20940,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "成田長親",
@@ -20954,7 +20954,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "塙団右衛門",
@@ -20968,7 +20968,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "甘粕景持",
@@ -20982,7 +20982,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田信之（2）",
@@ -20995,7 +20995,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐久間盛政",
@@ -21009,7 +21009,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "池田輝政",
@@ -21023,7 +21023,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "六角義治",
@@ -21037,7 +21037,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山内一豊",
@@ -21051,7 +21051,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "足利成氏",
@@ -21065,7 +21065,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田利長",
@@ -21079,7 +21079,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "如春尼",
@@ -21093,7 +21093,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "少弐冬尚",
@@ -21107,7 +21107,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "平塚為広",
@@ -21121,7 +21121,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大野治長",
@@ -21135,7 +21135,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大崎夫人",
@@ -21149,7 +21149,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山本勘助（3）",
@@ -21163,7 +21163,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "豊臣秀次",
@@ -21177,7 +21177,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本願寺教如",
@@ -21191,7 +21191,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "妙林尼",
@@ -21205,7 +21205,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "竹中半兵衛（3）",
@@ -21219,7 +21219,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "陶晴賢（2）",
@@ -21233,7 +21233,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小西行長（3）",
@@ -21247,7 +21247,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "おつやの方",
@@ -21261,7 +21261,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山県昌景（4）",
@@ -21275,7 +21275,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "奥村永福",
@@ -21289,7 +21289,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉川広家",
@@ -21303,7 +21303,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤嘉明",
@@ -21317,7 +21317,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蜂須賀家政",
@@ -21331,7 +21331,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石川数正",
@@ -21345,7 +21345,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "義姫（2）",
@@ -21359,7 +21359,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小早川隆景（3）",
@@ -21373,7 +21373,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "丹羽長秀（2）",
@@ -21387,7 +21387,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "母里太兵衛（2）",
@@ -21401,7 +21401,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "馬場信房（3）",
@@ -21415,7 +21415,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "内藤昌豊（2）",
@@ -21429,7 +21429,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "九戸政実（2）",
@@ -21443,7 +21443,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "甲斐姫（3）",
@@ -21457,7 +21457,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達輝宗（2）",
@@ -21471,7 +21471,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝倉義景（2）",
@@ -21485,7 +21485,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "五郎八姫（2）",
@@ -21499,7 +21499,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好元長（2）",
@@ -21513,7 +21513,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島左近（4）",
@@ -21527,7 +21527,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "榊原康政（2）",
@@ -21541,7 +21541,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大野治房（2）",
@@ -21555,7 +21555,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "龍造寺家兼（2）",
@@ -21569,7 +21569,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "水原親憲（2）",
@@ -21583,7 +21583,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "板部岡江雪斎",
@@ -21597,7 +21597,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "百武賢兼",
@@ -21611,7 +21611,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "滝川一益（2）",
@@ -21625,7 +21625,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "新納忠元",
@@ -21639,7 +21639,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田玄以",
@@ -21653,7 +21653,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前野忠康",
@@ -21667,7 +21667,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明智秀満（2）",
@@ -21681,7 +21681,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松前慶広",
@@ -21695,7 +21695,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真壁氏幹",
@@ -21709,7 +21709,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長尾晴景",
@@ -21723,7 +21723,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利秀元",
@@ -21737,7 +21737,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大内義興",
@@ -21751,7 +21751,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "支倉常長",
@@ -21765,7 +21765,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉憲政（2）",
@@ -21779,7 +21779,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏直",
@@ -21793,7 +21793,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "亀姫",
@@ -21807,7 +21807,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花道雪（3）",
@@ -21821,7 +21821,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅野長晟",
@@ -21835,7 +21835,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏規",
@@ -21849,7 +21849,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "唐梅院",
@@ -21863,7 +21863,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "遠藤直経",
@@ -21877,7 +21877,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "龍勝院",
@@ -21891,7 +21891,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤貞泰",
@@ -21905,7 +21905,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "信松尼",
@@ -21919,7 +21919,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松寿院",
@@ -21933,7 +21933,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "結城秀康（3）",
@@ -21947,7 +21947,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田信綱",
@@ -21961,7 +21961,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "振姫",
@@ -21975,7 +21975,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蜂須賀至鎮",
@@ -21989,7 +21989,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "酒井忠次（3）",
@@ -22002,7 +22002,7 @@ const generalGrowthDB = [
     tacticsBase: 520, tacticsGrowth: 2.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達稙宗",
@@ -22015,7 +22015,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "片倉喜多",
@@ -22028,7 +22028,7 @@ const generalGrowthDB = [
     tacticsBase: 520, tacticsGrowth: 2.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利隆元",
@@ -22042,7 +22042,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "東向殿",
@@ -22056,7 +22056,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅井亮政（4）",
@@ -22070,7 +22070,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "塚原卜伝（2）",
@@ -22084,7 +22084,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'SS', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "稲姫",
@@ -22098,7 +22098,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "十河一存",
@@ -22112,7 +22112,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "豊臣秀長",
@@ -22126,7 +22126,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "南部信直",
@@ -22140,7 +22140,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鬼庭綱元（2）",
@@ -22154,7 +22154,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤義龍（2）",
@@ -22168,7 +22168,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "筒井順慶",
@@ -22182,7 +22182,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "煕子（3）",
@@ -22196,7 +22196,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部信親（2）",
@@ -22210,7 +22210,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤龍興",
@@ -22224,7 +22224,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "志村光安",
@@ -22238,7 +22238,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "平塚為広（2）",
@@ -22252,7 +22252,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "太原雪斎（3）",
@@ -22266,7 +22266,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条幻庵（3）",
@@ -22280,7 +22280,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "秋山信友（2）",
@@ -22294,7 +22294,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "志賀親次（2）",
@@ -22308,7 +22308,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "仙石秀久（2）",
@@ -22322,7 +22322,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "土橋平次",
@@ -22336,7 +22336,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "板垣信方（2）",
@@ -22350,7 +22350,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "依田信蕃",
@@ -22364,7 +22364,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多正純（2）",
@@ -22378,7 +22378,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉景虎",
@@ -22392,7 +22392,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "森長可",
@@ -22406,7 +22406,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'SS', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "早川殿（2）",
@@ -22420,7 +22420,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "池田恒興（2）",
@@ -22434,7 +22434,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "六角定頼（2）",
@@ -22448,7 +22448,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "可児才蔵（2）",
@@ -22462,7 +22462,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤朝信（4）",
@@ -22476,7 +22476,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏照",
@@ -22490,7 +22490,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "土井利勝",
@@ -22504,7 +22504,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏邦",
@@ -22518,7 +22518,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北信愛（2）",
@@ -22532,7 +22532,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉川広家（2）",
@@ -22546,7 +22546,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "増田長盛",
@@ -22560,7 +22560,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宍戸梅軒",
@@ -22573,7 +22573,7 @@ const generalGrowthDB = [
     tacticsBase: 420.0, tacticsGrowth: 2.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤段蔵",
@@ -22586,7 +22586,7 @@ const generalGrowthDB = [
     tacticsBase: 450.0, tacticsGrowth: 2.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "狩野永徳",
@@ -22600,7 +22600,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "望月千代女",
@@ -22614,7 +22614,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "筧十蔵",
@@ -22628,7 +22628,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "近衛前久",
@@ -22642,7 +22642,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "由利鎌之介",
@@ -22656,7 +22656,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "海野六郎",
@@ -22670,7 +22670,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "常山鶴姫",
@@ -22684,7 +22684,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田信廉",
@@ -22698,7 +22698,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "太田牛一",
@@ -22712,7 +22712,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "兵主源六",
@@ -22726,7 +22726,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "更科姫",
@@ -22740,7 +22740,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "阿梅",
@@ -22754,7 +22754,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "有馬晴信",
@@ -22768,7 +22768,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上泉信綱",
@@ -22782,7 +22782,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'C', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤道三",
@@ -22796,7 +22796,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達輝宗",
@@ -22810,7 +22810,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "風魔小太郎",
@@ -22824,7 +22824,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'E', yumi:'B', uma:'F', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "服部半蔵",
@@ -22838,7 +22838,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'D', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山本勘助",
@@ -22852,7 +22852,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "今川義元",
@@ -22866,7 +22866,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明智光秀",
@@ -22880,7 +22880,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "森蘭丸",
@@ -22894,7 +22894,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本願寺顕如",
@@ -22908,7 +22908,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "榊原康政",
@@ -22922,7 +22922,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "井伊直政",
@@ -22936,7 +22936,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉川元春",
@@ -22950,7 +22950,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小早川隆景",
@@ -22964,7 +22964,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鍋島直茂",
@@ -22978,7 +22978,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山県昌景",
@@ -22992,7 +22992,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐竹義重",
@@ -23006,7 +23006,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "馬場信房",
@@ -23020,7 +23020,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田信繁",
@@ -23034,7 +23034,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田幸隆",
@@ -23048,7 +23048,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長野業正",
@@ -23062,7 +23062,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津家久",
@@ -23076,7 +23076,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花道雪",
@@ -23090,7 +23090,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'C', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "龍造寺隆信",
@@ -23104,7 +23104,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇喜多直家",
@@ -23118,7 +23118,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'D', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "太原雪斎",
@@ -23132,7 +23132,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松永久秀",
@@ -23146,7 +23146,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'F', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鶴姫",
@@ -23160,7 +23160,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'S', uma:'E', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宝蔵院胤栄",
@@ -23174,7 +23174,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'F', uma:'F', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤義龍",
@@ -23188,7 +23188,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "下間頼廉",
@@ -23202,7 +23202,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'D', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田利家",
@@ -23216,7 +23216,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田慶次",
@@ -23230,7 +23230,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "直江兼続",
@@ -23244,7 +23244,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田幸村",
@@ -23258,7 +23258,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "濃姫",
@@ -23272,7 +23272,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'D', uma:'E', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大谷吉継",
@@ -23286,7 +23286,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'B', uma:'E', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "お市",
@@ -23300,7 +23300,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'A', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "草薙かさね",
@@ -23314,7 +23314,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'E', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "風魔小太郎（2）",
@@ -23328,7 +23328,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'B', uma:'E', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "初",
@@ -23342,7 +23342,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'A', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "江",
@@ -23356,7 +23356,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'D', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "後藤又兵衛",
@@ -23370,7 +23370,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "片倉小十郎",
@@ -23384,7 +23384,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'D', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "おまつ",
@@ -23398,7 +23398,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'D', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "ねね",
@@ -23412,7 +23412,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'E', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤嘉明",
@@ -23426,7 +23426,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達成実",
@@ -23440,7 +23440,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "愛姫",
@@ -23454,7 +23454,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'E', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "津軽為信",
@@ -23468,7 +23468,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'C', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "百地三太夫",
@@ -23482,7 +23482,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "義姫",
@@ -23496,7 +23496,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'A', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "五郎八姫",
@@ -23510,7 +23510,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'F', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐竹義宣",
@@ -23524,7 +23524,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐々成政",
@@ -23538,7 +23538,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "瀬名姫",
@@ -23552,7 +23552,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "池田輝政",
@@ -23566,7 +23566,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'E', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長束正家",
@@ -23580,7 +23580,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田信之",
@@ -23594,7 +23594,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "細川忠興",
@@ -23608,7 +23608,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利勝永",
@@ -23622,7 +23622,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅野長政",
@@ -23636,7 +23636,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "甲斐姫",
@@ -23650,7 +23650,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "豊臣秀次",
@@ -23664,7 +23664,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐久間盛政",
@@ -23678,7 +23678,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小早川秀秋",
@@ -23692,7 +23692,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "藤堂高虎",
@@ -23706,7 +23706,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'D', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "綾御前",
@@ -23720,7 +23720,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山内一豊",
@@ -23734,7 +23734,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "細川幽斎",
@@ -23748,7 +23748,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "帰蝶",
@@ -23762,7 +23762,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "筒井定次",
@@ -23776,7 +23776,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蜂須賀小六",
@@ -23790,7 +23790,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "六角義賢",
@@ -23804,7 +23804,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尼子経久",
@@ -23818,7 +23818,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "諏訪姫",
@@ -23832,7 +23832,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川秀忠",
@@ -23846,7 +23846,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "雑賀孫六",
@@ -23860,7 +23860,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信忠",
@@ -23874,7 +23874,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条綱成",
@@ -23888,7 +23888,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "菊姫",
@@ -23902,7 +23902,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "丹羽長秀",
@@ -23916,7 +23916,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "滝川一益",
@@ -23930,7 +23930,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部国親",
@@ -23944,7 +23944,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "虎御前",
@@ -23958,7 +23958,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部盛親",
@@ -23972,7 +23972,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利勝永（2）",
@@ -23986,7 +23986,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木村重成",
@@ -24000,7 +24000,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明石全登",
@@ -24014,7 +24014,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田慶次（2）",
@@ -24028,7 +24028,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "今川氏真",
@@ -24042,7 +24042,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉景虎",
@@ -24056,7 +24056,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田玄以",
@@ -24070,7 +24070,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "諏訪頼重",
@@ -24084,7 +24084,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田利長",
@@ -24098,7 +24098,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田利政",
@@ -24112,7 +24112,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "猿飛佐助",
@@ -24126,7 +24126,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "増田長盛",
@@ -24140,7 +24140,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "福島正則",
@@ -24154,7 +24154,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤清正",
@@ -24168,7 +24168,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤嘉明（2）",
@@ -24182,7 +24182,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "脇坂安治",
@@ -24196,7 +24196,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "片桐且元",
@@ -24210,7 +24210,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "糟屋武則",
@@ -24224,7 +24224,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "平野長泰",
@@ -24238,7 +24238,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "村井貞勝",
@@ -24252,7 +24252,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "田中吉政",
@@ -24266,7 +24266,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "池田恒興",
@@ -24280,7 +24280,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川家康",
@@ -24294,7 +24294,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "甘利虎泰",
@@ -24308,7 +24308,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉川広家",
@@ -24322,7 +24322,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "荒木村重",
@@ -24336,7 +24336,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "今川義元（2）",
@@ -24350,7 +24350,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山本勘助（2）",
@@ -24364,7 +24364,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "羽柴秀吉",
@@ -24378,7 +24378,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "直江兼続（2）",
@@ -24392,7 +24392,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松倉右近",
@@ -24406,7 +24406,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蜂須賀家政",
@@ -24420,7 +24420,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鬼庭綱元",
@@ -24434,7 +24434,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "お鍋の方",
@@ -24448,7 +24448,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小島弥太郎",
@@ -24462,7 +24462,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "土田御前",
@@ -24476,7 +24476,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "口羽通良",
@@ -24490,7 +24490,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "於大の方",
@@ -24504,7 +24504,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅井くす",
@@ -24518,7 +24518,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉乃",
@@ -24532,7 +24532,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本庄繁長",
@@ -24546,7 +24546,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条高広",
@@ -24560,7 +24560,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "甘粕景持",
@@ -24574,7 +24574,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "板垣信方",
@@ -24588,7 +24588,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "藤林長門守",
@@ -24602,7 +24602,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "禰津姫",
@@ -24616,7 +24616,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "阿南姫",
@@ -24630,7 +24630,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "成田長親",
@@ -24644,7 +24644,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鶴姫（2）",
@@ -24658,7 +24658,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'S', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏邦",
@@ -24672,7 +24672,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大久保長安",
@@ -24686,7 +24686,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "水原親憲",
@@ -24700,7 +24700,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利隆元",
@@ -24714,7 +24714,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊勢龍姫",
@@ -24728,7 +24728,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "赤池長任",
@@ -24742,7 +24742,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "平塚為広",
@@ -24756,7 +24756,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部信親",
@@ -24770,7 +24770,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "おつやの方",
@@ -24784,7 +24784,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鈴木元信",
@@ -24798,7 +24798,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "新免無二",
@@ -24812,7 +24812,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "志村光安",
@@ -24826,7 +24826,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "清水宗治",
@@ -24840,7 +24840,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "猿渡信光",
@@ -24854,7 +24854,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大久保忠隣",
@@ -24868,7 +24868,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "桂姫",
@@ -24882,7 +24882,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "稲富一夢",
@@ -24896,7 +24896,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "香宗我部親泰",
@@ -24910,7 +24910,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "花房職秀",
@@ -24924,7 +24924,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高山右近",
@@ -24938,7 +24938,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "奥平信昌",
@@ -24952,7 +24952,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝日姫",
@@ -24966,7 +24966,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "栄姫",
@@ -24980,7 +24980,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "千姫（2）",
@@ -24994,7 +24994,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "冬姫",
@@ -25008,7 +25008,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "栗山利安",
@@ -25022,7 +25022,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "井上之房",
@@ -25036,7 +25036,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "光姫",
@@ -25050,7 +25050,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鮭延秀綱",
@@ -25064,7 +25064,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "お梶の方",
@@ -25078,7 +25078,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝日姫（2）",
@@ -25092,7 +25092,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "稲富祐秀",
@@ -25106,7 +25106,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津歳久",
@@ -25120,7 +25120,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "陶晴賢",
@@ -25134,7 +25134,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多正純",
@@ -25148,7 +25148,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "角隈石宗",
@@ -25162,7 +25162,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "煕子",
@@ -25176,7 +25176,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石田三成",
@@ -25190,7 +25190,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田大助",
@@ -25204,7 +25204,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "片倉重長",
@@ -25218,7 +25218,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "塙団右衛門",
@@ -25232,7 +25232,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "無二",
@@ -25246,7 +25246,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鍋島勝茂",
@@ -25260,7 +25260,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅野長晟",
@@ -25274,7 +25274,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "妙林",
@@ -25288,7 +25288,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小野鎮幸",
@@ -25302,7 +25302,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鳥居元忠",
@@ -25316,7 +25316,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "仙石秀久",
@@ -25330,7 +25330,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "飯坂の局",
@@ -25344,7 +25344,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "犬塚信乃",
@@ -25358,7 +25358,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "犬川荘助",
@@ -25372,7 +25372,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'F', uma:'C', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "犬山道節",
@@ -25386,7 +25386,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "犬飼現八",
@@ -25400,7 +25400,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "犬田小文吾",
@@ -25414,7 +25414,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "犬江親兵衛",
@@ -25428,7 +25428,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "犬坂毛野",
@@ -25442,7 +25442,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'D', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "犬村大角",
@@ -25456,7 +25456,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "岩城貞隆",
@@ -25470,7 +25470,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田晴信",
@@ -25484,7 +25484,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "秋山信友",
@@ -25498,7 +25498,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小幡景憲",
@@ -25512,7 +25512,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "亀姫",
@@ -25526,7 +25526,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'E', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田晴信（2）",
@@ -25540,7 +25540,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本願寺教如",
@@ -25554,7 +25554,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鈴木重朝",
@@ -25568,7 +25568,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "下間仲孝",
@@ -25582,7 +25582,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'D', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "板部岡江雪斎",
@@ -25596,7 +25596,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "正木時茂",
@@ -25610,7 +25610,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "里見義弘",
@@ -25624,7 +25624,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "往来左京",
@@ -25638,7 +25638,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田菊姫",
@@ -25652,7 +25652,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "海北綱親",
@@ -25666,7 +25666,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "和田惟政",
@@ -25680,7 +25680,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小見の方",
@@ -25694,7 +25694,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "細川藤孝",
@@ -25708,7 +25708,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石川数正",
@@ -25722,7 +25722,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'D', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平忠直",
@@ -25736,7 +25736,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小松姫",
@@ -25750,7 +25750,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "竹林院",
@@ -25764,7 +25764,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "神保長職",
@@ -25778,7 +25778,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'D', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真壁氏幹",
@@ -25792,7 +25792,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "和田昭為",
@@ -25806,7 +25806,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "梶原政景",
@@ -25820,7 +25820,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "京極マリア",
@@ -25834,7 +25834,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "稲姫",
@@ -25848,7 +25848,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "安東愛季",
@@ -25862,7 +25862,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "中野宗時",
@@ -25876,7 +25876,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松前慶広",
@@ -25890,7 +25890,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "百武賢兼",
@@ -25904,7 +25904,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "成松信勝",
@@ -25918,7 +25918,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "駒姫",
@@ -25932,7 +25932,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "十河一存",
@@ -25946,7 +25946,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "赤井直正",
@@ -25960,7 +25960,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "京極竜子",
@@ -25974,7 +25974,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "堀秀政",
@@ -25988,7 +25988,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "九鬼嘉隆",
@@ -26002,7 +26002,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "磯野員昌",
@@ -26016,7 +26016,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "亀寿姫",
@@ -26030,7 +26030,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花誾千代",
@@ -26043,7 +26043,7 @@ const generalGrowthDB = [
     tacticsBase: 470.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "簗田晴助",
@@ -26057,7 +26057,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "矢沢頼綱",
@@ -26071,7 +26071,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "梅姫",
@@ -26085,7 +26085,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真柄直隆",
@@ -26099,7 +26099,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鬼庭良直",
@@ -26113,7 +26113,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "椿姫",
@@ -26127,7 +26127,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳姫",
@@ -26141,7 +26141,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鈴木重兼",
@@ -26155,7 +26155,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "相良武任",
@@ -26169,7 +26169,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "玉姫",
@@ -26183,7 +26183,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "京極高次",
@@ -26197,7 +26197,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "千代",
@@ -26211,7 +26211,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "筒井順慶",
@@ -26225,7 +26225,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "安国寺恵瓊",
@@ -26239,7 +26239,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "遊佐続光",
@@ -26253,7 +26253,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "深芳野",
@@ -26267,7 +26267,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "渡辺勘兵衛",
@@ -26281,7 +26281,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "戸沢盛安",
@@ -26295,7 +26295,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高山ジュスタ",
@@ -26309,7 +26309,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "稲葉一鉄",
@@ -26323,7 +26323,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "安藤守就",
@@ -26337,7 +26337,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尼子誠久",
@@ -26351,7 +26351,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "森可成",
@@ -26365,7 +26365,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "阿梅",
@@ -26379,7 +26379,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "豪姫",
@@ -26392,7 +26392,7 @@ const generalGrowthDB = [
     tacticsBase: 430.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "ガラシャム",
@@ -26406,7 +26406,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "亀井茲矩",
@@ -26420,7 +26420,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉良親貞",
@@ -26434,7 +26434,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "恭雲院",
@@ -26448,7 +26448,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "相良義陽",
@@ -26462,7 +26462,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平清康",
@@ -26476,7 +26476,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "新納忠元",
@@ -26490,7 +26490,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "江里口信常",
@@ -26504,7 +26504,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利秀元",
@@ -26518,7 +26518,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真理姫",
@@ -26532,7 +26532,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "遠藤基信",
@@ -26546,7 +26546,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "相馬盛胤",
@@ -26560,7 +26560,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "片倉喜多",
@@ -26574,7 +26574,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "氏家卜全",
@@ -26588,7 +26588,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "保科正俊",
@@ -26602,7 +26602,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田信綱",
@@ -26616,7 +26616,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木下昌直",
@@ -26630,7 +26630,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉田兼見",
@@ -26644,7 +26644,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松浦隆信",
@@ -26658,7 +26658,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "王直",
@@ -26672,7 +26672,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "古満姫",
@@ -26686,7 +26686,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "結城政勝",
@@ -26700,7 +26700,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山田長政",
@@ -26714,7 +26714,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小笠原秀政",
@@ -26728,7 +26728,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田守信",
@@ -26742,7 +26742,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "今川氏真（2）",
@@ -26756,7 +26756,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松野重元",
@@ -26770,7 +26770,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉景虎（2）",
@@ -26784,7 +26784,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津義久",
@@ -26798,7 +26798,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤嘉明（3）",
@@ -26812,7 +26812,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "岡部元信",
@@ -26826,7 +26826,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山内一豊（2）",
@@ -26840,7 +26840,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "井伊直盛",
@@ -26854,7 +26854,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "祐椿尼",
@@ -26868,7 +26868,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "井伊直親",
@@ -26882,7 +26882,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蜂須賀至鎮",
@@ -26896,7 +26896,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "田中吉政（2）",
@@ -26910,7 +26910,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "脇坂安治（2）",
@@ -26924,7 +26924,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "糟屋武則（2）",
@@ -26938,7 +26938,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長束正家（2）",
@@ -26952,7 +26952,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "細川晴元",
@@ -26966,7 +26966,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石川高信",
@@ -26980,7 +26980,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山崎吉家",
@@ -26994,7 +26994,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "南部安信",
@@ -27008,7 +27008,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "新野親矩",
@@ -27022,7 +27022,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "瀬戸方久",
@@ -27036,7 +27036,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "さこの方",
@@ -27050,7 +27050,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "妙印尼輝子",
@@ -27064,7 +27064,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "籾井教業",
@@ -27078,7 +27078,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "関口氏経",
@@ -27092,7 +27092,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木沢長政",
@@ -27106,7 +27106,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "心月斎道俊",
@@ -27120,7 +27120,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多忠政",
@@ -27134,7 +27134,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "犬童頼安",
@@ -27148,7 +27148,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田信尹",
@@ -27162,7 +27162,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大内貞子",
@@ -27176,7 +27176,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅井くす（2）",
@@ -27190,7 +27190,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大崎義宣",
@@ -27204,7 +27204,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "丹羽長重",
@@ -27218,7 +27218,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小山田信有",
@@ -27232,7 +27232,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "的場源四郎",
@@ -27246,7 +27246,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "沼田祐光",
@@ -27260,7 +27260,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "辰姫",
@@ -27274,7 +27274,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好笑岩",
@@ -27288,7 +27288,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "富永直勝",
@@ -27302,7 +27302,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上泉泰綱",
@@ -27316,7 +27316,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "生駒親正",
@@ -27330,7 +27330,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "青柳",
@@ -27344,7 +27344,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "渡辺守綱",
@@ -27358,7 +27358,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "後藤信康",
@@ -27372,7 +27372,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "萱場元時",
@@ -27386,7 +27386,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "冷泉隆豊",
@@ -27400,7 +27400,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "望月千代女",
@@ -27414,7 +27414,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斯波詮直",
@@ -27428,7 +27428,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "富田重政",
@@ -27442,7 +27442,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "太田康資",
@@ -27456,7 +27456,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大村純忠",
@@ -27470,7 +27470,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "森蘭丸（2）",
@@ -27484,7 +27484,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊東祐兵",
@@ -27498,7 +27498,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏規",
@@ -27512,7 +27512,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "支倉常長",
@@ -27526,7 +27526,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅井長政",
@@ -27540,7 +27540,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松永久通",
@@ -27554,7 +27554,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏直",
@@ -27568,7 +27568,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "岡利勝",
@@ -27582,7 +27582,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "坂崎直盛",
@@ -27596,7 +27596,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "白井胤治",
@@ -27610,7 +27610,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蒲池鑑盛",
@@ -27624,7 +27624,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "遠藤秀清",
@@ -27638,7 +27638,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "稲姫（2）",
@@ -27652,7 +27652,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三浦義意",
@@ -27666,7 +27666,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "江口正吉",
@@ -27680,7 +27680,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "種子島久時",
@@ -27694,7 +27694,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "原虎胤",
@@ -27708,7 +27708,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鳥居強右衛門",
@@ -27722,7 +27722,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本山茂辰",
@@ -27736,7 +27736,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "谷忠澄",
@@ -27750,7 +27750,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "薄田兼相",
@@ -27764,7 +27764,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多正信",
@@ -27778,7 +27778,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒川晴氏",
@@ -27792,7 +27792,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "花",
@@ -27806,7 +27806,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "南部信直",
@@ -27820,7 +27820,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "天野康景",
@@ -27834,7 +27834,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石川忠輔",
@@ -27848,7 +27848,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "於波留",
@@ -27862,7 +27862,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "田村隆顕",
@@ -27876,7 +27876,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "お梶の方（2）",
@@ -27890,7 +27890,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "阿部定吉",
@@ -27904,7 +27904,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "世瀬蔵人",
@@ -27918,7 +27918,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "彦姫",
@@ -27932,7 +27932,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鐘捲自斎",
@@ -27946,7 +27946,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宮部継潤",
@@ -27960,7 +27960,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "かな姫",
@@ -27974,7 +27974,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "谷柏直家",
@@ -27988,7 +27988,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "珠子",
@@ -28002,7 +28002,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田利久",
@@ -28016,7 +28016,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石谷夫人",
@@ -28030,7 +28030,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "壬生綱房",
@@ -28044,7 +28044,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川頼房",
@@ -28058,7 +28058,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "益子勝宗",
@@ -28072,7 +28072,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "留守政景",
@@ -28086,7 +28086,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小山田信茂",
@@ -28100,7 +28100,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山崎片家",
@@ -28114,7 +28114,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "西郷局",
@@ -28128,7 +28128,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "穴山梅雪",
@@ -28142,7 +28142,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "土橋平次",
@@ -28156,7 +28156,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長井道利",
@@ -28170,7 +28170,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "麝香",
@@ -28184,7 +28184,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "円城寺信胤",
@@ -28198,7 +28198,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "土井利勝",
@@ -28212,7 +28212,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "七条兼仲",
@@ -28226,7 +28226,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐久間信盛",
@@ -28240,7 +28240,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立原久綱",
@@ -28254,7 +28254,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "赤尾清綱",
@@ -28268,7 +28268,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平忠吉",
@@ -28282,7 +28282,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "有馬晴純",
@@ -28296,7 +28296,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "丸目長恵",
@@ -28310,7 +28310,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "相馬利胤",
@@ -28324,7 +28324,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "成田泰親",
@@ -28338,7 +28338,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田菊姫（2）",
@@ -28352,7 +28352,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "杉山源吾",
@@ -28366,7 +28366,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小島弥太郎（2）",
@@ -28380,7 +28380,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "安宅冬康",
@@ -28394,7 +28394,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "葉月",
@@ -28408,7 +28408,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "村上元吉",
@@ -28422,7 +28422,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "おまつ（2）",
@@ -28436,7 +28436,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "河尻秀隆",
@@ -28450,7 +28450,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "片桐且元（2）",
@@ -28464,7 +28464,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宍戸隆家",
@@ -28478,7 +28478,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上条政繁",
@@ -28492,7 +28492,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "河田長親",
@@ -28506,7 +28506,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蠣崎季広",
@@ -28520,7 +28520,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "阿南姫（2）",
@@ -28534,7 +28534,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "絶姫",
@@ -28548,7 +28548,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "金森長近",
@@ -28562,7 +28562,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "正木時忠",
@@ -28576,7 +28576,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "増田長盛（2）",
@@ -28590,7 +28590,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "色部勝長",
@@ -28604,7 +28604,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "秋田実季",
@@ -28618,7 +28618,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "土田御前（2）",
@@ -28632,7 +28632,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "津軽信建",
@@ -28646,7 +28646,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "間宮康俊",
@@ -28660,7 +28660,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北畠具房",
@@ -28674,7 +28674,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏照",
@@ -28688,7 +28688,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "土居宗珊",
@@ -28702,7 +28702,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達忠宗",
@@ -28716,7 +28716,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "天遊永寿",
@@ -28730,7 +28730,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "菅谷政貞",
@@ -28744,7 +28744,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "源康政",
@@ -28758,7 +28758,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "根岸兎角",
@@ -28772,7 +28772,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "後藤貴明",
@@ -28786,7 +28786,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "堀尾吉晴",
@@ -28800,7 +28800,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "於フ子",
@@ -28814,7 +28814,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "太田資康",
@@ -28828,7 +28828,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伝林坊頼慶",
@@ -28842,7 +28842,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真柄隆基",
@@ -28856,7 +28856,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "森本儀太夫",
@@ -28870,7 +28870,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高山ジュスタ（2）",
@@ -28884,7 +28884,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "有馬ジュスタ",
@@ -28898,7 +28898,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木曽義昌",
@@ -28912,7 +28912,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "西尾宗次",
@@ -28926,7 +28926,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "別所長治",
@@ -28940,7 +28940,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "森長可",
@@ -28954,7 +28954,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利新介",
@@ -28968,7 +28968,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武姫",
@@ -28982,7 +28982,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "九鬼守隆",
@@ -28996,7 +28996,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊集院忠棟",
@@ -29010,7 +29010,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "結城晴朝",
@@ -29024,7 +29024,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊東マンショ",
@@ -29038,7 +29038,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川義直",
@@ -29052,7 +29052,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "津軽信枚",
@@ -29066,7 +29066,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "板倉勝重",
@@ -29080,7 +29080,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "内ヶ島氏理",
@@ -29094,7 +29094,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "根津昌綱",
@@ -29108,7 +29108,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "乾正信",
@@ -29122,7 +29122,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "戸田勝成",
@@ -29136,7 +29136,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "濃姫（2）",
@@ -29150,7 +29150,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "淀",
@@ -29164,7 +29164,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "井伊直虎",
@@ -29178,7 +29178,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松姫",
@@ -29192,7 +29192,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉景勝",
@@ -29206,7 +29206,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達成実（2）",
@@ -29220,7 +29220,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田昌幸",
@@ -29234,7 +29234,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "新城",
@@ -29248,7 +29248,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "妙玖",
@@ -29262,7 +29262,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花誾千代（2）",
@@ -29275,7 +29275,7 @@ const generalGrowthDB = [
     tacticsBase: 460.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小少将",
@@ -29289,7 +29289,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "渋江政光",
@@ -29303,7 +29303,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "慶誾尼",
@@ -29316,7 +29316,7 @@ const generalGrowthDB = [
     tacticsBase: 460.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "風魔小太郎（3）",
@@ -29330,7 +29330,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信行",
@@ -29344,7 +29344,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "足利氏姫",
@@ -29358,7 +29358,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "儀間真常",
@@ -29372,7 +29372,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "馬場頼周",
@@ -29386,7 +29386,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柴田勝豊",
@@ -29400,7 +29400,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "溝口秀勝",
@@ -29414,7 +29414,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "村井長頼",
@@ -29427,7 +29427,7 @@ const generalGrowthDB = [
     tacticsBase: 460.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三村元親",
@@ -29441,7 +29441,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "稲葉正成",
@@ -29455,7 +29455,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多忠朝",
@@ -29469,7 +29469,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北郷忠相",
@@ -29483,7 +29483,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "一条信龍",
@@ -29497,7 +29497,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石川昭光",
@@ -29511,7 +29511,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "飯田覚兵衛",
@@ -29525,7 +29525,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "糸姫",
@@ -29539,7 +29539,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多政重",
@@ -29553,7 +29553,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柳生宗章",
@@ -29567,7 +29567,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田昌輝",
@@ -29581,7 +29581,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊勢龍姫（2）",
@@ -29595,7 +29595,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "藤堂高吉",
@@ -29609,7 +29609,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "神保長職（2）",
@@ -29623,7 +29623,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉定正",
@@ -29637,7 +29637,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "西郷純久",
@@ -29651,7 +29651,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小田政治",
@@ -29665,7 +29665,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田利常",
@@ -29679,7 +29679,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鍋島勝茂（2）",
@@ -29693,7 +29693,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "直江景綱",
@@ -29707,7 +29707,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉田孝頼",
@@ -29721,7 +29721,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "堀直政",
@@ -29735,7 +29735,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大井の方",
@@ -29749,7 +29749,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "九鬼浄隆",
@@ -29763,7 +29763,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "竹中重矩",
@@ -29777,7 +29777,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "森忠政",
@@ -29791,7 +29791,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高山友照",
@@ -29805,7 +29805,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "九戸実親",
@@ -29819,7 +29819,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "督姫",
@@ -29833,7 +29833,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "秋月種実",
@@ -29847,7 +29847,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "京極高次（2）",
@@ -29861,7 +29861,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "満天姫",
@@ -29875,7 +29875,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "中川清秀",
@@ -29889,7 +29889,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三条の方",
@@ -29903,7 +29903,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尼子国久",
@@ -29917,7 +29917,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "一柳直盛",
@@ -29931,7 +29931,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "井上之房（2）",
@@ -29945,7 +29945,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "中村一氏",
@@ -29959,7 +29959,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "奥平信昌（2）",
@@ -29973,7 +29973,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉川経家",
@@ -29987,7 +29987,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "戸川達安",
@@ -30001,7 +30001,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "堀直寄",
@@ -30015,7 +30015,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川頼宣",
@@ -30029,7 +30029,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "庄林一心",
@@ -30043,7 +30043,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "成瀬正成",
@@ -30057,7 +30057,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大友義統",
@@ -30071,7 +30071,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達秀宗",
@@ -30085,7 +30085,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "姉小路頼綱",
@@ -30099,7 +30099,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平広忠",
@@ -30113,7 +30113,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "平岩親吉",
@@ -30127,7 +30127,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鳥居忠吉",
@@ -30141,7 +30141,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "夏目吉信",
@@ -30155,7 +30155,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "坂井政尚",
@@ -30169,7 +30169,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "西園寺公広",
@@ -30183,7 +30183,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "口羽通良（2）",
@@ -30197,7 +30197,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平家忠",
@@ -30211,7 +30211,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "二階堂盛義",
@@ -30225,7 +30225,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "志駄義秀",
@@ -30239,7 +30239,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "酒井忠世",
@@ -30253,7 +30253,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花直次",
@@ -30267,7 +30267,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長野業盛",
@@ -30281,7 +30281,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蒲生頼郷",
@@ -30295,7 +30295,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "団忠正",
@@ -30309,7 +30309,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "土屋昌恒",
@@ -30323,7 +30323,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "秋元泰朝",
@@ -30337,7 +30337,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "下間頼照",
@@ -30351,7 +30351,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好義継",
@@ -30365,7 +30365,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "乃美宗勝",
@@ -30379,7 +30379,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "酒井忠勝",
@@ -30393,7 +30393,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉田政重",
@@ -30407,7 +30407,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "富田信高",
@@ -30421,7 +30421,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "赤井忠家",
@@ -30435,7 +30435,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "京極高知",
@@ -30449,7 +30449,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "御宿勘兵衛",
@@ -30463,7 +30463,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "内藤ジュリア",
@@ -30477,7 +30477,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平信綱",
@@ -30491,7 +30491,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田義信",
@@ -30505,7 +30505,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "桂岩院",
@@ -30519,7 +30519,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇喜多忠家",
@@ -30533,7 +30533,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "曽根昌世",
@@ -30547,7 +30547,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蒲生郷舎",
@@ -30561,7 +30561,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊奈忠次",
@@ -30575,7 +30575,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尼子義久",
@@ -30589,7 +30589,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大村純忠（2）",
@@ -30603,7 +30603,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石川五右衛門",
@@ -30617,7 +30617,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高坂甚内",
@@ -30631,7 +30631,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "ジャンヌ",
@@ -30645,7 +30645,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "源義経",
@@ -30659,7 +30659,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "土方歳三",
@@ -30673,7 +30673,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明智光秀（2）",
@@ -30687,7 +30687,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "菅野直",
@@ -30701,7 +30701,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒田利高",
@@ -30715,7 +30715,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条高広（2）",
@@ -30729,7 +30729,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "畠山義春",
@@ -30743,7 +30743,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松倉重政",
@@ -30757,7 +30757,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉良親実",
@@ -30771,7 +30771,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "桂林院",
@@ -30785,7 +30785,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好長逸",
@@ -30799,7 +30799,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "遊佐長教",
@@ -30813,7 +30813,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好義興",
@@ -30827,7 +30827,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "竹中重門",
@@ -30841,7 +30841,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "畠山高政",
@@ -30855,7 +30855,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宗義調",
@@ -30869,7 +30869,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "種子島時尭",
@@ -30883,7 +30883,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大関高増",
@@ -30897,7 +30897,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "威徳院",
@@ -30911,7 +30911,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "青山忠成",
@@ -30925,7 +30925,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉弘統幸",
@@ -30939,7 +30939,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "楯岡満茂",
@@ -30953,7 +30953,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蒲生とら",
@@ -30967,7 +30967,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小梁川宗朝",
@@ -30981,7 +30981,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐伯惟教",
@@ -30995,7 +30995,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好政康",
@@ -31009,7 +31009,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "国司元相",
@@ -31023,7 +31023,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "新造の方",
@@ -31037,7 +31037,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柳生宗冬",
@@ -31051,7 +31051,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "原田宗時",
@@ -31065,7 +31065,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "阿喜姫",
@@ -31079,7 +31079,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達実元",
@@ -31093,7 +31093,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇都宮国綱",
@@ -31107,7 +31107,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "犬童頼安（2）",
@@ -31121,7 +31121,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "般若",
@@ -31135,7 +31135,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "式尉",
@@ -31149,7 +31149,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "ひょっとこ",
@@ -31163,7 +31163,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "べし見",
@@ -31177,7 +31177,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石動雷十太",
@@ -31191,7 +31191,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "比留間伍兵衛",
@@ -31205,7 +31205,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "月岡津南",
@@ -31219,7 +31219,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "赤末有人",
@@ -31233,7 +31233,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "エスピラール",
@@ -31247,7 +31247,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "エルダー",
@@ -31261,7 +31261,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'F', yumi:'F', uma:'F', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鬼庭良直（2）",
@@ -31275,7 +31275,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "後藤信康（2）",
@@ -31289,7 +31289,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "那須資晴",
@@ -31303,7 +31303,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木村友重",
@@ -31317,7 +31317,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "末津姫",
@@ -31331,7 +31331,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "細川高国",
@@ -31345,7 +31345,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "谷忠澄（2）",
@@ -31359,7 +31359,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "神保氏張",
@@ -31373,7 +31373,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鈴木元信（2）",
@@ -31387,7 +31387,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐竹義久",
@@ -31401,7 +31401,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛屋武久",
@@ -31415,7 +31415,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "五龍局",
@@ -31429,7 +31429,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒田一成",
@@ -31443,7 +31443,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多正重",
@@ -31457,7 +31457,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛受勝照",
@@ -31471,7 +31471,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "城井鎮房",
@@ -31485,7 +31485,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "中条藤資",
@@ -31499,7 +31499,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤重次",
@@ -31513,7 +31513,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "亀井茲矩（2）",
@@ -31527,7 +31527,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "菅正利",
@@ -31541,7 +31541,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長寿院盛淳",
@@ -31555,7 +31555,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "清原マリア",
@@ -31569,7 +31569,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上井覚兼",
@@ -31583,7 +31583,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "益田正親",
@@ -31597,7 +31597,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "ジタン",
@@ -31611,7 +31611,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "ガーネット",
@@ -31625,7 +31625,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'F', yumi:'F', uma:'F', ki:'F'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "ビビ",
@@ -31639,7 +31639,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "スタイナー",
@@ -31653,7 +31653,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "エーコ",
@@ -31667,7 +31667,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "クイナ",
@@ -31681,7 +31681,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "サラマンダー",
@@ -31695,7 +31695,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "フライヤ",
@@ -31709,7 +31709,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "井上元兼",
@@ -31723,7 +31723,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "畠山義総",
@@ -31737,7 +31737,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "湯浅五助",
@@ -31751,7 +31751,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "渡辺通",
@@ -31765,7 +31765,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "温井総貞",
@@ -31779,7 +31779,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "茶阿局",
@@ -31793,7 +31793,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "キン肉マン",
@@ -31807,7 +31807,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "バッファローマン",
@@ -31821,7 +31821,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "ロビンマスク",
@@ -31835,7 +31835,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "ウォーズマン",
@@ -31849,7 +31849,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "ブロッケンJr.",
@@ -31862,7 +31862,7 @@ const generalGrowthDB = [
     tacticsBase: 450.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "テリーマン",
@@ -31876,7 +31876,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "ラーメンマン",
@@ -31890,7 +31890,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "猪子兵助",
@@ -31904,7 +31904,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松永久通（2）",
@@ -31918,7 +31918,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山名豊国",
@@ -31932,7 +31932,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小野寺義道",
@@ -31946,7 +31946,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蒲池鑑盛（2）",
@@ -31960,7 +31960,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長谷川秀一",
@@ -31974,7 +31974,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尼子勝久",
@@ -31988,7 +31988,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "福富秀勝",
@@ -32002,7 +32002,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "安見宗房",
@@ -32016,7 +32016,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "村上国清",
@@ -32030,7 +32030,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利秀包",
@@ -32044,7 +32044,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "世瀬蔵人（2）",
@@ -32058,7 +32058,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小笠原長時",
@@ -32072,7 +32072,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大久保忠教",
@@ -32086,7 +32086,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好宗三",
@@ -32100,7 +32100,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "広橋保子",
@@ -32114,7 +32114,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小幡昌盛",
@@ -32128,7 +32128,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "河野通宣",
@@ -32142,7 +32142,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木沢長政（2）",
@@ -32156,7 +32156,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "天野隆重",
@@ -32170,7 +32170,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤利治",
@@ -32184,7 +32184,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "菅沼定盈",
@@ -32198,7 +32198,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤光泰",
@@ -32212,7 +32212,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石川高信（2）",
@@ -32226,7 +32226,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小畠虎盛",
@@ -32240,7 +32240,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "渡辺糺",
@@ -32254,7 +32254,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三枝昌貞",
@@ -32268,7 +32268,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "諏訪頼重（2）",
@@ -32282,7 +32282,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "藤田信吉",
@@ -32296,7 +32296,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "芳賀高定",
@@ -32310,7 +32310,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "菊姫（2）",
@@ -32324,7 +32324,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信行（2）",
@@ -32338,7 +32338,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "保科正俊（2）",
@@ -32352,7 +32352,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田利政（2）",
@@ -32366,7 +32366,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "稲葉正成（2）",
@@ -32380,7 +32380,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本庄実乃",
@@ -32394,7 +32394,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田晴信",
@@ -32407,7 +32407,7 @@ const generalGrowthDB = [
     tacticsBase: 425.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長尾景虎",
@@ -32420,7 +32420,7 @@ const generalGrowthDB = [
     tacticsBase: 385.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利隆元",
@@ -32433,7 +32433,7 @@ const generalGrowthDB = [
     tacticsBase: 380.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木下藤吉郎",
@@ -32446,7 +32446,7 @@ const generalGrowthDB = [
     tacticsBase: 420.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明智光秀",
@@ -32459,7 +32459,7 @@ const generalGrowthDB = [
     tacticsBase: 410.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多忠勝",
@@ -32472,7 +32472,7 @@ const generalGrowthDB = [
     tacticsBase: 385.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "今川義元",
@@ -32485,7 +32485,7 @@ const generalGrowthDB = [
     tacticsBase: 400.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "南部晴政",
@@ -32498,7 +32498,7 @@ const generalGrowthDB = [
     tacticsBase: 310.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津貴久",
@@ -32511,7 +32511,7 @@ const generalGrowthDB = [
     tacticsBase: 390.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平元康",
@@ -32524,7 +32524,7 @@ const generalGrowthDB = [
     tacticsBase: 385.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝倉義景",
@@ -32537,7 +32537,7 @@ const generalGrowthDB = [
     tacticsBase: 245.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田利家",
@@ -32550,7 +32550,7 @@ const generalGrowthDB = [
     tacticsBase: 345.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信長",
@@ -32563,7 +32563,7 @@ const generalGrowthDB = [
     tacticsBase: 415.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "村上義清",
@@ -32576,7 +32576,7 @@ const generalGrowthDB = [
     tacticsBase: 375.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条綱成",
@@ -32589,7 +32589,7 @@ const generalGrowthDB = [
     tacticsBase: 350.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蘆名盛氏",
@@ -32602,7 +32602,7 @@ const generalGrowthDB = [
     tacticsBase: 405.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好長慶",
@@ -32615,7 +32615,7 @@ const generalGrowthDB = [
     tacticsBase: 430.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柴田勝家",
@@ -32628,7 +32628,7 @@ const generalGrowthDB = [
     tacticsBase: 280.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "滝川一益",
@@ -32641,7 +32641,7 @@ const generalGrowthDB = [
     tacticsBase: 310.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇佐美定満",
@@ -32654,7 +32654,7 @@ const generalGrowthDB = [
     tacticsBase: 425.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "中野宗時",
@@ -32667,7 +32667,7 @@ const generalGrowthDB = [
     tacticsBase: 415.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "塚原卜伝",
@@ -32680,7 +32680,7 @@ const generalGrowthDB = [
     tacticsBase: 180.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "丹羽長秀",
@@ -32693,7 +32693,7 @@ const generalGrowthDB = [
     tacticsBase: 410.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山中鹿介",
@@ -32706,7 +32706,7 @@ const generalGrowthDB = [
     tacticsBase: 190.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐々成政",
@@ -32719,7 +32719,7 @@ const generalGrowthDB = [
     tacticsBase: 160.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "安東愛季",
@@ -32732,7 +32732,7 @@ const generalGrowthDB = [
     tacticsBase: 385.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "南部信直",
@@ -32745,7 +32745,7 @@ const generalGrowthDB = [
     tacticsBase: 340.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "酒井忠次",
@@ -32758,7 +32758,7 @@ const generalGrowthDB = [
     tacticsBase: 395.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大内義隆",
@@ -32771,7 +32771,7 @@ const generalGrowthDB = [
     tacticsBase: 420.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高橋紹運",
@@ -32784,7 +32784,7 @@ const generalGrowthDB = [
     tacticsBase: 175.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柿崎景家",
@@ -32797,7 +32797,7 @@ const generalGrowthDB = [
     tacticsBase: 100.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "秋山信友",
@@ -32810,7 +32810,7 @@ const generalGrowthDB = [
     tacticsBase: 380.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高坂昌信",
@@ -32823,7 +32823,7 @@ const generalGrowthDB = [
     tacticsBase: 420.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏政",
@@ -32836,7 +32836,7 @@ const generalGrowthDB = [
     tacticsBase: 335.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "里見義堯",
@@ -32849,7 +32849,7 @@ const generalGrowthDB = [
     tacticsBase: 390.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "内藤昌豊",
@@ -32862,7 +32862,7 @@ const generalGrowthDB = [
     tacticsBase: 410.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤朝信",
@@ -32875,7 +32875,7 @@ const generalGrowthDB = [
     tacticsBase: 355.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "結城政勝",
@@ -32888,7 +32888,7 @@ const generalGrowthDB = [
     tacticsBase: 340.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長尾政景",
@@ -32901,7 +32901,7 @@ const generalGrowthDB = [
     tacticsBase: 390.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "種子島時尭",
@@ -32914,7 +32914,7 @@ const generalGrowthDB = [
     tacticsBase: 155.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "丸目長恵",
@@ -32927,7 +32927,7 @@ const generalGrowthDB = [
     tacticsBase: 175.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "成松信勝",
@@ -32940,7 +32940,7 @@ const generalGrowthDB = [
     tacticsBase: 135.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "香宗我部親泰",
@@ -32953,7 +32953,7 @@ const generalGrowthDB = [
     tacticsBase: 390.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇喜多秀家",
@@ -32966,7 +32966,7 @@ const generalGrowthDB = [
     tacticsBase: 355.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "安国寺恵瓊",
@@ -32980,7 +32980,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'E', yumi:'E', uma:'E', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "九鬼嘉隆",
@@ -32993,7 +32993,7 @@ const generalGrowthDB = [
     tacticsBase: 210.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "村上武吉",
@@ -33006,7 +33006,7 @@ const generalGrowthDB = [
     tacticsBase: 205.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部信親",
@@ -33019,7 +33019,7 @@ const generalGrowthDB = [
     tacticsBase: 380.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "富田重政",
@@ -33032,7 +33032,7 @@ const generalGrowthDB = [
     tacticsBase: 135.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "森長可",
@@ -33045,7 +33045,7 @@ const generalGrowthDB = [
     tacticsBase: 220.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鳥居元忠",
@@ -33058,7 +33058,7 @@ const generalGrowthDB = [
     tacticsBase: 190.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "池田恒興",
@@ -33071,7 +33071,7 @@ const generalGrowthDB = [
     tacticsBase: 390.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "仙石秀久",
@@ -33084,7 +33084,7 @@ const generalGrowthDB = [
     tacticsBase: 255.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤道三",
@@ -33097,7 +33097,7 @@ const generalGrowthDB = [
     tacticsBase: 360.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "義姫",
@@ -33110,7 +33110,7 @@ const generalGrowthDB = [
     tacticsBase: 320.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "猿飛佐助",
@@ -33123,7 +33123,7 @@ const generalGrowthDB = [
     tacticsBase: 300.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "猿飛佐助（2）",
@@ -33136,7 +33136,7 @@ const generalGrowthDB = [
     tacticsBase: 300.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "羽柴秀吉",
@@ -33149,7 +33149,7 @@ const generalGrowthDB = [
     tacticsBase: 460.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "姉小路頼綱",
@@ -33162,7 +33162,7 @@ const generalGrowthDB = [
     tacticsBase: 330.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇都宮広綱",
@@ -33175,7 +33175,7 @@ const generalGrowthDB = [
     tacticsBase: 290.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花誾千代",
@@ -33188,7 +33188,7 @@ const generalGrowthDB = [
     tacticsBase: 325.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "支倉常長",
@@ -33201,7 +33201,7 @@ const generalGrowthDB = [
     tacticsBase: 330.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "脇坂安治",
@@ -33214,7 +33214,7 @@ const generalGrowthDB = [
     tacticsBase: 250.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "片桐且元",
@@ -33227,7 +33227,7 @@ const generalGrowthDB = [
     tacticsBase: 410.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "母里太兵衛",
@@ -33240,7 +33240,7 @@ const generalGrowthDB = [
     tacticsBase: 370.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "筒井順慶",
@@ -33253,7 +33253,7 @@ const generalGrowthDB = [
     tacticsBase: 390.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "霧隠才蔵",
@@ -33266,7 +33266,7 @@ const generalGrowthDB = [
     tacticsBase: 315.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "堀秀政",
@@ -33279,7 +33279,7 @@ const generalGrowthDB = [
     tacticsBase: 385.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真壁氏幹",
@@ -33292,7 +33292,7 @@ const generalGrowthDB = [
     tacticsBase: 385.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "志賀親次",
@@ -33305,7 +33305,7 @@ const generalGrowthDB = [
     tacticsBase: 400.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉良親貞",
@@ -33318,7 +33318,7 @@ const generalGrowthDB = [
     tacticsBase: 350.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "清水宗治",
@@ -33331,7 +33331,7 @@ const generalGrowthDB = [
     tacticsBase: 320.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好政康",
@@ -33344,7 +33344,7 @@ const generalGrowthDB = [
     tacticsBase: 340.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石川数正",
@@ -33357,7 +33357,7 @@ const generalGrowthDB = [
     tacticsBase: 390.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小松姫",
@@ -33371,7 +33371,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "正木利英",
@@ -33384,7 +33384,7 @@ const generalGrowthDB = [
     tacticsBase: 380.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "結城晴朝",
@@ -33397,7 +33397,7 @@ const generalGrowthDB = [
     tacticsBase: 380.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "細川藤孝",
@@ -33410,7 +33410,7 @@ const generalGrowthDB = [
     tacticsBase: 330.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蜂須賀至鎮",
@@ -33423,7 +33423,7 @@ const generalGrowthDB = [
     tacticsBase: 390.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "京極高次",
@@ -33436,7 +33436,7 @@ const generalGrowthDB = [
     tacticsBase: 310.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平忠直",
@@ -33449,7 +33449,7 @@ const generalGrowthDB = [
     tacticsBase: 330.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "千代",
@@ -33462,7 +33462,7 @@ const generalGrowthDB = [
     tacticsBase: 400.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信行",
@@ -33475,7 +33475,7 @@ const generalGrowthDB = [
     tacticsBase: 310.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松前慶広",
@@ -33488,7 +33488,7 @@ const generalGrowthDB = [
     tacticsBase: 350.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "羽柴秀長",
@@ -33501,7 +33501,7 @@ const generalGrowthDB = [
     tacticsBase: 325.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明智秀満",
@@ -33514,7 +33514,7 @@ const generalGrowthDB = [
     tacticsBase: 355.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津豊久",
@@ -33527,7 +33527,7 @@ const generalGrowthDB = [
     tacticsBase: 325.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達政宗",
@@ -33540,7 +33540,7 @@ const generalGrowthDB = [
     tacticsBase: 400.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "豪姫",
@@ -33553,7 +33553,7 @@ const generalGrowthDB = [
     tacticsBase: 325.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "赤井直正",
@@ -33566,7 +33566,7 @@ const generalGrowthDB = [
     tacticsBase: 330.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好長逸",
@@ -33579,7 +33579,7 @@ const generalGrowthDB = [
     tacticsBase: 340.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "多目元忠",
@@ -33592,7 +33592,7 @@ const generalGrowthDB = [
     tacticsBase: 410.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "富永直勝",
@@ -33605,7 +33605,7 @@ const generalGrowthDB = [
     tacticsBase: 340.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条綱高",
@@ -33618,7 +33618,7 @@ const generalGrowthDB = [
     tacticsBase: 355.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "駒姫",
@@ -33631,7 +33631,7 @@ const generalGrowthDB = [
     tacticsBase: 400.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松野重元",
@@ -33644,7 +33644,7 @@ const generalGrowthDB = [
     tacticsBase: 380.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "京極高知",
@@ -33657,7 +33657,7 @@ const generalGrowthDB = [
     tacticsBase: 360.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "九戸政実",
@@ -33670,7 +33670,7 @@ const generalGrowthDB = [
     tacticsBase: 350.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "梅姫",
@@ -33683,7 +33683,7 @@ const generalGrowthDB = [
     tacticsBase: 370.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝比奈泰能",
@@ -33696,7 +33696,7 @@ const generalGrowthDB = [
     tacticsBase: 400.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長野業盛",
@@ -33709,7 +33709,7 @@ const generalGrowthDB = [
     tacticsBase: 330.0, tacticsGrowth: 1.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "菅沼定盈",
@@ -33722,7 +33722,7 @@ const generalGrowthDB = [
     tacticsBase: 310.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "井伊直盛",
@@ -33736,7 +33736,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "関成政",
@@ -33750,7 +33750,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊東義祐",
@@ -33764,7 +33764,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "有馬豊氏",
@@ -33778,7 +33778,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蒲生秀行",
@@ -33792,7 +33792,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田秀信",
@@ -33805,7 +33805,7 @@ const generalGrowthDB = [
     tacticsBase: 360.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "京極マリア",
@@ -33819,7 +33819,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "色部勝長",
@@ -33833,7 +33833,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "富田信高",
@@ -33847,7 +33847,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "弥助",
@@ -33861,7 +33861,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉田長利",
@@ -33875,7 +33875,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "脇坂安元",
@@ -33889,7 +33889,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "金森長近",
@@ -33903,7 +33903,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "シン",
@@ -33917,7 +33917,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田信玄",
@@ -33931,7 +33931,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉謙信",
@@ -33945,7 +33945,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花宗茂",
@@ -33958,7 +33958,7 @@ const generalGrowthDB = [
     tacticsBase: 380.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "村田吉次",
@@ -33972,7 +33972,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "六角義治",
@@ -33986,7 +33986,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'A', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蛍",
@@ -34000,7 +34000,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小雀",
@@ -34014,7 +34014,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松浦隆信",
@@ -34028,7 +34028,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本庄実乃",
@@ -34042,7 +34042,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "河田長親",
@@ -34056,7 +34056,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "中条藤資",
@@ -34070,7 +34070,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏照",
@@ -34084,7 +34084,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'E', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏規",
@@ -34098,7 +34098,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "中黒道随",
@@ -34112,7 +34112,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "日根野弘就",
@@ -34126,7 +34126,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "野々村三十郎",
@@ -34140,7 +34140,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尼子勝久",
@@ -34154,7 +34154,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐伯惟教",
@@ -34168,7 +34168,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "舞兵庫",
@@ -34182,7 +34182,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉田政重",
@@ -34196,7 +34196,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒川晴氏",
@@ -34210,7 +34210,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "御宿勘兵衛",
@@ -34224,7 +34224,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "谷忠澄",
@@ -34238,7 +34238,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "禰々",
@@ -34252,7 +34252,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多重次",
@@ -34266,7 +34266,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "戸田康光",
@@ -34280,7 +34280,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大道寺政繁",
@@ -34294,7 +34294,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "平岩親吉",
@@ -34308,7 +34308,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "九鬼守隆",
@@ -34322,7 +34322,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "渡辺守綱",
@@ -34336,7 +34336,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "根岸兎角",
@@ -34350,7 +34350,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小寺職隆",
@@ -34364,7 +34364,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒田利高",
@@ -34378,7 +34378,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊奈忠次",
@@ -34392,7 +34392,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "楯岡満茂",
@@ -34406,7 +34406,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尼子晴久",
@@ -34420,7 +34420,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "原虎胤",
@@ -34434,7 +34434,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信雄",
@@ -34448,7 +34448,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐久間信盛",
@@ -34462,7 +34462,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大野治房",
@@ -34476,7 +34476,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "飯田覚兵衛",
@@ -34490,7 +34490,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大谷吉治",
@@ -34504,7 +34504,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多忠朝",
@@ -34518,7 +34518,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "庄林隼人",
@@ -34532,7 +34532,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "森本儀太夫",
@@ -34546,7 +34546,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "神余光弘",
@@ -34560,7 +34560,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浜路姫",
@@ -34574,7 +34574,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "穴山信君",
@@ -34588,7 +34588,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田義信",
@@ -34602,7 +34602,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "エリン",
@@ -34616,7 +34616,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "沙也可",
@@ -34630,7 +34630,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "吉良親実",
@@ -34644,7 +34644,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松田憲秀",
@@ -34658,7 +34658,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "土井利勝",
@@ -34672,7 +34672,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長寿院盛淳",
@@ -34686,7 +34686,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平忠明",
@@ -34700,7 +34700,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "江戸忠通",
@@ -34714,7 +34714,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "遠藤基信",
@@ -34728,7 +34728,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "留守政景",
@@ -34742,7 +34742,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "円城寺信胤",
@@ -34756,7 +34756,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "江里口信常",
@@ -34770,7 +34770,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "森可成",
@@ -34784,7 +34784,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "近江の方",
@@ -34798,7 +34798,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'B', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "奥村永福",
@@ -34812,7 +34812,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "唐沢玄蕃",
@@ -34826,7 +34826,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "新庄直頼",
@@ -34840,7 +34840,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏直",
@@ -34854,7 +34854,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立原久綱",
@@ -34868,7 +34868,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'D', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "田原親賢",
@@ -34882,7 +34882,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石田正継",
@@ -34896,7 +34896,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信光",
@@ -34910,7 +34910,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "夏目吉信",
@@ -34924,7 +34924,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "正木時忠",
@@ -34938,7 +34938,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鳥居強右衛門",
@@ -34952,7 +34952,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田信綱",
@@ -34966,7 +34966,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "不破光治",
@@ -34980,7 +34980,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇喜多忠家",
@@ -34994,7 +34994,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'E', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好義継",
@@ -35008,7 +35008,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "摩阿姫",
@@ -35022,7 +35022,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尼子義久",
@@ -35036,7 +35036,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田守信",
@@ -35050,7 +35050,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達政道",
@@ -35064,7 +35064,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本願寺宣如",
@@ -35078,7 +35078,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'E', uma:'D', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "十市遠忠",
@@ -35092,7 +35092,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "乃美宗勝",
@@ -35106,7 +35106,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "足利晴氏",
@@ -35120,7 +35120,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "坂井政尚",
@@ -35134,7 +35134,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "弓削家澄",
@@ -35148,7 +35148,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "青柳",
@@ -35162,7 +35162,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "南殿",
@@ -35176,7 +35176,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "花",
@@ -35190,7 +35190,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小野道高",
@@ -35204,7 +35204,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山岡景友",
@@ -35218,7 +35218,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'B', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳永寿昌",
@@ -35232,7 +35232,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高徳院",
@@ -35246,7 +35246,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信広",
@@ -35260,7 +35260,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好宗三",
@@ -35274,7 +35274,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉朝定",
@@ -35288,7 +35288,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "玄広恵探",
@@ -35302,7 +35302,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信包",
@@ -35316,7 +35316,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "杉谷善住坊",
@@ -35330,7 +35330,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "久米五郎",
@@ -35344,7 +35344,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "川上久朗",
@@ -35358,7 +35358,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "日根野弘就（2）",
@@ -35372,7 +35372,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "湯川直光",
@@ -35386,7 +35386,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "酒井忠勝",
@@ -35400,7 +35400,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平信綱",
@@ -35414,7 +35414,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "容光院",
@@ -35428,7 +35428,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊地知重興",
@@ -35442,7 +35442,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大坂新助",
@@ -35456,7 +35456,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "水谷正村",
@@ -35470,7 +35470,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊東義益",
@@ -35483,7 +35483,7 @@ const generalGrowthDB = [
     tacticsBase: 430.0, tacticsGrowth: 1.5,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "中川清秀",
@@ -35497,7 +35497,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "中村一氏",
@@ -35511,7 +35511,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蘆名盛興",
@@ -35525,7 +35525,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大庭三左衛門",
@@ -35539,7 +35539,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "内藤義清",
@@ -35553,7 +35553,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤忠正",
@@ -35567,7 +35567,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "榊原康勝",
@@ -35581,7 +35581,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田信吉",
@@ -35595,7 +35595,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "竹中重門",
@@ -35609,7 +35609,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'D', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明智光安",
@@ -35623,7 +35623,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "酒井家次",
@@ -35637,7 +35637,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'E', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大久保忠世",
@@ -35651,7 +35651,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "溝尾茂朝",
@@ -35665,7 +35665,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "湯浅五助",
@@ -35679,7 +35679,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "河野通直",
@@ -35693,7 +35693,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "七里頼周",
@@ -35707,7 +35707,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長谷川秀一",
@@ -35720,7 +35720,7 @@ const generalGrowthDB = [
     tacticsBase: 420.0, tacticsGrowth: 2.0,
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尾関正勝",
@@ -35734,7 +35734,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛受勝照",
@@ -35748,7 +35748,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "清光院",
@@ -35762,7 +35762,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "津田信澄",
@@ -35776,7 +35776,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "御ツマキ",
@@ -35790,7 +35790,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上井覚兼",
@@ -35804,7 +35804,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "天童頼澄",
@@ -35818,7 +35818,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "土岐頼芸",
@@ -35832,7 +35832,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'D', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "赤松義祐",
@@ -35846,7 +35846,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "飛鳥井雅量",
@@ -35860,7 +35860,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "渡辺糺",
@@ -35874,7 +35874,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "桑名吉成",
@@ -35888,7 +35888,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "都築秀綱",
@@ -35902,7 +35902,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "五藤為重",
@@ -35916,7 +35916,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "久武親信",
@@ -35930,7 +35930,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "太田宗正",
@@ -35944,7 +35944,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'D', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "金子元宅",
@@ -35958,7 +35958,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "池田勝正",
@@ -35972,7 +35972,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尾藤知宣",
@@ -35986,7 +35986,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'D', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "丸毛兼利",
@@ -36000,7 +36000,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "葛西晴信",
@@ -36014,7 +36014,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'B', uma:'D', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "千葉胤富",
@@ -36028,7 +36028,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'D', yumi:'C', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "八十姫",
@@ -36042,7 +36042,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "足利政知",
@@ -36056,7 +36056,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "中野康実",
@@ -36070,7 +36070,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "家城之清",
@@ -36084,7 +36084,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佃十成",
@@ -36098,7 +36098,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "屋代正国",
@@ -36112,7 +36112,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "神子田正治",
@@ -36126,7 +36126,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高力清長",
@@ -36140,7 +36140,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伝妙院",
@@ -36154,7 +36154,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "山中長俊",
@@ -36168,7 +36168,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長坂信政",
@@ -36182,7 +36182,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "新発田重家",
@@ -36196,7 +36196,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇久純定",
@@ -36210,7 +36210,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "林秀貞",
@@ -36224,7 +36224,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "横谷幸重",
@@ -36238,7 +36238,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木下頼継",
@@ -36252,7 +36252,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "有吉立行",
@@ -36266,7 +36266,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津忠長",
@@ -36280,7 +36280,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "岩成友通",
@@ -36294,7 +36294,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "安倍元真",
@@ -36308,7 +36308,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅利信種",
@@ -36322,7 +36322,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "木下家定",
@@ -36336,7 +36336,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "土屋昌続",
@@ -36350,7 +36350,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "頴娃久虎",
@@ -36364,7 +36364,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "熊谷信直",
@@ -36378,7 +36378,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "成富茂安",
@@ -36392,7 +36392,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "進藤貞治",
@@ -36406,7 +36406,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松永長頼",
@@ -36420,7 +36420,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田義統",
@@ -36434,7 +36434,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "後藤賢豊",
@@ -36448,7 +36448,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "色部長実",
@@ -36462,7 +36462,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "江上家種",
@@ -36476,7 +36476,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "横浜一庵",
@@ -36490,7 +36490,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "羽田正親",
@@ -36504,7 +36504,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "賀島政慶",
@@ -36518,7 +36518,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三雲定持",
@@ -36532,7 +36532,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "飯田興秀",
@@ -36546,7 +36546,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊勢貞孝",
@@ -36560,7 +36560,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高山友照",
@@ -36574,7 +36574,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "津川義冬",
@@ -36588,7 +36588,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊木忠次",
@@ -36602,7 +36602,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長続連",
@@ -36616,7 +36616,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "高橋鑑種",
@@ -36630,7 +36630,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "阿蘇惟種",
@@ -36644,7 +36644,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "神保総誠",
@@ -36658,7 +36658,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好康長",
@@ -36672,7 +36672,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小西ワクサ",
@@ -36686,7 +36686,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "中村時長",
@@ -36700,7 +36700,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "芳賀高武",
@@ -36714,7 +36714,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "多賀谷政広",
@@ -36728,7 +36728,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "陶興房",
@@ -36742,7 +36742,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "安富徳円",
@@ -36756,7 +36756,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "牟宇姫",
@@ -36770,7 +36770,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鳳翔院殿",
@@ -36784,7 +36784,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'B', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "猪俣邦憲",
@@ -36798,7 +36798,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'C', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小野木重勝",
@@ -36812,7 +36812,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'C', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信長",
@@ -36826,7 +36826,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "足利義昭",
@@ -36840,7 +36840,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'C', yumi:'S', uma:'D', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田信玄",
@@ -36854,7 +36854,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉謙信",
@@ -36868,7 +36868,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利元就",
@@ -36882,7 +36882,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏康",
@@ -36896,7 +36896,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川家康",
@@ -36910,7 +36910,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅井長政",
@@ -36924,7 +36924,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津義久",
@@ -36938,7 +36938,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部元親",
@@ -36952,7 +36952,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大友宗麟",
@@ -36966,7 +36966,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "最上義光",
@@ -36980,7 +36980,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達政宗",
@@ -36994,7 +36994,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "豊臣秀吉",
@@ -37008,7 +37008,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川家康（2）",
@@ -37022,7 +37022,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石田三成",
@@ -37036,7 +37036,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒田如水",
@@ -37050,7 +37050,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信長（2）",
@@ -37064,7 +37064,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "足利義昭（2）",
@@ -37078,7 +37078,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'C', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田信玄（2）",
@@ -37092,7 +37092,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉謙信（2）",
@@ -37106,7 +37106,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利元就（2）",
@@ -37120,7 +37120,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'C', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏康（2）",
@@ -37134,7 +37134,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川家康（3）",
@@ -37148,7 +37148,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅井長政（2）",
@@ -37162,7 +37162,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津義久（2）",
@@ -37176,7 +37176,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部元親（2）",
@@ -37190,7 +37190,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大友宗麟（2）",
@@ -37204,7 +37204,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "最上義光（2）",
@@ -37218,7 +37218,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達政宗（2）",
@@ -37232,7 +37232,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "豊臣秀吉（2）",
@@ -37246,7 +37246,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石田三成（2）",
@@ -37260,7 +37260,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒田如水（2）",
@@ -37274,7 +37274,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "今川義元",
@@ -37288,7 +37288,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "淀",
@@ -37302,7 +37302,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明智光秀",
@@ -37316,7 +37316,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田昌幸",
@@ -37330,7 +37330,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "雑賀孫市",
@@ -37344,7 +37344,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉景勝",
@@ -37358,7 +37358,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利輝元",
@@ -37372,7 +37372,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川家康（4）【覇】",
@@ -37386,7 +37386,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇喜多秀家",
@@ -37400,7 +37400,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤清正",
@@ -37414,7 +37414,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "福島正則",
@@ -37428,7 +37428,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津義弘",
@@ -37442,7 +37442,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信長（3）【覇】",
@@ -37456,7 +37456,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐竹義重",
@@ -37470,7 +37470,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "雑賀孫市（2）",
@@ -37484,7 +37484,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'E', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏康（3）",
@@ -37498,7 +37498,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "お市",
@@ -37512,7 +37512,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'C', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "豊臣秀吉（3）【覇】",
@@ -37526,7 +37526,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津義久（3）",
@@ -37540,7 +37540,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'C', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田利家",
@@ -37554,7 +37554,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'SS', yumi:'A', uma:'A', ki:'D'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉景勝（2）",
@@ -37568,7 +37568,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川家康（5）",
@@ -37582,7 +37582,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利輝元（2）",
@@ -37596,7 +37596,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達政宗（3）",
@@ -37610,7 +37610,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'C', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏政",
@@ -37624,7 +37624,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部元親（3）",
@@ -37638,7 +37638,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐竹義重（2）",
@@ -37652,7 +37652,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'C', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "龍造寺隆信（2）",
@@ -37666,7 +37666,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'A', ki:'E'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柴田勝家",
@@ -37680,7 +37680,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田信玄（3）【覇】",
@@ -37694,7 +37694,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'SS', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉謙信（3）【覇】",
@@ -37708,7 +37708,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'A', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤道三",
@@ -37722,7 +37722,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好長慶",
@@ -37736,7 +37736,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尼子晴久",
@@ -37750,7 +37750,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達政宗（4）【覇】",
@@ -37764,7 +37764,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'C', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉景勝（3）",
@@ -37778,7 +37778,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'SS', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田昌幸（2）",
@@ -37792,7 +37792,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'S', ki:'C'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "福島正則（2）",
@@ -37806,7 +37806,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石田三成（3）",
@@ -37820,7 +37820,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇喜多秀家（2）",
@@ -37834,7 +37834,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部盛親",
@@ -37848,7 +37848,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤清正（2）",
@@ -37862,7 +37862,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'SS', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花宗茂",
@@ -37876,7 +37876,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小早川秀秋",
@@ -37890,7 +37890,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津義弘（2）",
@@ -37904,7 +37904,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'SS'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "ねね",
@@ -37918,7 +37918,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'SS', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田信繁",
@@ -37932,7 +37932,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "明智光秀（2）【覇】",
@@ -37946,7 +37946,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'A', uma:'A', ki:'SS'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信長（4）【覇】",
@@ -37960,7 +37960,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "豊臣秀吉（4）",
@@ -37974,7 +37974,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川家康（6）",
@@ -37988,7 +37988,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利輝元（3）",
@@ -38002,7 +38002,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'SS', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏政（2）",
@@ -38016,7 +38016,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部元親（4）",
@@ -38030,7 +38030,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'C', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津義久（4）",
@@ -38044,7 +38044,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柴田勝家（2）",
@@ -38058,7 +38058,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "里見義堯",
@@ -38072,7 +38072,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田勝頼",
@@ -38086,7 +38086,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'C', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "相馬義胤",
@@ -38100,7 +38100,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'SS', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "井伊直虎",
@@ -38114,7 +38114,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好長慶（2）【覇】",
@@ -38128,7 +38128,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'SS'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏康（4）【覇】",
@@ -38142,7 +38142,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信秀",
@@ -38156,7 +38156,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'SS'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤道三（2）",
@@ -38170,7 +38170,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田晴信",
@@ -38184,7 +38184,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長尾景虎",
@@ -38198,7 +38198,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "南部晴政",
@@ -38212,7 +38212,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝倉孝景",
@@ -38226,7 +38226,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尼子晴久（2）",
@@ -38240,7 +38240,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "今川義元（2）",
@@ -38254,7 +38254,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'S', uma:'B', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大内義隆",
@@ -38268,7 +38268,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'B', yumi:'B', uma:'B', ki:'SSS'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津貴久",
@@ -38282,7 +38282,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "足利義輝【覇】",
@@ -38296,7 +38296,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'B', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条早雲【覇】",
@@ -38310,7 +38310,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尼子経久",
@@ -38324,7 +38324,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "安東愛季",
@@ -38338,7 +38338,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蒲生氏郷",
@@ -38352,7 +38352,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本願寺顕如",
@@ -38366,7 +38366,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'B', ki:'SS'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小田氏治",
@@ -38380,7 +38380,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "村上義清",
@@ -38394,7 +38394,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松永久秀",
@@ -38408,7 +38408,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部盛親（2）",
@@ -38422,7 +38422,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'SS'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "相良義陽",
@@ -38436,7 +38436,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'SS'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "豊臣秀頼",
@@ -38450,7 +38450,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信長（5）【覇】",
@@ -38464,7 +38464,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川家康（7）【覇】",
@@ -38478,7 +38478,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "羽柴秀吉【覇】",
@@ -38492,7 +38492,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉景勝（4）",
@@ -38506,7 +38506,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "柴田勝家（3）",
@@ -38520,7 +38520,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏政（3）",
@@ -38534,7 +38534,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利輝元（4）",
@@ -38548,7 +38548,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊東義祐",
@@ -38562,7 +38562,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'B', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田勝頼（2）",
@@ -38576,7 +38576,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "里見義堯（2）",
@@ -38590,7 +38590,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "最上義光（3）",
@@ -38604,7 +38604,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇喜多直家",
@@ -38618,7 +38618,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利元就（3）【覇】",
@@ -38632,7 +38632,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "今川義元（3）【覇】",
@@ -38646,7 +38646,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "細川晴元",
@@ -38660,7 +38660,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蘆名盛氏",
@@ -38674,7 +38674,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信秀（2）",
@@ -38688,7 +38688,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平清康",
@@ -38702,7 +38702,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "斎藤道三（3）",
@@ -38716,7 +38716,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達晴宗",
@@ -38730,7 +38730,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尼子経久（2）",
@@ -38744,7 +38744,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条早雲（2）",
@@ -38758,7 +38758,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'S', ki:'B'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "朝倉孝景（2）",
@@ -38772,7 +38772,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津忠良",
@@ -38786,7 +38786,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "石田三成（4）【覇】",
@@ -38800,7 +38800,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒田如水（3）【覇】",
@@ -38814,7 +38814,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "加藤清正（3）",
@@ -38828,7 +38828,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "直江兼続",
@@ -38842,7 +38842,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "太田道灌",
@@ -38856,7 +38856,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田幸村",
@@ -38870,7 +38870,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松平元康",
@@ -38884,7 +38884,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大谷吉継",
@@ -38898,7 +38898,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "松永久秀（2）",
@@ -38912,7 +38912,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "村上武吉",
@@ -38926,7 +38926,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花宗茂（2）",
@@ -38940,7 +38940,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "鍋島直茂",
@@ -38954,7 +38954,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "蘆名盛氏（2）【覇】",
@@ -38968,7 +38968,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尼子経久（3）【覇】",
@@ -38982,7 +38982,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉憲政",
@@ -38996,7 +38996,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田信虎",
@@ -39010,7 +39010,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏綱",
@@ -39024,7 +39024,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北畠具教",
@@ -39038,7 +39038,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "今川氏親",
@@ -39052,7 +39052,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "六角承禎",
@@ -39066,7 +39066,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "一条兼定",
@@ -39080,7 +39080,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津貴久（2）",
@@ -39094,7 +39094,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'SS'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "大友宗麟（3）",
@@ -39108,7 +39108,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "龍造寺隆信",
@@ -39122,7 +39122,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "豊臣秀吉（5）【覇】",
@@ -39136,7 +39136,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "徳川家康（8）【覇】",
@@ -39150,7 +39150,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部元親（5）",
@@ -39164,7 +39164,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "三好長慶（3）",
@@ -39178,7 +39178,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "北条氏康（5）",
@@ -39192,7 +39192,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田信玄（4）",
@@ -39206,7 +39206,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉謙信（4）",
@@ -39220,7 +39220,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達政宗（5）",
@@ -39234,7 +39234,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'SS', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "浅井長政（3）",
@@ -39248,7 +39248,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "島津義久（5）",
@@ -39262,7 +39262,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利元就（4）",
@@ -39276,7 +39276,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "足利義昭（3）【覇】",
@@ -39290,7 +39290,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本願寺顕如（2）【覇】",
@@ -39304,7 +39304,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "安東愛季（2）",
@@ -39318,7 +39318,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "南部晴政（2）",
@@ -39332,7 +39332,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "佐竹義重（3）",
@@ -39346,7 +39346,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "里見義弘",
@@ -39360,7 +39360,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田勝頼（3）",
@@ -39374,7 +39374,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "前田利家（2）",
@@ -39388,7 +39388,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'SS', yumi:'B', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "雑賀孫市（3）",
@@ -39402,7 +39402,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'B', ki:'SS'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "宇喜多直家（2）",
@@ -39416,7 +39416,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "有馬晴信",
@@ -39430,7 +39430,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "相良義陽（2）",
@@ -39444,7 +39444,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "上杉景勝（5）【覇】",
@@ -39458,7 +39458,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'SS', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "毛利輝元（5）【覇】",
@@ -39472,7 +39472,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'SS', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "最上義光（4）",
@@ -39486,7 +39486,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "本多忠勝",
@@ -39500,7 +39500,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "真田信之",
@@ -39514,7 +39514,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "福島正則（3）",
@@ -39528,7 +39528,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'SS', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "豊臣秀頼（2）",
@@ -39542,7 +39542,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'SS'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "藤堂高虎",
@@ -39556,7 +39556,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'S', uma:'S', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "長宗我部盛親（3）",
@@ -39570,7 +39570,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "小早川秀秋（2）",
@@ -39584,7 +39584,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "黒田長政",
@@ -39598,7 +39598,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'SS'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "尚寧王",
@@ -39612,7 +39612,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "淀-復刻-",
@@ -39626,7 +39626,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "豊臣秀吉-復刻-（3）【覇】",
@@ -39640,7 +39640,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "武田勝頼-復刻-",
@@ -39654,7 +39654,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'B', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花宗茂-復刻-",
@@ -39668,7 +39668,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'S', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "立花誾千代",
@@ -39682,7 +39682,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "細川ガラシャ",
@@ -39696,7 +39696,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "伊達政宗-復刻-（4）【覇】",
@@ -39710,7 +39710,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'B', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "江",
@@ -39724,7 +39724,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'A'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   {
     name: "織田信長-復刻-（4）【覇】",
@@ -39738,7 +39738,7 @@ const generalGrowthDB = [
     rankGrades: {yari:'A', yumi:'A', uma:'S', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
-    note: '2026-09-08 に正本から生成。成長値が null のものは未確認。'
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
   },
   // BUILD:simGenerals:end
 ];
