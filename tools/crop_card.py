@@ -21,7 +21,7 @@
   python tools/crop_card.py --all                # アーカイブ内の全No.を処理(既存ファイルは上書きしない)
 """
 import sys, pathlib
-from PIL import Image
+from PIL import Image, ImageChops, ImageFilter, ImageStat
 
 ARCH = pathlib.Path(r"C:\Users\uesug\ixa-simulator-char-screenshots\元スクリーンショット")
 CROPTEST = pathlib.Path(r"C:\Users\uesug\ixa-simulator-char-screenshots\crop_test")
@@ -138,6 +138,59 @@ def find_heart_bottom(im, xlimit):
     return (best[1], best[2], best[3], best[4], best[5]), None
 
 
+
+# ============ 形で位置を合わせる(2026-09-09) ============
+#
+# なぜ要るか: うぐさんが持っていない札はゲーム内で**白黒**表示になる。
+# これまでの位置合わせはカード左下の**赤いハート**を探していたので、
+# 白黒だと赤が消えて一切効かない。**色に頼らない目印が要る。**
+#
+# 使うのは「カードの枠・箱・固定の文字」の形。承認済みの元画像1013枚を
+# ハート基準で正しく切り抜き、輪郭の強さを足し合わせて作った面(card_frame_mask.png)を
+# 滑らせ、いちばん合う位置を基点とする。カードの絵は1枚ごとに違うので
+# 足すと消え、全カード共通の形だけが残る。
+#
+# **枠の縁は使わない。** 縁は同じ模様が10pxおきに続くので、そこに合わせると
+# 10pxずれても点数が同じになる(実測: 一致56%、±10pxのずれが41%)。
+# 繰り返さないもの(アイコン・数値の桁・指揮兵数の帯)だけを窓で切って使う。
+# その窓に絞ったら承認済み1024枚に対して**一致97.0%**になった。
+# 外れた31枚はほとんどが傑(レイアウトが別物・全13枚)と、
+# ハート側の検出がそもそも外れていたもの。
+FRAME_MASK = pathlib.Path(__file__).with_name("card_frame_mask.png")
+FRAME_HINT = (20, 24)   # だいたいこの辺という当たり。ここから±26を探す
+FRAME_SPAN = 26
+
+
+def _frame_mask():
+    if not FRAME_MASK.exists():
+        return None
+    return Image.open(FRAME_MASK).convert("L")
+
+
+def find_frame(im, hint=FRAME_HINT, span=FRAME_SPAN):
+    """枠の形から切り抜きの基点を求める。色は一切見ない。
+
+    戻り値は ((left, top), None) か (None, 理由)。
+    """
+    mask = _frame_mask()
+    if mask is None:
+        return None, "枠の型(card_frame_mask.png)が無い"
+    edge = im.convert("L").filter(ImageFilter.FIND_EDGES)
+    W, H = mask.size
+    best = None
+    for oy in range(hint[1] - span, hint[1] + span + 1):
+        for ox in range(hint[0] - span, hint[0] + span + 1):
+            if ox < 0 or oy < 0 or ox + W > edge.size[0] or oy + H > edge.size[1]:
+                continue
+            s = ImageStat.Stat(ImageChops.multiply(
+                edge.crop((ox, oy, ox + W, oy + H)), mask)).sum[0]
+            if best is None or s > best[0]:
+                best = (s, ox, oy)
+    if best is None:
+        return None, "型を置ける場所が無い(元画像が小さい)"
+    return (best[1], best[2]), None
+
+
 def crop_one(no, verbose=True, origin=None):
     src = ARCH / ("スクリーンショット_%s.png" % no)
     if not src.exists():
@@ -168,8 +221,24 @@ def crop_one(no, verbose=True, origin=None):
                     return ("No.%s 予備の検出でも収まらない(基点 %d,%d / 画像 %dx%d)。"
                             "--origin 左,上 で手で指定できる" % (no, l0, t0, im.size[0], im.size[1]))
             else:
-                return ("No.%s ハート検出失敗(通常=%s / 予備=%s)。"
-                        "--origin 左,上 で手で指定できる" % (no, err, err2))
+                # 白黒のスクリーンショットではハートの赤が消えるので、
+                # ここに落ちる。**色ではなく形**で合わせ直す(find_frame)。
+                fr, ferr = find_frame(im)
+                if fr:
+                    left, top = fr
+                    if (left >= 0 and top >= 0
+                            and left + TYPE1[0] <= im.size[0]
+                            and top + TYPE1[1] <= im.size[1]):
+                        minX, minY, hw, hh, n = (left + ANCHOR_X,
+                                                 top + ANCHOR_Y, 0, 0, 0)
+                        res, way = (minX, minY, 0, 0, 0), "形(枠)で合わせた"
+                    else:
+                        return ("No.%s 形で合わせた基点が収まらない(%d,%d / 画像 %dx%d)"
+                                % (no, left, top, im.size[0], im.size[1]))
+                else:
+                    return ("No.%s ハート検出失敗(通常=%s / 予備=%s) / 形でも失敗(%s)。"
+                            "--origin 左,上 で手で指定できる"
+                            % (no, err, err2, ferr))
         minX, minY, hw, hh, n = res
         left, top = minX - ANCHOR_X, minY - ANCHOR_Y
     if left < 0 or top < 0:
