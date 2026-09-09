@@ -145,50 +145,83 @@ def find_heart_bottom(im, xlimit):
 # これまでの位置合わせはカード左下の**赤いハート**を探していたので、
 # 白黒だと赤が消えて一切効かない。**色に頼らない目印が要る。**
 #
-# 使うのは「カードの枠・箱・固定の文字」の形。承認済みの元画像1013枚を
-# ハート基準で正しく切り抜き、輪郭の強さを足し合わせて作った面(card_frame_mask.png)を
-# 滑らせ、いちばん合う位置を基点とする。カードの絵は1枚ごとに違うので
-# 足すと消え、全カード共通の形だけが残る。
+# やり方: **同じレアリティの承認済み画像の左上をそのまま型にして、元画像から探す。**
+# 左上には飾り帯とレアリティのバッジがあり、同じレアリティなら1ドットまで同じ。
+# 当たった位置がそのまま切り抜きの基点になる。
 #
-# **枠の縁は使わない。** 縁は同じ模様が10pxおきに続くので、そこに合わせると
-# 10pxずれても点数が同じになる(実測: 一致56%、±10pxのずれが41%)。
-# 繰り返さないもの(アイコン・数値の桁・指揮兵数の帯)だけを窓で切って使う。
-# その窓に絞ったら承認済み1024枚に対して**一致97.0%**になった。
-# 外れた31枚はほとんどが傑(レイアウトが別物・全13枚)と、
-# ハート側の検出がそもそも外れていたもの。
-FRAME_MASK = pathlib.Path(__file__).with_name("card_frame_mask.png")
-FRAME_HINT = (20, 24)   # だいたいこの辺という当たり。ここから±26を探す
-FRAME_SPAN = 26
+# **平均した型は使わない。** 一度、承認済み1013枚の輪郭を足し合わせた型を作って
+# 試したが、飾り帯が10pxおきの繰り返し柄なので横に10pxずれても点数が同じになり、
+# 一致は56%しかなかった。繰り返さない部分に絞っても97%止まりで、白黒の No.2005 では
+# 実際に(20,23)と外した(正解は(17,19))。**承認済みの実物を型にすると8枚中8枚が
+# (17,19)で一致した。** レアリティごとに飾りの形が違うので、同じレアリティで比べる。
+REF_MAX = 6          # 型に使う承認済み画像の枚数(多数決)
+REF_BOX = (0, 0, 60, 60)
+REF_SPAN = 60        # 元画像のこの範囲から探す
+DATA = pathlib.Path(__file__).resolve().parent.parent / "data"
 
 
-def _frame_mask():
-    if not FRAME_MASK.exists():
-        return None
-    return Image.open(FRAME_MASK).convert("L")
+def _same_rarity_refs(no):
+    """同じレアリティで、画像が登録済みの No. を集める。"""
+    here = None
+    for d in sorted(DATA.glob("busho*")):
+        if (d / ("%s.json" % no)).exists():
+            here = d
+            break
+    if here is None:
+        return []
+    out = []
+    for p in sorted(here.glob("*.json")):
+        n = p.stem
+        if n == str(no):
+            continue
+        if (DEST / ("no%s_full.png" % n)).exists():
+            out.append(n)
+        if len(out) >= REF_MAX:
+            break
+    return out
 
 
-def find_frame(im, hint=FRAME_HINT, span=FRAME_SPAN):
-    """枠の形から切り抜きの基点を求める。色は一切見ない。
+def _score(tpl, edge, ox, oy, w, h):
+    if ox < 0 or oy < 0 or ox + w > edge.size[0] or oy + h > edge.size[1]:
+        return -1
+    return ImageStat.Stat(ImageChops.multiply(
+        tpl, edge.crop((ox, oy, ox + w, oy + h)))).sum[0]
+
+
+def find_frame(im, no):
+    """同じレアリティの承認済み画像を型にして基点を求める。色は一切見ない。
 
     戻り値は ((left, top), None) か (None, 理由)。
     """
-    mask = _frame_mask()
-    if mask is None:
-        return None, "枠の型(card_frame_mask.png)が無い"
+    refs = _same_rarity_refs(no)
+    if not refs:
+        return None, "同じレアリティの承認済み画像が無いので型を作れない"
     edge = im.convert("L").filter(ImageFilter.FIND_EDGES)
-    W, H = mask.size
-    best = None
-    for oy in range(hint[1] - span, hint[1] + span + 1):
-        for ox in range(hint[0] - span, hint[0] + span + 1):
-            if ox < 0 or oy < 0 or ox + W > edge.size[0] or oy + H > edge.size[1]:
-                continue
-            s = ImageStat.Stat(ImageChops.multiply(
-                edge.crop((ox, oy, ox + W, oy + H)), mask)).sum[0]
-            if best is None or s > best[0]:
-                best = (s, ox, oy)
-    if best is None:
-        return None, "型を置ける場所が無い(元画像が小さい)"
-    return (best[1], best[2]), None
+    x0, y0, x1, y1 = REF_BOX
+    w, h = x1 - x0, y1 - y0
+    votes = {}
+    for r in refs:
+        tpl = (Image.open(DEST / ("no%s_full.png" % r)).convert("L")
+               .filter(ImageFilter.FIND_EDGES).crop(REF_BOX))
+        best = None
+        # 粗く探してから、その周りを1pxずつ詰める
+        for oy in range(0, REF_SPAN + 1, 3):
+            for ox in range(0, REF_SPAN + 1, 3):
+                s = _score(tpl, edge, ox, oy, w, h)
+                if best is None or s > best[0]:
+                    best = (s, ox, oy)
+        c = best
+        for oy in range(c[2] - 3, c[2] + 4):
+            for ox in range(c[1] - 3, c[1] + 4):
+                s = _score(tpl, edge, ox, oy, w, h)
+                if s > best[0]:
+                    best = (s, ox, oy)
+        votes[(best[1], best[2])] = votes.get((best[1], best[2]), 0) + 1
+    top = max(votes.items(), key=lambda kv: kv[1])
+    # **割れたら止める。** 揃わないまま切ると、ずれたまま登録される。
+    if top[1] * 2 <= len(refs):
+        return None, ("型%d枚の答えが割れた(%s)" % (len(refs), votes))
+    return top[0], None
 
 
 def crop_one(no, verbose=True, origin=None):
@@ -223,7 +256,7 @@ def crop_one(no, verbose=True, origin=None):
             else:
                 # 白黒のスクリーンショットではハートの赤が消えるので、
                 # ここに落ちる。**色ではなく形**で合わせ直す(find_frame)。
-                fr, ferr = find_frame(im)
+                fr, ferr = find_frame(im, no)
                 if fr:
                     left, top = fr
                     if (left >= 0 and top >= 0
