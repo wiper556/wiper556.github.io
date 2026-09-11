@@ -154,9 +154,23 @@ def find_heart_bottom(im, xlimit):
 # 一致は56%しかなかった。繰り返さない部分に絞っても97%止まりで、白黒の No.2005 では
 # 実際に(20,23)と外した(正解は(17,19))。**承認済みの実物を型にすると8枚中8枚が
 # (17,19)で一致した。** レアリティごとに飾りの形が違うので、同じレアリティで比べる。
-REF_MAX = 6          # 型に使う承認済み画像の枚数(多数決)
-REF_BOX = (0, 0, 60, 60)
-REF_SPAN = 60        # 元画像のこの範囲から探す
+#
+# **探すのは「切り抜きが元画像に収まる基点」だけ**(2026-09-11)。
+# 最初は 0〜60 の固定範囲を探していたが、元画像が 502x347 の No.2701 では
+# **収まる基点は y が 0〜32 しかない**。収まらない所の方が点が高いと
+# そちらが答えとして返り、「基点が収まらない」で止まっていた。
+# 範囲を収まる所に狭め、型を6枚から16枚に増やしたところ、
+# 手つかずだった3枚(2701/2829/2920)が16票中15票で揃った。
+# 外れる1票はいつも (+3,+4) で、承認済み画像の2割がずれている分と一致する。
+#
+# **1か所だけで決めない。** 左上は飾り帯の繰り返し柄なので、そこだけ見ていると
+# 引っかかっていても気づけない。左下(ハート周りの枠)でも別に突き合わせて、
+# 同じ基点になったときだけ通す。
+REF_MAX = 16         # 型に使う登録済み画像の枚数(多数決)
+REF_BOX = (0, 0, 60, 60)          # 左上(飾り帯+レアリティのバッジ)
+CHECK_BOX = (0, 255, 70, 315)     # 左下(ハート周りの枠)… 答え合わせ用
+CHECK_MAX = 8        # 答え合わせに使う枚数
+REF_SPAN = 60        # 探す範囲の上限(実際はここと「収まる範囲」の狭い方)
 DATA = pathlib.Path(__file__).resolve().parent.parent / "data"
 
 
@@ -181,46 +195,70 @@ def _same_rarity_refs(no):
     return out
 
 
-def _score(tpl, edge, ox, oy, w, h):
-    if ox < 0 or oy < 0 or ox + w > edge.size[0] or oy + h > edge.size[1]:
+def _score(tpl, edge, box, ox, oy):
+    """基点を (ox,oy) としたときに、型 tpl がどれだけ合うか。"""
+    x0, y0 = ox + box[0], oy + box[1]
+    w, h = box[2] - box[0], box[3] - box[1]
+    if x0 < 0 or y0 < 0 or x0 + w > edge.size[0] or y0 + h > edge.size[1]:
         return -1
     return ImageStat.Stat(ImageChops.multiply(
-        tpl, edge.crop((ox, oy, ox + w, oy + h)))).sum[0]
+        tpl, edge.crop((x0, y0, x0 + w, y0 + h)))).sum[0]
+
+
+def _vote(edge, refs, box, maxx, maxy):
+    """型ごとに一番合う基点を出して、票を数える。
+
+    **粗く探してから詰める、はやらない**(2026-09-11)。
+    3px飛ばしで当たりを付けて周り3pxを詰める作りだったが、飾り帯が繰り返し柄なので
+    近くに似た山がいくつも立ち、**飛ばした網の目から本当の山が漏れる**。
+    漏れたまま詰めてもそこからは出られない。実際、No.2701 は正解 (20,16) に対して
+    15枚が揃って (20,23) を返した(縦に7pxずれ。y=16 は 3px の網に無い)。
+    収まる範囲は普通40x40ほどしかないので、**1pxずつ全部見ても1秒かからない。**
+    """
+    votes = {}
+    for r in refs:
+        tpl = (Image.open(DEST / ("no%s_full.png" % r)).convert("L")
+               .filter(ImageFilter.FIND_EDGES).crop(box))
+        best = None
+        for oy in range(0, maxy + 1):
+            for ox in range(0, maxx + 1):
+                s = _score(tpl, edge, box, ox, oy)
+                if best is None or s > best[0]:
+                    best = (s, ox, oy)
+        if best is None:
+            continue
+        votes[(best[1], best[2])] = votes.get((best[1], best[2]), 0) + 1
+    return votes
 
 
 def find_frame(im, no):
-    """同じレアリティの承認済み画像を型にして基点を求める。色は一切見ない。
+    """同じレアリティの登録済み画像を型にして基点を求める。色は一切見ない。
 
     戻り値は ((left, top), None) か (None, 理由)。
     """
     refs = _same_rarity_refs(no)
     if not refs:
-        return None, "同じレアリティの承認済み画像が無いので型を作れない"
+        return None, "同じレアリティの登録済み画像が無いので型を作れない"
+    maxx, maxy = im.size[0] - TYPE1[0], im.size[1] - TYPE1[1]
+    if maxx < 0 or maxy < 0:
+        return None, ("元画像が %dx%d しかなく %dx%d を切り出せない"
+                      % (im.size[0], im.size[1], TYPE1[0], TYPE1[1]))
+    # 探すのは「切り抜きが収まる基点」だけ。収まらない所は最初から答えにしない
+    maxx, maxy = min(maxx, REF_SPAN), min(maxy, REF_SPAN)
     edge = im.convert("L").filter(ImageFilter.FIND_EDGES)
-    x0, y0, x1, y1 = REF_BOX
-    w, h = x1 - x0, y1 - y0
-    votes = {}
-    for r in refs:
-        tpl = (Image.open(DEST / ("no%s_full.png" % r)).convert("L")
-               .filter(ImageFilter.FIND_EDGES).crop(REF_BOX))
-        best = None
-        # 粗く探してから、その周りを1pxずつ詰める
-        for oy in range(0, REF_SPAN + 1, 3):
-            for ox in range(0, REF_SPAN + 1, 3):
-                s = _score(tpl, edge, ox, oy, w, h)
-                if best is None or s > best[0]:
-                    best = (s, ox, oy)
-        c = best
-        for oy in range(c[2] - 3, c[2] + 4):
-            for ox in range(c[1] - 3, c[1] + 4):
-                s = _score(tpl, edge, ox, oy, w, h)
-                if s > best[0]:
-                    best = (s, ox, oy)
-        votes[(best[1], best[2])] = votes.get((best[1], best[2]), 0) + 1
+    votes = _vote(edge, refs, REF_BOX, maxx, maxy)
+    if not votes:
+        return None, "型と突き合わせられなかった"
     top = max(votes.items(), key=lambda kv: kv[1])
     # **割れたら止める。** 揃わないまま切ると、ずれたまま登録される。
     if top[1] * 2 <= len(refs):
         return None, ("型%d枚の答えが割れた(%s)" % (len(refs), votes))
+    # 左上だけでは繰り返し柄に引っかかっていても気づけないので、左下でも確かめる
+    v2 = _vote(edge, refs[:CHECK_MAX], CHECK_BOX, maxx, maxy)
+    top2 = max(v2.items(), key=lambda kv: kv[1]) if v2 else None
+    if top2 is None or top2[0] != top[0]:
+        return None, ("左上と左下で答えが違う(左上=%s %d票 / 左下=%s)"
+                      % (top[0], top[1], top2[0] if top2 else "なし"))
     return top[0], None
 
 
