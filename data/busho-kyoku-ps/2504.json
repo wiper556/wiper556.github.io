@@ -46,5 +46,63 @@
  "wikiOldestComment": "2019-04-05",
  "wikiCommentCount": 33,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄壁の備え",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "才知徳行",
+   "rank": "D",
+   "afterSkill": "才知徳行",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "防御 20%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "柳眉倒豎",
+   "rank": "D",
+   "afterSkill": "柳眉倒豎",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "防御 24%上昇(合流攻撃防御時は効果2倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "天麟朧月",
+   "rank": "B",
+   "afterSkill": "天麟朧月",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "20%",
+   "effectShort": "防御 25%上昇(19時〜翌01時まで効果2倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "廟算合従陣",
+   "rank": "S",
+   "afterSkill": "騎神",
+   "afterRank": "SS",
+   "target": "弓馬砲",
+   "rate": "32%",
+   "effectShort": "防御 42%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 (コストx4.5) %+速度 50%上昇"
+  }
+ ]
 }

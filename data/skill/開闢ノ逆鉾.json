@@ -107,6 +107,38 @@
    "slot": "S2"
   },
   {
+   "name": "伊達政宗",
+   "no": "31292",
+   "slot": "S2",
+   "note": [
+    "伊達政宗（7）(31292)のsynthesisTable S2枠(2026-08-23)"
+   ]
+  },
+  {
+   "name": "毛利元就",
+   "no": "31293",
+   "slot": "A",
+   "note": [
+    "毛利元就（5）(31293)のsynthesisTable A枠(2026-08-23)"
+   ]
+  },
+  {
+   "name": "島津義弘",
+   "no": "31294",
+   "slot": "S2",
+   "note": [
+    "島津義弘（4）(31294)のsynthesisTable S2枠(2026-08-23)"
+   ]
+  },
+  {
+   "name": "毛利輝元",
+   "no": "31306",
+   "slot": "A・S2",
+   "note": [
+    "毛利輝元（7）(31306)のsynthesisTable A・S2枠(2026-08-23)"
+   ]
+  },
+  {
    "name": "細川晴元",
    "no": "31317",
    "slot": "S2",
@@ -136,6 +168,51 @@
    "db": "kyoku",
    "note": [
     "陶晴賢（3）(2473)のsynthesisTable C枠(2026-08-16、自己参照。ixanary+ixawikiの2ソース確認)"
+   ]
+  },
+  {
+   "name": "浅香庄次郎",
+   "no": "2498",
+   "slot": "B・S2",
+   "db": "kyoku",
+   "note": [
+    "浅香庄次郎(2498)のsynthesisTable B・S2枠(2026-08-23)"
+   ]
+  },
+  {
+   "name": "藤堂高虎（2）",
+   "no": "2565",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "藤堂高虎（2）(2565)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "曲直瀬道三-復刻Ⅱ-",
+   "no": "2578",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "曲直瀬道三-復刻Ⅱ-(2578)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "瑞渓院（2）",
+   "no": "2587",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "瑞渓院（2）(2587)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "立花誾千代（2）",
+   "no": "2588",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "立花誾千代（2）(2588)のsynthesisTable B枠(2026-09-11)"
    ]
   },
   {
@@ -203,47 +280,6 @@
    "no": "7405",
    "slot": "S2",
    "db": "kyoku"
-  },
-  {
-   "name": "浅香庄次郎",
-   "no": "2498",
-   "slot": "B・S2",
-   "db": "kyoku",
-   "note": [
-    "浅香庄次郎(2498)のsynthesisTable B・S2枠(2026-08-23)"
-   ]
-  },
-  {
-   "name": "伊達政宗",
-   "no": "31292",
-   "slot": "S2",
-   "note": [
-    "伊達政宗（7）(31292)のsynthesisTable S2枠(2026-08-23)"
-   ]
-  },
-  {
-   "name": "毛利元就",
-   "no": "31293",
-   "slot": "A",
-   "note": [
-    "毛利元就（5）(31293)のsynthesisTable A枠(2026-08-23)"
-   ]
-  },
-  {
-   "name": "島津義弘",
-   "no": "31294",
-   "slot": "S2",
-   "note": [
-    "島津義弘（4）(31294)のsynthesisTable S2枠(2026-08-23)"
-   ]
-  },
-  {
-   "name": "毛利輝元",
-   "no": "31306",
-   "slot": "A・S2",
-   "note": [
-    "毛利輝元（7）(31306)のsynthesisTable A・S2枠(2026-08-23)"
-   ]
   }
  ],
  "grantedViaSkills": [
@@ -261,6 +297,10 @@
   },
   {
    "skill": "薫風甘咲",
+   "rank": "S"
+  },
+  {
+   "skill": "医皇",
    "rank": "S"
   }
  ],

@@ -43,5 +43,69 @@
  "wikiOldestComment": "2017-10-03",
  "wikiCommentCount": 82,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "八咫烏",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "砲器",
+   "rate": "35%",
+   "effectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "黒鬼刺",
+   "rank": "D",
+   "afterSkill": "鬼神刺",
+   "afterRank": "B",
+   "target": "槍馬砲",
+   "rate": "15%",
+   "effectShort": "攻撃 (コストx10) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "全",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 (コスト×10) %上昇 / 武将コストによって効果が変化"
+  },
+  {
+   "slot": "C",
+   "skill": "天導 八咫烏",
+   "rank": "S",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "砲",
+   "rate": "35%",
+   "effectShort": null,
+   "afterTarget": "馬・砲・器",
+   "afterRate": "40%",
+   "afterEffectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S1",
+   "skill": "天穿神滅",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "砲器",
+   "rate": "50%",
+   "effectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "天穿神滅",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "砲器",
+   "rate": "50%",
+   "effectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  }
+ ]
 }

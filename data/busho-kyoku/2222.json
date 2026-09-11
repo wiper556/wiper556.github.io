@@ -45,5 +45,69 @@
  "wikiOldestComment": "2018-06-02",
  "wikiCommentCount": 109,
  "chGuess": "15章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊急襲",
+   "rank": "F",
+   "afterSkill": "槍隊守備",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "16%",
+   "effectShort": "槍攻：7.5%上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍",
+   "afterRate": "16%",
+   "afterEffectShort": "防御 (コストx5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "閃撃の闘将",
+   "rank": "D",
+   "afterSkill": "閃撃の闘将",
+   "afterRank": "D",
+   "target": "槍馬器",
+   "rate": "100%",
+   "effectShort": "攻撃 5%上昇 / 速度 30%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "双刃九龍",
+   "rank": "B",
+   "afterSkill": "戦陣 一閃",
+   "afterRank": "A",
+   "target": "槍馬器",
+   "rate": "42%",
+   "effectShort": "攻撃 40%上昇 / 武将ランクで効果が変化",
+   "afterTarget": "全",
+   "afterRate": "50%/100%",
+   "afterEffectShort": "攻撃 50%上昇(確率50%)+速度 50%上昇(確率100%)"
+  },
+  {
+   "slot": "S1",
+   "skill": "戦陣 一閃",
+   "rank": "A",
+   "afterSkill": "神光征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%/100%",
+   "effectShort": "攻撃 50%上昇(確率50%)+速度 50%上昇(確率100%)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 90%上昇+速度 200%上昇(TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "騎迅強襲",
+   "rank": "B",
+   "afterSkill": "遁世影武者",
+   "afterRank": "B",
+   "target": "槍・馬・器",
+   "rate": "30%/100%",
+   "effectShort": "攻撃 35%上昇(確率30%)+速度 25%上昇",
+   "afterTarget": "部隊長",
+   "afterRate": "50%",
+   "afterEffectShort": "所属部隊の部隊長が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  }
+ ]
 }

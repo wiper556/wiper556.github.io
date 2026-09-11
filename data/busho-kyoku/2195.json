@@ -45,5 +45,66 @@
  "wikiOldestComment": "2017-04-25",
  "wikiCommentCount": 98,
  "chGuess": "13章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "殿名人",
+   "rank": "E",
+   "afterSkill": "槍隊守護",
+   "afterRank": "E",
+   "target": "槍弓馬",
+   "rate": "15%",
+   "effectShort": "防御 10%上昇",
+   "afterTarget": "槍",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 (コストx6.5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "弥陀の剣",
+   "rank": "D",
+   "afterSkill": "盟約の寵姫",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "36%",
+   "effectShort": "防御 32%上昇",
+   "afterTarget": "全",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 35%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "名人",
+   "rank": "B",
+   "afterSkill": "背水之陣",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "20%",
+   "effectShort": "防御 42%上昇",
+   "afterTarget": "槍弓馬",
+   "afterRate": "20%",
+   "afterEffectShort": "防御 37%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "仏敵討伐",
+   "rank": "B",
+   "afterSkill": "仏敵討伐",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "36%",
+   "effectShort": "防御 (コストx14) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S2",
+   "skill": "虚軍号令",
+   "rank": "B",
+   "afterSkill": "虚軍号令",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "32%",
+   "effectShort": "防御 ((1+ランク)xコストx1.8) %上昇 / 武将ランクとコストで効果が変化"
+  }
+ ]
 }

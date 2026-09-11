@@ -7,6 +7,15 @@
  "categoryLinks": [],
  "sourceCharacters": [
   {
+   "name": "帰蝶",
+   "no": "2752",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "帰蝶(2752)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "北条幻庵（3）",
    "no": "7005",
    "slot": "B",

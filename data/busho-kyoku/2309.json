@@ -43,5 +43,72 @@
  "wikiOldestComment": "2021-11-04",
  "wikiCommentCount": 15,
  "chGuess": "22章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "闘将ノ采配",
+   "rank": "A",
+   "afterSkill": "鬼滅刺",
+   "afterRank": "A",
+   "target": "槍器鉄",
+   "rate": "45%",
+   "effectShort": "攻撃 75%上昇 防御 75%上昇 / 部隊内の「闘将ノ采配」スキル数×15%を攻防効果に加算",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)"
+  },
+  {
+   "slot": "B",
+   "skill": "闘将ノ采配",
+   "rank": "A",
+   "afterSkill": "鬼滅刺",
+   "afterRank": "A",
+   "target": "槍器鉄",
+   "rate": "45%",
+   "effectShort": "攻撃 75%上昇 防御 75%上昇 / 部隊内の「闘将ノ采配」スキル数×15%を攻防効果に加算",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)"
+  },
+  {
+   "slot": "C",
+   "skill": "闘将ノ采配",
+   "rank": "A",
+   "afterSkill": "鬼滅刺",
+   "afterRank": "A",
+   "target": "槍器鉄",
+   "rate": "45%",
+   "effectShort": "攻撃 75%上昇 防御 75%上昇 / 部隊内の「闘将ノ采配」スキル数×15%を攻防効果に加算",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)"
+  },
+  {
+   "slot": "S1",
+   "skill": "鬼滅刺",
+   "rank": "A",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  },
+  {
+   "slot": "S2",
+   "skill": "都鄙合体",
+   "rank": "B",
+   "afterSkill": "告天子",
+   "afterRank": "B",
+   "target": "槍馬騎",
+   "rate": "49%",
+   "effectShort": "攻撃 82%上昇 確率：+49% / 防御 82%上昇 確率：+49% / 速度 35%上昇",
+   "afterTarget": "槍馬騎",
+   "afterRate": "27%",
+   "afterEffectShort": "攻撃防御 (1+武将ランク×武将コスト×2.3) %上昇"
+  }
+ ]
 }

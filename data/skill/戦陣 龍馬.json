@@ -6,6 +6,56 @@
  "effectSummary": "A/LV10 確率 50% 防御 1%上昇/対象:全\n①防御 1%上昇する(部隊ランクボーナス×10%を加算する)",
  "sourceCharacters": [
   {
+   "name": "北条氏綱",
+   "no": "1158",
+   "slot": "S2",
+   "note": [
+    "北条氏綱(1158)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "一条兼定",
+   "no": "1162",
+   "slot": "S2",
+   "note": [
+    "一条兼定(1162)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "大友宗麟（3）",
+   "no": "1164",
+   "slot": "S2",
+   "note": [
+    "大友宗麟（3）(1164)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "龍造寺隆信",
+   "no": "1165",
+   "slot": "S2",
+   "note": [
+    "龍造寺隆信(1165)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "甘粕景持",
+   "no": "2275",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "甘粕景持(2275)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "竹中半兵衛（3）",
+   "no": "2292",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "竹中半兵衛（3）(2292)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "浅井亮政（4）",
    "no": "2361",
    "slot": "S2",
@@ -21,10 +71,82 @@
    "db": "kyoku"
   },
   {
+   "name": "春日虎綱",
+   "no": "2428",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "春日虎綱(2428)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "次郎法師",
+   "no": "2429",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "次郎法師(2429)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "柳生十兵衛",
    "no": "2432",
    "slot": "B",
    "db": "kyoku"
+  },
+  {
+   "name": "生駒類",
+   "no": "2528",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "生駒類(2528)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "前田慶次（4）",
+   "no": "2529",
+   "slot": "C・S2",
+   "db": "kyoku",
+   "note": [
+    "前田慶次（4）(2529)のsynthesisTable C・S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "伊達政宗（3）",
+   "no": "2530",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "伊達政宗（3）(2530)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "真田幸村（6）",
+   "no": "2531",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "真田幸村（6）(2531)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "佐竹義宣（3）",
+   "no": "2548",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "佐竹義宣（3）(2548)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "龍造寺隆信（2）",
+   "no": "2549",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "龍造寺隆信（2）(2549)のsynthesisTable S1枠(2026-09-11)"
+   ]
   },
   {
    "name": "上杉顕定",

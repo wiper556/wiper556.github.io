@@ -42,5 +42,72 @@
  "wikiOldestComment": "2021-03-05",
  "wikiCommentCount": 33,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "千年鳳凰",
+   "rank": "B",
+   "afterSkill": "百万石長壁",
+   "afterRank": "B",
+   "target": "槍弓器鉄",
+   "rate": "32%",
+   "effectShort": "防御 62%上昇 / (敵軍4部隊以下で効果1.5倍)",
+   "afterTarget": "槍馬砲",
+   "afterRate": "9%",
+   "afterEffectShort": "防御 84%上昇 / 自拠点防御時は100%発動"
+  },
+  {
+   "slot": "B",
+   "skill": "槍隊守護",
+   "rank": "E",
+   "afterSkill": "槍隊挟撃",
+   "afterRank": "E",
+   "target": "槍",
+   "rate": "25%",
+   "effectShort": "防御 (コストx6.5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍",
+   "afterRate": "25%",
+   "afterEffectShort": "槍攻：9.75%上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "怨望烈火",
+   "rank": "D",
+   "afterSkill": "神虎吼陣",
+   "afterRank": "B",
+   "target": "槍馬器",
+   "rate": "24%",
+   "effectShort": "防御 49%上昇 / 破壊 30%上昇",
+   "afterTarget": "槍馬砲器",
+   "afterRate": "13%",
+   "afterEffectShort": "防御 42%上昇 / 「陣」「同盟陣」防御時は100%発動"
+  },
+  {
+   "slot": "S1",
+   "skill": "百万石長壁",
+   "rank": "B",
+   "afterSkill": "籠城の妙技",
+   "afterRank": "A",
+   "target": "槍馬砲",
+   "rate": "9%",
+   "effectShort": "防御 84%上昇 / 自拠点防御時は100%発動",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "防御 50%上昇(卓越:追加確率15%で防御効果が3倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 龍馬",
+   "rank": "A",
+   "afterSkill": "茅纒之矟ノ煌",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "防御 1%上昇(部隊ランクボーナス×10%を加算)",
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "防御 100%上昇 自部隊の武将ダメージ軽減3% (重複発動上限数4)"
+  }
+ ]
 }

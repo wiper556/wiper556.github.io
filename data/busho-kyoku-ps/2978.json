@@ -46,5 +46,66 @@
  "wikiOldestComment": "2017-08-05",
  "wikiCommentCount": 32,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "大ふへん者",
+   "rank": "D",
+   "afterSkill": "義兵進軍",
+   "afterRank": "C",
+   "target": "将",
+   "rate": "5%",
+   "effectShort": "攻撃 40%上昇",
+   "afterTarget": "槍弓馬砲",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 7%上昇 / 速度 10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "穀蔵院飄戸斎",
+   "rank": "B",
+   "afterSkill": "穀蔵院飄戸斎",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "傾奇戦国一",
+   "rank": "C",
+   "afterSkill": "鬼刺",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍馬砲",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S1",
+   "skill": "傾奇御免",
+   "rank": "B",
+   "afterSkill": "義兵進軍",
+   "afterRank": "C",
+   "target": "将",
+   "rate": "35%",
+   "effectShort": "攻撃 40%上昇",
+   "afterTarget": "槍弓馬砲",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 7%上昇 / 速度 10%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "傾奇御免状",
+   "rank": "A",
+   "afterSkill": "傾奇御免状",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "攻撃 40%上昇+防御 40%上昇"
+  }
+ ]
 }

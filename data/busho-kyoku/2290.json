@@ -41,5 +41,72 @@
  "wikiOldestComment": "2021-02-17",
  "wikiCommentCount": 16,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "極楽護法",
+   "rank": "B",
+   "afterSkill": "戦場妙技",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 60%上昇 防御 60%上昇 / 卓越：追加確率50%で攻防効果が1.5倍",
+   "afterTarget": "全",
+   "afterRate": "32%",
+   "afterEffectShort": "攻撃 72%上昇+防御 72%上昇+破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "槍隊進撃",
+   "rank": "F",
+   "afterSkill": "槍隊襲撃",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "10%",
+   "effectShort": "槍攻：15%上昇",
+   "afterTarget": "槍",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 10%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "愛民ノ采配",
+   "rank": "D",
+   "afterSkill": "暁光",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "48%",
+   "effectShort": "攻撃 40%上昇 / 防御 40%上昇",
+   "afterTarget": "全",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃 38%上昇 / 防御 38%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "戦場妙技",
+   "rank": "B",
+   "afterSkill": "戦陣 破軍",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "32%",
+   "effectShort": "攻撃 72%上昇+防御 72%上昇+破壊 20%上昇",
+   "afterTarget": "全",
+   "afterRate": "44%",
+   "afterEffectShort": "攻撃 66%上昇+防御 66%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "鬼滅刺",
+   "rank": "A",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  }
+ ]
 }

@@ -40,5 +40,60 @@
   "2026-08-30: 鍛錬(TR)が無いことを明記した。うぐさんの規則で**鍛錬が登場したのは No.1263 が追加された28章から**であり、特 は現在まで鍛錬の追加が無い。データもそれを裏付けており、27章のカードは LV10 のみ・28章のカードは LV10〜TR5 を持つ。**28章以降で鍛錬の無い武将も居るため、そちらには何も書いていない。**"
  ],
  "wikiOldestComment": null,
- "wikiCommentCount": 0
+ "wikiCommentCount": 0,
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "牛膂強弓",
+   "rank": "C",
+   "afterSkill": "牛膂強弓",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "B",
+   "skill": "由緒ノ羽織",
+   "rank": "C",
+   "afterSkill": "由緒ノ羽織",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "由緒ノ羽織",
+   "rank": "C",
+   "afterSkill": "由緒ノ羽織",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "由緒ノ羽織",
+   "rank": "C",
+   "afterSkill": "由緒ノ羽織",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "一身忠剣",
+   "rank": "C",
+   "afterSkill": "貴門ノ加護",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍馬砲",
+   "afterRate": "18%",
+   "afterEffectShort": "攻撃 290%上昇 / (合流攻撃時は発動率2倍)"
+  }
+ ]
 }

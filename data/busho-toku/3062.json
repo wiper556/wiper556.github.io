@@ -43,5 +43,72 @@
  "wikiOldestComment": "2011-09-01",
  "wikiCommentCount": 273,
  "chGuess": "1-2章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "三矢の教え",
+   "rank": "D",
+   "afterSkill": "三段撃ち",
+   "afterRank": "D",
+   "target": "槍弓",
+   "rate": "20%",
+   "effectShort": "攻撃 20%上昇 / 破壊 5%上昇",
+   "afterTarget": "弓砲",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 20%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "弓隊円陣",
+   "rank": "D",
+   "afterSkill": "矢雨備え",
+   "afterRank": "D",
+   "target": "弓",
+   "rate": "40%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "弓器",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 25%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "弓隊剛撃",
+   "rank": "D",
+   "afterSkill": "槍弓猛襲",
+   "afterRank": "D",
+   "target": "弓",
+   "rate": "35%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "槍弓",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S1",
+   "skill": "三段撃ち",
+   "rank": "D",
+   "afterSkill": "三段撃 烈火",
+   "afterRank": "C",
+   "target": "弓砲",
+   "rate": "20%",
+   "effectShort": "攻撃 20%上昇 / 破壊 5%上昇",
+   "afterTarget": "槍砲",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S2",
+   "skill": "弓撃 夜叉",
+   "rank": "C",
+   "afterSkill": "天賦の神算",
+   "afterRank": "B",
+   "target": "弓",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇+破壊 5%上昇",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 12%上昇 / 破壊 5%上昇"
+  }
+ ]
 }

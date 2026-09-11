@@ -43,5 +43,63 @@
  "wikiOldestComment": "2017-09-04",
  "wikiCommentCount": 111,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "神記一筆",
+   "rank": "D",
+   "afterSkill": "総構え",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "防御 20%上昇 / 防御時のみ 自軍の兵士被害数：2%減少(重複・模倣不可)",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "八坂刀売神",
+   "rank": "B",
+   "afterSkill": "浪切",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍砲",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 37%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "雌竜の執成",
+   "rank": "B",
+   "afterSkill": "雌竜の執成",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "夢幻の牢姫",
+   "rank": "B",
+   "afterSkill": "夢幻の牢姫",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "潜姫到陣",
+   "rank": "D",
+   "afterSkill": "潜姫到陣",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "防御 (5x自軍姫数)%上昇 / (効果上限150%まで)"
+  }
+ ]
 }

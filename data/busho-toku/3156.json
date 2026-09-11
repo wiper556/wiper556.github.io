@@ -42,5 +42,69 @@
  "wikiOldestComment": "2013-11-01",
  "wikiCommentCount": 70,
  "chGuess": "6章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊円陣",
+   "rank": "D",
+   "afterSkill": "足軽軍法",
+   "afterRank": "D",
+   "target": "槍",
+   "rate": "40%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "槍器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "槍隊剛撃",
+   "rank": "D",
+   "afterSkill": "足軽軍法",
+   "afterRank": "D",
+   "target": "槍",
+   "rate": "35%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "槍器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "槍陣の極み",
+   "rank": "B",
+   "afterSkill": "柳生新陰流",
+   "afterRank": "A",
+   "target": "槍",
+   "rate": "30%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "将",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 40%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "豪放磊落",
+   "rank": "C",
+   "afterSkill": "豪放磊落",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "組撃ち",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "弓砲",
+   "rate": "20%",
+   "effectShort": "防御 35%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 30%上昇"
+  }
+ ]
 }

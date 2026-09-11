@@ -43,5 +43,69 @@
  "wikiOldestComment": "2019-02-11",
  "wikiCommentCount": 46,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊堅守",
+   "rank": "F",
+   "afterSkill": "弓隊襲撃",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "20%",
+   "effectShort": "防御 10%上昇",
+   "afterTarget": "弓",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "暁光",
+   "rank": "D",
+   "afterSkill": "屈指の勇将",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "24%",
+   "effectShort": "攻撃 38%上昇 / 防御 38%上昇",
+   "afterTarget": "全",
+   "afterRate": "37%",
+   "afterEffectShort": "攻撃 22%上昇+防御 22%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "慈愛の花",
+   "rank": "B",
+   "afterSkill": "新館御料人",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "40%",
+   "effectShort": "防御 32%上昇 / 自拠点防御時は防御効果2倍",
+   "afterTarget": "弓砲器",
+   "afterRate": "70%",
+   "afterEffectShort": "攻撃 57.6%上昇 / 防御 57.6%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "新館御料人",
+   "rank": "B",
+   "afterSkill": "新館御料人",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "70%",
+   "effectShort": "攻撃 57.6%上昇 / 防御 57.6%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "愛民ノ采配",
+   "rank": "D",
+   "afterSkill": "暁光",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "48%",
+   "effectShort": "攻撃 40%上昇 / 防御 40%上昇",
+   "afterTarget": "全",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃 38%上昇 / 防御 38%上昇"
+  }
+ ]
 }

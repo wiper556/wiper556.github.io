@@ -41,5 +41,66 @@
  "wikiOldestComment": "2012-01-05",
  "wikiCommentCount": 315,
  "chGuess": "3章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓撃 夜叉",
+   "rank": "C",
+   "afterSkill": "天賦の神算",
+   "afterRank": "B",
+   "target": "弓",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇+破壊 5%上昇",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 12%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "城崩 奈落",
+   "rank": "C",
+   "afterSkill": "鬼謀 国砕",
+   "afterRank": "B",
+   "target": "器",
+   "rate": "25%",
+   "effectShort": "攻撃 5%上昇 / 破壊 25%上昇",
+   "afterTarget": "上級器",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 10%上昇+破壊 25%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "車懸り 白狐",
+   "rank": "B",
+   "afterSkill": "車懸り 白狐",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "20%",
+   "effectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "砲撃 羅刹",
+   "rank": "B",
+   "afterSkill": "釣り野伏 鬼",
+   "afterRank": "B",
+   "target": "砲",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇 / 破壊 5%上昇",
+   "afterTarget": "砲",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "神速",
+   "rank": "A",
+   "afterSkill": "神速",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "速度 55%上昇"
+  }
+ ]
 }

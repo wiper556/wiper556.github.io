@@ -45,5 +45,63 @@
  "wikiOldestComment": "2018-01-15",
  "wikiCommentCount": 117,
  "chGuess": "15章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "虚軍号令",
+   "rank": "B",
+   "afterSkill": "虚軍号令",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "32%",
+   "effectShort": "防御 ((1+ランク)xコストx1.8) %上昇 / 武将ランクとコストで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "銃槍斜線陣",
+   "rank": "S",
+   "afterSkill": "武神八幡陣",
+   "afterRank": "SS",
+   "target": "槍弓馬",
+   "rate": "42%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "防御 41.56%上昇(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "C",
+   "skill": "閃光破陣",
+   "rank": "B",
+   "afterSkill": "閃光破陣",
+   "afterRank": "B",
+   "target": "槍馬器",
+   "rate": "35%",
+   "effectShort": "防御 2.7%上昇 / 防御 部隊ランクスキル発動率x9%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "武神八幡陣",
+   "rank": "SS",
+   "afterSkill": "武神八幡陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 41.56%上昇(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "覇龍滅破陣",
+   "rank": "SS",
+   "afterSkill": "掃天封壁陣",
+   "afterRank": "SS",
+   "target": "砲器",
+   "rate": "99.9%",
+   "effectShort": "防御 2%×防御参加武将数(280人)=560.0%",
+   "afterTarget": "全",
+   "afterRate": "6%",
+   "afterEffectShort": "攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化する"
+  }
+ ]
 }

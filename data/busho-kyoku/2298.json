@@ -41,5 +41,69 @@
  "wikiOldestComment": "2021-06-08",
  "wikiCommentCount": 10,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "紅騎焔貫",
+   "rank": "B",
+   "afterSkill": "百万石長壁",
+   "afterRank": "B",
+   "target": "馬砲器",
+   "rate": "52%",
+   "effectShort": "防御 86%上昇 確率：+52% / 速度 50%上昇",
+   "afterTarget": "槍馬砲",
+   "afterRate": "9%",
+   "afterEffectShort": "防御 84%上昇 / 自拠点防御時は100%発動"
+  },
+  {
+   "slot": "B",
+   "skill": "騎馬隊堅陣",
+   "rank": "F",
+   "afterSkill": "騎馬隊奇襲",
+   "afterRank": "E",
+   "target": "馬",
+   "rate": "30%",
+   "effectShort": "馬防：12%上昇",
+   "afterTarget": "馬",
+   "afterRate": "30%",
+   "afterEffectShort": "馬攻：12%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "流言飛語",
+   "rank": "D",
+   "afterSkill": "謀君蹴撃",
+   "afterRank": "B",
+   "target": "弓馬器",
+   "rate": "42%",
+   "effectShort": "防御 48%上昇 確率：+42% / 速度 40%上昇",
+   "afterTarget": "槍弓器",
+   "afterRate": "34%",
+   "afterEffectShort": "防御 60%上昇 確率：+34% / 速度 35%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "百万石長壁",
+   "rank": "B",
+   "afterSkill": "籠城の妙技",
+   "afterRank": "A",
+   "target": "槍馬砲",
+   "rate": "9%",
+   "effectShort": "防御 84%上昇 / 自拠点防御時は100%発動",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "防御 50%上昇(卓越:追加確率15%で防御効果が3倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "不退ノ防戦",
+   "rank": "B",
+   "afterSkill": "不退ノ防戦",
+   "afterRank": "B",
+   "target": "馬砲器",
+   "rate": "38%",
+   "effectShort": "防御 52%上昇 確率：+38% / 速度 40%上昇"
+  }
+ ]
 }

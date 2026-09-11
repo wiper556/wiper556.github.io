@@ -44,5 +44,69 @@
  "wikiOldestComment": "2015-07-07",
  "wikiCommentCount": 56,
  "chGuess": "10章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊剛撃",
+   "rank": "D",
+   "afterSkill": "槍弓猛襲",
+   "afterRank": "D",
+   "target": "弓",
+   "rate": "35%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "槍弓",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "槍大膳",
+   "rank": "D",
+   "afterSkill": "不屈の名士",
+   "afterRank": "B",
+   "target": "槍",
+   "rate": "15%",
+   "effectShort": "攻撃 60%上昇",
+   "afterTarget": "槍弓砲",
+   "afterRate": "30.5%",
+   "afterEffectShort": "攻撃 33%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "不屈の名士",
+   "rank": "B",
+   "afterSkill": "天賦の神算",
+   "afterRank": "B",
+   "target": "槍弓砲",
+   "rate": "30.5%",
+   "effectShort": "攻撃 33%上昇",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 12%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "范可咬撃",
+   "rank": "B",
+   "afterSkill": "范可咬撃",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "車懸り 軍神",
+   "rank": "S",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "20%",
+   "effectShort": "攻撃 35%上昇",
+   "afterTarget": "馬・砲・器",
+   "afterRate": "40%",
+   "afterEffectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  }
+ ]
 }

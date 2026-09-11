@@ -43,5 +43,72 @@
  "wikiOldestComment": "2014-12-12",
  "wikiCommentCount": 85,
  "chGuess": "9章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄壁の備え",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "花舜妙香",
+   "rank": "C",
+   "afterSkill": "釣り野伏 鬼",
+   "afterRank": "B",
+   "target": "槍弓砲",
+   "rate": "30%",
+   "effectShort": "防御 40%上昇",
+   "afterTarget": "砲",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "日輪の礎",
+   "rank": "B",
+   "afterSkill": "疾風怒濤",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 5%上昇 / 速度 32%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "神勅賢母",
+   "rank": "S",
+   "afterSkill": "背水之陣",
+   "afterRank": "B",
+   "target": "槍馬砲",
+   "rate": "25%",
+   "effectShort": "防御 39%上昇",
+   "afterTarget": "槍弓馬",
+   "afterRate": "20%",
+   "afterEffectShort": "防御 37%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "二世権現",
+   "rank": "A",
+   "afterSkill": "独眼竜咆哮",
+   "afterRank": "S",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "馬砲器",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 35%上昇+破壊 20%上昇"
+  }
+ ]
 }

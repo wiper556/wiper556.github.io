@@ -46,5 +46,60 @@
  "wikiOldestComment": "2011-04-12",
  "wikiCommentCount": 196,
  "chGuess": "1-2章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "組撃ち",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "弓砲",
+   "rate": "20%",
+   "effectShort": "防御 35%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "捨て奸",
+   "rank": "B",
+   "afterSkill": "捨て奸",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "15%",
+   "effectShort": "防御 37%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "神速",
+   "rank": "A",
+   "afterSkill": "神速",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "速度 55%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "破軍星",
+   "rank": "SS",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "馬・砲・器",
+   "rate": "40%",
+   "effectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S2",
+   "skill": "天衣無縫陣",
+   "rank": "SS",
+   "afterSkill": "天衣無縫陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "55%",
+   "effectShort": "防御 (20+コスト×10) %上昇"
+  }
+ ]
 }

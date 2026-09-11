@@ -42,5 +42,69 @@
  "wikiOldestComment": "2021-12-01",
  "wikiCommentCount": 24,
  "chGuess": "22章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "波斬 菖蒲",
+   "rank": "A",
+   "afterSkill": "闘将ノ采配",
+   "afterRank": "A",
+   "target": "槍弓器鉄",
+   "rate": "100%",
+   "effectShort": "攻撃 87%上昇 防御 87%上昇 / 卓越：追加確率50%で攻防効果が1.5倍",
+   "afterTarget": "槍器鉄",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 75%上昇 防御 75%上昇 / 部隊内の「闘将ノ采配」スキル数×15%を攻防効果に加算"
+  },
+  {
+   "slot": "B",
+   "skill": "波斬 菖蒲",
+   "rank": "A",
+   "afterSkill": "闘将ノ采配",
+   "afterRank": "A",
+   "target": "槍弓器鉄",
+   "rate": "100%",
+   "effectShort": "攻撃 87%上昇 防御 87%上昇 / 卓越：追加確率50%で攻防効果が1.5倍",
+   "afterTarget": "槍器鉄",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 75%上昇 防御 75%上昇 / 部隊内の「闘将ノ采配」スキル数×15%を攻防効果に加算"
+  },
+  {
+   "slot": "C",
+   "skill": "闘将ノ采配",
+   "rank": "A",
+   "afterSkill": "鬼滅刺",
+   "afterRank": "A",
+   "target": "槍器鉄",
+   "rate": "45%",
+   "effectShort": "攻撃 75%上昇 防御 75%上昇 / 部隊内の「闘将ノ采配」スキル数×15%を攻防効果に加算",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)"
+  },
+  {
+   "slot": "S1",
+   "skill": "闘将ノ采配",
+   "rank": "A",
+   "afterSkill": "鬼滅刺",
+   "afterRank": "A",
+   "target": "槍器鉄",
+   "rate": "45%",
+   "effectShort": "攻撃 75%上昇 防御 75%上昇 / 部隊内の「闘将ノ采配」スキル数×15%を攻防効果に加算",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)"
+  },
+  {
+   "slot": "S2",
+   "skill": "新館御料人",
+   "rank": "B",
+   "afterSkill": "新館御料人",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "70%",
+   "effectShort": "攻撃 57.6%上昇 / 防御 57.6%上昇"
+  }
+ ]
 }

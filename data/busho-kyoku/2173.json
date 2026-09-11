@@ -43,5 +43,72 @@
  "wikiOldestComment": "2016-07-05",
  "wikiCommentCount": 218,
  "chGuess": "12章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍撃の真髄",
+   "rank": "E",
+   "afterSkill": "槍衾",
+   "afterRank": "D",
+   "target": "槍",
+   "rate": "20%",
+   "effectShort": "攻撃 15%上昇",
+   "afterTarget": "槍器",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 25%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "槍馬連撃",
+   "rank": "D",
+   "afterSkill": "槍陣の極み",
+   "afterRank": "B",
+   "target": "槍馬",
+   "rate": "30%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "槍",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "三段撃 烈火",
+   "rank": "C",
+   "afterSkill": "三段撃 神速",
+   "afterRank": "C",
+   "target": "槍砲",
+   "rate": "15%",
+   "effectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "砲",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 12%上昇 / 破壊 15%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "浪切",
+   "rank": "B",
+   "afterSkill": "鬼神刺",
+   "afterRank": "B",
+   "target": "槍砲",
+   "rate": "30%",
+   "effectShort": "攻撃 37%上昇",
+   "afterTarget": "全",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 (コスト×10) %上昇 / 武将コストによって効果が変化"
+  },
+  {
+   "slot": "S2",
+   "skill": "太閤の威光",
+   "rank": "S",
+   "afterSkill": "天衣無縫陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇+破壊 40%上昇",
+   "afterTarget": "全",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 (20+コスト×10) %上昇"
+  }
+ ]
 }

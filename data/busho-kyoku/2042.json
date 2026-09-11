@@ -41,5 +41,63 @@
  "wikiOldestComment": "2012-07-09",
  "wikiCommentCount": 310,
  "chGuess": "4章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊剛撃",
+   "rank": "D",
+   "afterSkill": "足軽軍法",
+   "afterRank": "D",
+   "target": "槍",
+   "rate": "35%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "槍器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "天賦の神算",
+   "rank": "B",
+   "afterSkill": "天賦の神算",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 12%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "車懸り",
+   "rank": "B",
+   "afterSkill": "車懸り 白狐",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "15%",
+   "effectShort": "攻撃 30%上昇",
+   "afterTarget": "槍弓馬",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "神算鬼謀",
+   "rank": "A",
+   "afterSkill": "神算鬼謀",
+   "afterRank": "A",
+   "target": "槍器",
+   "rate": "45%",
+   "effectShort": "攻撃 10%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "神将",
+   "rank": "A",
+   "afterSkill": "神将",
+   "afterRank": "A",
+   "target": "槍弓馬",
+   "rate": "35%",
+   "effectShort": "攻撃 30%上昇"
+  }
+ ]
 }

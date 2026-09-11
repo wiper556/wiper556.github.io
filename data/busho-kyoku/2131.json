@@ -45,5 +45,66 @@
  "wikiOldestComment": "2015-02-04",
  "wikiCommentCount": 275,
  "chGuess": "9章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄砲隊備え",
+   "rank": "F",
+   "afterSkill": "防壁破り",
+   "afterRank": "F",
+   "target": "砲",
+   "rate": "8%",
+   "effectShort": "砲防：15%上昇",
+   "afterTarget": "器",
+   "afterRate": "16%",
+   "afterEffectShort": "破壊 (コストx5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "覇王の眷族",
+   "rank": "C",
+   "afterSkill": "砲陣の極み",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "砲",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "風流嵐舞",
+   "rank": "B",
+   "afterSkill": "剛勇無双",
+   "afterRank": "B",
+   "target": "槍馬砲",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇",
+   "afterTarget": "槍馬砲",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 25%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "白銀竜騎兵",
+   "rank": "B",
+   "afterSkill": "白銀竜騎兵",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "武功浄財",
+   "rank": "A",
+   "afterSkill": "武功浄財",
+   "afterRank": "A",
+   "target": "合流",
+   "rate": "20%",
+   "effectShort": "銅銭獲得率2.5%(対人合流攻撃で倒した兵数に応じて攻撃参加者全員が銅銭獲得)"
+  }
+ ]
 }

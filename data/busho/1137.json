@@ -46,5 +46,69 @@
  "wikiOldestComment": "2019-02-09",
  "wikiCommentCount": 94,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "睥睨ノ竜団",
+   "rank": "S",
+   "afterSkill": "天竜睥睨",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "37%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "33%",
+   "afterEffectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "神光征軍",
+   "rank": "SS",
+   "afterSkill": "神光征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 90%上昇+速度 200%上昇(TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "天竜睥睨",
+   "rank": "S",
+   "afterSkill": "式神ノ冥王",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "33%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "天竜睥睨",
+   "rank": "S",
+   "afterSkill": "式神ノ冥王",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "33%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇"
+  }
+ ]
 }

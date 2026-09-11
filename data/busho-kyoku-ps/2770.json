@@ -43,5 +43,66 @@
  "wikiOldestComment": "2019-04-26",
  "wikiCommentCount": 58,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "以心の采配",
+   "rank": "D",
+   "afterSkill": "二葉心",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "15%",
+   "effectShort": "防御 42%上昇",
+   "afterTarget": "槍弓馬",
+   "afterRate": "28%",
+   "afterEffectShort": "攻撃 42%上昇 / 防御 42%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "愛民ノ采配",
+   "rank": "D",
+   "afterSkill": "暁光",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "48%",
+   "effectShort": "攻撃 40%上昇 / 防御 40%上昇",
+   "afterTarget": "全",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃 38%上昇 / 防御 38%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "玄武の落延",
+   "rank": "B",
+   "afterSkill": "将軍親政",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "防御 40%上昇(兵士被害増加・武将追加ダメージのスキル効果を全て無効化)",
+   "afterTarget": "槍馬",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 7%上昇+防御 7%上昇(戦闘に参加した自軍全部隊に効果)"
+  },
+  {
+   "slot": "S1",
+   "skill": "心頭滅却",
+   "rank": "A",
+   "afterSkill": "心頭滅却",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "万端の用人",
+   "rank": "B",
+   "afterSkill": "万端の用人",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "45%",
+   "effectShort": "防御 45%上昇(他城主の拠点に加勢中にも部隊の兵士編成を行える)"
+  }
+ ]
 }

@@ -42,5 +42,63 @@
  "wikiOldestComment": "2020-02-14",
  "wikiCommentCount": 53,
  "chGuess": "19章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "天籟ノ聖譚曲",
+   "rank": "S",
+   "afterSkill": "覇獄竜王",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "34%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "55%",
+   "afterEffectShort": null
+  },
+  {
+   "slot": "B",
+   "skill": "武神八幡陣",
+   "rank": "SS",
+   "afterSkill": "武神八幡陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 41.56%上昇(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "C",
+   "skill": "天鎖燎原陣",
+   "rank": "SS",
+   "afterSkill": "天鎖燎原陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "覇獄竜王",
+   "rank": "SS",
+   "afterSkill": "覇獄竜王",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "55%",
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 龍馬",
+   "rank": "A",
+   "afterSkill": "茅纒之矟ノ煌",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "防御 1%上昇(部隊ランクボーナス×10%を加算)",
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "防御 100%上昇 自部隊の武将ダメージ軽減3% (重複発動上限数4)"
+  }
+ ]
 }

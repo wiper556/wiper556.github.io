@@ -43,5 +43,72 @@
  "wikiOldestComment": "2025-02-13",
  "wikiCommentCount": 1,
  "chGuess": "29章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "黄影射陣",
+   "rank": "C",
+   "afterSkill": "黒鎖ノ悌道",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓馬器",
+   "afterRate": "42%",
+   "afterEffectShort": "防御 150%上昇 / このスキルを所持する武将の所有者が影城主のとき、防御効果2倍"
+  },
+  {
+   "slot": "B",
+   "skill": "黄影射陣",
+   "rank": "C",
+   "afterSkill": "黒鎖ノ悌道",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓馬器",
+   "afterRate": "42%",
+   "afterEffectShort": "防御 150%上昇 / このスキルを所持する武将の所有者が影城主のとき、防御効果2倍"
+  },
+  {
+   "slot": "C",
+   "skill": "黄影射陣",
+   "rank": "C",
+   "afterSkill": "黒鎖ノ悌道",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓馬器",
+   "afterRate": "42%",
+   "afterEffectShort": "防御 150%上昇 / このスキルを所持する武将の所有者が影城主のとき、防御効果2倍"
+  },
+  {
+   "slot": "S1",
+   "skill": "黒鎖ノ悌道",
+   "rank": "C",
+   "afterSkill": "砲扇 風雷火",
+   "afterRank": "A",
+   "target": "弓馬器",
+   "rate": "42%",
+   "effectShort": "防御 150%上昇 / このスキルを所持する武将の所有者が影城主のとき、防御効果2倍",
+   "afterTarget": "砲器",
+   "afterRate": "46%",
+   "afterEffectShort": "防御 92%上昇 / このスキルを所持する武将の所有者が影城主のとき、防御効果1.5倍"
+  },
+  {
+   "slot": "S2",
+   "skill": "籠城の妙技",
+   "rank": "A",
+   "afterSkill": "三千世界神将",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "防御 50%上昇(卓越:追加確率15%で防御効果が3倍)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "防御 120%上昇(本丸防御陣形時コスト消費-1)"
+  }
+ ]
 }

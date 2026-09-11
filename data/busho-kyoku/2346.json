@@ -42,5 +42,72 @@
  "wikiOldestComment": "2023-06-01",
  "wikiCommentCount": 13,
  "chGuess": "25章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "不沈ノ揺光",
+   "rank": "A",
+   "afterSkill": "古龍逆鱗",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": null,
+   "afterRate": null,
+   "afterEffectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "不沈ノ揺光",
+   "rank": "A",
+   "afterSkill": "古龍逆鱗",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": null,
+   "afterRate": null,
+   "afterEffectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "古龍逆鱗",
+   "rank": "A",
+   "afterSkill": "花吹雪",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": null,
+   "afterRate": null,
+   "afterEffectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "死生ノ宣告",
+   "rank": "B",
+   "afterSkill": "風狂幻術",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "66%",
+   "effectShort": "攻撃 66%上昇 / 卓越：追加確率15%で攻撃効果が1.5倍",
+   "afterTarget": "部隊長",
+   "afterRate": "53%",
+   "afterEffectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ、TRなし)"
+  }
+ ]
 }

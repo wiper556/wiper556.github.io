@@ -48,5 +48,66 @@
  "wikiOldestComment": "2019-06-03",
  "wikiCommentCount": 148,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦陣 阿吽",
+   "rank": "A",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "25%",
+   "effectShort": "攻撃 42%上昇+防御 42%上昇",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "B",
+   "skill": "戦陣 無双",
+   "rank": "A",
+   "afterSkill": "無双英傑",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 67%上昇+防御 67%上昇",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 99.9%上昇 防御 99.9%上昇 部隊消費コストを0.5低下 (特殊効果は模倣不可)"
+  },
+  {
+   "slot": "C",
+   "skill": "彷徨う福音",
+   "rank": "B",
+   "afterSkill": "彷徨う福音",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "20%",
+   "effectShort": "銅銭獲得率2.5%(対人撃破兵数に応じて自軍全員が銅銭獲得・重複発動上限数4)"
+  },
+  {
+   "slot": "S1",
+   "skill": "禄寿応穏",
+   "rank": "A",
+   "afterSkill": "禄寿応穏",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "防御 35%上昇(銅銭獲得率7.5%・防御で倒した兵数に応じ防御参加者全員が銅銭獲得・重複不可・模倣不可)"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  }
+ ]
 }

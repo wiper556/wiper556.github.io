@@ -43,5 +43,72 @@
  "wikiOldestComment": "2014-07-03",
  "wikiCommentCount": 121,
  "chGuess": "8章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄甲陣",
+   "rank": "D",
+   "afterSkill": "足軽軍法",
+   "afterRank": "D",
+   "target": "槍弓",
+   "rate": "30%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "槍器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "詭謀の宴",
+   "rank": "B",
+   "afterSkill": "捨て奸",
+   "afterRank": "B",
+   "target": "砲器",
+   "rate": "50%",
+   "effectShort": "攻撃 15%上昇",
+   "afterTarget": "弓砲器",
+   "afterRate": "15%",
+   "afterEffectShort": "防御 37%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "煌天豊国",
+   "rank": "S",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "弓・砲・器",
+   "rate": "40%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "貴煌豊国",
+   "rank": "B",
+   "afterSkill": "旋風轟撃",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "馬砲",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "天下の采配",
+   "rank": "S",
+   "afterSkill": "神算鬼謀 滅",
+   "afterRank": "A",
+   "target": "槍馬砲",
+   "rate": "45%",
+   "effectShort": "防御 35%上昇",
+   "afterTarget": "槍弓器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 24%上昇 / 破壊 46%上昇"
+  }
+ ]
 }

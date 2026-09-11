@@ -41,5 +41,60 @@
  "wikiOldestComment": "2019-10-03",
  "wikiCommentCount": 47,
  "chGuess": "18章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊進撃",
+   "rank": "F",
+   "afterSkill": "槍隊襲撃",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "10%",
+   "effectShort": "槍攻：15%上昇",
+   "afterTarget": "槍",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "二葉心",
+   "rank": "D",
+   "afterSkill": "二葉心",
+   "afterRank": "D",
+   "target": "槍弓馬",
+   "rate": "28%",
+   "effectShort": "攻撃 42%上昇 / 防御 42%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "猛虎燎原",
+   "rank": "B",
+   "afterSkill": "猛虎燎原",
+   "afterRank": "B",
+   "target": "槍弓砲",
+   "rate": "18%",
+   "effectShort": "攻撃 5.4%上昇 / 攻撃 部隊ランク発動率x9%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "クルザード",
+   "rank": "B",
+   "afterSkill": "クルザード",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "烈侵滅国",
+   "rank": "B",
+   "afterSkill": "烈侵滅国",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "25%",
+   "effectShort": "攻撃防御 ((1+武将ランク)×コストx2) %上昇"
+  }
+ ]
 }

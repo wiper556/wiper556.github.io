@@ -42,5 +42,69 @@
  "wikiOldestComment": "2016-09-08",
  "wikiCommentCount": 58,
  "chGuess": "12章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "騎馬隊備え",
+   "rank": "F",
+   "afterSkill": "騎馬隊堅守",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "10%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "馬",
+   "afterRate": "20%",
+   "afterEffectShort": "馬防：10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "攻御由緒家",
+   "rank": "E",
+   "afterSkill": "乗り崩し",
+   "afterRank": "D",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍馬",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 20%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "日本一の兵",
+   "rank": "B",
+   "afterSkill": "義兵進軍",
+   "afterRank": "C",
+   "target": "槍馬砲",
+   "rate": "25%",
+   "effectShort": "防御 35%上昇",
+   "afterTarget": "槍弓馬砲",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 7%上昇 / 速度 10%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "暁雲黎明",
+   "rank": "B",
+   "afterSkill": "暁雲黎明",
+   "afterRank": "B",
+   "target": "槍馬砲",
+   "rate": "36%",
+   "effectShort": "防御 40%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "仁将",
+   "rank": "A",
+   "afterSkill": "太閤の威光",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "部隊内の職業「将」武将のスキル発動率+8%(模倣不可・重複不可)",
+   "afterTarget": "全",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃 25%上昇+破壊 40%上昇"
+  }
+ ]
 }

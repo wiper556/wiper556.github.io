@@ -48,5 +48,69 @@
  "wikiOldestComment": "2021-10-19",
  "wikiCommentCount": 17,
  "chGuess": "22章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "清良記",
+   "rank": "A",
+   "afterSkill": "隼人演武",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "64%",
+   "effectShort": "攻撃 92%上昇(部隊内全武将の兵科対象の初期スキルに「砲」対象を追加)",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 70%上昇(部隊内全武将の兵科対象の初期スキルに「砲」対象を追加)"
+  },
+  {
+   "slot": "C",
+   "skill": "鼓腹撃壌",
+   "rank": "A",
+   "afterSkill": "天焉相克",
+   "afterRank": "SS",
+   "target": "槍弓馬",
+   "rate": "33%",
+   "effectShort": "攻撃 89%上昇",
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "70%",
+   "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"
+  },
+  {
+   "slot": "S1",
+   "skill": "天之尾羽張",
+   "rank": "SS",
+   "afterSkill": "天之尾羽張",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 170%上昇+速度 150%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "鬼滅刺",
+   "rank": "A",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  }
+ ]
 }

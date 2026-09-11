@@ -43,5 +43,69 @@
  "wikiOldestComment": "2020-04-08",
  "wikiCommentCount": 25,
  "chGuess": "19章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "凍土ノ女神",
+   "rank": "B",
+   "afterSkill": "違い鎌",
+   "afterRank": "D",
+   "target": "槍弓馬器",
+   "rate": "50%",
+   "effectShort": "防御 84%上昇 / 卓越：追加確率25%で防御効果が1.5倍",
+   "afterTarget": "槍弓馬",
+   "afterRate": "32%",
+   "afterEffectShort": "防御 40%上昇 / 武将ランクで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "弓隊守備",
+   "rank": "F",
+   "afterSkill": "弓隊急襲",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "16%",
+   "effectShort": "防御 (コストx6) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "弓",
+   "afterRate": "16%",
+   "afterEffectShort": "攻撃 (コストx5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "戦慄ノ美姫",
+   "rank": "D",
+   "afterSkill": "新館御料人",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "32%",
+   "effectShort": "攻撃 46%上昇 / 防御 46%上昇",
+   "afterTarget": "弓砲器",
+   "afterRate": "70%",
+   "afterEffectShort": "攻撃 57.6%上昇 / 防御 57.6%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "違い鎌",
+   "rank": "D",
+   "afterSkill": "黒釣鐘",
+   "afterRank": "D",
+   "target": "槍弓馬",
+   "rate": "32%",
+   "effectShort": "防御 40%上昇 / 武将ランクで効果が変化",
+   "afterTarget": "弓馬",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 24%上昇 / (攻撃部隊に兵器兵科がいれば効果2倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "虚軍号令",
+   "rank": "B",
+   "afterSkill": "虚軍号令",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "32%",
+   "effectShort": "防御 ((1+ランク)xコストx1.8) %上昇 / 武将ランクとコストで効果が変化"
+  }
+ ]
 }

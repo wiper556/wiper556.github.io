@@ -42,5 +42,69 @@
  "wikiOldestComment": "2014-01-10",
  "wikiCommentCount": 229,
  "chGuess": "7章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鬼刺",
+   "rank": "C",
+   "afterSkill": "乗り崩し",
+   "afterRank": "D",
+   "target": "槍馬砲",
+   "rate": "15%",
+   "effectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍馬",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 20%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "弾幕防壁陣",
+   "rank": "C",
+   "afterSkill": "鉄壁の備え",
+   "afterRank": "D",
+   "target": "弓砲",
+   "rate": "20%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "全",
+   "afterRate": "40%",
+   "afterEffectShort": "防御 15%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "剛勇無双",
+   "rank": "B",
+   "afterSkill": "剛勇無双",
+   "afterRank": "B",
+   "target": "槍馬砲",
+   "rate": "30%",
+   "effectShort": "攻撃 25%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "君臣豊楽",
+   "rank": "B",
+   "afterSkill": "捨て奸",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "15%",
+   "effectShort": "防御 40%上昇",
+   "afterTarget": "弓砲器",
+   "afterRate": "15%",
+   "afterEffectShort": "防御 37%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "天元の用兵",
+   "rank": "S",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "25%",
+   "effectShort": null,
+   "afterTarget": "馬・砲・器",
+   "afterRate": "40%",
+   "afterEffectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  }
+ ]
 }

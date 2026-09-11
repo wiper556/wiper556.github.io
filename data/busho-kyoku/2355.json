@@ -42,5 +42,60 @@
  "wikiOldestComment": "2023-10-05",
  "wikiCommentCount": 24,
  "chGuess": "26章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "龍閥ノ明主",
+   "rank": "A",
+   "afterSkill": "龍閥ノ明主",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "B",
+   "skill": "龍閥ノ明主",
+   "rank": "A",
+   "afterSkill": "龍閥ノ明主",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "龍閥ノ明主",
+   "rank": "A",
+   "afterSkill": "龍閥ノ明主",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "龍閥ノ明主",
+   "rank": "A",
+   "afterSkill": "龍閥ノ明主",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "十字飛車",
+   "rank": "A",
+   "afterSkill": "騒速ノ神撃",
+   "afterRank": "SS",
+   "target": "槍砲器",
+   "rate": "42%",
+   "effectShort": "攻撃 77%上昇 / 防御 77%上昇 / 破壊 50%上昇",
+   "afterTarget": "槍・弓・器・焙",
+   "afterRate": "57%",
+   "afterEffectShort": "攻撃 100%上昇 防御 100%上昇 部隊内の「騒速ノ神撃」スキルx25%を攻防効果に加算"
+  }
+ ]
 }

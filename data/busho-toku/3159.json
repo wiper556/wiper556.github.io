@@ -42,5 +42,72 @@
  "wikiOldestComment": "2013-12-05",
  "wikiCommentCount": 62,
  "chGuess": "7章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍砲方陣",
+   "rank": "C",
+   "afterSkill": "槍撃 修羅",
+   "afterRank": "C",
+   "target": "槍砲",
+   "rate": "40%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "槍",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃 25%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "馬砲方陣",
+   "rank": "C",
+   "afterSkill": "騎突 金剛",
+   "afterRank": "C",
+   "target": "馬砲",
+   "rate": "40%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "馬",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃 25%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "弓砲方陣",
+   "rank": "C",
+   "afterSkill": "三段撃 神速",
+   "afterRank": "C",
+   "target": "弓砲",
+   "rate": "40%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "砲",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 12%上昇 / 破壊 15%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "槍撃 修羅",
+   "rank": "C",
+   "afterSkill": "剣豪将軍",
+   "afterRank": "B",
+   "target": "槍",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇 / 破壊 5%上昇",
+   "afterTarget": null,
+   "afterRate": "35%",
+   "afterEffectShort": "対象 将 / 攻撃 35%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "組撃ち",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "弓砲",
+   "rate": "20%",
+   "effectShort": "防御 35%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 30%上昇"
+  }
+ ]
 }

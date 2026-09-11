@@ -41,5 +41,72 @@
  "wikiOldestComment": "2023-02-13",
  "wikiCommentCount": 13,
  "chGuess": "25章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "終幕ノ断刀",
+   "rank": "A",
+   "afterSkill": "戦陣 剣舞",
+   "afterRank": "A",
+   "target": "槍・弓・砲",
+   "rate": "50%",
+   "effectShort": "攻撃 38%上昇+防御 38%上昇(卓越:追加確率30%で攻防効果が5倍)",
+   "afterTarget": "全 飛翔6 卓越",
+   "afterRate": "100%",
+   "afterEffectShort": "飛翔6(攻撃 80%上昇+防御 80%上昇卓越追加確率30%で攻防効果が4倍)"
+  },
+  {
+   "slot": "B",
+   "skill": "終幕ノ断刀",
+   "rank": "A",
+   "afterSkill": "戦陣 剣舞",
+   "afterRank": "A",
+   "target": "槍・弓・砲",
+   "rate": "50%",
+   "effectShort": "攻撃 38%上昇+防御 38%上昇(卓越:追加確率30%で攻防効果が5倍)",
+   "afterTarget": "全 飛翔6 卓越",
+   "afterRate": "100%",
+   "afterEffectShort": "飛翔6(攻撃 80%上昇+防御 80%上昇卓越追加確率30%で攻防効果が4倍)"
+  },
+  {
+   "slot": "C",
+   "skill": "鬼神ノ戦域",
+   "rank": "A",
+   "afterSkill": "戦陣 神楽",
+   "afterRank": "A",
+   "target": "槍・馬・騎 飛翔4 卓越",
+   "rate": "55%",
+   "effectShort": "攻撃 84%上昇(卓越:追加確率40%で1.5倍)",
+   "afterTarget": "全 飛翔4",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 77%上昇(卓越:追加確率30%で2倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "戦陣 剣舞",
+   "rank": "A",
+   "afterSkill": "仙剣破斬",
+   "afterRank": "SSS",
+   "target": "全 飛翔6 卓越",
+   "rate": "100%",
+   "effectShort": "飛翔6(攻撃 80%上昇+防御 80%上昇卓越追加確率30%で攻防効果が4倍)",
+   "afterTarget": "全 卓越",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 115%上昇+防御 115%上昇(卓越:追加確率35%で4倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "鬼神ノ戦域",
+   "rank": "A",
+   "afterSkill": "戦陣 神楽",
+   "afterRank": "A",
+   "target": "槍・馬・騎 飛翔4 卓越",
+   "rate": "55%",
+   "effectShort": "攻撃 84%上昇(卓越:追加確率40%で1.5倍)",
+   "afterTarget": "全 飛翔4",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 77%上昇(卓越:追加確率30%で2倍)"
+  }
+ ]
 }

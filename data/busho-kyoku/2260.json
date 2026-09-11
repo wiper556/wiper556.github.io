@@ -41,5 +41,63 @@
  "wikiOldestComment": "2019-11-06",
  "wikiCommentCount": 46,
  "chGuess": "18章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊襲撃",
+   "rank": "F",
+   "afterSkill": "槍隊堅守",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "20%",
+   "effectShort": "攻撃 10%上昇",
+   "afterTarget": "槍",
+   "afterRate": "20%",
+   "afterEffectShort": "槍防：10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "反攻",
+   "rank": "D",
+   "afterSkill": "火将ノ熊手",
+   "afterRank": "B",
+   "target": "槍弓砲",
+   "rate": "28%",
+   "effectShort": "攻撃 48%上昇 / 武将ランクで効果が変化",
+   "afterTarget": "槍砲器",
+   "afterRate": "38%",
+   "afterEffectShort": "攻撃 ((1+ランク)xコストx1.7) %上昇 / 武将ランクとコストで効果が変化"
+  },
+  {
+   "slot": "C",
+   "skill": "乾為天",
+   "rank": "B",
+   "afterSkill": "乾為天",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "虎嘯",
+   "rank": "B",
+   "afterSkill": "虎嘯",
+   "afterRank": "B",
+   "target": "槍弓馬器",
+   "rate": "27%",
+   "effectShort": "攻撃防御 ((1+武将ランク)×武将コスト×2.2) %上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "仁将無双",
+   "rank": "B",
+   "afterSkill": "仁将無双",
+   "afterRank": "B",
+   "target": "槍馬砲",
+   "rate": "17%",
+   "effectShort": "攻撃防御 ((1+ランク)xコストx2.1) %上昇"
+  }
+ ]
 }

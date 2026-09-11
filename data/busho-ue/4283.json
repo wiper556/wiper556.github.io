@@ -44,5 +44,72 @@
  "wikiOldestComment": "2023-05-08",
  "wikiCommentCount": 1,
  "chGuess": "25章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "騎馬隊襲撃",
+   "rank": "F",
+   "afterSkill": "騎馬隊堅守",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "20%",
+   "effectShort": "馬攻：10%上昇",
+   "afterTarget": "馬",
+   "afterRate": "20%",
+   "afterEffectShort": "馬防：10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "騎馬隊進撃",
+   "rank": "F",
+   "afterSkill": "騎馬隊襲撃",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "10%",
+   "effectShort": "攻撃 15%上昇",
+   "afterTarget": "馬",
+   "afterRate": "20%",
+   "afterEffectShort": "馬攻：10%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "槍隊襲撃",
+   "rank": "F",
+   "afterSkill": "槍隊堅守",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "20%",
+   "effectShort": "攻撃 10%上昇",
+   "afterTarget": "槍",
+   "afterRate": "20%",
+   "afterEffectShort": "槍防：10%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "騎馬隊堅守",
+   "rank": "F",
+   "afterSkill": "騎馬隊襲撃",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "20%",
+   "effectShort": "馬防：10%上昇",
+   "afterTarget": "馬",
+   "afterRate": "20%",
+   "afterEffectShort": "馬攻：10%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "騎馬隊奇襲",
+   "rank": "E",
+   "afterSkill": "騎馬隊堅陣",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "30%",
+   "effectShort": "馬攻：12%上昇",
+   "afterTarget": "馬",
+   "afterRate": "30%",
+   "afterEffectShort": "馬防：12%上昇"
+  }
+ ]
 }

@@ -43,5 +43,60 @@
  "wikiOldestComment": "2014-04-05",
  "wikiCommentCount": 91,
  "chGuess": "7章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "新陰流",
+   "rank": "C",
+   "afterSkill": "大ふへん者",
+   "afterRank": "D",
+   "target": "将",
+   "rate": "35%",
+   "effectShort": "攻撃 30%上昇",
+   "afterTarget": "将",
+   "afterRate": "5%",
+   "afterEffectShort": "攻撃 40%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "柳生新陰流",
+   "rank": "A",
+   "afterSkill": "柳生新陰流",
+   "afterRank": "A",
+   "target": "将",
+   "rate": "55%",
+   "effectShort": "防御 40%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "剣豪将軍",
+   "rank": "B",
+   "afterSkill": "剣豪将軍",
+   "afterRank": "B",
+   "target": null,
+   "rate": "35%",
+   "effectShort": "対象 将 / 攻撃 35%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "剣聖",
+   "rank": "A",
+   "afterSkill": "剣聖",
+   "afterRank": "A",
+   "target": "将",
+   "rate": "50%",
+   "effectShort": "攻撃 40%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "攻城の妙技",
+   "rank": "S",
+   "afterSkill": "攻城の妙技",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "10%",
+   "effectShort": "戦闘勝利時のみ防御側の兵士被害数+40%"
+  }
+ ]
 }

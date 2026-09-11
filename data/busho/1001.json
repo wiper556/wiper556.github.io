@@ -45,5 +45,60 @@
  "wikiOldestComment": "2011-03-10",
  "wikiCommentCount": 565,
  "chGuess": "1-2章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "砲撃 羅刹",
+   "rank": "B",
+   "afterSkill": "釣り野伏 鬼",
+   "afterRank": "B",
+   "target": "砲",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇 / 破壊 5%上昇",
+   "afterTarget": "砲",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "独眼竜",
+   "rank": "A",
+   "afterSkill": "独眼竜",
+   "afterRank": "A",
+   "target": "馬砲器",
+   "rate": "30%",
+   "effectShort": "攻撃 25%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "捨て奸",
+   "rank": "B",
+   "afterSkill": "捨て奸",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "15%",
+   "effectShort": "防御 37%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "神算鬼謀 滅",
+   "rank": "A",
+   "afterSkill": "神算鬼謀 滅",
+   "afterRank": "A",
+   "target": "槍弓器",
+   "rate": "50%",
+   "effectShort": "攻撃 24%上昇 / 破壊 46%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "破軍星",
+   "rank": "SS",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "馬・砲・器",
+   "rate": "40%",
+   "effectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  }
+ ]
 }

@@ -41,5 +41,63 @@
  "wikiOldestComment": "2023-09-17",
  "wikiCommentCount": 17,
  "chGuess": "26章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "朝曇ノ明麗",
+   "rank": "S",
+   "afterSkill": "海神ノ浮船",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "46%",
+   "effectShort": "防御 290%上昇(所領防御陣形第4列配置時1.5倍+飛翔7取得・模倣不可、TRなし)",
+   "afterTarget": "全 飛翔4",
+   "afterRate": "48%",
+   "afterEffectShort": "防御 (3.5×防御参加武将数)%上昇(敵軍飛翔持ち4人未満の時通常武将ダメージを受けない)"
+  },
+  {
+   "slot": "B",
+   "skill": "朝曇ノ明麗",
+   "rank": "S",
+   "afterSkill": "海神ノ浮船",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "46%",
+   "effectShort": "防御 290%上昇(所領防御陣形第4列配置時1.5倍+飛翔7取得・模倣不可、TRなし)",
+   "afterTarget": "全 飛翔4",
+   "afterRate": "48%",
+   "afterEffectShort": "防御 (3.5×防御参加武将数)%上昇(敵軍飛翔持ち4人未満の時通常武将ダメージを受けない)"
+  },
+  {
+   "slot": "C",
+   "skill": "四天轟雷",
+   "rank": "SS",
+   "afterSkill": "四天轟雷",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 360%上昇+防御 360%上昇+部隊内全武将の兵科対象の全スキルに砲・器対象を追加"
+  },
+  {
+   "slot": "S1",
+   "skill": "海神ノ浮船",
+   "rank": "SS",
+   "afterSkill": "海神ノ浮船",
+   "afterRank": "SS",
+   "target": "全 飛翔4",
+   "rate": "48%",
+   "effectShort": "防御 (3.5×防御参加武将数)%上昇(敵軍飛翔持ち4人未満の時通常武将ダメージを受けない)"
+  },
+  {
+   "slot": "S2",
+   "skill": "国堅大神",
+   "rank": "SS",
+   "afterSkill": "国堅大神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "攻撃 170%上昇+防御 170%上昇(部隊消費コスト-1・特殊効果は模倣不可)"
+  }
+ ]
 }

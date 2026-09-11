@@ -44,5 +44,66 @@
  "wikiOldestComment": "2017-08-23",
  "wikiCommentCount": 114,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "荒切武者",
+   "rank": "F",
+   "afterSkill": "騎馬隊堅守",
+   "afterRank": "F",
+   "target": "槍馬",
+   "rate": "15%",
+   "effectShort": "攻撃 15%上昇 / 破壊 4%上昇",
+   "afterTarget": "馬",
+   "afterRate": "20%",
+   "afterEffectShort": "馬防：10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "上忍遁甲",
+   "rank": "D",
+   "afterSkill": "三段撃 烈火",
+   "afterRank": "C",
+   "target": "弓砲",
+   "rate": "30%",
+   "effectShort": "攻撃 15%上昇 / 破壊 15%上昇",
+   "afterTarget": "槍砲",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "戦姫 陽炎",
+   "rank": "D",
+   "afterSkill": "戦姫 陽炎",
+   "afterRank": "D",
+   "target": "槍馬",
+   "rate": "100%",
+   "effectShort": "攻撃 7%上昇 / 速度 40%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "雲散霧消",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "速度 45%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "騎神",
+   "rank": "SS",
+   "afterSkill": "騎神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 (コストx4.5) %+速度 50%上昇"
+  }
+ ]
 }

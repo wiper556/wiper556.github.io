@@ -43,5 +43,69 @@
  "wikiOldestComment": "2017-08-06",
  "wikiCommentCount": 28,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "滅殺陣弦月",
+   "rank": "B",
+   "afterSkill": "天賦の神算",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 15%上昇 / 破壊 7%上昇",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 12%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "独眼竜咆哮",
+   "rank": "S",
+   "afterSkill": "独眼竜",
+   "afterRank": "A",
+   "target": "馬砲器",
+   "rate": "30%",
+   "effectShort": "攻撃 35%上昇+破壊 20%上昇",
+   "afterTarget": "馬砲器",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 25%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "独眼竜轟雷",
+   "rank": "S",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "槍・砲",
+   "rate": "35%",
+   "effectShort": null,
+   "afterTarget": "馬・砲・器",
+   "afterRate": "40%",
+   "afterEffectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S1",
+   "skill": "独眼竜 天翔",
+   "rank": "S",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "馬・砲",
+   "rate": "100%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "破軍星",
+   "rank": "SS",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "馬・砲・器",
+   "rate": "40%",
+   "effectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  }
+ ]
 }

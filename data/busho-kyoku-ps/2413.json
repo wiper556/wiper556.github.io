@@ -41,5 +41,60 @@
  "wikiOldestComment": "2019-04-03",
  "wikiCommentCount": 10,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "騎馬隊突撃",
+   "rank": "F",
+   "afterSkill": "騎馬隊奇襲",
+   "afterRank": "E",
+   "target": "馬",
+   "rate": "15%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "馬",
+   "afterRate": "30%",
+   "afterEffectShort": "馬攻：12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "気骨の士",
+   "rank": "D",
+   "afterSkill": "気骨の士",
+   "afterRank": "D",
+   "target": "馬砲",
+   "rate": "28%",
+   "effectShort": "攻撃 38%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "質実剛健",
+   "rank": "B",
+   "afterSkill": "質実剛健",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "27%",
+   "effectShort": "攻撃防御 ((1+武将ランク)x武将コストx1.9) %上昇 / 武将ランクとコストで効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "一騎当千ノ兵",
+   "rank": "A",
+   "afterSkill": "一騎当千ノ兵",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "騎龍 轟攻陣",
+   "rank": "A",
+   "afterSkill": "騎龍 轟攻陣",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ]
 }

@@ -47,5 +47,66 @@
  "wikiOldestComment": "2014-04-27",
  "wikiCommentCount": 21,
  "chGuess": "7章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "組撃ち",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "弓砲",
+   "rate": "20%",
+   "effectShort": "防御 35%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "砲撃 羅刹",
+   "rank": "B",
+   "afterSkill": "釣り野伏 鬼",
+   "afterRank": "B",
+   "target": "砲",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇 / 破壊 5%上昇",
+   "afterTarget": "砲",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "砲陣の極み",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "砲",
+   "rate": "30%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "八咫烏",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "砲器",
+   "rate": "35%",
+   "effectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "捨て奸",
+   "rank": "B",
+   "afterSkill": "捨て奸",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "15%",
+   "effectShort": "防御 37%上昇"
+  }
+ ]
 }

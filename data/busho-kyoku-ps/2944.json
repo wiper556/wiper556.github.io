@@ -44,5 +44,63 @@
  "wikiOldestComment": "2017-10-03",
  "wikiCommentCount": 120,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "騎馬隊進撃",
+   "rank": "F",
+   "afterSkill": "騎馬隊襲撃",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "10%",
+   "effectShort": "攻撃 15%上昇",
+   "afterTarget": "馬",
+   "afterRate": "20%",
+   "afterEffectShort": "馬攻：10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "援兵勲功",
+   "rank": "D",
+   "afterSkill": "援兵勲功",
+   "afterRank": "D",
+   "target": "弓馬器",
+   "rate": "12%",
+   "effectShort": "攻撃 39%上昇 / 合流攻撃時は必ずスキル発動"
+  },
+  {
+   "slot": "C",
+   "skill": "鬼小十郎",
+   "rank": "B",
+   "afterSkill": "戦陣 風雷火",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": null,
+   "afterRate": null,
+   "afterEffectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "妙法軍鬼",
+   "rank": "B",
+   "afterSkill": "妙法軍鬼",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "六道攻竜",
+   "rank": "A",
+   "afterSkill": "六道攻竜",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ]
 }

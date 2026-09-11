@@ -43,5 +43,72 @@
  "wikiOldestComment": "2024-08-30",
  "wikiCommentCount": 2,
  "chGuess": "28章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "麟姫清閑",
+   "rank": "C",
+   "afterSkill": "廻将一夢",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍砲器",
+   "afterRate": "48%",
+   "afterEffectShort": "防御 140%上昇 / (自領以外の加勢で効果2倍)"
+  },
+  {
+   "slot": "B",
+   "skill": "麟姫清閑",
+   "rank": "C",
+   "afterSkill": "廻将一夢",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍砲器",
+   "afterRate": "48%",
+   "afterEffectShort": "防御 140%上昇 / (自領以外の加勢で効果2倍)"
+  },
+  {
+   "slot": "C",
+   "skill": "麟姫清閑",
+   "rank": "C",
+   "afterSkill": "廻将一夢",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍砲器",
+   "afterRate": "48%",
+   "afterEffectShort": "防御 140%上昇 / (自領以外の加勢で効果2倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "廻将一夢",
+   "rank": "C",
+   "afterSkill": "不屈ノ絆",
+   "afterRank": "C",
+   "target": "槍砲器",
+   "rate": "48%",
+   "effectShort": "防御 140%上昇 / (自領以外の加勢で効果2倍)",
+   "afterTarget": "槍弓馬器",
+   "afterRate": "48%",
+   "afterEffectShort": "防御 130%上昇 / (自領以外の加勢で効果2倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "不屈ノ絆",
+   "rank": "C",
+   "afterSkill": "忠義ノ銃壁",
+   "afterRank": "C",
+   "target": "槍弓馬器",
+   "rate": "48%",
+   "effectShort": "防御 130%上昇 / (自領以外の加勢で効果2倍)",
+   "afterTarget": "槍弓器鉄",
+   "afterRate": "44%",
+   "afterEffectShort": "防御 65%上昇 / 拠点待機120分ごとに防御効果2倍(上限1回) / 防御最大：260%上昇"
+  }
+ ]
 }

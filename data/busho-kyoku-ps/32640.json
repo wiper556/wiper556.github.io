@@ -38,28 +38,40 @@
    "skill": "虎賁統帥",
    "rank": null,
    "afterSkill": null,
-   "afterRank": null
+   "afterRank": null,
+   "target": "全 撤退 覇道",
+   "rate": "100%",
+   "effectShort": "攻撃 1130%上昇+速度 200%上昇"
   },
   {
    "slot": "C",
    "skill": "絶界滅刃",
    "rank": null,
    "afterSkill": null,
-   "afterRank": null
+   "afterRank": null,
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "攻撃 基礎値340%×部隊内の同スキル所持武将数(4人)=1360%上昇"
   },
   {
    "slot": "S1",
    "skill": "覇天金剛",
    "rank": null,
    "afterSkill": null,
-   "afterRank": null
+   "afterRank": null,
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 1350%上昇+防御 1350%上昇+速度 100%上昇"
   },
   {
    "slot": "S2",
    "skill": "星神闘覇",
    "rank": null,
    "afterSkill": null,
-   "afterRank": null
+   "afterRank": null,
+   "target": "全 飛翔15",
+   "rate": "100%",
+   "effectShort": "攻撃 740%上昇+速度 200%上昇"
   }
  ],
  "trTable": [

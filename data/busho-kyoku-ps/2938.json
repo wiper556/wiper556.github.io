@@ -45,5 +45,63 @@
  "wikiOldestComment": "2017-04-07",
  "wikiCommentCount": 27,
  "chGuess": "13章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "馬砲連撃",
+   "rank": "D",
+   "afterSkill": "馬陣の極み",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "馬",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "啄木鳥",
+   "rank": "D",
+   "afterSkill": "槍弓猛襲",
+   "afterRank": "D",
+   "target": "弓馬",
+   "rate": "20%",
+   "effectShort": "攻撃 20%上昇 / 破壊 5%上昇",
+   "afterTarget": "槍弓",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "常勝の采配",
+   "rank": "B",
+   "afterSkill": "常勝の采配",
+   "afterRank": "B",
+   "target": "槍馬器",
+   "rate": "38%",
+   "effectShort": "防御 (0.7x防御参加武将数)%上昇 / (模倣不可)"
+  },
+  {
+   "slot": "S1",
+   "skill": "道鬼流兵法",
+   "rank": "B",
+   "afterSkill": "道鬼流兵法",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "傀儡幽王",
+   "rank": "B",
+   "afterSkill": "傀儡幽王",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ]
 }

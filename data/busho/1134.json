@@ -47,5 +47,63 @@
  "wikiOldestComment": "2019-02-09",
  "wikiCommentCount": 61,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "神虎覇撃",
+   "rank": "S",
+   "afterSkill": "神虎相克",
+   "afterRank": "S",
+   "target": "馬・器・騎",
+   "rate": "35%",
+   "effectShort": null,
+   "afterTarget": "馬砲器",
+   "afterRate": "50%",
+   "afterEffectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "天弓星宿陣",
+   "rank": "SS",
+   "afterSkill": "天弓星宿陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 (部隊総コスト依存)%上昇(総C25=328.02%)"
+  },
+  {
+   "slot": "S1",
+   "skill": "神虎相克",
+   "rank": "S",
+   "afterSkill": "神虎相克",
+   "afterRank": "S",
+   "target": "馬砲器",
+   "rate": "50%",
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "神虎相克",
+   "rank": "S",
+   "afterSkill": "神虎相克",
+   "afterRank": "S",
+   "target": "馬砲器",
+   "rate": "50%",
+   "effectShort": null
+  }
+ ]
 }

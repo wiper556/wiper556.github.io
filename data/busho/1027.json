@@ -45,5 +45,60 @@
  "wikiOldestComment": "2012-04-17",
  "wikiCommentCount": 519,
  "chGuess": "4章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "釣り野伏 鬼",
+   "rank": "B",
+   "afterSkill": "釣り野伏 鬼",
+   "afterRank": "B",
+   "target": "砲",
+   "rate": "20%",
+   "effectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "捨て奸",
+   "rank": "B",
+   "afterSkill": "捨て奸",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "15%",
+   "effectShort": "防御 37%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "姫鬼無双",
+   "rank": "S",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "槍",
+   "rate": "25%",
+   "effectShort": null,
+   "afterTarget": "馬・砲・器",
+   "afterRate": "40%",
+   "afterEffectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S1",
+   "skill": "天衣無縫陣",
+   "rank": "SS",
+   "afterSkill": "天衣無縫陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "55%",
+   "effectShort": "防御 (20+コスト×10) %上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "神算鬼謀 滅",
+   "rank": "A",
+   "afterSkill": "神算鬼謀 滅",
+   "afterRank": "A",
+   "target": "槍弓器",
+   "rate": "50%",
+   "effectShort": "攻撃 24%上昇 / 破壊 46%上昇"
+  }
+ ]
 }

@@ -44,5 +44,69 @@
  "wikiOldestComment": "2014-06-04",
  "wikiCommentCount": 91,
  "chGuess": "8章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄砲隊剛撃",
+   "rank": "D",
+   "afterSkill": "三段撃 烈火",
+   "afterRank": "C",
+   "target": "砲",
+   "rate": "30%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "槍砲",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "薩摩軍法",
+   "rank": "A",
+   "afterSkill": "繰抜十字紋",
+   "afterRank": "S",
+   "target": "砲器",
+   "rate": "25%",
+   "effectShort": "防御 32%上昇",
+   "afterTarget": "砲",
+   "afterRate": "40%",
+   "afterEffectShort": "攻撃 30%上昇+破壊 15%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "釣り野伏 鬼",
+   "rank": "B",
+   "afterSkill": "釣り野伏 鬼",
+   "afterRank": "B",
+   "target": "砲",
+   "rate": "20%",
+   "effectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "釣り野伏 真",
+   "rank": "S",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "砲",
+   "rate": "35%",
+   "effectShort": "防御 35%上昇",
+   "afterTarget": "馬・砲・器",
+   "afterRate": "40%",
+   "afterEffectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S2",
+   "skill": "繰抜十字紋",
+   "rank": "S",
+   "afterSkill": "神算鬼謀 滅",
+   "afterRank": "A",
+   "target": "砲",
+   "rate": "40%",
+   "effectShort": "攻撃 30%上昇+破壊 15%上昇",
+   "afterTarget": "槍弓器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 24%上昇 / 破壊 46%上昇"
+  }
+ ]
 }

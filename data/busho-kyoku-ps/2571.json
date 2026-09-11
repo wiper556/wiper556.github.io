@@ -43,5 +43,72 @@
  "wikiOldestComment": "2022-10-06",
  "wikiCommentCount": 22,
  "chGuess": "24章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "岩流 龍切",
+   "rank": "S",
+   "afterSkill": "活人剣",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "45%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 55%上昇+防御 55%上昇(自軍全武将全スキルの卓越確率に7%を加算・模倣不可・自軍内重複上限4)"
+  },
+  {
+   "slot": "B",
+   "skill": "岩流 龍切",
+   "rank": "S",
+   "afterSkill": "活人剣",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "45%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 55%上昇+防御 55%上昇(自軍全武将全スキルの卓越確率に7%を加算・模倣不可・自軍内重複上限4)"
+  },
+  {
+   "slot": "C",
+   "skill": "飛び雁金",
+   "rank": "S",
+   "afterSkill": "風狂魔術",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "70%",
+   "effectShort": "防御 90%上昇(卓越 追加確率60%で防御効果が4倍)",
+   "afterTarget": "全",
+   "afterRate": "45%",
+   "afterEffectShort": "防御 (敵部隊移動速度÷1)%上昇(最も部隊移動速度の大きい敵部隊の数値を参照する)"
+  },
+  {
+   "slot": "S1",
+   "skill": "活人剣",
+   "rank": "A",
+   "afterSkill": "鬼滅刺",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 55%上昇+防御 55%上昇(自軍全武将全スキルの卓越確率に7%を加算・模倣不可・自軍内重複上限4)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)"
+  },
+  {
+   "slot": "S2",
+   "skill": "籠城の妙技",
+   "rank": "A",
+   "afterSkill": "三千世界神将",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "防御 50%上昇(卓越:追加確率15%で防御効果が3倍)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "防御 120%上昇(本丸防御陣形時コスト消費-1)"
+  }
+ ]
 }

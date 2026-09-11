@@ -49,5 +49,57 @@
  "wikiOldestComment": "2021-02-05",
  "wikiCommentCount": 304,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "天弓星宿陣",
+   "rank": "SS",
+   "afterSkill": "天弓星宿陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 (部隊総コスト依存)%上昇(総C25=328.02%)"
+  },
+  {
+   "slot": "B",
+   "skill": "幽冥主宰大神",
+   "rank": "SS",
+   "afterSkill": "幽冥主宰大神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "防御 90%上昇(攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化・模倣不可)"
+  },
+  {
+   "slot": "C",
+   "skill": "天衣無縫神戒",
+   "rank": "SS",
+   "afterSkill": "天衣無縫神戒",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "防御 (部隊総コスト依存)%上昇(総C25=393.79%)"
+  },
+  {
+   "slot": "S1",
+   "skill": "三千世界神将",
+   "rank": "SS",
+   "afterSkill": "三千世界神将",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "防御 120%上昇(本丸防御陣形時コスト消費-1)"
+  },
+  {
+   "slot": "S2",
+   "skill": "星宿劫ノ法壁",
+   "rank": "SS",
+   "afterSkill": "星宿劫ノ法壁",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "49%",
+   "effectShort": "防御 120%上昇+本丸防御陣形の第参列目以降配置時、防御効果が3倍"
+  }
+ ]
 }

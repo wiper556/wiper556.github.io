@@ -41,5 +41,72 @@
  "wikiOldestComment": "2022-01-11",
  "wikiCommentCount": 8,
  "chGuess": "22章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "悪因ノ深域",
+   "rank": "C",
+   "afterSkill": "御朱印衆",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "54%",
+   "effectShort": "攻撃 85%上昇 / 資源獲得率: 10% / 破壊した耐久値に応じて資源獲得",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 50%上昇 / 資源獲得率：12% / 破壊した耐久値に応じて資源獲得"
+  },
+  {
+   "slot": "B",
+   "skill": "悪因ノ深域",
+   "rank": "C",
+   "afterSkill": "御朱印衆",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "54%",
+   "effectShort": "攻撃 85%上昇 / 資源獲得率: 10% / 破壊した耐久値に応じて資源獲得",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 50%上昇 / 資源獲得率：12% / 破壊した耐久値に応じて資源獲得"
+  },
+  {
+   "slot": "C",
+   "skill": "悪因ノ深域",
+   "rank": "C",
+   "afterSkill": "御朱印衆",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "54%",
+   "effectShort": "攻撃 85%上昇 / 資源獲得率: 10% / 破壊した耐久値に応じて資源獲得",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 50%上昇 / 資源獲得率：12% / 破壊した耐久値に応じて資源獲得"
+  },
+  {
+   "slot": "S1",
+   "skill": "御朱印衆",
+   "rank": "D",
+   "afterSkill": "覚悟十躰",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "42%",
+   "effectShort": "攻撃 50%上昇 / 資源獲得率：12% / 破壊した耐久値に応じて資源獲得",
+   "afterTarget": "全",
+   "afterRate": "30%",
+   "afterEffectShort": "資源獲得率：15% / 破壊した耐久値に応じて資源獲得"
+  },
+  {
+   "slot": "S2",
+   "skill": "保食神",
+   "rank": "B",
+   "afterSkill": "疾風怒濤",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "資源獲得率：10% / 破壊した耐久値に応じて資源獲得",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 5%上昇 / 速度 32%上昇"
+  }
+ ]
 }

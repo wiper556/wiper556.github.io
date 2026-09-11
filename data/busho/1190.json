@@ -46,5 +46,63 @@
  "wikiOldestComment": "2021-08-13",
  "wikiCommentCount": 228,
  "chGuess": "22章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "義神ノ紋章",
+   "rank": "SSS",
+   "afterSkill": "天啓ノ神撃",
+   "afterRank": "SS",
+   "target": "槍・弓・砲",
+   "rate": "45%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 180%上昇(HP100以上時ランダム敵1部隊全武将に追加ダメージ5・模倣不可)"
+  },
+  {
+   "slot": "B",
+   "skill": "義神ノ紋章",
+   "rank": "SSS",
+   "afterSkill": "天啓ノ神撃",
+   "afterRank": "SS",
+   "target": "槍・弓・砲",
+   "rate": "45%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 180%上昇(HP100以上時ランダム敵1部隊全武将に追加ダメージ5・模倣不可)"
+  },
+  {
+   "slot": "C",
+   "skill": "覇王征軍",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "42%",
+   "effectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "天啓ノ神撃",
+   "rank": "SS",
+   "afterSkill": "天啓ノ神撃",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "45%",
+   "effectShort": "攻撃 180%上昇(HP100以上時ランダム敵1部隊全武将に追加ダメージ5・模倣不可)"
+  },
+  {
+   "slot": "S2",
+   "skill": "天津甕星ノ雷",
+   "rank": "SS",
+   "afterSkill": "天津甕星ノ雷",
+   "afterRank": "SS",
+   "target": "全 覇道",
+   "rate": "100%",
+   "effectShort": "攻撃 170%上昇+速度 70%上昇+覇道を持つため所属部隊の武将のスキルを無効化・発動率低下から保護"
+  }
+ ]
 }

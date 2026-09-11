@@ -40,5 +40,66 @@
   "2026-08-23: カード名を「竹中半兵衛」から「竹中半兵衛（4）」に直した。（N）はゲーム内には無く、プレイヤーが見分けるために付けられたもの。うぐさんのルールは「早く出た順に1から振る・1枚目は無印・**覇と通常天は通し番号**・**復刻は復刻前の番号を踏襲する**・**未登録のカードも数える**」。順番は章(wikiの最古コメントから推定)で決めた。**ixawiki の一覧の表示名は正ではない**(wiki は覇と復刻を別の列で数えており、うぐさんのルールとは違う)。wiki は復刻かどうかの判別にだけ使った。"
  ],
  "wikiOldestComment": null,
- "wikiCommentCount": null
+ "wikiCommentCount": null,
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "城崩 奈落",
+   "rank": "C",
+   "afterSkill": "鬼謀 国砕",
+   "afterRank": "B",
+   "target": "器",
+   "rate": "25%",
+   "effectShort": "攻撃 5%上昇 / 破壊 25%上昇",
+   "afterTarget": "上級器",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 10%上昇+破壊 25%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "弓陣の極み",
+   "rank": "B",
+   "afterSkill": "戦陣 千鳥",
+   "afterRank": "B",
+   "target": "弓",
+   "rate": "30%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "弓馬",
+   "afterRate": "45%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "弓撃 夜叉",
+   "rank": "C",
+   "afterSkill": "天賦の神算",
+   "afterRank": "B",
+   "target": "弓",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇+破壊 5%上昇",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 12%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "天賦の神算",
+   "rank": "B",
+   "afterSkill": "天賦の神算",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 12%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "神算鬼謀",
+   "rank": "A",
+   "afterSkill": "神算鬼謀",
+   "afterRank": "A",
+   "target": "槍器",
+   "rate": "45%",
+   "effectShort": "攻撃 10%上昇"
+  }
+ ]
 }

@@ -48,5 +48,72 @@
  "wikiOldestComment": "2021-07-05",
  "wikiCommentCount": 9,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "覇・海王神渦",
+   "rank": "B",
+   "afterSkill": "籠城の妙技",
+   "afterRank": "A",
+   "target": "槍弓器",
+   "rate": "40%",
+   "effectShort": "防御 62%上昇 / 本丸防御陣形の第参列目以降に配置時、防御効果が1.5倍",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "防御 50%上昇(卓越:追加確率15%で防御効果が3倍)"
+  },
+  {
+   "slot": "B",
+   "skill": "弓隊備え",
+   "rank": "F",
+   "afterSkill": "弓隊堅守",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "10%",
+   "effectShort": "弓防：15%上昇",
+   "afterTarget": "弓",
+   "afterRate": "20%",
+   "afterEffectShort": "防御 10%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "慈愛の花",
+   "rank": "B",
+   "afterSkill": "新館御料人",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "40%",
+   "effectShort": "防御 32%上昇 / 自拠点防御時は防御効果2倍",
+   "afterTarget": "弓砲器",
+   "afterRate": "70%",
+   "afterEffectShort": "攻撃 57.6%上昇 / 防御 57.6%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "籠城の妙技",
+   "rank": "A",
+   "afterSkill": "三千世界神将",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "防御 50%上昇(卓越:追加確率15%で防御効果が3倍)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "防御 120%上昇(本丸防御陣形時コスト消費-1)"
+  },
+  {
+   "slot": "S2",
+   "skill": "惨王ノ眷族",
+   "rank": "B",
+   "afterSkill": "闘戦経",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "21%",
+   "effectShort": "防御 87%上昇 / 自拠点防御時は100%発動",
+   "afterTarget": "全",
+   "afterRate": "10%",
+   "afterEffectShort": "防御 80.4%上昇 / 自拠点防御時は100%発動"
+  }
+ ]
 }

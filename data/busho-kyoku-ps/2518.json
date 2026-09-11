@@ -50,5 +50,66 @@
  "wikiOldestComment": "2019-12-02",
  "wikiCommentCount": 69,
  "chGuess": "18章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "猿臂ノ術",
+   "rank": "B",
+   "afterSkill": "猿臂ノ術",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "100%",
+   "effectShort": "攻撃 25%上昇 / 速度 40%上昇 / 部隊内で最も速い兵士速度で移動"
+  },
+  {
+   "slot": "C",
+   "skill": "遁世影武者",
+   "rank": "B",
+   "afterSkill": "風林火山",
+   "afterRank": "S",
+   "target": "部隊長",
+   "rate": "50%",
+   "effectShort": "所属部隊の部隊長が持つ初期スキルを模倣する(戦闘スキルのみ)",
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 30%上昇+破壊 15%上昇(TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "夜叉源氏轟",
+   "rank": "A",
+   "afterSkill": "夜叉源氏轟",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "攻撃 90%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 一閃",
+   "rank": "A",
+   "afterSkill": "神光征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%/100%",
+   "effectShort": "攻撃 50%上昇(確率50%)+速度 50%上昇(確率100%)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 90%上昇+速度 200%上昇(TRなし)"
+  }
+ ]
 }

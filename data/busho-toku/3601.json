@@ -46,5 +46,72 @@
  "wikiOldestComment": "2024-11-20",
  "wikiCommentCount": 1,
  "chGuess": "28章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦下ノ悠風",
+   "rank": "C",
+   "afterSkill": "虎眼慧明",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍馬砲",
+   "afterRate": "44%",
+   "afterEffectShort": "防御 180%上昇 / この武将の最大指揮兵数と同数の兵士を指揮時、防御効果を1.5倍する"
+  },
+  {
+   "slot": "B",
+   "skill": "戦下ノ悠風",
+   "rank": "C",
+   "afterSkill": "虎眼慧明",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍馬砲",
+   "afterRate": "44%",
+   "afterEffectShort": "防御 180%上昇 / この武将の最大指揮兵数と同数の兵士を指揮時、防御効果を1.5倍する"
+  },
+  {
+   "slot": "C",
+   "skill": "戦下ノ悠風",
+   "rank": "C",
+   "afterSkill": "虎眼慧明",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍馬砲",
+   "afterRate": "44%",
+   "afterEffectShort": "防御 180%上昇 / この武将の最大指揮兵数と同数の兵士を指揮時、防御効果を1.5倍する"
+  },
+  {
+   "slot": "S1",
+   "skill": "虎眼慧明",
+   "rank": "C",
+   "afterSkill": "戦慄ノ遁走曲",
+   "afterRank": "A",
+   "target": "槍馬砲",
+   "rate": "44%",
+   "effectShort": "防御 180%上昇 / この武将の最大指揮兵数と同数の兵士を指揮時、防御効果を1.5倍する",
+   "afterTarget": "弓馬砲",
+   "afterRate": "52%",
+   "afterEffectShort": "防御 88%上昇 確率：+52% / 速度 40%上昇 確率：+100% / (加勢出陣時は速度効果3倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "護城ノ義士",
+   "rank": "C",
+   "afterSkill": "絶界煉獄",
+   "afterRank": "B",
+   "target": "槍馬器",
+   "rate": "44%",
+   "effectShort": "防御 48%上昇 / この武将の最大指揮兵数と同数の兵士を指揮時、防御効果を2倍する",
+   "afterTarget": "槍弓馬器",
+   "afterRate": "27%",
+   "afterEffectShort": "防御 90%上昇 / 本丸防御陣形に配置時、この武将の編成コスト消費を-0.5する(模倣不可)"
+  }
+ ]
 }

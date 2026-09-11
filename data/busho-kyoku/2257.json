@@ -41,5 +41,63 @@
  "wikiOldestComment": "2019-09-03",
  "wikiCommentCount": 69,
  "chGuess": "18章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊堅陣",
+   "rank": "F",
+   "afterSkill": "弓隊奇襲",
+   "afterRank": "E",
+   "target": "弓",
+   "rate": "30%",
+   "effectShort": "防御 12%上昇",
+   "afterTarget": "弓",
+   "afterRate": "30%",
+   "afterEffectShort": "弓攻：12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "終末の美玉",
+   "rank": "E",
+   "afterSkill": "終末の美玉",
+   "afterRank": "E",
+   "target": "槍弓馬",
+   "rate": "24%",
+   "effectShort": "防御 27%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "弥陀の剣",
+   "rank": "D",
+   "afterSkill": "盟約の寵姫",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "36%",
+   "effectShort": "防御 32%上昇",
+   "afterTarget": "全",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 35%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "美龍泰天",
+   "rank": "B",
+   "afterSkill": "美龍泰天",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "35%",
+   "effectShort": "防御 58%上昇 / 自拠点防御時は防御効果1.5倍"
+  },
+  {
+   "slot": "S2",
+   "skill": "仏敵討伐",
+   "rank": "B",
+   "afterSkill": "仏敵討伐",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "36%",
+   "effectShort": "防御 (コストx14) %上昇 / (武将のコストで効果が変化します)"
+  }
+ ]
 }

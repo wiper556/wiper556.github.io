@@ -41,5 +41,69 @@
  "wikiOldestComment": "2015-09-03",
  "wikiCommentCount": 72,
  "chGuess": "10章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "騎馬隊襲撃",
+   "rank": "F",
+   "afterSkill": "騎馬隊堅守",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "20%",
+   "effectShort": "馬攻：10%上昇",
+   "afterTarget": "馬",
+   "afterRate": "20%",
+   "afterEffectShort": "馬防：10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "武神襲来",
+   "rank": "D",
+   "afterSkill": "槍隊剛撃",
+   "afterRank": "D",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 20%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "神風襲来",
+   "rank": "B",
+   "afterSkill": "疾風怒濤",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 6%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 5%上昇 / 速度 32%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "武神 火車懸",
+   "rank": "B",
+   "afterSkill": "武神 火車懸",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "太虚国崩し",
+   "rank": "S",
+   "afterSkill": "神算鬼謀 滅",
+   "afterRank": "A",
+   "target": "砲器",
+   "rate": "25%",
+   "effectShort": null,
+   "afterTarget": "槍弓器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 24%上昇 / 破壊 46%上昇"
+  }
+ ]
 }

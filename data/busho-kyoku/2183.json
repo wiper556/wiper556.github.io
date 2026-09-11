@@ -42,5 +42,63 @@
  "wikiOldestComment": "2016-10-26",
  "wikiCommentCount": 79,
  "chGuess": "12章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍衾",
+   "rank": "D",
+   "afterSkill": "義兵進軍",
+   "afterRank": "C",
+   "target": "槍器",
+   "rate": "30%",
+   "effectShort": "防御 25%上昇",
+   "afterTarget": "槍弓馬砲",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 7%上昇 / 速度 10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "刹那の猛勇",
+   "rank": "D",
+   "afterSkill": "義兵進軍",
+   "afterRank": "C",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "攻撃 10%上昇",
+   "afterTarget": "槍弓馬砲",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 7%上昇 / 速度 10%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "絢鳥",
+   "rank": "B",
+   "afterSkill": "絢鳥",
+   "afterRank": "B",
+   "target": "槍弓",
+   "rate": "35%",
+   "effectShort": "攻撃 42%上昇 / 破壊 15%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "信愛なる菩薩",
+   "rank": "B",
+   "afterSkill": "信愛なる菩薩",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "予覚の残香",
+   "rank": "B",
+   "afterSkill": "予覚の残香",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "7%",
+   "effectShort": "攻撃 54%上昇 / 相手軍の武将数が20以上だと必ずスキル発動"
+  }
+ ]
 }

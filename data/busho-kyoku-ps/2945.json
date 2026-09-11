@@ -44,5 +44,63 @@
  "wikiOldestComment": "2017-11-02",
  "wikiCommentCount": 77,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊急襲",
+   "rank": "F",
+   "afterSkill": "弓隊守備",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "16%",
+   "effectShort": "攻撃 (コストx5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "弓",
+   "afterRate": "16%",
+   "afterEffectShort": "防御 (コストx6) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "君子中庸",
+   "rank": "A",
+   "afterSkill": "鬼笛乃可勢",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": null,
+   "afterRate": null,
+   "afterEffectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "賢王訓戒",
+   "rank": "B",
+   "afterSkill": "賢王訓戒",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "34%",
+   "effectShort": "攻撃 ((1+ランク)xコストx0.5) %上昇 / 武将ランクとコストで効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "元和偃武",
+   "rank": "B",
+   "afterSkill": "元和偃武",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "質実剛健",
+   "rank": "B",
+   "afterSkill": "質実剛健",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "27%",
+   "effectShort": "攻撃防御 ((1+武将ランク)x武将コストx1.9) %上昇 / 武将ランクとコストで効果が変化"
+  }
+ ]
 }

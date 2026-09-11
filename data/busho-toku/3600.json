@@ -44,5 +44,72 @@
  "wikiOldestComment": "2024-11-20",
  "wikiCommentCount": 1,
  "chGuess": "28章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "志興壮剣",
+   "rank": "C",
+   "afterSkill": "春霞晴詠",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 140%上昇 / 防御 140%上昇 / 部隊コスト12以下で効果2倍"
+  },
+  {
+   "slot": "B",
+   "skill": "志興壮剣",
+   "rank": "C",
+   "afterSkill": "春霞晴詠",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 140%上昇 / 防御 140%上昇 / 部隊コスト12以下で効果2倍"
+  },
+  {
+   "slot": "C",
+   "skill": "志興壮剣",
+   "rank": "C",
+   "afterSkill": "春霞晴詠",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 140%上昇 / 防御 140%上昇 / 部隊コスト12以下で効果2倍"
+  },
+  {
+   "slot": "S1",
+   "skill": "春霞晴詠",
+   "rank": "C",
+   "afterSkill": "鬼ノ懐刀",
+   "afterRank": "C",
+   "target": "弓砲器",
+   "rate": "35%",
+   "effectShort": "攻撃 140%上昇 / 防御 140%上昇 / 部隊コスト12以下で効果2倍",
+   "afterTarget": "槍弓馬器",
+   "afterRate": "60%",
+   "afterEffectShort": "攻撃 62%上昇 防御 62%上昇 / 部隊コスト14以下で効果2倍"
+  },
+  {
+   "slot": "S2",
+   "skill": "野太刀",
+   "rank": "C",
+   "afterSkill": "戦陣 凱旋",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "17%",
+   "effectShort": "攻撃 77%上昇 / 防御 77%上昇",
+   "afterTarget": "全",
+   "afterRate": "10%",
+   "afterEffectShort": "攻撃 87%上昇+防御 87%上昇"
+  }
+ ]
 }

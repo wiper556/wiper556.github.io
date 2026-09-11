@@ -41,5 +41,63 @@
  "wikiOldestComment": "2019-12-03",
  "wikiCommentCount": 37,
  "chGuess": "18章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊突撃",
+   "rank": "F",
+   "afterSkill": "弓隊奇襲",
+   "afterRank": "E",
+   "target": "弓",
+   "rate": "15%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "弓",
+   "afterRate": "30%",
+   "afterEffectShort": "弓攻：12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "反骨の尖兵",
+   "rank": "D",
+   "afterSkill": "修羅の援兵",
+   "afterRank": "D",
+   "target": "弓馬",
+   "rate": "32%",
+   "effectShort": "攻撃 37%上昇",
+   "afterTarget": "槍弓馬",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃 25%上昇 / (合流攻撃時は効果2倍)"
+  },
+  {
+   "slot": "C",
+   "skill": "質実剛健",
+   "rank": "B",
+   "afterSkill": "質実剛健",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "27%",
+   "effectShort": "攻撃防御 ((1+武将ランク)x武将コストx1.9) %上昇 / 武将ランクとコストで効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "猛刃常勝",
+   "rank": "B",
+   "afterSkill": "猛刃常勝",
+   "afterRank": "B",
+   "target": "弓馬焙",
+   "rate": "12%",
+   "effectShort": "攻撃 30%上昇 / 部隊内の武将ランク合計で効果が変化"
+  },
+  {
+   "slot": "S2",
+   "skill": "賢王訓戒",
+   "rank": "B",
+   "afterSkill": "賢王訓戒",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "34%",
+   "effectShort": "攻撃 ((1+ランク)xコストx0.5) %上昇 / 武将ランクとコストで効果が変化"
+  }
+ ]
 }

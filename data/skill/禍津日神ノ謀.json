@@ -6,6 +6,22 @@
  "effectSummary": "SS/LV10 確率 70% 防御 145%上昇/対象:全\n①防御 145%上昇する\n②自部隊の武将ダメージを3%軽減する(重複発動上限4・TRなし)",
  "sourceCharacters": [
   {
+   "name": "毛利輝元（5）【覇】",
+   "no": "1191",
+   "slot": "S2",
+   "note": [
+    "毛利輝元（5）【覇】(1191)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "豊臣秀頼（2）",
+   "no": "1196",
+   "slot": "S1",
+   "note": [
+    "豊臣秀頼（2）(1196)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "羽柴秀吉（2）",
    "no": "1208",
    "slot": "C"
@@ -91,5 +107,11 @@
  "notes": [
   "宇喜多秀家(2)(No.1217)B・朝倉義景(No.1243)B・九鬼嘉隆(No.1212)C・羽柴秀吉(No.1208)C。45do.info生HTML照合済み。TRなし(LV10のみ、ユーザー確認済み)",
   "2026-08-15(黄丸化検証): 山中鹿介(2809)のslotをCからC・S1に修正(synthesisTableのC/S1両枠とも自己参照)。ixanary.com/skills/御家再興ノ秘策とixawiki.com(BushoCard/2809山中鹿介)の2ソースで確認。"
+ ],
+ "grantedViaSkills": [
+  {
+   "skill": "夢幻城回廊",
+   "rank": "S"
+  }
  ]
 }

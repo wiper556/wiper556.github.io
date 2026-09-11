@@ -43,5 +43,63 @@
  "wikiOldestComment": "2016-07-05",
  "wikiCommentCount": 60,
  "chGuess": "12章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍陣の極み",
+   "rank": "B",
+   "afterSkill": "柳生新陰流",
+   "afterRank": "A",
+   "target": "槍",
+   "rate": "30%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "将",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 40%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "弓撃 夜叉",
+   "rank": "C",
+   "afterSkill": "天賦の神算",
+   "afterRank": "B",
+   "target": "弓",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇+破壊 5%上昇",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 12%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "柳生新陰流",
+   "rank": "A",
+   "afterSkill": "柳生新陰流",
+   "afterRank": "A",
+   "target": "将",
+   "rate": "55%",
+   "effectShort": "防御 40%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "柳生新陰流朧",
+   "rank": "B",
+   "afterSkill": "柳生新陰流朧",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "剣聖",
+   "rank": "A",
+   "afterSkill": "剣聖",
+   "afterRank": "A",
+   "target": "将",
+   "rate": "50%",
+   "effectShort": "攻撃 40%上昇"
+  }
+ ]
 }

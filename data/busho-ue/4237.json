@@ -42,5 +42,72 @@
  ],
  "wikiOldestComment": "2019-07-31",
  "wikiCommentCount": 3,
- "chGuess": "17-18章"
+ "chGuess": "17-18章",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊急襲",
+   "rank": "F",
+   "afterSkill": "槍隊守備",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "16%",
+   "effectShort": "槍攻：7.5%上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍",
+   "afterRate": "16%",
+   "afterEffectShort": "防御 (コストx5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "騎馬隊急襲",
+   "rank": "F",
+   "afterSkill": "騎馬隊守備",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "16%",
+   "effectShort": "攻撃 (コストx5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "馬",
+   "afterRate": "16%",
+   "afterEffectShort": "防御 (コストx5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "弓隊急襲",
+   "rank": "F",
+   "afterSkill": "弓隊守備",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "16%",
+   "effectShort": "攻撃 (コストx5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "弓",
+   "afterRate": "16%",
+   "afterEffectShort": "防御 (コストx6) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S1",
+   "skill": "槍隊守備",
+   "rank": "F",
+   "afterSkill": "槍隊急襲",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "16%",
+   "effectShort": "防御 (コストx5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍",
+   "afterRate": "16%",
+   "afterEffectShort": "槍攻：7.5%上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S2",
+   "skill": "槍隊挟撃",
+   "rank": "E",
+   "afterSkill": "槍隊守護",
+   "afterRank": "E",
+   "target": "槍",
+   "rate": "25%",
+   "effectShort": "槍攻：9.75%上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 (コストx6.5) %上昇 / (武将のコストで効果が変化します)"
+  }
+ ]
 }

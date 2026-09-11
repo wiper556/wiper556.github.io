@@ -43,5 +43,66 @@
  "wikiOldestComment": "2020-05-03",
  "wikiCommentCount": 26,
  "chGuess": "19章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "花吹雪",
+   "rank": "B",
+   "afterSkill": "賢王訓戒",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓砲器",
+   "afterRate": "34%",
+   "afterEffectShort": "攻撃 ((1+ランク)xコストx0.5) %上昇 / 武将ランクとコストで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "弓隊進撃",
+   "rank": "F",
+   "afterSkill": "弓隊襲撃",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "10%",
+   "effectShort": "弓攻：15%上昇",
+   "afterTarget": "弓",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 10%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "反攻",
+   "rank": "D",
+   "afterSkill": "火将ノ熊手",
+   "afterRank": "B",
+   "target": "槍弓砲",
+   "rate": "28%",
+   "effectShort": "攻撃 48%上昇 / 武将ランクで効果が変化",
+   "afterTarget": "槍砲器",
+   "afterRate": "38%",
+   "afterEffectShort": "攻撃 ((1+ランク)xコストx1.7) %上昇 / 武将ランクとコストで効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "賢王訓戒",
+   "rank": "B",
+   "afterSkill": "賢王訓戒",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "34%",
+   "effectShort": "攻撃 ((1+ランク)xコストx0.5) %上昇 / 武将ランクとコストで効果が変化"
+  },
+  {
+   "slot": "S2",
+   "skill": "日本丸咆哮",
+   "rank": "B",
+   "afterSkill": "日本丸咆哮",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "16%",
+   "effectShort": "攻撃 49%上昇 / 破壊 25%上昇"
+  }
+ ]
 }

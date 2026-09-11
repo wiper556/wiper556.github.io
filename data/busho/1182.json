@@ -47,5 +47,63 @@
  "wikiOldestComment": "2021-02-06",
  "wikiCommentCount": 17,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "壊劫竜鬼兵",
+   "rank": "S",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "砲器",
+   "rate": "45%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  },
+  {
+   "slot": "B",
+   "skill": "覇龍滅破陣",
+   "rank": "SS",
+   "afterSkill": "掃天封壁陣",
+   "afterRank": "SS",
+   "target": "砲器",
+   "rate": "99.9%",
+   "effectShort": "防御 2%×防御参加武将数(280人)=560.0%",
+   "afterTarget": "全",
+   "afterRate": "6%",
+   "afterEffectShort": "攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化する"
+  },
+  {
+   "slot": "C",
+   "skill": "天弓星宿陣",
+   "rank": "SS",
+   "afterSkill": "天弓星宿陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 (部隊総コスト依存)%上昇(総C25=328.02%)"
+  },
+  {
+   "slot": "S1",
+   "skill": "布都御魂ノ鬨",
+   "rank": "SS",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  },
+  {
+   "slot": "S2",
+   "skill": "天奏聖譚曲",
+   "rank": "SS",
+   "afterSkill": "天奏聖譚曲",
+   "afterRank": "SS",
+   "target": "砲・器",
+   "rate": "70%",
+   "effectShort": "防御 2.5%×防御参加武将数(280人)=700.0%"
+  }
+ ]
 }

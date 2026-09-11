@@ -44,5 +44,69 @@
  "wikiOldestComment": "2015-03-06",
  "wikiCommentCount": 87,
  "chGuess": "9章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄砲隊堅陣",
+   "rank": "F",
+   "afterSkill": "鉄砲隊奇襲",
+   "afterRank": "E",
+   "target": "砲",
+   "rate": "25%",
+   "effectShort": "砲防：12%上昇",
+   "afterTarget": "砲",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃 12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "応竜恋慕",
+   "rank": "A",
+   "afterSkill": "滅殺陣弦月",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 15%上昇 / 破壊 7%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "聖なる祈り",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "25%",
+   "effectShort": "防御 25%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "天麟朧月",
+   "rank": "B",
+   "afterSkill": "天麟朧月",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "20%",
+   "effectShort": "防御 25%上昇(19時〜翌01時まで効果2倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "盟約の寵姫",
+   "rank": "B",
+   "afterSkill": "冥界の花嫁",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "防御 35%上昇",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 40%上昇(攻撃部隊に馬兵科がいる時のみ発動)"
+  }
+ ]
 }

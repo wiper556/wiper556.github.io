@@ -41,5 +41,69 @@
  "wikiOldestComment": "2023-02-19",
  "wikiCommentCount": 66,
  "chGuess": "25章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "八咫烏",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "砲器",
+   "rate": "35%",
+   "effectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "天導 八咫烏",
+   "rank": "S",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "砲",
+   "rate": "35%",
+   "effectShort": null,
+   "afterTarget": "馬・砲・器",
+   "afterRate": "40%",
+   "afterEffectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "神導 八咫烏",
+   "rank": "S",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "砲・器",
+   "rate": "48%",
+   "effectShort": null,
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "天日鷲神",
+   "rank": "S",
+   "afterSkill": "荒破閃神",
+   "afterRank": "SS",
+   "target": "砲器",
+   "rate": "55%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 110%上昇 (6部隊以下の攻撃で効果2倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "天棲 八咫烏",
+   "rank": "S",
+   "afterSkill": "十束ノ神域",
+   "afterRank": "SS",
+   "target": "槍・弓・器・焙",
+   "rate": "32%",
+   "effectShort": "攻撃 (敵軍総武将コスト×1)%上昇",
+   "afterTarget": "全 覇道",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 320%上昇+速度 70%上昇+覇道を持つため所属部隊の武将のスキルを無効化・発動率低下から保護"
+  }
+ ]
 }

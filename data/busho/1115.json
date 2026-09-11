@@ -45,5 +45,69 @@
  "wikiOldestComment": "2018-01-15",
  "wikiCommentCount": 114,
  "chGuess": "15章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "気骨の士",
+   "rank": "D",
+   "afterSkill": "気骨の士",
+   "afterRank": "D",
+   "target": "馬砲",
+   "rate": "28%",
+   "effectShort": "攻撃 38%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "八幡攻陣",
+   "rank": "S",
+   "afterSkill": "天焉相克",
+   "afterRank": "SS",
+   "target": "槍馬砲器",
+   "rate": "35%",
+   "effectShort": null,
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "70%",
+   "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"
+  },
+  {
+   "slot": "C",
+   "skill": "天穿神滅",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "砲器",
+   "rate": "50%",
+   "effectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "天焉相克",
+   "rank": "SS",
+   "afterSkill": "八重言代主神",
+   "afterRank": "SS",
+   "target": "槍・弓・馬",
+   "rate": "70%",
+   "effectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)",
+   "afterTarget": "自身",
+   "afterRate": "70%",
+   "afterEffectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "S2",
+   "skill": "覇道天聖",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 26%上昇(所属部隊の武将が持つスキルを無効化や発動率低下から保護)",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  }
+ ]
 }

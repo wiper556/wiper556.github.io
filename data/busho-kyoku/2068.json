@@ -43,5 +43,60 @@
  "wikiOldestComment": "2013-03-22",
  "wikiCommentCount": 112,
  "chGuess": "5章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄壁の備え",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "車懸り 白狐",
+   "rank": "B",
+   "afterSkill": "車懸り 白狐",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "20%",
+   "effectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "八咫烏",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "砲器",
+   "rate": "35%",
+   "effectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "戦陣 千鳥",
+   "rank": "B",
+   "afterSkill": "戦陣 千鳥",
+   "afterRank": "B",
+   "target": "弓馬",
+   "rate": "45%",
+   "effectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "背水之陣",
+   "rank": "B",
+   "afterSkill": "背水之陣",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "20%",
+   "effectShort": "防御 37%上昇"
+  }
+ ]
 }

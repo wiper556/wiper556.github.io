@@ -45,5 +45,63 @@
  "wikiOldestComment": "2019-08-08",
  "wikiCommentCount": 188,
  "chGuess": "18章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "覇王征軍",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "42%",
+   "effectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "C",
+   "skill": "天翔演武",
+   "rank": "SS",
+   "afterSkill": "天翔演武",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "金陀美ノ武士",
+   "rank": "S",
+   "afterSkill": "金陀美ノ武士",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "67%",
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "天羽々斬雷",
+   "rank": "A",
+   "afterSkill": "八目鳴鏑ノ奏",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "20%",
+   "effectShort": "攻撃 72%上昇 / (合流攻撃時は確率3倍)",
+   "afterTarget": "全",
+   "afterRate": "37%",
+   "afterEffectShort": "攻撃 2.5%×防御参加武将数(280人)=700.0%"
+  }
+ ]
 }

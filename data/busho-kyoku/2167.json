@@ -41,5 +41,66 @@
  "wikiOldestComment": "2016-04-05",
  "wikiCommentCount": 868,
  "chGuess": "11章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊円陣",
+   "rank": "D",
+   "afterSkill": "矢雨備え",
+   "afterRank": "D",
+   "target": "弓",
+   "rate": "40%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "弓器",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 25%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "鉄壁の備え",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "才知徳行",
+   "rank": "D",
+   "afterSkill": "才知徳行",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "防御 20%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "盟約の寵姫",
+   "rank": "B",
+   "afterSkill": "冥界の花嫁",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "防御 35%上昇",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 40%上昇(攻撃部隊に馬兵科がいる時のみ発動)"
+  },
+  {
+   "slot": "S2",
+   "skill": "洞察",
+   "rank": "B",
+   "afterSkill": "洞察",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "防御 7.5%上昇(部隊ランクボーナスで効果が変化)"
+  }
+ ]
 }

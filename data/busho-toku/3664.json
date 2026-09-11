@@ -38,5 +38,63 @@
   "2026-08-30: 鍛錬(TR)が無いことを明記した。うぐさんの規則で**鍛錬が登場したのは No.1263 が追加された28章から**であり、特 は現在まで鍛錬の追加が無い。データもそれを裏付けており、27章のカードは LV10 のみ・28章のカードは LV10〜TR5 を持つ。**28章以降で鍛錬の無い武将も居るため、そちらには何も書いていない。**"
  ],
  "wikiOldestComment": null,
- "wikiCommentCount": 0
+ "wikiCommentCount": 0,
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "暴悪十ヶ条",
+   "rank": "C",
+   "afterSkill": "愛山美姫",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 84%上昇 / このスキルを所持する武将の全スキルの卓越確率に15%を加算する(模倣不可)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 45%上昇 防御 45%上昇 / 卓越：追加確率35%で攻防効果が2倍"
+  },
+  {
+   "slot": "B",
+   "skill": "聖風",
+   "rank": "C",
+   "afterSkill": "聖風",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "将吏両道",
+   "rank": "C",
+   "afterSkill": "将吏両道",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "将吏両道",
+   "rank": "C",
+   "afterSkill": "将吏両道",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "野太刀",
+   "rank": "C",
+   "afterSkill": "戦陣 凱旋",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "17%",
+   "effectShort": "攻撃 77%上昇 / 防御 77%上昇",
+   "afterTarget": "全",
+   "afterRate": "10%",
+   "afterEffectShort": "攻撃 87%上昇+防御 87%上昇"
+  }
+ ]
 }

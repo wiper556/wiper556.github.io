@@ -44,5 +44,69 @@
  "wikiOldestComment": "2015-07-06",
  "wikiCommentCount": 52,
  "chGuess": "10章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍衾",
+   "rank": "D",
+   "afterSkill": "義兵進軍",
+   "afterRank": "C",
+   "target": "槍器",
+   "rate": "30%",
+   "effectShort": "防御 25%上昇",
+   "afterTarget": "槍弓馬砲",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 7%上昇 / 速度 10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "背水之陣",
+   "rank": "B",
+   "afterSkill": "背水之陣",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "20%",
+   "effectShort": "防御 37%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "上州の黄斑",
+   "rank": "B",
+   "afterSkill": "弓妖陣",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍弓砲",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 39%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "弓妖陣",
+   "rank": "B",
+   "afterSkill": "背水之陣",
+   "afterRank": "B",
+   "target": "槍弓砲",
+   "rate": "25%",
+   "effectShort": "防御 39%上昇",
+   "afterTarget": "槍弓馬",
+   "afterRate": "20%",
+   "afterEffectShort": "防御 37%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "総構え",
+   "rank": "B",
+   "afterSkill": "獅子の陣",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "槍弓馬",
+   "afterRate": "45%",
+   "afterEffectShort": "防御 35%上昇"
+  }
+ ]
 }

@@ -12,6 +12,24 @@
  ],
  "sourceCharacters": [
   {
+   "name": "寿桂尼（2）",
+   "no": "2320",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "寿桂尼（2）(2320)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "松寿院",
+   "no": "2348",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "松寿院(2348)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "今川氏真",
    "no": "2358",
    "slot": "S1・S2",
@@ -30,6 +48,24 @@
    "db": "kyoku"
   },
   {
+   "name": "帰蝶-復刻-",
+   "no": "2555",
+   "slot": "C・S1",
+   "db": "kyoku",
+   "note": [
+    "帰蝶-復刻-(2555)のsynthesisTable C・S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "淀-復刻-",
+   "no": "2557",
+   "slot": "A・B",
+   "db": "kyoku",
+   "note": [
+    "淀-復刻-(2557)のsynthesisTable A・B枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "お市（3）",
    "no": "2558",
    "slot": "C",
@@ -40,6 +76,15 @@
    "no": "2559",
    "slot": "C",
    "db": "kyoku"
+  },
+  {
+   "name": "小少将（2）",
+   "no": "2567",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "小少将（2）(2567)のsynthesisTable S2枠(2026-09-11)"
+   ]
   },
   {
    "name": "相楽左之助",

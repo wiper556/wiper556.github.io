@@ -43,5 +43,66 @@
  "wikiOldestComment": "2017-12-21",
  "wikiCommentCount": 48,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "天戒 五芒星",
+   "rank": "S",
+   "afterSkill": "武神八幡陣",
+   "afterRank": "SS",
+   "target": "馬砲",
+   "rate": "35%",
+   "effectShort": "攻撃 40%上昇",
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "防御 41.56%上昇(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "B",
+   "skill": "破軍星",
+   "rank": "SS",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "馬・砲・器",
+   "rate": "40%",
+   "effectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "覇王征軍",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "42%",
+   "effectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "天穿神滅",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "砲器",
+   "rate": "50%",
+   "effectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "天綾の誓約",
+   "rank": "SS",
+   "afterSkill": "天焉相克",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "攻撃 99.9%上昇 防御 99.9%上昇 破壊 150%上昇",
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "70%",
+   "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"
+  }
+ ]
 }

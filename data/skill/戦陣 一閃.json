@@ -6,16 +6,159 @@
  "effectSummary": "A/LV10 確率 50%/100% 攻撃 50%上昇(確率50%)+速度 50%上昇(確率100%)/対象:全",
  "sourceCharacters": [
   {
+   "name": "上杉景勝（4）",
+   "no": "1121",
+   "slot": "B",
+   "note": [
+    "上杉景勝（4）(1121)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "長尾政景",
+   "no": "2222",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "長尾政景(2222)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "真田幸隆（3）",
+   "no": "2230",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "真田幸隆（3）(2230)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "木村重成（2）",
+   "no": "2254",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "木村重成（2）(2254)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "小野鎮幸",
+   "no": "2255",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "小野鎮幸(2255)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "真田信之（2）",
+   "no": "2276",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "真田信之（2）(2276)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "服部半蔵（2）",
    "no": "2403",
    "slot": "C",
    "db": "kyoku"
   },
   {
+   "name": "伊達成実（2）",
+   "no": "2404",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "伊達成実（2）(2404)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "明石全登（2）",
+   "no": "2408",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "明石全登（2）(2408)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "太田三楽",
+   "no": "2418",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "太田三楽(2418)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "大島雲八",
+   "no": "2420",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "大島雲八(2420)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "蒲生氏郷（3）",
+   "no": "2425",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "蒲生氏郷（3）(2425)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "柳生十兵衛",
    "no": "2432",
    "slot": "A",
    "db": "kyoku"
+  },
+  {
+   "name": "織田信忠（2）",
+   "no": "2433",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "織田信忠（2）(2433)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "前田慶次-復刻Ⅱ-",
+   "no": "2509",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "前田慶次-復刻Ⅱ-(2509)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "服部半蔵-復刻Ⅰ-（2）",
+   "no": "2518",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "服部半蔵-復刻Ⅰ-（2）(2518)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "直江兼続（5）",
+   "no": "2532",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "直江兼続（5）(2532)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "伊達政宗（4）",
+   "no": "2542",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "伊達政宗（4）(2542)のsynthesisTable S1枠(2026-09-11)"
+   ]
   },
   {
    "name": "百地三太夫（2）",
@@ -33,6 +176,15 @@
    "db": "kyoku",
    "note": [
     "尚寧王(2778)のsynthesisTable S2枠(2026-08-16)"
+   ]
+  },
+  {
+   "name": "於大の方（2）",
+   "no": "2786",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "於大の方（2）(2786)のsynthesisTable S1枠(2026-09-11)"
    ]
   },
   {

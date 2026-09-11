@@ -43,5 +43,63 @@
  "wikiOldestComment": "2018-09-04",
  "wikiCommentCount": 64,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊守備",
+   "rank": "F",
+   "afterSkill": "弓隊急襲",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "16%",
+   "effectShort": "防御 (コストx6) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "弓",
+   "afterRate": "16%",
+   "afterEffectShort": "攻撃 (コストx5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "白虎跳躍の陣",
+   "rank": "D",
+   "afterSkill": "白虎跳躍の陣",
+   "afterRank": "D",
+   "target": "弓砲",
+   "rate": "38%",
+   "effectShort": "防御 22%上昇 / (攻撃部隊に兵器兵科がいれば効果2倍)"
+  },
+  {
+   "slot": "C",
+   "skill": "歩き巫女",
+   "rank": "D",
+   "afterSkill": "蒼刃ノ輔曳",
+   "afterRank": "D",
+   "target": "弓器",
+   "rate": "38%",
+   "effectShort": "防御 43%上昇",
+   "afterTarget": "弓器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 27%上昇 / (攻撃部隊に兵器兵科がいれば効果2倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "六道ノ轍",
+   "rank": "B",
+   "afterSkill": "六道ノ轍",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "新館御料人",
+   "rank": "B",
+   "afterSkill": "新館御料人",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "70%",
+   "effectShort": "攻撃 57.6%上昇 / 防御 57.6%上昇"
+  }
+ ]
 }

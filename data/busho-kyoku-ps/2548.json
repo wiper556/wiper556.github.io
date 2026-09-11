@@ -46,5 +46,69 @@
  "wikiOldestComment": "2021-06-26",
  "wikiCommentCount": 39,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "覇・月扇乱舞",
+   "rank": "B",
+   "afterSkill": "戦陣 龍馬",
+   "afterRank": "A",
+   "target": "弓砲器",
+   "rate": "38%",
+   "effectShort": "防御 75%上昇 確率：+38% / 速度 35%上昇 確率：+100% / (加勢出陣時は速度効果2倍)",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "防御 1%上昇(部隊ランクボーナス×10%を加算)"
+  },
+  {
+   "slot": "B",
+   "skill": "弓隊堅陣",
+   "rank": "F",
+   "afterSkill": "弓隊奇襲",
+   "afterRank": "E",
+   "target": "弓",
+   "rate": "30%",
+   "effectShort": "防御 12%上昇",
+   "afterTarget": "弓",
+   "afterRate": "30%",
+   "afterEffectShort": "弓攻：12%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "気丈な決意",
+   "rank": "A",
+   "afterSkill": "気丈な決意",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "戦陣 龍馬",
+   "rank": "A",
+   "afterSkill": "茅纒之矟ノ煌",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "防御 1%上昇(部隊ランクボーナス×10%を加算)",
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "防御 100%上昇 自部隊の武将ダメージ軽減3% (重複発動上限数4)"
+  },
+  {
+   "slot": "S2",
+   "skill": "不識ノ殿軍",
+   "rank": "B",
+   "afterSkill": "無間牢",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "70%",
+   "effectShort": "防御 64%上昇 / 卓越：追加確率30%で防御効果が1.5倍",
+   "afterTarget": "槍弓馬器",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 77%上昇 確率：+25% / 速度 45%上昇 確率：+100% / (加勢出陣時は速度効果2倍)"
+  }
+ ]
 }

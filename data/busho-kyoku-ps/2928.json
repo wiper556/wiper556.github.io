@@ -47,5 +47,69 @@
  "wikiOldestComment": "2016-06-11",
  "wikiCommentCount": 54,
  "chGuess": "12章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "騎馬隊奇襲",
+   "rank": "E",
+   "afterSkill": "騎馬隊堅陣",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "30%",
+   "effectShort": "馬攻：12%上昇",
+   "afterTarget": "馬",
+   "afterRate": "30%",
+   "afterEffectShort": "馬防：12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "地黄八幡",
+   "rank": "C",
+   "afterSkill": "乗り崩し",
+   "afterRank": "D",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍馬",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 20%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "地黄八幡 真",
+   "rank": "B",
+   "afterSkill": "赤備 鬼神",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": null,
+   "afterRate": null,
+   "afterEffectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "勝軍 直八幡",
+   "rank": "B",
+   "afterSkill": "勝軍 直八幡",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "無双獅子",
+   "rank": "S",
+   "afterSkill": "天衣無縫陣",
+   "afterRank": "SS",
+   "target": "槍弓馬",
+   "rate": "45%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 (20+コスト×10) %上昇"
+  }
+ ]
 }

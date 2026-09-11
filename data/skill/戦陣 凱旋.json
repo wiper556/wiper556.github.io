@@ -6,16 +6,155 @@
  "effectSummary": "A/LV10 確率 10% 攻撃 87%上昇/防御 87%上昇/対象:全",
  "sourceCharacters": [
   {
+   "name": "蘆名盛氏（2）【覇】",
+   "no": "1154",
+   "slot": "S2",
+   "note": [
+    "蘆名盛氏（2）【覇】(1154)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "尼子経久（3）【覇】",
+   "no": "1155",
+   "slot": "S2",
+   "note": [
+    "尼子経久（3）【覇】(1155)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "武田信虎",
+   "no": "1157",
+   "slot": "S2",
+   "note": [
+    "武田信虎(1157)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "六角承禎",
+   "no": "1161",
+   "slot": "S2",
+   "note": [
+    "六角承禎(1161)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "伊達政宗（5）",
+   "no": "1174",
+   "slot": "S2",
+   "note": [
+    "伊達政宗（5）(1174)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "塙団右衛門",
+   "no": "2274",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "塙団右衛門(2274)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "池田輝政",
+   "no": "2278",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "池田輝政(2278)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "如春尼",
+   "no": "2283",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "如春尼(2283)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "真壁氏幹",
+   "no": "2331",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "真壁氏幹(2331)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "北条氏規",
+   "no": "2342",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "北条氏規(2342)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "宇喜多秀家（2）",
    "no": "2424",
    "slot": "A",
    "db": "kyoku"
   },
   {
+   "name": "蒲生氏郷（3）",
+   "no": "2425",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "蒲生氏郷（3）(2425)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "後藤又兵衛（2）",
+   "no": "2426",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "後藤又兵衛（2）(2426)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "細川幽斎（2）",
    "no": "2427",
    "slot": "S2",
    "db": "kyoku"
+  },
+  {
+   "name": "春日虎綱",
+   "no": "2428",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "春日虎綱(2428)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "大友義鎮",
+   "no": "2431",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "大友義鎮(2431)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "天徳寺礼能",
+   "no": "2436",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "天徳寺礼能(2436)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "中馬大蔵",
+   "no": "2438",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "中馬大蔵(2438)のsynthesisTable C枠(2026-09-11)"
+   ]
   },
   {
    "name": "斎藤朝信（3）",
@@ -36,12 +175,66 @@
    "db": "kyoku"
   },
   {
+   "name": "織田三郎信長（2）",
+   "no": "2525",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "織田三郎信長（2）(2525)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "胡蝶",
+   "no": "2527",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "胡蝶(2527)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "真田幸村（6）",
+   "no": "2531",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "真田幸村（6）(2531)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "上杉顕定",
    "no": "2781",
    "slot": "A",
    "db": "kyoku",
    "note": [
     "上杉顕定(2781)のsynthesisTable A枠(2026-08-16)"
+   ]
+  },
+  {
+   "name": "長尾景春",
+   "no": "2782",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "長尾景春(2782)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "三浦道寸",
+   "no": "2784",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "三浦道寸(2784)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "於大の方（2）",
+   "no": "2786",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "於大の方（2）(2786)のsynthesisTable S2枠(2026-09-11)"
    ]
   },
   {

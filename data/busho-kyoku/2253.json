@@ -41,5 +41,63 @@
  "wikiOldestComment": "2019-07-04",
  "wikiCommentCount": 44,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊守護",
+   "rank": "E",
+   "afterSkill": "槍隊挟撃",
+   "afterRank": "E",
+   "target": "槍",
+   "rate": "25%",
+   "effectShort": "防御 (コストx6.5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍",
+   "afterRate": "25%",
+   "afterEffectShort": "槍攻：9.75%上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "金蘭の契り",
+   "rank": "D",
+   "afterSkill": "烈侵滅国",
+   "afterRank": "B",
+   "target": "槍器",
+   "rate": "35%",
+   "effectShort": "防御 16%上昇 / (部隊内の金蘭の契りスキル所持武将数x16%の効果)",
+   "afterTarget": "槍弓器",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃防御 ((1+武将ランク)×コストx2) %上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "仁将無双",
+   "rank": "B",
+   "afterSkill": "仁将無双",
+   "afterRank": "B",
+   "target": "槍馬砲",
+   "rate": "17%",
+   "effectShort": "攻撃防御 ((1+ランク)xコストx2.1) %上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "天山龍喰ノ采",
+   "rank": "B",
+   "afterSkill": "天山龍喰ノ采",
+   "afterRank": "B",
+   "target": "槍器鉄",
+   "rate": "19%",
+   "effectShort": "防御 72%上昇 / (合流攻撃防御時は必ずスキル発動)"
+  },
+  {
+   "slot": "S2",
+   "skill": "常勝の采配",
+   "rank": "B",
+   "afterSkill": "常勝の采配",
+   "afterRank": "B",
+   "target": "槍馬器",
+   "rate": "38%",
+   "effectShort": "防御 (0.7x防御参加武将数)%上昇 / (模倣不可)"
+  }
+ ]
 }

@@ -40,5 +40,72 @@
   "2026-08-30: 鍛錬(TR)が無いことを明記した。うぐさんの規則で**鍛錬が登場したのは No.1263 が追加された28章から**であり、序 は現在まで鍛錬の追加が無い。データもそれを裏付けており、27章のカードは LV10 のみ・28章のカードは LV10〜TR5 を持つ。**28章以降で鍛錬の無い武将も居るため、そちらには何も書いていない。**"
  ],
  "wikiOldestComment": null,
- "wikiCommentCount": 0
+ "wikiCommentCount": 0,
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "騎馬隊奇襲",
+   "rank": "E",
+   "afterSkill": "騎馬隊堅陣",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "30%",
+   "effectShort": "馬攻：12%上昇",
+   "afterTarget": "馬",
+   "afterRate": "30%",
+   "afterEffectShort": "馬防：12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "騎馬隊突撃",
+   "rank": "F",
+   "afterSkill": "騎馬隊奇襲",
+   "afterRank": "E",
+   "target": "馬",
+   "rate": "15%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "馬",
+   "afterRate": "30%",
+   "afterEffectShort": "馬攻：12%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "弓隊奇襲",
+   "rank": "E",
+   "afterSkill": "弓隊堅陣",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "30%",
+   "effectShort": "弓攻：12%上昇",
+   "afterTarget": "弓",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 12%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "騎馬隊堅陣",
+   "rank": "F",
+   "afterSkill": "騎馬隊奇襲",
+   "afterRank": "E",
+   "target": "馬",
+   "rate": "30%",
+   "effectShort": "馬防：12%上昇",
+   "afterTarget": "馬",
+   "afterRate": "30%",
+   "afterEffectShort": "馬攻：12%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "騎馬隊挟撃",
+   "rank": "E",
+   "afterSkill": "騎馬隊守護",
+   "afterRank": "E",
+   "target": "馬",
+   "rate": "25%",
+   "effectShort": "攻撃 (コストx6.5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "馬",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 (コストx6.5) %上昇 / (武将のコストで効果が変化します)"
+  }
+ ]
 }

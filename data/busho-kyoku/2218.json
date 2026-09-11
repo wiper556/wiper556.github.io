@@ -45,5 +45,63 @@
  "wikiOldestComment": "2018-04-02",
  "wikiCommentCount": 31,
  "chGuess": "15章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "算術の極み",
+   "rank": "D",
+   "afterSkill": "比類なき忠功",
+   "afterRank": "D",
+   "target": "弓器",
+   "rate": "30%",
+   "effectShort": "防御 38%上昇 / 破壊 22%上昇",
+   "afterTarget": "弓馬器",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 ((1+ランク)xコストx1.7) %上昇 / 武将ランクとコストで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "比類なき忠功",
+   "rank": "D",
+   "afterSkill": "比類なき忠功",
+   "afterRank": "D",
+   "target": "弓馬器",
+   "rate": "30%",
+   "effectShort": "防御 ((1+ランク)xコストx1.7) %上昇 / 武将ランクとコストで効果が変化"
+  },
+  {
+   "slot": "C",
+   "skill": "烈侵滅国",
+   "rank": "B",
+   "afterSkill": "烈侵滅国",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "25%",
+   "effectShort": "攻撃防御 ((1+武将ランク)×コストx2) %上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "煉火廻陣",
+   "rank": "B",
+   "afterSkill": "煉火廻陣",
+   "afterRank": "B",
+   "target": "弓馬器",
+   "rate": "40%",
+   "effectShort": "防御 48%上昇 / (自軍5部隊以下の防御時 効果1.5倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  }
+ ]
 }

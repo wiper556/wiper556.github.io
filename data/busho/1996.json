@@ -43,5 +43,57 @@
  "wikiOldestComment": "2020-12-15",
  "wikiCommentCount": 33,
  "chGuess": "20章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "布都御魂ノ鬨",
+   "rank": "SS",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  },
+  {
+   "slot": "B",
+   "skill": "破軍星 皇",
+   "rank": "SS",
+   "afterSkill": "破軍星 皇",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "69%",
+   "effectShort": "攻撃 140%上昇(自部隊同時攻撃時コスト最大0.5除外・模倣不可)"
+  },
+  {
+   "slot": "C",
+   "skill": "覇王征軍",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "42%",
+   "effectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "神屋楯比売命",
+   "rank": "SS",
+   "afterSkill": "神屋楯比売命",
+   "afterRank": "SS",
+   "target": "自身",
+   "rate": "70%",
+   "effectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "S2",
+   "skill": "布都御魂ノ鬨",
+   "rank": "SS",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  }
+ ]
 }

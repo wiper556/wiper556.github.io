@@ -43,5 +43,69 @@
  "wikiOldestComment": "2019-07-02",
  "wikiCommentCount": 46,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "伝来ノ島筒",
+   "rank": "D",
+   "afterSkill": "叛将烈破",
+   "afterRank": "B",
+   "target": "砲器",
+   "rate": "5%",
+   "effectShort": "防御 64.8%上昇 / (合流攻撃防御時は必ずスキル発動)",
+   "afterTarget": "槍砲",
+   "afterRate": "32%",
+   "afterEffectShort": "攻撃 36%上昇 / 防御 36%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "戦陣 轟砲",
+   "rank": "A",
+   "afterSkill": "覇王絶世",
+   "afterRank": "SS",
+   "target": "砲・器",
+   "rate": "45%",
+   "effectShort": "攻撃 66%上昇(防御 66%上昇)",
+   "afterTarget": "全",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃部隊ランクボーナスx15%上昇(部隊ランクボーナスで効果が変化)"
+  },
+  {
+   "slot": "C",
+   "skill": "武装商船",
+   "rank": "A",
+   "afterSkill": "鉄砲商人",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "部隊内全武将が持つ全スキルに「器」対象を追加する(兵科対象スキル限定・模倣不可)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "部隊内全武将が持つ全スキルに「砲」対象を追加する(兵科対象スキル限定・模倣不可)"
+  },
+  {
+   "slot": "S1",
+   "skill": "根来鉄砲衆",
+   "rank": "A",
+   "afterSkill": "根来鉄砲衆",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "防御 70%上昇(部隊内全武将の兵科対象の初期スキルに「器」対象を追加)"
+  },
+  {
+   "slot": "S2",
+   "skill": "衝角",
+   "rank": "C",
+   "afterSkill": "武装商船",
+   "afterRank": "A",
+   "target": "砲器",
+   "rate": "36%",
+   "effectShort": "攻撃 36%上昇 / 破壊 50%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "部隊内全武将が持つ全スキルに「器」対象を追加する(兵科対象スキル限定・模倣不可)"
+  }
+ ]
 }

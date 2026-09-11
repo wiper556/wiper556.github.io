@@ -45,5 +45,72 @@
  "wikiOldestComment": "2025-02-13",
  "wikiCommentCount": 1,
  "chGuess": "29章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "烈忠鋼陣",
+   "rank": "C",
+   "afterSkill": "八虎筆頭",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍弓砲",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 70%上昇 / 破壊 50%上昇 / (合流攻撃時、攻撃効果4倍)"
+  },
+  {
+   "slot": "B",
+   "skill": "烈忠鋼陣",
+   "rank": "C",
+   "afterSkill": "八虎筆頭",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍弓砲",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 70%上昇 / 破壊 50%上昇 / (合流攻撃時、攻撃効果4倍)"
+  },
+  {
+   "slot": "C",
+   "skill": "烈忠鋼陣",
+   "rank": "C",
+   "afterSkill": "八虎筆頭",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍弓砲",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 70%上昇 / 破壊 50%上昇 / (合流攻撃時、攻撃効果4倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "八虎筆頭",
+   "rank": "C",
+   "afterSkill": "一千烈刃",
+   "afterRank": "C",
+   "target": "槍弓砲",
+   "rate": "45%",
+   "effectShort": "攻撃 70%上昇 / 破壊 50%上昇 / (合流攻撃時、攻撃効果4倍)",
+   "afterTarget": "槍弓馬",
+   "afterRate": "56%",
+   "afterEffectShort": "攻撃 35%上昇 破壊 50%上昇 / (合流攻撃時、攻撃効果3倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "一千烈刃",
+   "rank": "C",
+   "afterSkill": "悪因ノ深域",
+   "afterRank": "C",
+   "target": "槍弓馬",
+   "rate": "56%",
+   "effectShort": "攻撃 35%上昇 破壊 50%上昇 / (合流攻撃時、攻撃効果3倍)",
+   "afterTarget": "全",
+   "afterRate": "54%",
+   "afterEffectShort": "攻撃 85%上昇 / 資源獲得率: 10% / 破壊した耐久値に応じて資源獲得"
+  }
+ ]
 }

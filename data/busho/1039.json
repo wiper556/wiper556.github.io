@@ -47,5 +47,63 @@
  "wikiOldestComment": "2013-11-12",
  "wikiCommentCount": 675,
  "chGuess": "7章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "車懸り 白狐",
+   "rank": "B",
+   "afterSkill": "車懸り 白狐",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "20%",
+   "effectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "車懸り 焔渦",
+   "rank": "S",
+   "afterSkill": "騎神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 (コストx4.5) %+速度 50%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "車懸り 軍神",
+   "rank": "S",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "20%",
+   "effectShort": "攻撃 35%上昇",
+   "afterTarget": "馬・砲・器",
+   "afterRate": "40%",
+   "afterEffectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S1",
+   "skill": "破軍星",
+   "rank": "SS",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "馬・砲・器",
+   "rate": "40%",
+   "effectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S2",
+   "skill": "覇王征軍",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "42%",
+   "effectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  }
+ ]
 }

@@ -45,5 +45,63 @@
  "wikiOldestComment": "2017-12-04",
  "wikiCommentCount": 116,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "兵器布陣",
+   "rank": "E",
+   "afterSkill": "城砕き",
+   "afterRank": "E",
+   "target": "器",
+   "rate": "15%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "器",
+   "afterRate": "15%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "隠し駒",
+   "rank": "D",
+   "afterSkill": "管領の威光",
+   "afterRank": "D",
+   "target": "砲器",
+   "rate": "32%",
+   "effectShort": "防御 44%上昇 / 破壊 25%上昇",
+   "afterTarget": "馬砲器",
+   "afterRate": "43%",
+   "afterEffectShort": "防御 34%上昇 / 破壊 30%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "不死鳥",
+   "rank": "B",
+   "afterSkill": "不死鳥",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": "防御 34%上昇(自部隊の武将ダメージ軽減6%・重複発動上限数4)"
+  },
+  {
+   "slot": "S1",
+   "skill": "静謐ノ歌",
+   "rank": "B",
+   "afterSkill": "静謐ノ歌",
+   "afterRank": "B",
+   "target": "槍器",
+   "rate": "45%",
+   "effectShort": "防御 40%上昇 / 自軍部隊数5以下でのみ発動 / 敵軍部隊数x5%を効果に加算"
+  },
+  {
+   "slot": "S2",
+   "skill": "諫言機略",
+   "rank": "B",
+   "afterSkill": "諫言機略",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ]
 }

@@ -42,5 +42,72 @@
  "wikiOldestComment": "2012-09-05",
  "wikiCommentCount": 67,
  "chGuess": "4章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "乗り崩し",
+   "rank": "D",
+   "afterSkill": "鬼刺",
+   "afterRank": "C",
+   "target": "槍馬",
+   "rate": "20%",
+   "effectShort": "攻撃 20%上昇 / 破壊 5%上昇",
+   "afterTarget": "槍馬砲",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "槍隊剛撃",
+   "rank": "D",
+   "afterSkill": "足軽軍法",
+   "afterRank": "D",
+   "target": "槍",
+   "rate": "35%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "槍器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "城崩し",
+   "rank": "D",
+   "afterSkill": "謀殺",
+   "afterRank": "D",
+   "target": "器",
+   "rate": "35%",
+   "effectShort": "破壊 20%上昇",
+   "afterTarget": "全",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃戦闘勝利時のみ、敵軍1部隊の武将に追加ダメージ+35"
+  },
+  {
+   "slot": "S1",
+   "skill": "義兵進軍",
+   "rank": "C",
+   "afterSkill": "大ふへん者",
+   "afterRank": "D",
+   "target": "槍弓馬砲",
+   "rate": "100%",
+   "effectShort": "攻撃 7%上昇 / 速度 10%上昇",
+   "afterTarget": "将",
+   "afterRate": "5%",
+   "afterEffectShort": "攻撃 40%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "城崩 奈落",
+   "rank": "C",
+   "afterSkill": "鬼謀 国砕",
+   "afterRank": "B",
+   "target": "器",
+   "rate": "25%",
+   "effectShort": "攻撃 5%上昇 / 破壊 25%上昇",
+   "afterTarget": "上級器",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 10%上昇+破壊 25%上昇"
+  }
+ ]
 }

@@ -42,5 +42,69 @@
  "wikiOldestComment": "2016-06-06",
  "wikiCommentCount": 103,
  "chGuess": "12章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄壁の備え",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "女城主",
+   "rank": "D",
+   "afterSkill": "矢雨備え",
+   "afterRank": "D",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓器",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 25%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "防陣 吽形",
+   "rank": "B",
+   "afterSkill": "弓妖陣",
+   "afterRank": "B",
+   "target": "弓砲",
+   "rate": "30%",
+   "effectShort": "防御 36%上昇 / (No.2140龍造寺隆信と特殊合成可能)",
+   "afterTarget": "槍弓砲",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 39%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "悲恋の懐剣",
+   "rank": "B",
+   "afterSkill": "悲恋の懐剣",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "100%",
+   "effectShort": "防御 36%上昇 / (自領以外の加勢限定)"
+  },
+  {
+   "slot": "S2",
+   "skill": "武門の誇り",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "32%",
+   "effectShort": "防御 33%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 30%上昇"
+  }
+ ]
 }

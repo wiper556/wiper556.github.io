@@ -44,5 +44,69 @@
  ],
  "wikiOldestComment": "2019-08-04",
  "wikiCommentCount": 46,
- "chGuess": "17-18章"
+ "chGuess": "17-18章",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "暁光",
+   "rank": "D",
+   "afterSkill": "屈指の勇将",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "24%",
+   "effectShort": "攻撃 38%上昇 / 防御 38%上昇",
+   "afterTarget": "全",
+   "afterRate": "37%",
+   "afterEffectShort": "攻撃 22%上昇+防御 22%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "戦陣 無双",
+   "rank": "A",
+   "afterSkill": "無双英傑",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 67%上昇+防御 67%上昇",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 99.9%上昇 防御 99.9%上昇 部隊消費コストを0.5低下 (特殊効果は模倣不可)"
+  },
+  {
+   "slot": "C",
+   "skill": "忌火",
+   "rank": "B",
+   "afterSkill": "忌火",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 44%上昇 / 防御 44%上昇(部隊内姫武将スキル発動率+15%・特殊効果は部隊内重複不可)"
+  },
+  {
+   "slot": "S1",
+   "skill": "赤鳥ノ舞",
+   "rank": "A",
+   "afterSkill": "波瀾ノ夕立",
+   "afterRank": "B",
+   "target": "槍弓馬器",
+   "rate": "37%",
+   "effectShort": "攻撃 90%上昇",
+   "afterTarget": "槍砲器",
+   "afterRate": "36%",
+   "afterEffectShort": "防御 43%上昇 / 破壊 25%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "傾国ノ美姫",
+   "rank": "B",
+   "afterSkill": "宿木",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "34%",
+   "effectShort": "防御 26+(ランクx4) %上昇 確率：+34% / 速度 30%上昇 確率：+100% / 防御効果は武将ランクで変化",
+   "afterTarget": "部隊長",
+   "afterRate": "55%",
+   "afterEffectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ)"
+  }
+ ]
 }

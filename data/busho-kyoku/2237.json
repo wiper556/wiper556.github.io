@@ -44,5 +44,66 @@
  "wikiOldestComment": "2018-12-03",
  "wikiCommentCount": 48,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊進撃",
+   "rank": "F",
+   "afterSkill": "槍隊襲撃",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "10%",
+   "effectShort": "槍攻：15%上昇",
+   "afterTarget": "槍",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "暁光",
+   "rank": "D",
+   "afterSkill": "屈指の勇将",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "24%",
+   "effectShort": "攻撃 38%上昇 / 防御 38%上昇",
+   "afterTarget": "全",
+   "afterRate": "37%",
+   "afterEffectShort": "攻撃 22%上昇+防御 22%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "騎王の教え",
+   "rank": "C",
+   "afterSkill": "騎王の教え",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "鳳来宮姫",
+   "rank": "B",
+   "afterSkill": "鳳来宮姫",
+   "afterRank": "B",
+   "target": "槍馬器",
+   "rate": "22%",
+   "effectShort": "攻撃 62%上昇 / 防御 62%上昇 / 破壊 30%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "傾国ノ美姫",
+   "rank": "B",
+   "afterSkill": "宿木",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "34%",
+   "effectShort": "防御 26+(ランクx4) %上昇 確率：+34% / 速度 30%上昇 確率：+100% / 防御効果は武将ランクで変化",
+   "afterTarget": "部隊長",
+   "afterRate": "55%",
+   "afterEffectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ)"
+  }
+ ]
 }

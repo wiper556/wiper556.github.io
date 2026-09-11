@@ -45,5 +45,63 @@
  "wikiOldestComment": "2023-08-11",
  "wikiCommentCount": 11,
  "chGuess": "26章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "天魔七斬",
+   "rank": "S",
+   "afterSkill": "摩利支天ノ法",
+   "afterRank": "SSS",
+   "target": "弓・馬・器・騎 兵站",
+   "rate": "50%",
+   "effectShort": null,
+   "afterTarget": "部隊長",
+   "afterRate": "70%",
+   "afterEffectShort": "所属部隊の部隊長が持つ模倣可能な初期スキルを通常攻撃/防御効果1.25倍にして模倣する"
+  },
+  {
+   "slot": "B",
+   "skill": "天魔七斬",
+   "rank": "S",
+   "afterSkill": "摩利支天ノ法",
+   "afterRank": "SSS",
+   "target": "弓・馬・器・騎 兵站",
+   "rate": "50%",
+   "effectShort": null,
+   "afterTarget": "部隊長",
+   "afterRate": "70%",
+   "afterEffectShort": "所属部隊の部隊長が持つ模倣可能な初期スキルを通常攻撃/防御効果1.25倍にして模倣する"
+  },
+  {
+   "slot": "C",
+   "skill": "天磐船",
+   "rank": "SS",
+   "afterSkill": "天磐船",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "56%",
+   "effectShort": "防御 (3.8×防御参加武将数)%上昇=1064.0%(280人時)"
+  },
+  {
+   "slot": "S1",
+   "skill": "摩利支天ノ法",
+   "rank": "SSS",
+   "afterSkill": "摩利支天ノ法",
+   "afterRank": "SSS",
+   "target": "部隊長",
+   "rate": "70%",
+   "effectShort": "所属部隊の部隊長が持つ模倣可能な初期スキルを通常攻撃/防御効果1.25倍にして模倣する"
+  },
+  {
+   "slot": "S2",
+   "skill": "海神ノ浮船",
+   "rank": "SS",
+   "afterSkill": "海神ノ浮船",
+   "afterRank": "SS",
+   "target": "全 飛翔4",
+   "rate": "48%",
+   "effectShort": "防御 (3.5×防御参加武将数)%上昇(敵軍飛翔持ち4人未満の時通常武将ダメージを受けない)"
+  }
+ ]
 }

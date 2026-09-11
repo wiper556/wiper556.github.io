@@ -44,5 +44,63 @@
  "wikiOldestComment": "2016-12-02",
  "wikiCommentCount": 189,
  "chGuess": "13章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄壁の備え",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "青海の騎将",
+   "rank": "B",
+   "afterSkill": "神算鬼謀",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍器",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 10%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "風狂幻術",
+   "rank": "B",
+   "afterSkill": "風狂幻術",
+   "afterRank": "B",
+   "target": "部隊長",
+   "rate": "53%",
+   "effectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ、TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "今川仮名目録",
+   "rank": "A",
+   "afterSkill": "今川仮名目録",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "攻撃部隊武将の特殊効果付き追加スキル発動率を低下(相手発動率×0.6で計算・重複不可)"
+  },
+  {
+   "slot": "S2",
+   "skill": "禄寿応穏",
+   "rank": "A",
+   "afterSkill": "禄寿応穏",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "防御 35%上昇(銅銭獲得率7.5%・防御で倒した兵数に応じ防御参加者全員が銅銭獲得・重複不可・模倣不可)"
+  }
+ ]
 }

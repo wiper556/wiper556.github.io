@@ -38,5 +38,66 @@
  ],
  "wikiOldestComment": "2019-08-03",
  "wikiCommentCount": 51,
- "chGuess": "17-18章"
+ "chGuess": "17-18章",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊守護",
+   "rank": "E",
+   "afterSkill": "槍隊挟撃",
+   "afterRank": "E",
+   "target": "槍",
+   "rate": "25%",
+   "effectShort": "防御 (コストx6.5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍",
+   "afterRate": "25%",
+   "afterEffectShort": "槍攻：9.75%上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "黄母衣衆",
+   "rank": "D",
+   "afterSkill": "閃光破陣",
+   "afterRank": "B",
+   "target": "槍器",
+   "rate": "40%",
+   "effectShort": "防御 (コストx13) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍馬器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 2.7%上昇 / 防御 部隊ランクスキル発動率x9%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "戦陣 一閃",
+   "rank": "A",
+   "afterSkill": "神光征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%/100%",
+   "effectShort": "攻撃 50%上昇(確率50%)+速度 50%上昇(確率100%)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 90%上昇+速度 200%上昇(TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "絶 無双壁",
+   "rank": "B",
+   "afterSkill": "絶 無双壁",
+   "afterRank": "B",
+   "target": "槍馬器",
+   "rate": "32%",
+   "effectShort": "防御 70+(ランクx1.5) %上昇 確率：+32% / 速度 35%上昇 確率：+100% / 防御効果は武将ランクで変化"
+  },
+  {
+   "slot": "S2",
+   "skill": "不退ノ防戦",
+   "rank": "B",
+   "afterSkill": "不退ノ防戦",
+   "afterRank": "B",
+   "target": "馬砲器",
+   "rate": "38%",
+   "effectShort": "防御 52%上昇 確率：+38% / 速度 40%上昇"
+  }
+ ]
 }

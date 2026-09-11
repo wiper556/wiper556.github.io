@@ -48,5 +48,66 @@
  "wikiOldestComment": "2024-01-13",
  "wikiCommentCount": 18,
  "chGuess": "26章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "聖ヨハネの導き",
+   "rank": "A",
+   "afterSkill": "戦陣 凪",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全 飛翔2",
+   "afterRate": "60%",
+   "afterEffectShort": "防御 110%上昇(飛翔2・自軍防御参加武将が30以上の時、防御効果2倍)"
+  },
+  {
+   "slot": "B",
+   "skill": "聖ヨハネの導き",
+   "rank": "A",
+   "afterSkill": "戦陣 凪",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全 飛翔2",
+   "afterRate": "60%",
+   "afterEffectShort": "防御 110%上昇(飛翔2・自軍防御参加武将が30以上の時、防御効果2倍)"
+  },
+  {
+   "slot": "C",
+   "skill": "龍栄大使",
+   "rank": "S",
+   "afterSkill": "龍栄大使",
+   "afterRank": "S",
+   "target": "槍・鉄",
+   "rate": "100%",
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "龍栄大使",
+   "rank": "S",
+   "afterSkill": "龍栄大使",
+   "afterRank": "S",
+   "target": "槍・鉄",
+   "rate": "100%",
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "十束ノ神域",
+   "rank": "SS",
+   "afterSkill": "天聖宝冠",
+   "afterRank": "SSS",
+   "target": "全 覇道",
+   "rate": "100%",
+   "effectShort": "攻撃 320%上昇+速度 70%上昇+覇道を持つため所属部隊の武将のスキルを無効化・発動率低下から保護",
+   "afterTarget": "全",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 100%上昇((5.0×防御参加武将数)%を攻撃効果に加算・模倣不可)"
+  }
+ ]
 }

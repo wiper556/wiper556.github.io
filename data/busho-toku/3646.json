@@ -41,5 +41,63 @@
   "2026-08-30: 鍛錬(TR)が無いことを明記した。うぐさんの規則で**鍛錬が登場したのは No.1263 が追加された28章から**であり、特 は現在まで鍛錬の追加が無い。データもそれを裏付けており、27章のカードは LV10 のみ・28章のカードは LV10〜TR5 を持つ。**28章以降で鍛錬の無い武将も居るため、そちらには何も書いていない。**"
  ],
  "wikiOldestComment": null,
- "wikiCommentCount": 0
+ "wikiCommentCount": 0,
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "仙府幻法",
+   "rank": "C",
+   "afterSkill": "黄影射陣",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": null,
+   "afterRate": null,
+   "afterEffectShort": null
+  },
+  {
+   "slot": "B",
+   "skill": "至忠ノ護走",
+   "rank": "C",
+   "afterSkill": "至忠ノ護走",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "至忠ノ護走",
+   "rank": "C",
+   "afterSkill": "至忠ノ護走",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "至忠ノ護走",
+   "rank": "C",
+   "afterSkill": "至忠ノ護走",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "黄影射陣",
+   "rank": "C",
+   "afterSkill": "黒鎖ノ悌道",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓馬器",
+   "afterRate": "42%",
+   "afterEffectShort": "防御 150%上昇 / このスキルを所持する武将の所有者が影城主のとき、防御効果2倍"
+  }
+ ]
 }

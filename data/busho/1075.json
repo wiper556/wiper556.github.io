@@ -46,5 +46,69 @@
  "wikiOldestComment": "2016-05-19",
  "wikiCommentCount": 105,
  "chGuess": "12章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "神槍撃",
+   "rank": "D",
+   "afterSkill": "神槍撃",
+   "afterRank": "D",
+   "target": "槍",
+   "rate": "20%",
+   "effectShort": "攻撃 43%上昇 / 武将ランクで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "七槍の勇",
+   "rank": "C",
+   "afterSkill": "剛勇無双",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍馬砲",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 25%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "天虎招雷",
+   "rank": "S",
+   "afterSkill": "天征相克",
+   "afterRank": "SS",
+   "target": "槍・馬",
+   "rate": "8%",
+   "effectShort": "攻撃 80%上昇",
+   "afterTarget": "槍弓馬",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 25%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "天征相克",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "槍弓馬",
+   "rate": "20%",
+   "effectShort": "攻撃 25%上昇",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "八重言代主神",
+   "rank": "SS",
+   "afterSkill": "無窮天斥陣",
+   "afterRank": "SS",
+   "target": "自身",
+   "rate": "70%",
+   "effectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)",
+   "afterTarget": "槍弓馬",
+   "afterRate": "40%",
+   "afterEffectShort": "防御 63%上昇(攻撃部隊に兵器兵科がいれば効果1.5倍)"
+  }
+ ]
 }

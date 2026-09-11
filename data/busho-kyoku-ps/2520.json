@@ -48,5 +48,69 @@
  "wikiOldestComment": "2019-12-03",
  "wikiCommentCount": 70,
  "chGuess": "18章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦陣 阿吽",
+   "rank": "A",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "25%",
+   "effectShort": "攻撃 42%上昇+防御 42%上昇",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "B",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "C",
+   "skill": "十字飛車",
+   "rank": "A",
+   "afterSkill": "騒速ノ神撃",
+   "afterRank": "SS",
+   "target": "槍砲器",
+   "rate": "42%",
+   "effectShort": "攻撃 77%上昇 / 防御 77%上昇 / 破壊 50%上昇",
+   "afterTarget": "槍・弓・器・焙",
+   "afterRate": "57%",
+   "afterEffectShort": "攻撃 100%上昇 防御 100%上昇 部隊内の「騒速ノ神撃」スキルx25%を攻防効果に加算"
+  },
+  {
+   "slot": "S1",
+   "skill": "風狂幻術",
+   "rank": "B",
+   "afterSkill": "風狂幻術",
+   "afterRank": "B",
+   "target": "部隊長",
+   "rate": "53%",
+   "effectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ、TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 無双",
+   "rank": "A",
+   "afterSkill": "無双英傑",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 67%上昇+防御 67%上昇",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 99.9%上昇 防御 99.9%上昇 部隊消費コストを0.5低下 (特殊効果は模倣不可)"
+  }
+ ]
 }

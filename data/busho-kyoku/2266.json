@@ -38,5 +38,72 @@
  ],
  "wikiOldestComment": "2020-02-04",
  "wikiCommentCount": 27,
- "chGuess": "18-19章"
+ "chGuess": "18-19章",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鍾馗ノ化身",
+   "rank": "B",
+   "afterSkill": "戦陣 破軍",
+   "afterRank": "A",
+   "target": "槍馬器",
+   "rate": "30%",
+   "effectShort": "攻撃 (コストx16) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "全",
+   "afterRate": "44%",
+   "afterEffectShort": "攻撃 66%上昇+防御 66%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "槍隊襲撃",
+   "rank": "F",
+   "afterSkill": "槍隊堅守",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "20%",
+   "effectShort": "攻撃 10%上昇",
+   "afterTarget": "槍",
+   "afterRate": "20%",
+   "afterEffectShort": "槍防：10%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "諸刃ノ蛇行剣",
+   "rank": "D",
+   "afterSkill": "仏敵討伐",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "4%",
+   "effectShort": "攻撃 65%上昇 防御 65%上昇",
+   "afterTarget": "槍弓馬",
+   "afterRate": "36%",
+   "afterEffectShort": "防御 (コストx14) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S1",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "S2",
+   "skill": "十字飛車",
+   "rank": "A",
+   "afterSkill": "騒速ノ神撃",
+   "afterRank": "SS",
+   "target": "槍砲器",
+   "rate": "42%",
+   "effectShort": "攻撃 77%上昇 / 防御 77%上昇 / 破壊 50%上昇",
+   "afterTarget": "槍・弓・器・焙",
+   "afterRate": "57%",
+   "afterEffectShort": "攻撃 100%上昇 防御 100%上昇 部隊内の「騒速ノ神撃」スキルx25%を攻防効果に加算"
+  }
+ ]
 }

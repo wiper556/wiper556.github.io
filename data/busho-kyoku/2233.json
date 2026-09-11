@@ -43,5 +43,63 @@
  "wikiOldestComment": "2018-10-04",
  "wikiCommentCount": 80,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊急襲",
+   "rank": "F",
+   "afterSkill": "弓隊守備",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "16%",
+   "effectShort": "攻撃 (コストx5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "弓",
+   "afterRate": "16%",
+   "afterEffectShort": "防御 (コストx6) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "常世虫",
+   "rank": "C",
+   "afterSkill": "声遣縦横",
+   "afterRank": "D",
+   "target": "槍弓砲",
+   "rate": "26%",
+   "effectShort": "攻撃 37%上昇",
+   "afterTarget": "槍馬砲",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃 38%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "二葉心",
+   "rank": "D",
+   "afterSkill": "二葉心",
+   "afterRank": "D",
+   "target": "槍弓馬",
+   "rate": "28%",
+   "effectShort": "攻撃 42%上昇 / 防御 42%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "土佐ノ暴君",
+   "rank": "B",
+   "afterSkill": "土佐ノ暴君",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "新館御料人",
+   "rank": "B",
+   "afterSkill": "新館御料人",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "70%",
+   "effectShort": "攻撃 57.6%上昇 / 防御 57.6%上昇"
+  }
+ ]
 }

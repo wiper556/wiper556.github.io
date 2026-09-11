@@ -47,5 +47,63 @@
  "wikiOldestComment": "2011-09-19",
  "wikiCommentCount": 595,
  "chGuess": "3章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "砲撃 羅刹",
+   "rank": "B",
+   "afterSkill": "釣り野伏 鬼",
+   "afterRank": "B",
+   "target": "砲",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇 / 破壊 5%上昇",
+   "afterTarget": "砲",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "騎突 金剛",
+   "rank": "C",
+   "afterSkill": "剛勇無双",
+   "afterRank": "B",
+   "target": "馬",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇 / 破壊 5%上昇",
+   "afterTarget": "槍馬砲",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 25%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "鬼謀 国砕",
+   "rank": "B",
+   "afterSkill": "鬼謀 国砕",
+   "afterRank": "B",
+   "target": "上級器",
+   "rate": "35%",
+   "effectShort": "攻撃 10%上昇+破壊 25%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "独眼竜",
+   "rank": "A",
+   "afterSkill": "独眼竜",
+   "afterRank": "A",
+   "target": "馬砲器",
+   "rate": "30%",
+   "effectShort": "攻撃 25%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "捨て奸",
+   "rank": "B",
+   "afterSkill": "捨て奸",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "15%",
+   "effectShort": "防御 37%上昇"
+  }
+ ]
 }

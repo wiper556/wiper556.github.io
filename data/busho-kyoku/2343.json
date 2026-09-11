@@ -43,5 +43,72 @@
  "wikiOldestComment": "2023-04-03",
  "wikiCommentCount": 38,
  "chGuess": "25章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "雪花ノ壮姫",
+   "rank": "A",
+   "afterSkill": "流将天願",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓馬器",
+   "afterRate": "52%",
+   "afterEffectShort": "防御 88%上昇 確率：+52% / 速度 33%上昇 確率：+100%(加勢出陣時は速度効果3倍)"
+  },
+  {
+   "slot": "B",
+   "skill": "雪花ノ壮姫",
+   "rank": "A",
+   "afterSkill": "流将天願",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓馬器",
+   "afterRate": "52%",
+   "afterEffectShort": "防御 88%上昇 確率：+52% / 速度 33%上昇 確率：+100%(加勢出陣時は速度効果3倍)"
+  },
+  {
+   "slot": "C",
+   "skill": "戦慄ノ遁走曲",
+   "rank": "A",
+   "afterSkill": "覇・月扇乱舞",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "52%",
+   "effectShort": "防御 88%上昇 確率：+52% / 速度 40%上昇 確率：+100% / (加勢出陣時は速度効果3倍)",
+   "afterTarget": "弓砲器",
+   "afterRate": "38%",
+   "afterEffectShort": "防御 75%上昇 確率：+38% / 速度 35%上昇 確率：+100% / (加勢出陣時は速度効果2倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "流将天願",
+   "rank": "C",
+   "afterSkill": "戦場妙技",
+   "afterRank": "B",
+   "target": "弓馬器",
+   "rate": "52%",
+   "effectShort": "防御 88%上昇 確率：+52% / 速度 33%上昇 確率：+100%(加勢出陣時は速度効果3倍)",
+   "afterTarget": "全",
+   "afterRate": "32%",
+   "afterEffectShort": "攻撃 72%上昇+防御 72%上昇+破壊 20%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 凪",
+   "rank": "A",
+   "afterSkill": "海神ノ浮船",
+   "afterRank": "SS",
+   "target": "全 飛翔2",
+   "rate": "60%",
+   "effectShort": "防御 110%上昇(飛翔2・自軍防御参加武将が30以上の時、防御効果2倍)",
+   "afterTarget": "全 飛翔4",
+   "afterRate": "48%",
+   "afterEffectShort": "防御 (3.5×防御参加武将数)%上昇(敵軍飛翔持ち4人未満の時通常武将ダメージを受けない)"
+  }
+ ]
 }

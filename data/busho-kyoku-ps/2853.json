@@ -71,5 +71,57 @@
  "wikiOldestComment": "2026-06-05",
  "wikiCommentCount": 3,
  "chGuess": "31章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "眠り猫",
+   "rank": "A",
+   "afterSkill": "眠り猫",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃・防御 35+(武将ランク×5)%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "幻渦龍刀",
+   "rank": "S",
+   "afterSkill": "幻渦龍刀",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 250%上昇+防御 250%上昇(卓越:追加確率-50%で3倍・模倣不可)"
+  },
+  {
+   "slot": "C",
+   "skill": "虚実ノ理合",
+   "rank": "S",
+   "afterSkill": "虚実ノ理合",
+   "afterRank": "S",
+   "target": "部隊長 覇道",
+   "rate": "40%",
+   "effectShort": "部隊長の初期スキルを模倣(卓越時1.2倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "幻像鏡花",
+   "rank": "SSS",
+   "afterSkill": "幻像鏡花",
+   "afterRank": "SSS",
+   "target": "部隊長",
+   "rate": "56%",
+   "effectShort": "部隊長の模倣可能な初期スキルを卓越:追加確率40%で1.35倍にして模倣"
+  },
+  {
+   "slot": "S2",
+   "skill": "虚実兵妙",
+   "rank": "SS",
+   "afterSkill": "虚実兵妙",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "防御 740%上昇+防御戦闘時敵軍の卓越確率-8%する(自軍内重複上限2)"
+  }
+ ]
 }

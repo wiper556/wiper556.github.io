@@ -44,5 +44,69 @@
  "wikiOldestComment": "2019-03-04",
  "wikiCommentCount": 122,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "殿名人",
+   "rank": "E",
+   "afterSkill": "槍隊守護",
+   "afterRank": "E",
+   "target": "槍弓馬",
+   "rate": "15%",
+   "effectShort": "防御 10%上昇",
+   "afterTarget": "槍",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 (コストx6.5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "戦慄ノ美姫",
+   "rank": "D",
+   "afterSkill": "新館御料人",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "32%",
+   "effectShort": "攻撃 46%上昇 / 防御 46%上昇",
+   "afterTarget": "弓砲器",
+   "afterRate": "70%",
+   "afterEffectShort": "攻撃 57.6%上昇 / 防御 57.6%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "戦陣 無双",
+   "rank": "A",
+   "afterSkill": "無双英傑",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 67%上昇+防御 67%上昇",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 99.9%上昇 防御 99.9%上昇 部隊消費コストを0.5低下 (特殊効果は模倣不可)"
+  },
+  {
+   "slot": "S1",
+   "skill": "万世に続く礎",
+   "rank": "B",
+   "afterSkill": "万世に続く礎",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "衝角",
+   "rank": "C",
+   "afterSkill": "武装商船",
+   "afterRank": "A",
+   "target": "砲器",
+   "rate": "36%",
+   "effectShort": "攻撃 36%上昇 / 破壊 50%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "部隊内全武将が持つ全スキルに「器」対象を追加する(兵科対象スキル限定・模倣不可)"
+  }
+ ]
 }

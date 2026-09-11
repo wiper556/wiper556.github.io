@@ -45,5 +45,72 @@
  "wikiOldestComment": "2011-06-10",
  "wikiCommentCount": 118,
  "chGuess": "1-2章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弾幕防壁陣",
+   "rank": "C",
+   "afterSkill": "鉄壁の備え",
+   "afterRank": "D",
+   "target": "弓砲",
+   "rate": "20%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "全",
+   "afterRate": "40%",
+   "afterEffectShort": "防御 15%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "槍弓猛襲",
+   "rank": "D",
+   "afterSkill": "足軽軍法",
+   "afterRank": "D",
+   "target": "槍弓",
+   "rate": "15%",
+   "effectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "真田丸",
+   "rank": "D",
+   "afterSkill": "義兵進軍",
+   "afterRank": "C",
+   "target": "槍馬砲",
+   "rate": "15%",
+   "effectShort": "防御 +30%上昇",
+   "afterTarget": "槍弓馬砲",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 7%上昇 / 速度 10%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "鉄壁の備え",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "砲陣の極み",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "砲",
+   "rate": "30%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 30%上昇"
+  }
+ ]
 }

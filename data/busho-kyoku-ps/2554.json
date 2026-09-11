@@ -68,9 +68,9 @@
    "target": "弓・砲・器",
    "rate": "70%",
    "effectShort": "防御 64%上昇(卓越:追加確率30%で防御効果が1.5倍)",
-   "afterTarget": null,
-   "afterRate": null,
-   "afterEffectShort": null
+   "afterTarget": "槍弓馬器",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 77%上昇 確率：+25% / 速度 45%上昇 確率：+100% / (加勢出陣時は速度効果2倍)"
   },
   {
    "slot": "S1",

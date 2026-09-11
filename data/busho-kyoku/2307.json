@@ -42,5 +42,69 @@
  "wikiOldestComment": "2021-10-05",
  "wikiCommentCount": 32,
  "chGuess": "22章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "呑取り日本号",
+   "rank": "A",
+   "afterSkill": "深閑六連結陣",
+   "afterRank": "B",
+   "target": "槍弓馬器",
+   "rate": "100%",
+   "effectShort": "攻撃 (2.1 x 防御部参加武将数) %上昇",
+   "afterTarget": "槍弓砲",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 56%上昇 / 卓越：追加確率30%で攻撃効果が1.5倍"
+  },
+  {
+   "slot": "B",
+   "skill": "呑取り日本号",
+   "rank": "A",
+   "afterSkill": "深閑六連結陣",
+   "afterRank": "B",
+   "target": "槍弓馬器",
+   "rate": "100%",
+   "effectShort": "攻撃 (2.1 x 防御部参加武将数) %上昇",
+   "afterTarget": "槍弓砲",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 56%上昇 / 卓越：追加確率30%で攻撃効果が1.5倍"
+  },
+  {
+   "slot": "C",
+   "skill": "神歌の才",
+   "rank": "B",
+   "afterSkill": "神歌の才",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "37%",
+   "effectShort": "攻撃 38%上昇 / 武将ランクで効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "深閑六連結陣",
+   "rank": "B",
+   "afterSkill": "仁将無双",
+   "afterRank": "B",
+   "target": "槍弓砲",
+   "rate": "100%",
+   "effectShort": "攻撃 56%上昇 / 卓越：追加確率30%で攻撃効果が1.5倍",
+   "afterTarget": "槍馬砲",
+   "afterRate": "17%",
+   "afterEffectShort": "攻撃防御 ((1+ランク)xコストx2.1) %上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "陽炎 益荒男",
+   "rank": "A",
+   "afterSkill": "十字飛車",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍砲器",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 77%上昇 / 防御 77%上昇 / 破壊 50%上昇"
+  }
+ ]
 }

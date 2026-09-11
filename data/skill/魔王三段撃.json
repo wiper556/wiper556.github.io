@@ -10,6 +10,24 @@
    "name": "織田信長（2）",
    "no": "1018",
    "slot": "移植不可"
+  },
+  {
+   "name": "宇喜多直家",
+   "no": "2102",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "宇喜多直家(2102)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "お市",
+   "no": "2906",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "お市(2906)のsynthesisTable S1枠(2026-09-11)"
+   ]
   }
  ],
  "grantedViaSkills": [

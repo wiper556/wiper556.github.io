@@ -41,5 +41,66 @@
  "wikiOldestComment": "2015-12-02",
  "wikiCommentCount": 66,
  "chGuess": "11章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊剛撃",
+   "rank": "D",
+   "afterSkill": "槍弓猛襲",
+   "afterRank": "D",
+   "target": "弓",
+   "rate": "35%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "槍弓",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "槍弓連撃",
+   "rank": "D",
+   "afterSkill": "弓陣の極み",
+   "afterRank": "B",
+   "target": "槍弓",
+   "rate": "30%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "弓",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "槍弓鱗撃",
+   "rank": "C",
+   "afterSkill": "弓陣の極み",
+   "afterRank": "B",
+   "target": "槍弓",
+   "rate": "35%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "弓",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "魔王ノ片鱗",
+   "rank": "B",
+   "afterSkill": "魔王ノ片鱗",
+   "afterRank": "B",
+   "target": "槍弓",
+   "rate": "26%",
+   "effectShort": "攻撃 46%上昇 / 武将ランクで効果が変化"
+  },
+  {
+   "slot": "S2",
+   "skill": "三山統一",
+   "rank": "B",
+   "afterSkill": "三山統一",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ]
 }

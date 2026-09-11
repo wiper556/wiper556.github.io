@@ -43,5 +43,63 @@
  "wikiOldestComment": "2015-04-30",
  "wikiCommentCount": 127,
  "chGuess": "9章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "五逆迎撃陣",
+   "rank": "D",
+   "afterSkill": "鉄甲陣",
+   "afterRank": "D",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍弓",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "因果応報",
+   "rank": "B",
+   "afterSkill": "因果応報",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "黒衣の宰相",
+   "rank": "A",
+   "afterSkill": "武功浄財",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "合流",
+   "afterRate": "20%",
+   "afterEffectShort": "銅銭獲得率2.5%(対人合流攻撃で倒した兵数に応じて攻撃参加者全員が銅銭獲得)"
+  },
+  {
+   "slot": "S1",
+   "skill": "武功浄財",
+   "rank": "A",
+   "afterSkill": "武功浄財",
+   "afterRank": "A",
+   "target": "合流",
+   "rate": "20%",
+   "effectShort": "銅銭獲得率2.5%(対人合流攻撃で倒した兵数に応じて攻撃参加者全員が銅銭獲得)"
+  },
+  {
+   "slot": "S2",
+   "skill": "天衣無縫陣",
+   "rank": "SS",
+   "afterSkill": "天衣無縫陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "55%",
+   "effectShort": "防御 (20+コスト×10) %上昇"
+  }
+ ]
 }

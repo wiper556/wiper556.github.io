@@ -44,5 +44,69 @@
  "wikiOldestComment": "2014-08-04",
  "wikiCommentCount": 212,
  "chGuess": "8章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弾幕防壁陣",
+   "rank": "C",
+   "afterSkill": "鉄壁の備え",
+   "afterRank": "D",
+   "target": "弓砲",
+   "rate": "20%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "全",
+   "afterRate": "40%",
+   "afterEffectShort": "防御 15%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "組撃ち",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "弓砲",
+   "rate": "20%",
+   "effectShort": "防御 35%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "外法鳶陰",
+   "rank": "C",
+   "afterSkill": "車懸り 白狐",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍弓馬",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "因果応報",
+   "rank": "B",
+   "afterSkill": "因果応報",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "太虚国崩し",
+   "rank": "S",
+   "afterSkill": "神算鬼謀 滅",
+   "afterRank": "A",
+   "target": "砲器",
+   "rate": "25%",
+   "effectShort": null,
+   "afterTarget": "槍弓器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 24%上昇 / 破壊 46%上昇"
+  }
+ ]
 }

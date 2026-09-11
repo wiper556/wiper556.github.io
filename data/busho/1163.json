@@ -41,5 +41,63 @@
  "wikiOldestComment": "2020-02-14",
  "wikiCommentCount": 161,
  "chGuess": "19章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "覇王征軍",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "42%",
+   "effectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "B",
+   "skill": "天穿神滅",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "砲器",
+   "rate": "50%",
+   "effectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "C",
+   "skill": "神光征軍",
+   "rank": "SS",
+   "afterSkill": "神光征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 90%上昇+速度 200%上昇(TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "覇王絶世",
+   "rank": "SS",
+   "afterSkill": "覇王絶世",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "24%",
+   "effectShort": "攻撃部隊ランクボーナスx15%上昇(部隊ランクボーナスで効果が変化)"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 勝鬨",
+   "rank": "A",
+   "afterSkill": "天岩戸ノ神域",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "35%/100%",
+   "effectShort": "攻撃 77%上昇(確率35%)+防御 77%上昇(確率35%)+速度 40%上昇(確率100%)",
+   "afterTarget": "全",
+   "afterRate": "70%",
+   "afterEffectShort": "攻撃 2.8%×防御参加武将数(280人)=784.0%上昇"
+  }
+ ]
 }

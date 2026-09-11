@@ -46,5 +46,63 @@
  "wikiOldestComment": "2018-08-10",
  "wikiCommentCount": 76,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓砲方陣",
+   "rank": "C",
+   "afterSkill": "三段撃 神速",
+   "afterRank": "C",
+   "target": "弓砲",
+   "rate": "40%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "砲",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 12%上昇 / 破壊 15%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "烈侵滅国",
+   "rank": "B",
+   "afterSkill": "烈侵滅国",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "25%",
+   "effectShort": "攻撃防御 ((1+武将ランク)×コストx2) %上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "海帝波陣",
+   "rank": "S",
+   "afterSkill": "天弓星宿陣",
+   "afterRank": "SS",
+   "target": "弓・器・焙",
+   "rate": "45%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "防御 (部隊総コスト依存)%上昇(総C25=328.02%)"
+  },
+  {
+   "slot": "S1",
+   "skill": "天弓星宿陣",
+   "rank": "SS",
+   "afterSkill": "天弓星宿陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 (部隊総コスト依存)%上昇(総C25=328.02%)"
+  },
+  {
+   "slot": "S2",
+   "skill": "武神八幡陣",
+   "rank": "SS",
+   "afterSkill": "武神八幡陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 41.56%上昇(部隊総コストで変動、TRなし)"
+  }
+ ]
 }

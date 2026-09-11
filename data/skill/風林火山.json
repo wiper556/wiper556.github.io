@@ -14,6 +14,68 @@
    ]
   },
   {
+   "name": "武田信玄（2）",
+   "no": "1020",
+   "slot": "C",
+   "note": [
+    "武田信玄（2）(1020)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "武田信玄",
+   "no": "2045",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "武田信玄(2045)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "井伊直政",
+   "no": "2112",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "井伊直政(2112)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "飯富虎昌",
+   "no": "2116",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "飯富虎昌(2116)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "真田幸隆",
+   "no": "2117",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "真田幸隆(2117)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "菊姫",
+   "no": "2165",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "菊姫(2165)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "武田勝頼（2）",
+   "no": "2172",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "武田勝頼（2）(2172)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "武田信廉",
    "no": "3719",
    "slot": "S1",

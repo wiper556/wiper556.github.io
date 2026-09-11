@@ -45,5 +45,66 @@
  "wikiOldestComment": "2016-10-08",
  "wikiCommentCount": 14,
  "chGuess": "12章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊円陣",
+   "rank": "D",
+   "afterSkill": "足軽軍法",
+   "afterRank": "D",
+   "target": "槍",
+   "rate": "40%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "槍器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "槍陣の極み",
+   "rank": "B",
+   "afterSkill": "柳生新陰流",
+   "afterRank": "A",
+   "target": "槍",
+   "rate": "30%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "将",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 40%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "甲駿の誓い",
+   "rank": "A",
+   "afterSkill": "鉄壁の備え",
+   "afterRank": "D",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "40%",
+   "afterEffectShort": "防御 15%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "甲駿の祈誓",
+   "rank": "B",
+   "afterSkill": "甲駿の祈誓",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "背水之陣",
+   "rank": "B",
+   "afterSkill": "背水之陣",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "20%",
+   "effectShort": "防御 37%上昇"
+  }
+ ]
 }

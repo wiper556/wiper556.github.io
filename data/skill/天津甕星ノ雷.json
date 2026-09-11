@@ -12,6 +12,22 @@
  ],
  "sourceCharacters": [
   {
+   "name": "上杉景勝（5）【覇】",
+   "no": "1190",
+   "slot": "S2",
+   "note": [
+    "上杉景勝（5）【覇】(1190)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "本多忠勝",
+   "no": "1193",
+   "slot": "S1",
+   "note": [
+    "本多忠勝(1193)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "斎藤道三（4）【覇】",
    "no": "1202",
    "slot": "C・S1"
@@ -38,15 +54,6 @@
    "db": "kyoku"
   },
   {
-   "name": "上杉謙信（3）",
-   "no": "2813",
-   "slot": "S2",
-   "db": "kyoku",
-   "note": [
-    "上杉謙信(2813)のsynthesisTable S2枠(2026-08-15)"
-   ]
-  },
-  {
    "name": "本多忠勝（4）",
    "no": "2468",
    "slot": "S1",
@@ -54,11 +61,33 @@
    "note": [
     "本多忠勝（5）(2468)のsynthesisTable S1枠(2026-08-16、自己参照。2ソース確認)"
    ]
+  },
+  {
+   "name": "あやめ",
+   "no": "2581",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "あやめ(2581)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "上杉謙信（3）",
+   "no": "2813",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "上杉謙信(2813)のsynthesisTable S2枠(2026-08-15)"
+   ]
   }
  ],
  "grantedViaSkills": [
   {
    "skill": "万鬼闘帝",
+   "rank": "S"
+  },
+  {
+   "skill": "飛神 蜻蛉切",
    "rank": "S"
   }
  ],

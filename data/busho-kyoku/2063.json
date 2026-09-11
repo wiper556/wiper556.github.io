@@ -43,5 +43,66 @@
  "wikiOldestComment": "2013-03-23",
  "wikiCommentCount": 81,
  "chGuess": "5章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊円陣",
+   "rank": "D",
+   "afterSkill": "矢雨備え",
+   "afterRank": "D",
+   "target": "弓",
+   "rate": "40%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "弓器",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 25%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "鬼刺",
+   "rank": "C",
+   "afterSkill": "乗り崩し",
+   "afterRank": "D",
+   "target": "槍馬砲",
+   "rate": "15%",
+   "effectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍馬",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 20%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "槍陣の極み",
+   "rank": "B",
+   "afterSkill": "柳生新陰流",
+   "afterRank": "A",
+   "target": "槍",
+   "rate": "30%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "将",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 40%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "戦陣 千鳥",
+   "rank": "B",
+   "afterSkill": "戦陣 千鳥",
+   "afterRank": "B",
+   "target": "弓馬",
+   "rate": "45%",
+   "effectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "八咫烏",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "砲器",
+   "rate": "35%",
+   "effectShort": "防御 30%上昇"
+  }
+ ]
 }

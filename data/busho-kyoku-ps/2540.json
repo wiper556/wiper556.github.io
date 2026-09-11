@@ -47,5 +47,69 @@
  "wikiOldestComment": "2021-06-21",
  "wikiCommentCount": 4,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "覇・天甲破山",
+   "rank": "B",
+   "afterSkill": "戦陣 破軍",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "44%",
+   "afterEffectShort": "攻撃 66%上昇+防御 66%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "槍隊急襲",
+   "rank": "F",
+   "afterSkill": "槍隊守備",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "16%",
+   "effectShort": "槍攻：7.5%上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍",
+   "afterRate": "16%",
+   "afterEffectShort": "防御 (コストx5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "戦場妙技",
+   "rank": "B",
+   "afterSkill": "戦陣 破軍",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "32%",
+   "effectShort": "攻撃 72%上昇+防御 72%上昇+破壊 20%上昇",
+   "afterTarget": "全",
+   "afterRate": "44%",
+   "afterEffectShort": "攻撃 66%上昇+防御 66%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "S2",
+   "skill": "黒衣ノ法壁",
+   "rank": "B",
+   "afterSkill": "黒衣ノ法壁",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ]
 }

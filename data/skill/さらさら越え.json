@@ -7,6 +7,15 @@
  "categoryLinks": [],
  "sourceCharacters": [
   {
+   "name": "阿波鳴門之介",
+   "no": "2407",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "阿波鳴門之介(2407)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "安井道頓",
    "no": "2775",
    "slot": "A",

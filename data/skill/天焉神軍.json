@@ -7,6 +7,104 @@
  "categoryLinks": [],
  "sourceCharacters": [
   {
+   "name": "佐竹義重",
+   "no": "1047",
+   "slot": "S1",
+   "note": [
+    "佐竹義重(1047)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "お市",
+   "no": "1050",
+   "slot": "S1",
+   "note": [
+    "お市(1050)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "前田利家",
+   "no": "1053",
+   "slot": "S1",
+   "note": [
+    "前田利家(1053)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "伊達政宗（3）",
+   "no": "1057",
+   "slot": "S2",
+   "note": [
+    "伊達政宗（3）(1057)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "龍造寺隆信（2）",
+   "no": "1061",
+   "slot": "S1",
+   "note": [
+    "龍造寺隆信（2）(1061)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "武田信玄（3）【覇】",
+   "no": "1063",
+   "slot": "S2",
+   "note": [
+    "武田信玄（3）【覇】(1063)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "三好長慶",
+   "no": "1066",
+   "slot": "S1",
+   "note": [
+    "三好長慶(1066)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "上杉景勝（3）",
+   "no": "1069",
+   "slot": "S1",
+   "note": [
+    "上杉景勝（3）(1069)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "相馬義胤",
+   "no": "1092",
+   "slot": "C",
+   "note": [
+    "相馬義胤(1092)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "南部晴政",
+   "no": "1100",
+   "slot": "S2",
+   "note": [
+    "南部晴政(1100)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "前田慶次-復刻Ⅱ-",
+   "no": "2509",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "前田慶次-復刻Ⅱ-(2509)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "百地丹波",
+   "no": "2729",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "百地丹波(2729)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "相馬義胤",
    "no": "2913",
    "slot": "S2",
@@ -41,5 +139,27 @@
  "ownHiddenCandidate": {
   "skill": "天焉神軍",
   "rank": "SS"
- }
+ },
+ "grantedViaSkills": [
+  {
+   "skill": "銃槍竜騎兵",
+   "rank": "S"
+  },
+  {
+   "skill": "無間ノ天姫",
+   "rank": "S"
+  },
+  {
+   "skill": "猩猩ノ熊王",
+   "rank": "S"
+  },
+  {
+   "skill": "毘天雪崩戟",
+   "rank": "S"
+  },
+  {
+   "skill": "焔槍雷戟",
+   "rank": "S"
+  }
+ ]
 }

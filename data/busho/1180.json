@@ -47,5 +47,63 @@
  "wikiOldestComment": "2021-02-06",
  "wikiCommentCount": 62,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "天剣七星",
+   "rank": "S",
+   "afterSkill": "破軍星 皇",
+   "afterRank": "SS",
+   "target": "槍弓器鉄",
+   "rate": "100%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "69%",
+   "afterEffectShort": "攻撃 140%上昇(自部隊同時攻撃時コスト最大0.5除外・模倣不可)"
+  },
+  {
+   "slot": "B",
+   "skill": "天之瓊矛ノ雫",
+   "rank": "SS",
+   "afterSkill": "天焉相克",
+   "afterRank": "SS",
+   "target": "砲器",
+   "rate": "50%",
+   "effectShort": null,
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "70%",
+   "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"
+  },
+  {
+   "slot": "C",
+   "skill": "八千矛神",
+   "rank": "SS",
+   "afterSkill": "八千矛神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 50%上昇(所属部隊の武将が持つスキルを無効化や発動率低下スキルから保護)"
+  },
+  {
+   "slot": "S1",
+   "skill": "破軍星 皇",
+   "rank": "SS",
+   "afterSkill": "破軍星 皇",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "69%",
+   "effectShort": "攻撃 140%上昇(自部隊同時攻撃時コスト最大0.5除外・模倣不可)"
+  },
+  {
+   "slot": "S2",
+   "skill": "火之迦具土神",
+   "rank": "SS",
+   "afterSkill": "火之迦具土神",
+   "afterRank": "SS",
+   "target": "槍・馬・砲",
+   "rate": "100%",
+   "effectShort": "攻撃 160%上昇(卓越追加確率25%・3倍・TRなし)"
+  }
+ ]
 }

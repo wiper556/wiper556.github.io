@@ -47,5 +47,60 @@
  "wikiOldestComment": "2020-02-14",
  "wikiCommentCount": 145,
  "chGuess": "19章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "武神八幡陣",
+   "rank": "SS",
+   "afterSkill": "武神八幡陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 41.56%上昇(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "B",
+   "skill": "天鎖燎原陣",
+   "rank": "SS",
+   "afterSkill": "天鎖燎原陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "覇獄竜王",
+   "rank": "SS",
+   "afterSkill": "覇獄竜王",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "55%",
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "幽冥主宰大神",
+   "rank": "SS",
+   "afterSkill": "幽冥主宰大神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "防御 90%上昇(攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化・模倣不可)"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 凱旋",
+   "rank": "A",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "10%",
+   "effectShort": "攻撃 87%上昇+防御 87%上昇",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  }
+ ]
 }

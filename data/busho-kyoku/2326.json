@@ -42,5 +42,69 @@
  "wikiOldestComment": "2022-08-15",
  "wikiCommentCount": 21,
  "chGuess": "24章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "漆黒ノ銃騎兵",
+   "rank": "A",
+   "afterSkill": "六字の采配",
+   "afterRank": "B",
+   "target": "馬器騎",
+   "rate": "55%/100%",
+   "effectShort": "攻撃 155%上昇(確率55%)+速度 65%上昇(攻撃参加した自軍全部隊の帰還速度 3倍・帰還効果は模倣・重複不可)",
+   "afterTarget": "砲",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 25%上昇(攻撃時のみ自部隊の兵士被害10%減少)"
+  },
+  {
+   "slot": "B",
+   "skill": "漆黒ノ銃騎兵",
+   "rank": "A",
+   "afterSkill": "六字の采配",
+   "afterRank": "B",
+   "target": "馬器騎",
+   "rate": "55%/100%",
+   "effectShort": "攻撃 155%上昇(確率55%)+速度 65%上昇(攻撃参加した自軍全部隊の帰還速度 3倍・帰還効果は模倣・重複不可)",
+   "afterTarget": "砲",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 25%上昇(攻撃時のみ自部隊の兵士被害10%減少)"
+  },
+  {
+   "slot": "C",
+   "skill": "騎迅強襲",
+   "rank": "B",
+   "afterSkill": "遁世影武者",
+   "afterRank": "B",
+   "target": "槍・馬・器",
+   "rate": "30%/100%",
+   "effectShort": "攻撃 35%上昇(確率30%)+速度 25%上昇",
+   "afterTarget": "部隊長",
+   "afterRate": "50%",
+   "afterEffectShort": "所属部隊の部隊長が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "S1",
+   "skill": "六字の采配",
+   "rank": "B",
+   "afterSkill": "六字の采配",
+   "afterRank": "B",
+   "target": "砲",
+   "rate": "30%",
+   "effectShort": "攻撃 25%上昇(攻撃時のみ自部隊の兵士被害10%減少)"
+  },
+  {
+   "slot": "S2",
+   "skill": "騎聖",
+   "rank": "A",
+   "afterSkill": "神光征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 80%上昇+速度 50%上昇(武将コストで変動)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 90%上昇+速度 200%上昇(TRなし)"
+  }
+ ]
 }

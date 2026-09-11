@@ -45,5 +45,63 @@
  "wikiOldestComment": "2014-11-19",
  "wikiCommentCount": 720,
  "chGuess": "9章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "三楽犬",
+   "rank": "B",
+   "afterSkill": "五山無双",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": null,
+   "afterRate": null,
+   "afterEffectShort": null
+  },
+  {
+   "slot": "B",
+   "skill": "剣聖",
+   "rank": "A",
+   "afterSkill": "剣聖",
+   "afterRank": "A",
+   "target": "将",
+   "rate": "50%",
+   "effectShort": "攻撃 40%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "銃槍竜騎兵",
+   "rank": "S",
+   "afterSkill": "天焉神軍",
+   "afterRank": "SS",
+   "target": "槍砲",
+   "rate": "30%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 20%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "天焉神軍",
+   "rank": "SS",
+   "afterSkill": "天焉神軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 20%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "破軍星",
+   "rank": "SS",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "馬・砲・器",
+   "rate": "40%",
+   "effectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  }
+ ]
 }

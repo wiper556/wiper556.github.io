@@ -43,5 +43,72 @@
  "wikiOldestComment": "2021-12-01",
  "wikiCommentCount": 3,
  "chGuess": "22章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "騎馬隊奇襲",
+   "rank": "E",
+   "afterSkill": "騎馬隊堅陣",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "30%",
+   "effectShort": "馬攻：12%上昇",
+   "afterTarget": "馬",
+   "afterRate": "30%",
+   "afterEffectShort": "馬防：12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "騎馬隊突撃",
+   "rank": "F",
+   "afterSkill": "騎馬隊奇襲",
+   "afterRank": "E",
+   "target": "馬",
+   "rate": "15%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "馬",
+   "afterRate": "30%",
+   "afterEffectShort": "馬攻：12%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "弓隊奇襲",
+   "rank": "E",
+   "afterSkill": "弓隊堅陣",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "30%",
+   "effectShort": "弓攻：12%上昇",
+   "afterTarget": "弓",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 12%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "騎馬隊堅陣",
+   "rank": "F",
+   "afterSkill": "騎馬隊奇襲",
+   "afterRank": "E",
+   "target": "馬",
+   "rate": "30%",
+   "effectShort": "馬防：12%上昇",
+   "afterTarget": "馬",
+   "afterRate": "30%",
+   "afterEffectShort": "馬攻：12%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "騎馬隊挟撃",
+   "rank": "E",
+   "afterSkill": "騎馬隊守護",
+   "afterRank": "E",
+   "target": "馬",
+   "rate": "25%",
+   "effectShort": "攻撃 (コストx6.5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "馬",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 (コストx6.5) %上昇 / (武将のコストで効果が変化します)"
+  }
+ ]
 }

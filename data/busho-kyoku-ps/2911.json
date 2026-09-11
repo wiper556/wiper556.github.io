@@ -44,5 +44,69 @@
  "wikiOldestComment": "2014-12-12",
  "wikiCommentCount": 52,
  "chGuess": "9章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄壁の備え",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "越龍滅閃",
+   "rank": "D",
+   "afterSkill": "車懸り",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "慧眼の用兵",
+   "rank": "A",
+   "afterSkill": "天元の用兵",
+   "afterRank": "S",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "25%",
+   "afterEffectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "神将",
+   "rank": "A",
+   "afterSkill": "神将",
+   "afterRank": "A",
+   "target": "槍弓馬",
+   "rate": "35%",
+   "effectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "太虚国崩し",
+   "rank": "S",
+   "afterSkill": "神算鬼謀 滅",
+   "afterRank": "A",
+   "target": "砲器",
+   "rate": "25%",
+   "effectShort": null,
+   "afterTarget": "槍弓器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 24%上昇 / 破壊 46%上昇"
+  }
+ ]
 }

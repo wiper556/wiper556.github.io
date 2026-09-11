@@ -45,5 +45,63 @@
  "wikiOldestComment": "2021-02-05",
  "wikiCommentCount": 72,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "天誓ノ彷徨",
+   "rank": "S",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "槍・弓・馬・器",
+   "rate": "50%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  },
+  {
+   "slot": "B",
+   "skill": "騒速ノ神撃",
+   "rank": "SS",
+   "afterSkill": "騒速ノ神撃",
+   "afterRank": "SS",
+   "target": "槍・弓・器・焙",
+   "rate": "57%",
+   "effectShort": "攻撃 100%上昇 防御 100%上昇 部隊内の「騒速ノ神撃」スキルx25%を攻防効果に加算"
+  },
+  {
+   "slot": "C",
+   "skill": "式神ノ冥王",
+   "rank": "SS",
+   "afterSkill": "荒破閃神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇",
+   "afterTarget": "全",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 110%上昇 (6部隊以下の攻撃で効果2倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "布都御魂ノ鬨",
+   "rank": "SS",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  },
+  {
+   "slot": "S2",
+   "skill": "建御雷神ノ槌",
+   "rank": "SS",
+   "afterSkill": "建御雷神ノ槌",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 135%上昇+防御 135%上昇(自身の全スキルの卓越確率+30%・模倣不可)"
+  }
+ ]
 }

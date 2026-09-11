@@ -43,5 +43,72 @@
  "wikiOldestComment": "2012-07-02",
  "wikiCommentCount": 178,
  "chGuess": "4章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍衾",
+   "rank": "D",
+   "afterSkill": "義兵進軍",
+   "afterRank": "C",
+   "target": "槍器",
+   "rate": "30%",
+   "effectShort": "防御 25%上昇",
+   "afterTarget": "槍弓馬砲",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 7%上昇 / 速度 10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "弓馬構え",
+   "rank": "D",
+   "afterSkill": "足軽軍法",
+   "afterRank": "D",
+   "target": "弓馬",
+   "rate": "30%",
+   "effectShort": "防御 25%上昇",
+   "afterTarget": "槍器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "槍陣 弧月",
+   "rank": "B",
+   "afterSkill": "足軽軍法",
+   "afterRank": "D",
+   "target": "槍砲",
+   "rate": "35%",
+   "effectShort": "攻撃 20%上昇 / 破壊 10%上昇",
+   "afterTarget": "槍器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S1",
+   "skill": "鬼刺",
+   "rank": "C",
+   "afterSkill": "乗り崩し",
+   "afterRank": "D",
+   "target": "槍馬砲",
+   "rate": "15%",
+   "effectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍馬",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 20%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "弓撃 夜叉",
+   "rank": "C",
+   "afterSkill": "天賦の神算",
+   "afterRank": "B",
+   "target": "弓",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇+破壊 5%上昇",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 12%上昇 / 破壊 5%上昇"
+  }
+ ]
 }

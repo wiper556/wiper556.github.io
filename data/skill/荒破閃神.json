@@ -8,6 +8,18 @@
   {
    "skill": "式神ノ冥王",
    "rank": "SS"
+  },
+  {
+   "skill": "四神重奏",
+   "rank": "S"
+  },
+  {
+   "skill": "天涯ノ絶王",
+   "rank": "S"
+  },
+  {
+   "skill": "天日鷲神",
+   "rank": "S"
   }
  ],
  "ownHiddenCandidate": {
@@ -26,5 +38,38 @@
    "effect": "全　確率 45% / 攻撃 110%上昇 (6部隊以下の攻撃で効果2倍)"
   }
  ],
- "sourceCharacters": []
+ "sourceCharacters": [
+  {
+   "name": "今川氏親",
+   "no": "1160",
+   "slot": "S1",
+   "note": [
+    "今川氏親(1160)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "三好長慶（3）",
+   "no": "1170",
+   "slot": "S1",
+   "note": [
+    "三好長慶（3）(1170)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "伊達政宗（5）",
+   "no": "1174",
+   "slot": "C",
+   "note": [
+    "伊達政宗（5）(1174)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "雑賀孫市（3）",
+   "no": "1186",
+   "slot": "S1",
+   "note": [
+    "雑賀孫市（3）(1186)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  }
+ ]
 }

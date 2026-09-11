@@ -41,5 +41,72 @@
  "wikiOldestComment": "2023-09-17",
  "wikiCommentCount": 14,
  "chGuess": "26章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "七功ノ指揮",
+   "rank": "A",
+   "afterSkill": "葵ノ慈母",
+   "afterRank": "S",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍・弓・器・鉄",
+   "afterRate": "50%",
+   "afterEffectShort": null
+  },
+  {
+   "slot": "B",
+   "skill": "七功ノ指揮",
+   "rank": "A",
+   "afterSkill": "葵ノ慈母",
+   "afterRank": "S",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍・弓・器・鉄",
+   "afterRate": "50%",
+   "afterEffectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "七功ノ指揮",
+   "rank": "A",
+   "afterSkill": "葵ノ慈母",
+   "afterRank": "S",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍・弓・器・鉄",
+   "afterRate": "50%",
+   "afterEffectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "葵ノ慈母",
+   "rank": "S",
+   "afterSkill": "国津破邪ノ楯",
+   "afterRank": "SS",
+   "target": "槍・弓・器・鉄",
+   "rate": "50%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "防御 (部隊総コスト依存)%上昇(総C25=423.75%)"
+  },
+  {
+   "slot": "S2",
+   "skill": "嵐渦令姫",
+   "rank": "A",
+   "afterSkill": "龍神ノ加護",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "馬・砲・器",
+   "afterRate": "46%",
+   "afterEffectShort": "防御 135%上昇+本丸防御陣形配置時コスト消費-0.5(模倣不可)"
+  }
+ ]
 }

@@ -43,5 +43,66 @@
  "wikiOldestComment": "2015-12-04",
  "wikiCommentCount": 51,
  "chGuess": "11章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "剣術 攻乃型",
+   "rank": "E",
+   "afterSkill": "迅速行軍",
+   "afterRank": "E",
+   "target": "将",
+   "rate": "30%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "速度 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "虚空一閃",
+   "rank": "C",
+   "afterSkill": "大ふへん者",
+   "afterRank": "D",
+   "target": "将",
+   "rate": "36%",
+   "effectShort": "攻撃 28%上昇",
+   "afterTarget": "将",
+   "afterRate": "5%",
+   "afterEffectShort": "攻撃 40%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "新陰流",
+   "rank": "C",
+   "afterSkill": "大ふへん者",
+   "afterRank": "D",
+   "target": "将",
+   "rate": "35%",
+   "effectShort": "攻撃 30%上昇",
+   "afterTarget": "将",
+   "afterRate": "5%",
+   "afterEffectShort": "攻撃 40%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "陰流",
+   "rank": "B",
+   "afterSkill": "陰流",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "剣聖",
+   "rank": "A",
+   "afterSkill": "剣聖",
+   "afterRank": "A",
+   "target": "将",
+   "rate": "50%",
+   "effectShort": "攻撃 40%上昇"
+  }
+ ]
 }

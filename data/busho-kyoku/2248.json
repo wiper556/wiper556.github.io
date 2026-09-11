@@ -41,5 +41,63 @@
  "wikiOldestComment": "2019-04-26",
  "wikiCommentCount": 49,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊急襲",
+   "rank": "F",
+   "afterSkill": "弓隊守備",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "16%",
+   "effectShort": "攻撃 (コストx5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "弓",
+   "afterRate": "16%",
+   "afterEffectShort": "防御 (コストx6) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "葵ノ戦姫",
+   "rank": "D",
+   "afterSkill": "戦巧者",
+   "afterRank": "D",
+   "target": "弓焙",
+   "rate": "70%",
+   "effectShort": "攻撃 43.2%上昇 破壊 20%上昇",
+   "afterTarget": "槍弓器",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 36%上昇 / (2部隊以下の攻撃で効果1.5倍)"
+  },
+  {
+   "slot": "C",
+   "skill": "絢鳥",
+   "rank": "B",
+   "afterSkill": "絢鳥",
+   "afterRank": "B",
+   "target": "槍弓",
+   "rate": "35%",
+   "effectShort": "攻撃 42%上昇 / 破壊 15%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "清貧ノ悪源太",
+   "rank": "B",
+   "afterSkill": "清貧ノ悪源太",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "24%",
+   "effectShort": "攻撃 67%上昇 / 破壊 40%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "質実剛健",
+   "rank": "B",
+   "afterSkill": "質実剛健",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "27%",
+   "effectShort": "攻撃防御 ((1+武将ランク)x武将コストx1.9) %上昇 / 武将ランクとコストで効果が変化"
+  }
+ ]
 }

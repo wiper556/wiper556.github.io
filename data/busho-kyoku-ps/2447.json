@@ -46,5 +46,63 @@
  "wikiOldestComment": "2021-12-17",
  "wikiCommentCount": 16,
  "chGuess": "22章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鬼滅刺",
+   "rank": "A",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  },
+  {
+   "slot": "B",
+   "skill": "鬼滅刺",
+   "rank": "A",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  },
+  {
+   "slot": "C",
+   "skill": "建御雷神ノ槌",
+   "rank": "SS",
+   "afterSkill": "建御雷神ノ槌",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 135%上昇+防御 135%上昇(自身の全スキルの卓越確率+30%・模倣不可)"
+  },
+  {
+   "slot": "S1",
+   "skill": "建御雷神ノ槌",
+   "rank": "SS",
+   "afterSkill": "建御雷神ノ槌",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 135%上昇+防御 135%上昇(自身の全スキルの卓越確率+30%・模倣不可)"
+  },
+  {
+   "slot": "S2",
+   "skill": "星宿劫ノ法壁",
+   "rank": "SS",
+   "afterSkill": "星宿劫ノ法壁",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "49%",
+   "effectShort": "防御 120%上昇+本丸防御陣形の第参列目以降配置時、防御効果が3倍"
+  }
+ ]
 }

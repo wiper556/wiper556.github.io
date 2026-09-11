@@ -45,5 +45,66 @@
  "wikiOldestComment": "2017-03-07",
  "wikiCommentCount": 60,
  "chGuess": "13章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊突撃",
+   "rank": "F",
+   "afterSkill": "弓隊奇襲",
+   "afterRank": "E",
+   "target": "弓",
+   "rate": "15%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "弓",
+   "afterRate": "30%",
+   "afterEffectShort": "弓攻：12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "鷹視狼歩",
+   "rank": "B",
+   "afterSkill": "剛勇無双",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍馬砲",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 25%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "義龍双乱撃",
+   "rank": "B",
+   "afterSkill": "義龍双乱撃",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "100%",
+   "effectShort": "攻撃 15%上昇 / 速度 27%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "質実剛健",
+   "rank": "B",
+   "afterSkill": "質実剛健",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "27%",
+   "effectShort": "攻撃防御 ((1+武将ランク)x武将コストx1.9) %上昇 / 武将ランクとコストで効果が変化"
+  },
+  {
+   "slot": "S2",
+   "skill": "三河魂",
+   "rank": "S",
+   "afterSkill": "天衣無縫陣",
+   "afterRank": "SS",
+   "target": "槍弓砲",
+   "rate": "35%",
+   "effectShort": "攻撃 25%上昇+破壊 25%上昇",
+   "afterTarget": "全",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 (20+コスト×10) %上昇"
+  }
+ ]
 }

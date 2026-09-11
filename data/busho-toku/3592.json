@@ -44,5 +44,72 @@
  "wikiOldestComment": "2024-08-30",
  "wikiCommentCount": 1,
  "chGuess": "28章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "義士ノ覚悟",
+   "rank": "C",
+   "afterSkill": "不朽ノ野心",
+   "afterRank": "C",
+   "target": "槍砲器",
+   "rate": "65%",
+   "effectShort": "攻撃 310%上昇 防御 310%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "55%",
+   "afterEffectShort": "攻撃 260%上昇 防御 260%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "義士ノ覚悟",
+   "rank": "C",
+   "afterSkill": "不朽ノ野心",
+   "afterRank": "C",
+   "target": "槍砲器",
+   "rate": "65%",
+   "effectShort": "攻撃 310%上昇 防御 310%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "55%",
+   "afterEffectShort": "攻撃 260%上昇 防御 260%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "義士ノ覚悟",
+   "rank": "C",
+   "afterSkill": "不朽ノ野心",
+   "afterRank": "C",
+   "target": "槍砲器",
+   "rate": "65%",
+   "effectShort": "攻撃 310%上昇 防御 310%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "55%",
+   "afterEffectShort": "攻撃 260%上昇 防御 260%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "不朽ノ野心",
+   "rank": "C",
+   "afterSkill": "名人ノ系譜",
+   "afterRank": "C",
+   "target": "砲器",
+   "rate": "55%",
+   "effectShort": "攻撃 260%上昇 防御 260%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 92%上昇 防御 92%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "争鶴ノ囀り",
+   "rank": "C",
+   "afterSkill": "覇・一期一振",
+   "afterRank": "A",
+   "target": "槍弓器",
+   "rate": "55%",
+   "effectShort": "攻撃 250%上昇 防御 250%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 85%上昇 防御 85%上昇"
+  }
+ ]
 }

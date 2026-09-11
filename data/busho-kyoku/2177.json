@@ -43,5 +43,63 @@
  "wikiOldestComment": "2016-08-03",
  "wikiCommentCount": 285,
  "chGuess": "12章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄壁の備え",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "才知徳行",
+   "rank": "D",
+   "afterSkill": "才知徳行",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "防御 20%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "神の恩寵",
+   "rank": "C",
+   "afterSkill": "華玉神恵",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "18%",
+   "effectShort": "防御 39%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "22.5%",
+   "afterEffectShort": "防御 40%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "彷徨う福音",
+   "rank": "B",
+   "afterSkill": "彷徨う福音",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "20%",
+   "effectShort": "銅銭獲得率2.5%(対人撃破兵数に応じて自軍全員が銅銭獲得・重複発動上限数4)"
+  },
+  {
+   "slot": "S2",
+   "skill": "因果応報",
+   "rank": "B",
+   "afterSkill": "因果応報",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ]
 }

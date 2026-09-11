@@ -42,5 +42,69 @@
  "wikiOldestComment": "2014-02-05",
  "wikiCommentCount": 189,
  "chGuess": "7章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "城崩 奈落",
+   "rank": "C",
+   "afterSkill": "鬼謀 国砕",
+   "afterRank": "B",
+   "target": "器",
+   "rate": "25%",
+   "effectShort": "攻撃 5%上昇 / 破壊 25%上昇",
+   "afterTarget": "上級器",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 10%上昇+破壊 25%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "砲陣の極み",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "砲",
+   "rate": "30%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "貴煌豊国",
+   "rank": "B",
+   "afterSkill": "旋風轟撃",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "馬砲",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "捨て奸",
+   "rank": "B",
+   "afterSkill": "捨て奸",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "15%",
+   "effectShort": "防御 37%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "魔王三段撃",
+   "rank": "S",
+   "afterSkill": "神算鬼謀 滅",
+   "afterRank": "A",
+   "target": "砲",
+   "rate": "35%",
+   "effectShort": "攻撃 30%上昇+破壊 20%上昇",
+   "afterTarget": "槍弓器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 24%上昇 / 破壊 46%上昇"
+  }
+ ]
 }

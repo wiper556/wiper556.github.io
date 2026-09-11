@@ -46,5 +46,69 @@
  "wikiOldestComment": "2019-02-09",
  "wikiCommentCount": 51,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "天綾の誓約",
+   "rank": "SS",
+   "afterSkill": "天焉相克",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "攻撃 99.9%上昇 防御 99.9%上昇 破壊 150%上昇",
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "70%",
+   "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"
+  },
+  {
+   "slot": "C",
+   "skill": "天弓星宿陣",
+   "rank": "SS",
+   "afterSkill": "天弓星宿陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 (部隊総コスト依存)%上昇(総C25=328.02%)"
+  },
+  {
+   "slot": "S1",
+   "skill": "神塵 傀儡",
+   "rank": "S",
+   "afterSkill": "式神ノ冥王",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "25%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "神塵 傀儡",
+   "rank": "S",
+   "afterSkill": "式神ノ冥王",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "25%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇"
+  }
+ ]
 }

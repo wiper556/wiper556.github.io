@@ -45,5 +45,60 @@
  "wikiOldestComment": "2011-04-01",
  "wikiCommentCount": 315,
  "chGuess": "1-2章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍陣の極み",
+   "rank": "B",
+   "afterSkill": "柳生新陰流",
+   "afterRank": "A",
+   "target": "槍",
+   "rate": "30%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "将",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 40%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "背水之陣",
+   "rank": "B",
+   "afterSkill": "背水之陣",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "20%",
+   "effectShort": "防御 37%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "神算鬼謀",
+   "rank": "A",
+   "afterSkill": "神算鬼謀",
+   "afterRank": "A",
+   "target": "槍器",
+   "rate": "45%",
+   "effectShort": "攻撃 10%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "騎神",
+   "rank": "SS",
+   "afterSkill": "騎神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 (コストx4.5) %+速度 50%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "天衣無縫陣",
+   "rank": "SS",
+   "afterSkill": "天衣無縫陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "55%",
+   "effectShort": "防御 (20+コスト×10) %上昇"
+  }
+ ]
 }

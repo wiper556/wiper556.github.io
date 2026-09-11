@@ -41,5 +41,63 @@
  "wikiOldestComment": "2019-10-02",
  "wikiCommentCount": 19,
  "chGuess": "18章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊突撃",
+   "rank": "F",
+   "afterSkill": "槍隊奇襲",
+   "afterRank": "E",
+   "target": "槍",
+   "rate": "15%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "槍",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "稟賦ノ剣",
+   "rank": "D",
+   "afterSkill": "軸道理算",
+   "afterRank": "D",
+   "target": "槍器",
+   "rate": "100%",
+   "effectShort": "攻撃 19%上昇 / 速度 40%上昇",
+   "afterTarget": "槍砲器",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 10%上昇 / 速度 23%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "戦鬼侵軍",
+   "rank": "B",
+   "afterSkill": "戦鬼侵軍",
+   "afterRank": "B",
+   "target": "槍砲器",
+   "rate": "15%",
+   "effectShort": "攻撃 54%上昇 / 合流攻撃時は必ずスキル発動"
+  },
+  {
+   "slot": "S1",
+   "skill": "天下ノ総代官",
+   "rank": "B",
+   "afterSkill": "天下ノ総代官",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "三島明神波撃",
+   "rank": "B",
+   "afterSkill": "三島明神波撃",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "20%",
+   "effectShort": "攻撃 69%上昇 / (合流攻撃時は確率2倍)"
+  }
+ ]
 }

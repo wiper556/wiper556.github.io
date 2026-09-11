@@ -40,5 +40,66 @@
   "reviewedOkはfalseのまま。カード画像による4隅バッジ・スキルパネル照合が未実施のため黄丸化はできない。"
  ],
  "wikiOldestComment": null,
- "wikiCommentCount": null
+ "wikiCommentCount": null,
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "天弓星宿陣",
+   "rank": "SS",
+   "afterSkill": "天弓星宿陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 (部隊総コスト依存)%上昇(総C25=328.02%)"
+  },
+  {
+   "slot": "C",
+   "skill": "無双英傑",
+   "rank": "SS",
+   "afterSkill": "覇王絶世",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 99.9%上昇 防御 99.9%上昇 部隊消費コストを0.5低下 (特殊効果は模倣不可)",
+   "afterTarget": "全",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃部隊ランクボーナスx15%上昇(部隊ランクボーナスで効果が変化)"
+  },
+  {
+   "slot": "S1",
+   "skill": "幽冥主宰大神",
+   "rank": "SS",
+   "afterSkill": "幽冥主宰大神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "防御 90%上昇(攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化・模倣不可)"
+  },
+  {
+   "slot": "S2",
+   "skill": "天綾の誓約",
+   "rank": "SS",
+   "afterSkill": "天焉相克",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "攻撃 99.9%上昇 防御 99.9%上昇 破壊 150%上昇",
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "70%",
+   "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"
+  }
+ ]
 }

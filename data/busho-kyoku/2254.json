@@ -41,5 +41,66 @@
  "wikiOldestComment": "2019-08-09",
  "wikiCommentCount": 16,
  "chGuess": "18章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊襲撃",
+   "rank": "F",
+   "afterSkill": "槍隊堅守",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "20%",
+   "effectShort": "攻撃 10%上昇",
+   "afterTarget": "槍",
+   "afterRate": "20%",
+   "afterEffectShort": "槍防：10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "三人衆",
+   "rank": "D",
+   "afterSkill": "三人衆",
+   "afterRank": "D",
+   "target": "槍弓",
+   "rate": "40%",
+   "effectShort": "攻撃 20%上昇 確率：+40% / 速度 9%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "戦陣 一閃",
+   "rank": "A",
+   "afterSkill": "神光征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%/100%",
+   "effectShort": "攻撃 50%上昇(確率50%)+速度 50%上昇(確率100%)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 90%上昇+速度 200%上昇(TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "古ノ美将",
+   "rank": "B",
+   "afterSkill": "古ノ美将",
+   "afterRank": "B",
+   "target": "槍弓焙",
+   "rate": "47%",
+   "effectShort": "攻撃 64%上昇 確率：+47% / 速度 40%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "吉凶禍福",
+   "rank": "B",
+   "afterSkill": "烈侵滅国",
+   "afterRank": "B",
+   "target": "弓馬器",
+   "rate": "40%",
+   "effectShort": "攻撃 56%上昇 確率：+40% / 速度 30%上昇 確率：+100l%",
+   "afterTarget": "槍弓器",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃防御 ((1+武将ランク)×コストx2) %上昇"
+  }
+ ]
 }

@@ -81,11 +81,27 @@ def src_key(c):
 # --- S-05: 逆引き ---
 added = 0
 via = 0
+fixed = 0        # 「移植不可」から実際の枠へ直した数
 for no in NOS:
     ent, db = find_general(no)
     if ent is None:
         print("  ★ No.%s が正本に無い" % no)
         continue
+    # 同じスキルが2枠以上に出る武将がいる。**1行ずつ足すと最初の枠しか残らない**
+    # (2周目は「もう居る」で飛ばされる)。2026-09-11、合成表を1301体ぶん入れた
+    # ところ、この形で 255件が slot=C のように片方だけになり監査 D-10 が鳴った。
+    # 先に枠を集めてから「C・S2」の形で書く(既存データもこの書き方)。
+    _ORDER = ("A", "B", "C", "S1", "S2")
+    _slots = collections.OrderedDict()
+    for r in ent.get("synthesisTable") or []:
+        if r.get("skill") and r.get("slot"):
+            _slots.setdefault(r["skill"], [])
+            if r["slot"] not in _slots[r["skill"]]:
+                _slots[r["skill"]].append(r["slot"])
+    slots_of = {k: "・".join(sorted(v, key=lambda s: _ORDER.index(s)
+                                    if s in _ORDER else 9))
+                for k, v in _slots.items()}
+
     for r in ent.get("synthesisTable") or []:   # 傑には合成表が無い
         # 2026-08-15: ここは skill と afterSkill の**両方**に武将を足していた。
         # A-3-12 は「skill != afterSkill のとき、武将を afterSkill 側に直接
@@ -101,18 +117,35 @@ for no in NOS:
                                object_pairs_hook=collections.OrderedDict)
                 sc = js.setdefault("sourceCharacters", [])
                 if not any(str(x.get("no")) == no for x in sc):
+                    slot = slots_of.get(nm, r["slot"])
                     row = collections.OrderedDict([
-                        ("name", ent["name"]), ("no", no), ("slot", r["slot"])])
+                        ("name", ent["name"]), ("no", no), ("slot", slot)])
                     if db:
                         row["db"] = db
                     row["note"] = ["%s(%s)のsynthesisTable %s枠(%s)"
-                                   % (ent["name"], no, r["slot"], TODAY)]
+                                   % (ent["name"], no, slot, TODAY)]
                     sc.append(row)
                     # 追記した順のままだと章もカード番号もばらばらになる
                     js["sourceCharacters"] = sorted(sc, key=src_key)
                     io.open(sp, "w", encoding="utf-8", newline="\n").write(
                         json.dumps(js, ensure_ascii=False, indent=1) + "\n")
                     added += 1
+                else:
+                    # **「移植不可」だけは上書きする。** D-11 は「本当にどの枠にも
+                    # 出ない時だけ移植不可」と定めている。合成表が無かった頃に
+                    # 移植不可と書いた武将は、表が入った時点でそれが誤りになる。
+                    # 2026-09-11、1301体に表を入れたところ 211件がこの形だった。
+                    # **他の値は触らない**(黄丸化の検証で人が直した枠を潰さない)。
+                    cur = next(x for x in sc if str(x.get("no")) == no)
+                    want = slots_of.get(nm)
+                    if want and cur.get("slot") == "移植不可":
+                        cur["slot"] = want
+                        cur.setdefault("note", []).append(
+                            "合成表が入ったので移植不可→%s枠に直した(%s)"
+                            % (want, TODAY))
+                        io.open(sp, "w", encoding="utf-8", newline="\n").write(
+                            json.dumps(js, ensure_ascii=False, indent=1) + "\n")
+                        fixed += 1
 
         # 別スキル経由で得られる枠は、移植後スキル側に grantedViaSkills を1回だけ
         af = r.get("afterSkill")
@@ -152,7 +185,8 @@ for no in NOS:
                     json.dumps(_js, ensure_ascii=False, indent=1) + "\n")
                 added += 1
 
-print("S-05 逆引きを %d件 / grantedViaSkills を %d件 追記" % (added, via))
+print("S-05 逆引きを %d件 / grantedViaSkills を %d件 追記 / 移植不可を %d件 実枠に修正"
+      % (added, via, fixed))
 
 # --- S-08: 武将側の afterSkill から ownHiddenCandidate を決める ---
 for no in NOS:

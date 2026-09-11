@@ -45,5 +45,60 @@
  "wikiOldestComment": "2017-07-05",
  "wikiCommentCount": 48,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "援槍飛檄",
+   "rank": "B",
+   "afterSkill": "援槍飛檄",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "34%",
+   "effectShort": "防御 36%上昇 / (自領以外の加勢で効果2倍)"
+  },
+  {
+   "slot": "B",
+   "skill": "保食神",
+   "rank": "B",
+   "afterSkill": "疾風怒濤",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "資源獲得率：10% / 破壊した耐久値に応じて資源獲得",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 5%上昇 / 速度 32%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "常勝の采配",
+   "rank": "B",
+   "afterSkill": "常勝の采配",
+   "afterRank": "B",
+   "target": "槍馬器",
+   "rate": "38%",
+   "effectShort": "防御 (0.7x防御参加武将数)%上昇 / (模倣不可)"
+  },
+  {
+   "slot": "S1",
+   "skill": "王舎城",
+   "rank": "B",
+   "afterSkill": "王舎城",
+   "afterRank": "B",
+   "target": "槍・弓・器",
+   "rate": "30%",
+   "effectShort": "防御 20%上昇(所属拠点の残耐久で効果変化)"
+  },
+  {
+   "slot": "S2",
+   "skill": "禄寿応穏",
+   "rank": "A",
+   "afterSkill": "禄寿応穏",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "防御 35%上昇(銅銭獲得率7.5%・防御で倒した兵数に応じ防御参加者全員が銅銭獲得・重複不可・模倣不可)"
+  }
+ ]
 }

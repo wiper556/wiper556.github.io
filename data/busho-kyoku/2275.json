@@ -43,5 +43,69 @@
  "wikiOldestComment": "2020-06-11",
  "wikiCommentCount": 21,
  "chGuess": "19章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "不識ノ殿軍",
+   "rank": "B",
+   "afterSkill": "無間牢",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "70%",
+   "effectShort": "防御 64%上昇 / 卓越：追加確率30%で防御効果が1.5倍",
+   "afterTarget": "槍弓馬器",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 77%上昇 確率：+25% / 速度 45%上昇 確率：+100% / (加勢出陣時は速度効果2倍)"
+  },
+  {
+   "slot": "B",
+   "skill": "弓隊守備",
+   "rank": "F",
+   "afterSkill": "弓隊急襲",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "16%",
+   "effectShort": "防御 (コストx6) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "弓",
+   "afterRate": "16%",
+   "afterEffectShort": "攻撃 (コストx5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "五龍王",
+   "rank": "D",
+   "afterSkill": "無間牢",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "27%",
+   "effectShort": "防御 60%上昇 確率：+27% / 速度 30%上昇 確率：+100% / (加勢出陣時は速度効果2倍)",
+   "afterTarget": "槍弓馬器",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 77%上昇 確率：+25% / 速度 45%上昇 確率：+100% / (加勢出陣時は速度効果2倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "無間牢",
+   "rank": "B",
+   "afterSkill": "無間牢",
+   "afterRank": "B",
+   "target": "槍弓馬器",
+   "rate": "25%",
+   "effectShort": "防御 77%上昇 確率：+25% / 速度 45%上昇 確率：+100% / (加勢出陣時は速度効果2倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 龍馬",
+   "rank": "A",
+   "afterSkill": "茅纒之矟ノ煌",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "防御 1%上昇(部隊ランクボーナス×10%を加算)",
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "防御 100%上昇 自部隊の武将ダメージ軽減3% (重複発動上限数4)"
+  }
+ ]
 }

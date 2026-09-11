@@ -44,5 +44,63 @@
  "wikiOldestComment": "2017-02-01",
  "wikiCommentCount": 53,
  "chGuess": "13章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄壁の備え",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "因果応報",
+   "rank": "B",
+   "afterSkill": "因果応報",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "洞察",
+   "rank": "B",
+   "afterSkill": "洞察",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "防御 7.5%上昇(部隊ランクボーナスで効果が変化)"
+  },
+  {
+   "slot": "S1",
+   "skill": "軍神の奏",
+   "rank": "B",
+   "afterSkill": "軍神の奏",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "災禍ノ老仙",
+   "rank": "A",
+   "afterSkill": "爆雷平蜘蛛",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "敵軍の兵士被害数+25%(対合流攻撃防御時のみ発動・重複発動不可)",
+   "afterTarget": "全",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃戦闘勝利時のみ、敵軍1部隊の武将に追加ダメージ+45"
+  }
+ ]
 }

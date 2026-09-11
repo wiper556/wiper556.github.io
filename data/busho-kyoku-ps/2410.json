@@ -43,5 +43,63 @@
  "wikiOldestComment": "2019-01-15",
  "wikiCommentCount": 17,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "開運ノ狼煙",
+   "rank": "D",
+   "afterSkill": "讃歌航路",
+   "afterRank": "D",
+   "target": "槍器",
+   "rate": "39%",
+   "effectShort": "防御 44%上昇 確率：+39% / 速度 35%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 44%上昇 確率：+35% / 速度 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "賢妖の軍師",
+   "rank": "D",
+   "afterSkill": "花舜妙香",
+   "afterRank": "C",
+   "target": "槍弓",
+   "rate": "35%",
+   "effectShort": "防御 23+(ランクx3) %上昇 確率：+35% / 速度 20%上昇 確率：+100% / 防御効果は武将ランクで変化",
+   "afterTarget": "槍弓砲",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 40%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "不退ノ防戦",
+   "rank": "B",
+   "afterSkill": "不退ノ防戦",
+   "afterRank": "B",
+   "target": "馬砲器",
+   "rate": "38%",
+   "effectShort": "防御 52%上昇 確率：+38% / 速度 40%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "絶界進軍",
+   "rank": "A",
+   "afterSkill": "絶界進軍",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "我也",
+   "rank": "A",
+   "afterSkill": "我也",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ]
 }

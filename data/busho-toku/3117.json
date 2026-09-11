@@ -41,5 +41,72 @@
  "wikiOldestComment": "2012-12-28",
  "wikiCommentCount": 66,
  "chGuess": "5章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "馬砲連撃",
+   "rank": "D",
+   "afterSkill": "馬陣の極み",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "馬",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "弓砲連撃",
+   "rank": "D",
+   "afterSkill": "砲陣の極み",
+   "afterRank": "B",
+   "target": "弓砲",
+   "rate": "30%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "砲",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "槍馬連撃",
+   "rank": "D",
+   "afterSkill": "槍陣の極み",
+   "afterRank": "B",
+   "target": "槍馬",
+   "rate": "30%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "槍",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "馬陣の極み",
+   "rank": "B",
+   "afterSkill": "天賦の神算",
+   "afterRank": "B",
+   "target": "馬",
+   "rate": "30%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 12%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "騎突 金剛",
+   "rank": "C",
+   "afterSkill": "剛勇無双",
+   "afterRank": "B",
+   "target": "馬",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇 / 破壊 5%上昇",
+   "afterTarget": "槍馬砲",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 25%上昇"
+  }
+ ]
 }

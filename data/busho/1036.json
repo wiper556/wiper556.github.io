@@ -46,5 +46,60 @@
  "wikiOldestComment": "2013-11-12",
  "wikiCommentCount": 190,
  "chGuess": "7章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄砲術明光",
+   "rank": "B",
+   "afterSkill": "砲撃 羅刹",
+   "afterRank": "B",
+   "target": "弓砲",
+   "rate": "32%",
+   "effectShort": "攻撃 23%上昇",
+   "afterTarget": "砲",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃 25%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "捨て奸",
+   "rank": "B",
+   "afterSkill": "捨て奸",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "15%",
+   "effectShort": "防御 37%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "攻城の妙技",
+   "rank": "S",
+   "afterSkill": "攻城の妙技",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "10%",
+   "effectShort": "戦闘勝利時のみ防御側の兵士被害数+40%"
+  },
+  {
+   "slot": "S1",
+   "skill": "武神八幡陣",
+   "rank": "SS",
+   "afterSkill": "武神八幡陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 41.56%上昇(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "破軍星",
+   "rank": "SS",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "馬・砲・器",
+   "rate": "40%",
+   "effectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  }
+ ]
 }

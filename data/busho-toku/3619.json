@@ -43,5 +43,72 @@
  "wikiOldestComment": "2025-02-19",
  "wikiCommentCount": 1,
  "chGuess": "29章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "一揆討伐",
+   "rank": "C",
+   "afterSkill": "義士ノ覚悟",
+   "afterRank": "C",
+   "target": "弓砲器",
+   "rate": "60%",
+   "effectShort": "攻撃 345%上昇 防御 345%上昇",
+   "afterTarget": "槍砲器",
+   "afterRate": "65%",
+   "afterEffectShort": "攻撃 310%上昇 防御 310%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "一揆討伐",
+   "rank": "C",
+   "afterSkill": "義士ノ覚悟",
+   "afterRank": "C",
+   "target": "弓砲器",
+   "rate": "60%",
+   "effectShort": "攻撃 345%上昇 防御 345%上昇",
+   "afterTarget": "槍砲器",
+   "afterRate": "65%",
+   "afterEffectShort": "攻撃 310%上昇 防御 310%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "一揆討伐",
+   "rank": "C",
+   "afterSkill": "義士ノ覚悟",
+   "afterRank": "C",
+   "target": "弓砲器",
+   "rate": "60%",
+   "effectShort": "攻撃 345%上昇 防御 345%上昇",
+   "afterTarget": "槍砲器",
+   "afterRate": "65%",
+   "afterEffectShort": "攻撃 310%上昇 防御 310%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "義士ノ覚悟",
+   "rank": "C",
+   "afterSkill": "不朽ノ野心",
+   "afterRank": "C",
+   "target": "槍砲器",
+   "rate": "65%",
+   "effectShort": "攻撃 310%上昇 防御 310%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "55%",
+   "afterEffectShort": "攻撃 260%上昇 防御 260%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "野太刀",
+   "rank": "C",
+   "afterSkill": "戦陣 凱旋",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "17%",
+   "effectShort": "攻撃 77%上昇 / 防御 77%上昇",
+   "afterTarget": "全",
+   "afterRate": "10%",
+   "afterEffectShort": "攻撃 87%上昇+防御 87%上昇"
+  }
+ ]
 }

@@ -38,7 +38,10 @@
    "skill": "義陣絶刀",
    "rank": null,
    "afterSkill": null,
-   "afterRank": null
+   "afterRank": null,
+   "target": "全 飛翔17",
+   "rate": "55%",
+   "effectShort": "攻撃 840%上昇+防御 840%上昇"
   },
   {
    "slot": "C",
@@ -52,14 +55,19 @@
    "skill": "毘天神威",
    "rank": null,
    "afterSkill": null,
-   "afterRank": null
+   "afterRank": null,
+   "target": "槍・馬・砲・器 飛翔7",
+   "rate": "57%"
   },
   {
    "slot": "S2",
    "skill": "永世ノ天隻",
    "rank": null,
    "afterSkill": null,
-   "afterRank": null
+   "afterRank": null,
+   "target": "全 飛翔9",
+   "rate": "48%",
+   "effectShort": "防御 6.5%×防御参加武将数(280人)=1820.0%(敵軍飛翔持ち9人未満の時通常武将ダメージを受けない)"
   }
  ],
  "trTable": [

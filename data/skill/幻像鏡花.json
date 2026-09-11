@@ -54,23 +54,6 @@
    "slot": "C"
   },
   {
-   "name": "松平清康",
-   "no": "31313",
-   "slot": "C",
-   "note": [
-    "松平清康（2）(31313)のsynthesisTable C枠(2026-08-16)"
-   ]
-  },
-  {
-   "name": "駒姫",
-   "no": "2846",
-   "slot": "S1",
-   "db": "kyoku",
-   "note": [
-    "駒姫(2846)のsynthesisTable S1枠(2026-08-15)"
-   ]
-  },
-  {
    "name": "徳川家康【覇】",
    "no": "31288",
    "slot": "C・S1",
@@ -100,6 +83,32 @@
    "slot": "S1",
    "note": [
     "真田昌幸（4）(31304)のsynthesisTable S1枠(2026-08-23)"
+   ]
+  },
+  {
+   "name": "松平清康",
+   "no": "31313",
+   "slot": "C",
+   "note": [
+    "松平清康（2）(31313)のsynthesisTable C枠(2026-08-16)"
+   ]
+  },
+  {
+   "name": "駒姫",
+   "no": "2846",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "駒姫(2846)のsynthesisTable S1枠(2026-08-15)"
+   ]
+  },
+  {
+   "name": "富田勢源（2）",
+   "no": "2853",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "富田勢源（2）(2853)のsynthesisTable S1枠(2026-09-11)"
    ]
   }
  ],

@@ -42,5 +42,66 @@
  "wikiOldestComment": "2016-04-28",
  "wikiCommentCount": 70,
  "chGuess": "11章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "城破り",
+   "rank": "F",
+   "afterSkill": "槍隊急襲",
+   "afterRank": "F",
+   "target": "器",
+   "rate": "10%",
+   "effectShort": "破壊 15%上昇",
+   "afterTarget": "槍",
+   "afterRate": "16%",
+   "afterEffectShort": "槍攻：7.5%上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "刹那の猛勇",
+   "rank": "D",
+   "afterSkill": "義兵進軍",
+   "afterRank": "C",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "攻撃 10%上昇",
+   "afterTarget": "槍弓馬砲",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 7%上昇 / 速度 10%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "偽りの饗応",
+   "rank": "E",
+   "afterSkill": "乗り崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "20%",
+   "effectShort": "攻撃戦闘勝利時のみ、敵軍1部隊の武将に追加ダメージ+10",
+   "afterTarget": "槍馬",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 20%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "錯乱",
+   "rank": "B",
+   "afterSkill": "錯乱",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "爆雷平蜘蛛",
+   "rank": "B",
+   "afterSkill": "爆雷平蜘蛛",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "攻撃戦闘勝利時のみ、敵軍1部隊の武将に追加ダメージ+45"
+  }
+ ]
 }

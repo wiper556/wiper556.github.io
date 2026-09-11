@@ -6,16 +6,114 @@
  "effectSummary": "A/LV10 確率 33% 攻撃 89%上昇/対象:槍・弓・馬",
  "sourceCharacters": [
   {
+   "name": "武田信玄（4）",
+   "no": "1172",
+   "slot": "S2",
+   "note": [
+    "武田信玄（4）(1172)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "本多正純",
+   "no": "2270",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "本多正純(2270)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "山本勘助（3）",
+   "no": "2288",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "山本勘助（3）(2288)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "大友義鎮",
+   "no": "2431",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "大友義鎮(2431)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "織田信忠（2）",
+   "no": "2433",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "織田信忠（2）(2433)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "天徳寺礼能",
+   "no": "2436",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "天徳寺礼能(2436)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "佐竹義重",
    "no": "2437",
    "slot": "S2",
    "db": "kyoku"
   },
   {
+   "name": "中馬大蔵",
+   "no": "2438",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "中馬大蔵(2438)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "斎藤朝信（3）",
    "no": "2439",
    "slot": "S1",
    "db": "kyoku"
+  },
+  {
+   "name": "直江兼続（5）",
+   "no": "2532",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "直江兼続（5）(2532)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "毛利元就（2）",
+   "no": "2545",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "毛利元就（2）(2545)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "服部半蔵-復刻Ⅱ-（2）",
+   "no": "2551",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "服部半蔵-復刻Ⅱ-（2）(2551)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "百地三太夫-復刻-（2）",
+   "no": "2553",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "百地三太夫-復刻-（2）(2553)のsynthesisTable C枠(2026-09-11)"
+   ]
   },
   {
    "name": "三浦按針（2）",

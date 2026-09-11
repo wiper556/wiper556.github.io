@@ -45,5 +45,60 @@
  ],
  "wikiOldestComment": "2019-08-02",
  "wikiCommentCount": 22,
- "chGuess": "17-18章"
+ "chGuess": "17-18章",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "二葉心",
+   "rank": "D",
+   "afterSkill": "二葉心",
+   "afterRank": "D",
+   "target": "槍弓馬",
+   "rate": "28%",
+   "effectShort": "攻撃 42%上昇 / 防御 42%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "気鋭ノ謀臣",
+   "rank": "B",
+   "afterSkill": "気鋭ノ謀臣",
+   "afterRank": "B",
+   "target": "弓馬砲器",
+   "rate": "34%",
+   "effectShort": "攻撃 120%上昇 / 武将ランクで効果が変化"
+  },
+  {
+   "slot": "C",
+   "skill": "中入り",
+   "rank": "A",
+   "afterSkill": "尾張の虎",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "26%",
+   "afterEffectShort": "攻撃 27%上昇+破壊 4%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "尾張の耆宿",
+   "rank": "A",
+   "afterSkill": "尾張の耆宿",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "下弦ノ翼龍",
+   "rank": "A",
+   "afterSkill": "下弦ノ翼龍",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ]
 }

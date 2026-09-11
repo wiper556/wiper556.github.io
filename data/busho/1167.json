@@ -42,5 +42,60 @@
  "wikiOldestComment": "2020-08-15",
  "wikiCommentCount": 36,
  "chGuess": "20章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "覇龍滅破陣",
+   "rank": "SS",
+   "afterSkill": "掃天封壁陣",
+   "afterRank": "SS",
+   "target": "砲器",
+   "rate": "99.9%",
+   "effectShort": "防御 2%×防御参加武将数(280人)=560.0%",
+   "afterTarget": "全",
+   "afterRate": "6%",
+   "afterEffectShort": "攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化する"
+  },
+  {
+   "slot": "B",
+   "skill": "覇獄竜王",
+   "rank": "SS",
+   "afterSkill": "覇獄竜王",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "55%",
+   "effectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "天弓星宿陣",
+   "rank": "SS",
+   "afterSkill": "天弓星宿陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 (部隊総コスト依存)%上昇(総C25=328.02%)"
+  },
+  {
+   "slot": "S1",
+   "skill": "幽冥主宰大神",
+   "rank": "SS",
+   "afterSkill": "幽冥主宰大神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "防御 90%上昇(攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化・模倣不可)"
+  },
+  {
+   "slot": "S2",
+   "skill": "三千世界神将",
+   "rank": "SS",
+   "afterSkill": "三千世界神将",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "防御 120%上昇(本丸防御陣形時コスト消費-1)"
+  }
+ ]
 }

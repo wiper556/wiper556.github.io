@@ -43,5 +43,69 @@
  "wikiOldestComment": "2016-10-05",
  "wikiCommentCount": 42,
  "chGuess": "12章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鬼刺",
+   "rank": "C",
+   "afterSkill": "乗り崩し",
+   "afterRank": "D",
+   "target": "槍馬砲",
+   "rate": "15%",
+   "effectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍馬",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 20%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "赤鬼刺",
+   "rank": "D",
+   "afterSkill": "鬼神刺",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "15%",
+   "effectShort": "攻撃 (コストx12) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "全",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 (コスト×10) %上昇 / 武将コストによって効果が変化"
+  },
+  {
+   "slot": "C",
+   "skill": "雷斬仁将",
+   "rank": "B",
+   "afterSkill": "雷切",
+   "afterRank": "A",
+   "target": "槍弓馬",
+   "rate": "3%",
+   "effectShort": "攻撃 52%上昇 / (発動率＝確率x防御武将数)",
+   "afterTarget": "槍馬",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "不屈の蛟竜",
+   "rank": "B",
+   "afterSkill": "不屈の蛟竜",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "天つ凪ノ方喰",
+   "rank": "S",
+   "afterSkill": "無窮天斥陣",
+   "afterRank": "SS",
+   "target": "槍・馬",
+   "rate": "24%",
+   "effectShort": null,
+   "afterTarget": "槍弓馬",
+   "afterRate": "40%",
+   "afterEffectShort": "防御 63%上昇(攻撃部隊に兵器兵科がいれば効果1.5倍)"
+  }
+ ]
 }

@@ -42,5 +42,63 @@
  "wikiOldestComment": "2016-05-19",
  "wikiCommentCount": 185,
  "chGuess": "12章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "迅速行軍",
+   "rank": "E",
+   "afterSkill": "弓隊突撃",
+   "afterRank": "F",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "速度 20%上昇",
+   "afterTarget": "弓",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "義龍双乱撃",
+   "rank": "B",
+   "afterSkill": "義龍双乱撃",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "100%",
+   "effectShort": "攻撃 15%上昇 / 速度 27%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "毘天雪崩戟",
+   "rank": "S",
+   "afterSkill": "天焉神軍",
+   "afterRank": "SS",
+   "target": "槍・馬・器",
+   "rate": "100%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 20%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "天焉神軍",
+   "rank": "SS",
+   "afterSkill": "天焉神軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 20%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "騎神",
+   "rank": "SS",
+   "afterSkill": "騎神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 (コストx4.5) %+速度 50%上昇"
+  }
+ ]
 }

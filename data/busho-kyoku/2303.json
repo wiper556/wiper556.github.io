@@ -41,5 +41,72 @@
  "wikiOldestComment": "2021-08-02",
  "wikiCommentCount": 33,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "王佐ノ竜胆",
+   "rank": "B",
+   "afterSkill": "惨王ノ眷族",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "30%",
+   "effectShort": "防御 70%上昇 / (武将のコストで防御効果が変化します)",
+   "afterTarget": "槍弓器",
+   "afterRate": "21%",
+   "afterEffectShort": "防御 87%上昇 / 自拠点防御時は100%発動"
+  },
+  {
+   "slot": "B",
+   "skill": "槍隊守備",
+   "rank": "F",
+   "afterSkill": "槍隊急襲",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "16%",
+   "effectShort": "防御 (コストx5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍",
+   "afterRate": "16%",
+   "afterEffectShort": "槍攻：7.5%上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "引導",
+   "rank": "D",
+   "afterSkill": "絶界煉獄",
+   "afterRank": "B",
+   "target": "槍馬器",
+   "rate": "15%",
+   "effectShort": "防御 78%上昇 / 自拠点防御時は100%発動",
+   "afterTarget": "槍弓馬器",
+   "afterRate": "27%",
+   "afterEffectShort": "防御 90%上昇 / 本丸防御陣形に配置時、この武将の編成コスト消費を-0.5する(模倣不可)"
+  },
+  {
+   "slot": "S1",
+   "skill": "惨王ノ眷族",
+   "rank": "B",
+   "afterSkill": "闘戦経",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "21%",
+   "effectShort": "防御 87%上昇 / 自拠点防御時は100%発動",
+   "afterTarget": "全",
+   "afterRate": "10%",
+   "afterEffectShort": "防御 80.4%上昇 / 自拠点防御時は100%発動"
+  },
+  {
+   "slot": "S2",
+   "skill": "冥姫ノ霧",
+   "rank": "B",
+   "afterSkill": "川並衆",
+   "afterRank": "B",
+   "target": "槍器鉄",
+   "rate": "27%",
+   "effectShort": "防御 62%上昇 / (自領以外の加勢で効果1.5倍)",
+   "afterTarget": "槍弓砲器",
+   "afterRate": "44%",
+   "afterEffectShort": "防御 60%上昇(自軍5部隊以下の防御時効果1.5倍)"
+  }
+ ]
 }

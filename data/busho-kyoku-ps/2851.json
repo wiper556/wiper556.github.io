@@ -77,5 +77,57 @@
   "2026-08-23 訂正: 上の記録で「ixawiki の一覧の表示名に合わせた」と書いたのは誤り。**このサイトの名前はうぐさんのルールで付ける決まりで、wiki の名前を正としてはいけない。**うぐさんのルールは「早く出た順に1から振る・1枚目は無印・覇と通常天は通し番号・復刻は復刻前の番号を踏襲する・未登録のカードも数える」。wiki は覇と復刻を別の列で数えており、このサイトとは違う。wiki は「復刻かどうか」と「章の手がかり」にだけ使う。"
  ],
  "wikiOldestComment": null,
- "wikiCommentCount": 0
+ "wikiCommentCount": 0,
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "四天轟雷",
+   "rank": "SS",
+   "afterSkill": "四天轟雷",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 360%上昇+防御 360%上昇+部隊内全武将の兵科対象の全スキルに砲・器対象を追加"
+  },
+  {
+   "slot": "B",
+   "skill": "戦華雄渾",
+   "rank": "SS",
+   "afterSkill": "戦華雄渾",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻防 各140%上昇(卓越追加確率25%・4倍)"
+  },
+  {
+   "slot": "C",
+   "skill": "國才連豪",
+   "rank": "SS",
+   "afterSkill": "國才連豪",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "防御 310%×國才連豪所持武将数(4人)=1240.0%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "団右衛門見参",
+   "rank": "S",
+   "afterSkill": "団右衛門見参",
+   "afterRank": "S",
+   "target": null,
+   "rate": "100%",
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "団右衛門見参",
+   "rank": "S",
+   "afterSkill": "団右衛門見参",
+   "afterRank": "S",
+   "target": null,
+   "rate": "100%",
+   "effectShort": null
+  }
+ ]
 }

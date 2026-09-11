@@ -44,5 +44,69 @@
  "wikiOldestComment": "2021-01-15",
  "wikiCommentCount": 30,
  "chGuess": "20章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "千人狩",
+   "rank": "A",
+   "afterSkill": "宿木",
+   "afterRank": "B",
+   "target": "槍器鉄",
+   "rate": "54%",
+   "effectShort": "攻撃 92%上昇(敵軍5部隊以下で効果1.5倍)",
+   "afterTarget": "部隊長",
+   "afterRate": "55%",
+   "afterEffectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ)"
+  },
+  {
+   "slot": "B",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "C",
+   "skill": "戦陣 無双",
+   "rank": "A",
+   "afterSkill": "無双英傑",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 67%上昇+防御 67%上昇",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 99.9%上昇 防御 99.9%上昇 部隊消費コストを0.5低下 (特殊効果は模倣不可)"
+  },
+  {
+   "slot": "S1",
+   "skill": "宿木",
+   "rank": "B",
+   "afterSkill": "宿木",
+   "afterRank": "B",
+   "target": "部隊長",
+   "rate": "55%",
+   "effectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ)"
+  },
+  {
+   "slot": "S2",
+   "skill": "鬼滅刺",
+   "rank": "A",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  }
+ ]
 }

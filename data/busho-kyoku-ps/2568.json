@@ -48,5 +48,66 @@
  "wikiOldestComment": "2022-08-24",
  "wikiCommentCount": 25,
  "chGuess": "24章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鼎国ノ楔姫",
+   "rank": "S",
+   "afterSkill": "黄泉醜女ノ屍兵",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 170%上昇",
+   "afterTarget": "全",
+   "afterRate": "54%",
+   "afterEffectShort": "防御 200%上昇+防御戦闘時自部隊内武将が受ける70以下のダメージを最大45に軽減"
+  },
+  {
+   "slot": "B",
+   "skill": "鼎国ノ楔姫",
+   "rank": "S",
+   "afterSkill": "黄泉醜女ノ屍兵",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 170%上昇",
+   "afterTarget": "全",
+   "afterRate": "54%",
+   "afterEffectShort": "防御 200%上昇+防御戦闘時自部隊内武将が受ける70以下のダメージを最大45に軽減"
+  },
+  {
+   "slot": "C",
+   "skill": "海神ノ浮船",
+   "rank": "SS",
+   "afterSkill": "海神ノ浮船",
+   "afterRank": "SS",
+   "target": "全 飛翔4",
+   "rate": "48%",
+   "effectShort": "防御 (3.5×防御参加武将数)%上昇(敵軍飛翔持ち4人未満の時通常武将ダメージを受けない)"
+  },
+  {
+   "slot": "S1",
+   "skill": "黄泉醜女ノ屍兵",
+   "rank": "SS",
+   "afterSkill": "天地黎明",
+   "afterRank": "SSS",
+   "target": "全",
+   "rate": "54%",
+   "effectShort": "防御 200%上昇+防御戦闘時自部隊内武将が受ける70以下のダメージを最大45に軽減",
+   "afterTarget": "全",
+   "afterRate": "70%",
+   "afterEffectShort": "防御 270%上昇+武将HP99以下の時、防御効果が3倍になる"
+  },
+  {
+   "slot": "S2",
+   "skill": "天奏聖譚曲",
+   "rank": "SS",
+   "afterSkill": "天奏聖譚曲",
+   "afterRank": "SS",
+   "target": "砲・器",
+   "rate": "70%",
+   "effectShort": "防御 2.5%×防御参加武将数(280人)=700.0%"
+  }
+ ]
 }

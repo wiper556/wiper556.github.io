@@ -8,6 +8,14 @@
   {
    "skill": "戦陣 龍馬",
    "rank": "A"
+  },
+  {
+   "skill": "海帝ノ波銛",
+   "rank": "S"
+  },
+  {
+   "skill": "獅子王ノ界門",
+   "rank": "S"
   }
  ],
  "ownHiddenCandidate": {
@@ -28,6 +36,46 @@
   }
  ],
  "sourceCharacters": [
+  {
+   "name": "里見義弘",
+   "no": "1183",
+   "slot": "S1",
+   "note": [
+    "里見義弘(1183)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "真田信之",
+   "no": "1194",
+   "slot": "C",
+   "note": [
+    "真田信之(1194)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "藤堂高虎",
+   "no": "1197",
+   "slot": "S1",
+   "note": [
+    "藤堂高虎(1197)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "小早川秀秋-復刻-",
+   "no": "1993",
+   "slot": "A",
+   "note": [
+    "小早川秀秋-復刻-(1993)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "明智光秀（3）【覇】",
+   "no": "1994",
+   "slot": "B",
+   "note": [
+    "明智光秀（3）【覇】(1994)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
   {
    "name": "毛利元就-復刻-（3）【覇】",
    "no": "10014",

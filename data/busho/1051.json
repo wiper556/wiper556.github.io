@@ -47,5 +47,60 @@
  "wikiOldestComment": "2015-05-19",
  "wikiCommentCount": 153,
  "chGuess": "10章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "疾風怒濤",
+   "rank": "B",
+   "afterSkill": "疾風怒濤",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 5%上昇 / 速度 32%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "天下の采配",
+   "rank": "S",
+   "afterSkill": "神算鬼謀 滅",
+   "afterRank": "A",
+   "target": "槍馬砲",
+   "rate": "45%",
+   "effectShort": "防御 35%上昇",
+   "afterTarget": "槍弓器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 24%上昇 / 破壊 46%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "天衣無縫陣",
+   "rank": "SS",
+   "afterSkill": "天衣無縫陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "55%",
+   "effectShort": "防御 (20+コスト×10) %上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "武神八幡陣",
+   "rank": "SS",
+   "afterSkill": "武神八幡陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 41.56%上昇(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "天魔波旬",
+   "rank": "S",
+   "afterSkill": "天魔波旬",
+   "afterRank": "S",
+   "target": "砲",
+   "rate": "20%",
+   "effectShort": null
+  }
+ ]
 }

@@ -51,16 +51,42 @@
    "slot": "S2"
   },
   {
+   "name": "佐竹義重（4）",
+   "no": "1242",
+   "slot": "S2",
+   "note": [
+    "佐竹義重（4）(1242)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "延沢満延",
    "no": "2456",
    "slot": "B",
    "db": "kyoku"
   },
   {
+   "name": "黄梅院（2）",
+   "no": "2568",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "黄梅院（2）(2568)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "木下藤吉郎",
    "no": "2573",
    "slot": "C",
    "db": "kyoku"
+  },
+  {
+   "name": "三条の方",
+   "no": "2586",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "三条の方(2586)のsynthesisTable S1枠(2026-09-11)"
+   ]
   },
   {
    "name": "北政所",

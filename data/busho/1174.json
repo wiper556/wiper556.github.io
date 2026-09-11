@@ -41,5 +41,63 @@
  "wikiOldestComment": "2020-08-14",
  "wikiCommentCount": 145,
  "chGuess": "20章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "独眼竜 神威",
+   "rank": "S",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "槍・砲・器",
+   "rate": "100%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  },
+  {
+   "slot": "B",
+   "skill": "覇王征軍",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "42%",
+   "effectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "C",
+   "skill": "荒破閃神",
+   "rank": "SS",
+   "afterSkill": "荒破閃神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "45%",
+   "effectShort": "攻撃 110%上昇 (6部隊以下の攻撃で効果2倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "布都御魂ノ鬨",
+   "rank": "SS",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 凱旋",
+   "rank": "A",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "10%",
+   "effectShort": "攻撃 87%上昇+防御 87%上昇",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  }
+ ]
 }

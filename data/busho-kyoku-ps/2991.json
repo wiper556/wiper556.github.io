@@ -43,5 +43,63 @@
  "wikiOldestComment": "2019-01-16",
  "wikiCommentCount": 35,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "沈勇の士",
+   "rank": "D",
+   "afterSkill": "沈勇の士",
+   "afterRank": "D",
+   "target": "槍砲",
+   "rate": "28%",
+   "effectShort": "攻撃 38%上昇 / 破壊 16%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "鈴鳴り武者",
+   "rank": "B",
+   "afterSkill": "鈴鳴り武者",
+   "afterRank": "B",
+   "target": "槍馬器",
+   "rate": "27%",
+   "effectShort": "攻撃 18.02%上昇 / (部隊の総コストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "覇国創世",
+   "rank": "S",
+   "afterSkill": "武神八幡陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "25%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "防御 41.56%上昇(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "覇天の葵紋",
+   "rank": "S",
+   "afterSkill": "天綾の誓約",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "46%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "攻撃 99.9%上昇 防御 99.9%上昇 破壊 150%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "天魔覇旬",
+   "rank": "S",
+   "afterSkill": "天魔覇旬",
+   "afterRank": "S",
+   "target": "砲・器",
+   "rate": "10%",
+   "effectShort": null
+  }
+ ]
 }

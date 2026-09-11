@@ -47,5 +47,66 @@
  "wikiOldestComment": "2018-08-17",
  "wikiCommentCount": 48,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊急襲",
+   "rank": "F",
+   "afterSkill": "槍隊守備",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "16%",
+   "effectShort": "槍攻：7.5%上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍",
+   "afterRate": "16%",
+   "afterEffectShort": "防御 (コストx5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "武功感状",
+   "rank": "D",
+   "afterSkill": "武功感状",
+   "afterRank": "D",
+   "target": "槍馬",
+   "rate": "25%",
+   "effectShort": "攻撃 50%上昇 / 武将ランクで効果が変化"
+  },
+  {
+   "slot": "C",
+   "skill": "三海老将",
+   "rank": "B",
+   "afterSkill": "銃槍 轟攻陣",
+   "afterRank": "A",
+   "target": "槍・鉄",
+   "rate": "34%",
+   "effectShort": "攻撃・防御 (部隊ランクボーナス×9)%上昇",
+   "afterTarget": "槍鉄",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃 76%上昇+破壊 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "銃槍 轟攻陣",
+   "rank": "A",
+   "afterSkill": "銃槍 轟攻陣",
+   "afterRank": "A",
+   "target": "槍鉄",
+   "rate": "24%",
+   "effectShort": "攻撃 76%上昇+破壊 30%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "夢買い",
+   "rank": "A",
+   "afterSkill": "風狂幻術",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "攻撃 0%上昇(名声値で効果が変化)",
+   "afterTarget": "部隊長",
+   "afterRate": "53%",
+   "afterEffectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ、TRなし)"
+  }
+ ]
 }

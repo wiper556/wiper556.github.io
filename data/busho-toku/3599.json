@@ -41,5 +41,72 @@
  "wikiOldestComment": "2024-11-20",
  "wikiCommentCount": 1,
  "chGuess": "28章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "洞ノ乱",
+   "rank": "C",
+   "afterSkill": "苛砲",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓砲器",
+   "afterRate": "15%",
+   "afterEffectShort": "防御 280%上昇 / 自拠点防御時は100%発動"
+  },
+  {
+   "slot": "B",
+   "skill": "洞ノ乱",
+   "rank": "C",
+   "afterSkill": "苛砲",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓砲器",
+   "afterRate": "15%",
+   "afterEffectShort": "防御 280%上昇 / 自拠点防御時は100%発動"
+  },
+  {
+   "slot": "C",
+   "skill": "洞ノ乱",
+   "rank": "C",
+   "afterSkill": "苛砲",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓砲器",
+   "afterRate": "15%",
+   "afterEffectShort": "防御 280%上昇 / 自拠点防御時は100%発動"
+  },
+  {
+   "slot": "S1",
+   "skill": "苛砲",
+   "rank": "C",
+   "afterSkill": "花菱ノ礎",
+   "afterRank": "C",
+   "target": "弓砲器",
+   "rate": "15%",
+   "effectShort": "防御 280%上昇 / 自拠点防御時は100%発動",
+   "afterTarget": "弓器焙",
+   "afterRate": "12%",
+   "afterEffectShort": "防御 89%上昇 / 自拠点防御時は100%発動"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦場妙技",
+   "rank": "B",
+   "afterSkill": "戦陣 破軍",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "32%",
+   "effectShort": "攻撃 72%上昇+防御 72%上昇+破壊 20%上昇",
+   "afterTarget": "全",
+   "afterRate": "44%",
+   "afterEffectShort": "攻撃 66%上昇+防御 66%上昇"
+  }
+ ]
 }

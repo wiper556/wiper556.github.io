@@ -46,5 +46,69 @@
  "wikiOldestComment": "2019-11-13",
  "wikiCommentCount": 15,
  "chGuess": "18章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "天獄堅牢",
+   "rank": "S",
+   "afterSkill": "覇龍滅破陣",
+   "afterRank": "SS",
+   "target": "槍馬器",
+   "rate": "42%",
+   "effectShort": null,
+   "afterTarget": "砲器",
+   "afterRate": "99.9%",
+   "afterEffectShort": "防御 2%×防御参加武将数(280人)=560.0%"
+  },
+  {
+   "slot": "C",
+   "skill": "天獄不抜",
+   "rank": "S",
+   "afterSkill": "式神ノ冥王",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "57%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "式神ノ冥王",
+   "rank": "SS",
+   "afterSkill": "荒破閃神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇",
+   "afterTarget": "全",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 110%上昇 (6部隊以下の攻撃で効果2倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "騒速ノ神撃",
+   "rank": "SS",
+   "afterSkill": "騒速ノ神撃",
+   "afterRank": "SS",
+   "target": "槍・弓・器・焙",
+   "rate": "57%",
+   "effectShort": "攻撃 100%上昇 防御 100%上昇 部隊内の「騒速ノ神撃」スキルx25%を攻防効果に加算"
+  }
+ ]
 }

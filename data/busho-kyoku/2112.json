@@ -44,5 +44,72 @@
  "wikiOldestComment": "2014-07-03",
  "wikiCommentCount": 259,
  "chGuess": "8章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "赤備 烈火",
+   "rank": "B",
+   "afterSkill": "神算鬼謀",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍器",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "三河堅陣",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "紅蓮赤備",
+   "rank": "B",
+   "afterSkill": "剛勇無双",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍馬砲",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 25%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "八龍堅陣",
+   "rank": "B",
+   "afterSkill": "疾風怒濤",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "防御 25%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 5%上昇 / 速度 32%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "風林火山",
+   "rank": "S",
+   "afterSkill": "神算鬼謀 滅",
+   "afterRank": "A",
+   "target": "槍・弓・馬",
+   "rate": "45%",
+   "effectShort": "攻撃 30%上昇+破壊 15%上昇(TRなし)",
+   "afterTarget": "槍弓器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 24%上昇 / 破壊 46%上昇"
+  }
+ ]
 }

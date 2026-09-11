@@ -49,5 +49,66 @@
  "wikiOldestComment": "2023-09-17",
  "wikiCommentCount": 10,
  "chGuess": "26章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "風魔ノ夜討",
+   "rank": "S",
+   "afterSkill": "煙霞迷霧",
+   "afterRank": "S",
+   "target": "槍弓器焙",
+   "rate": "70%",
+   "effectShort": "飛翔12+攻撃 (所属部隊の武将が戦闘時にもつ飛翔値の合計×7)%上昇",
+   "afterTarget": "全",
+   "afterRate": "70%",
+   "afterEffectShort": "飛翔8 攻撃 110%上昇 防御 110%上昇 所属部隊の武将が 飛翔X を持つとき、それらは代わりに 飛翔[X+4] を持つ(模倣不可・部隊内重複不可)"
+  },
+  {
+   "slot": "B",
+   "skill": "風魔ノ夜討",
+   "rank": "S",
+   "afterSkill": "煙霞迷霧",
+   "afterRank": "S",
+   "target": "槍弓器焙",
+   "rate": "70%",
+   "effectShort": "飛翔12+攻撃 (所属部隊の武将が戦闘時にもつ飛翔値の合計×7)%上昇",
+   "afterTarget": "全",
+   "afterRate": "70%",
+   "afterEffectShort": "飛翔8 攻撃 110%上昇 防御 110%上昇 所属部隊の武将が 飛翔X を持つとき、それらは代わりに 飛翔[X+4] を持つ(模倣不可・部隊内重複不可)"
+  },
+  {
+   "slot": "C",
+   "skill": "絡繰傀儡",
+   "rank": "A",
+   "afterSkill": "絡繰傀儡",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 92%上昇(自部隊同時攻撃時、部隊総コストからこの武将分を除外・模倣不可・特殊効果は自部隊内では重複不可)"
+  },
+  {
+   "slot": "S1",
+   "skill": "煙霞迷霧",
+   "rank": "S",
+   "afterSkill": "煙霞迷霧",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "70%",
+   "effectShort": "飛翔8 攻撃 110%上昇 防御 110%上昇 所属部隊の武将が 飛翔X を持つとき、それらは代わりに 飛翔[X+4] を持つ(模倣不可・部隊内重複不可)"
+  },
+  {
+   "slot": "S2",
+   "skill": "木遁封魔",
+   "rank": "S",
+   "afterSkill": "遁世影武者",
+   "afterRank": "B",
+   "target": "部隊長",
+   "rate": "58%",
+   "effectShort": "部隊長の初期スキルを1.1倍に強化して模倣(TRなし)",
+   "afterTarget": "部隊長",
+   "afterRate": "50%",
+   "afterEffectShort": "所属部隊の部隊長が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  }
+ ]
 }

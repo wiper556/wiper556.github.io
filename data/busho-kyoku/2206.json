@@ -43,5 +43,63 @@
  "wikiOldestComment": "2017-11-02",
  "wikiCommentCount": 59,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊奇襲",
+   "rank": "E",
+   "afterSkill": "槍隊堅陣",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "30%",
+   "effectShort": "攻撃 12%上昇",
+   "afterTarget": "槍",
+   "afterRate": "30%",
+   "afterEffectShort": "槍防：12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "乗り崩し",
+   "rank": "D",
+   "afterSkill": "鬼刺",
+   "afterRank": "C",
+   "target": "槍馬",
+   "rate": "20%",
+   "effectShort": "攻撃 20%上昇 / 破壊 5%上昇",
+   "afterTarget": "槍馬砲",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "沈勇の士",
+   "rank": "D",
+   "afterSkill": "沈勇の士",
+   "afterRank": "D",
+   "target": "槍砲",
+   "rate": "28%",
+   "effectShort": "攻撃 38%上昇 / 破壊 16%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "猛虎燎原",
+   "rank": "B",
+   "afterSkill": "猛虎燎原",
+   "afterRank": "B",
+   "target": "槍弓砲",
+   "rate": "18%",
+   "effectShort": "攻撃 5.4%上昇 / 攻撃 部隊ランク発動率x9%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "賢王訓戒",
+   "rank": "B",
+   "afterSkill": "賢王訓戒",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "34%",
+   "effectShort": "攻撃 ((1+ランク)xコストx0.5) %上昇 / 武将ランクとコストで効果が変化"
+  }
+ ]
 }

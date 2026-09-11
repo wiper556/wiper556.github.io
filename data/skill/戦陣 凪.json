@@ -16,6 +16,51 @@
  ],
  "sourceCharacters": [
   {
+   "name": "長尾晴景",
+   "no": "2332",
+   "slot": "S1・S2",
+   "db": "kyoku",
+   "note": [
+    "長尾晴景(2332)のsynthesisTable S1・S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "支倉常長",
+   "no": "2335",
+   "slot": "C・S1",
+   "db": "kyoku",
+   "note": [
+    "支倉常長(2335)のsynthesisTable C・S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "上杉憲政（2）",
+   "no": "2337",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "上杉憲政（2）(2337)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "唐梅院",
+   "no": "2343",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "唐梅院(2343)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "毛利隆元",
+   "no": "2357",
+   "slot": "C・S2",
+   "db": "kyoku",
+   "note": [
+    "毛利隆元(2357)のsynthesisTable C・S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "津軽為信（2）",
    "no": "2359",
    "slot": "S1",
@@ -23,21 +68,6 @@
    "note": [
     "津軽為信(2359)characters-kyoku.html synthesisTable S1枠。以前は本ページが無く海神ノ浮船.json側に「S1(戦陣 凪経由)」として直接記載されていたが、A-3-9の例外ルール(2026-08-04)に従い戦陣 凪自身のページを作成しここへ移設した(2026-08-16、No.2594黄丸化検証時)。"
    ]
-  },
-  {
-   "name": "甲斐宗運（2）",
-   "no": "2459",
-   "slot": "A",
-   "db": "kyoku",
-   "note": [
-    "甲斐宗運(2459)のsynthesisTable A枠(2026-08-16)"
-   ]
-  },
-  {
-   "name": "那須与一",
-   "no": "2594",
-   "slot": "C・S1",
-   "db": "kyoku"
   },
   {
    "name": "鬼庭綱元（2）",
@@ -56,6 +86,39 @@
    "note": [
     "煕子（3）(2372)のsynthesisTable S1枠(2026-08-23)"
    ]
+  },
+  {
+   "name": "甲斐宗運（2）",
+   "no": "2459",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "甲斐宗運(2459)のsynthesisTable A枠(2026-08-16)"
+   ]
+  },
+  {
+   "name": "松平元康",
+   "no": "2575",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "松平元康(2575)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "瀬名姫（3）",
+   "no": "2577",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "瀬名姫（3）(2577)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "那須与一",
+   "no": "2594",
+   "slot": "C・S1",
+   "db": "kyoku"
   }
  ],
  "ownHiddenCandidate": {
@@ -74,6 +137,10 @@
   {
    "skill": "月寂ノ想愛",
    "rank": "A"
+  },
+  {
+   "skill": "重めな正室",
+   "rank": "S"
   }
  ],
  "trTable": [

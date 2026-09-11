@@ -41,5 +41,60 @@
   "2026-08-30: 鍛錬(TR)が無いことを明記した。うぐさんの規則で**鍛錬が登場したのは No.1263 が追加された28章から**であり、特 は現在まで鍛錬の追加が無い。データもそれを裏付けており、27章のカードは LV10 のみ・28章のカードは LV10〜TR5 を持つ。**28章以降で鍛錬の無い武将も居るため、そちらには何も書いていない。**"
  ],
  "wikiOldestComment": null,
- "wikiCommentCount": null
+ "wikiCommentCount": null,
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "一世不忘",
+   "rank": "C",
+   "afterSkill": "一世不忘",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "B",
+   "skill": "将吏両道",
+   "rank": "C",
+   "afterSkill": "将吏両道",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "不屈ノ忠義",
+   "rank": "C",
+   "afterSkill": "不屈ノ忠義",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "不屈ノ忠義",
+   "rank": "C",
+   "afterSkill": "不屈ノ忠義",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "豊鑑",
+   "rank": "C",
+   "afterSkill": "死線ノ楔",
+   "afterRank": "C",
+   "target": "槍砲器",
+   "rate": "35%",
+   "effectShort": "攻撃 85%上昇 防御 85%上昇 / 部隊内の「豊鑑」スキル数×50%を攻防効果に加算",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 55%上昇 防御 55%上昇 / 部隊内の「死線ノ楔」スキル数×22%を攻防効果に加算"
+  }
+ ]
 }

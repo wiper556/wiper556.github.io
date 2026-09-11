@@ -44,5 +44,66 @@
  "wikiOldestComment": "2017-06-06",
  "wikiCommentCount": 40,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "殿名人",
+   "rank": "E",
+   "afterSkill": "槍隊守護",
+   "afterRank": "E",
+   "target": "槍弓馬",
+   "rate": "15%",
+   "effectShort": "防御 10%上昇",
+   "afterTarget": "槍",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 (コストx6.5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "赤誠奮迅",
+   "rank": "B",
+   "afterSkill": "鬼謀 国砕",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "上級器",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 10%上昇+破壊 25%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "洞察",
+   "rank": "B",
+   "afterSkill": "洞察",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "防御 7.5%上昇(部隊ランクボーナスで効果が変化)"
+  },
+  {
+   "slot": "S1",
+   "skill": "万端の用人",
+   "rank": "B",
+   "afterSkill": "万端の用人",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "45%",
+   "effectShort": "防御 45%上昇(他城主の拠点に加勢中にも部隊の兵士編成を行える)"
+  },
+  {
+   "slot": "S2",
+   "skill": "酔狂破陣",
+   "rank": "B",
+   "afterSkill": "四神天道",
+   "afterRank": "S",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "30%/100%",
+   "afterEffectShort": "攻撃 54%上昇(確率30%)+防御 54%上昇(確率30%)+速度 36%上昇(確率100%)"
+  }
+ ]
 }

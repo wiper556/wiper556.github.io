@@ -45,5 +45,63 @@
  "wikiOldestComment": "2012-04-17",
  "wikiCommentCount": 287,
  "chGuess": "4章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "組撃ち",
+   "rank": "B",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "弓砲",
+   "rate": "20%",
+   "effectShort": "防御 35%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "剣聖",
+   "rank": "A",
+   "afterSkill": "剣聖",
+   "afterRank": "A",
+   "target": "将",
+   "rate": "50%",
+   "effectShort": "攻撃 40%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "轟音 無鹿",
+   "rank": "S",
+   "afterSkill": "天衣無縫陣",
+   "afterRank": "SS",
+   "target": "器",
+   "rate": "30%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 (20+コスト×10) %上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "神算鬼謀 滅",
+   "rank": "A",
+   "afterSkill": "神算鬼謀 滅",
+   "afterRank": "A",
+   "target": "槍弓器",
+   "rate": "50%",
+   "effectShort": "攻撃 24%上昇 / 破壊 46%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "騎神",
+   "rank": "SS",
+   "afterSkill": "騎神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 (コストx4.5) %+速度 50%上昇"
+  }
+ ]
 }

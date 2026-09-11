@@ -42,5 +42,72 @@
  "wikiOldestComment": "2023-05-08",
  "wikiCommentCount": 13,
  "chGuess": "25章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "夜叉ノ懐刀",
+   "rank": "A",
+   "afterSkill": "戦陣 神屋",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 210%上昇+防御 210%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "夜叉ノ懐刀",
+   "rank": "A",
+   "afterSkill": "戦陣 神屋",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 210%上昇+防御 210%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "天羽々斬雷",
+   "rank": "A",
+   "afterSkill": "八目鳴鏑ノ奏",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "20%",
+   "effectShort": "攻撃 72%上昇 / (合流攻撃時は確率3倍)",
+   "afterTarget": "全",
+   "afterRate": "37%",
+   "afterEffectShort": "攻撃 2.5%×防御参加武将数(280人)=700.0%"
+  },
+  {
+   "slot": "S1",
+   "skill": "戦陣 神屋",
+   "rank": "A",
+   "afterSkill": "神屋楯比売命",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 210%上昇+防御 210%上昇",
+   "afterTarget": "自身",
+   "afterRate": "70%",
+   "afterEffectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "S2",
+   "skill": "天羽々斬雷",
+   "rank": "A",
+   "afterSkill": "八目鳴鏑ノ奏",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "20%",
+   "effectShort": "攻撃 72%上昇 / (合流攻撃時は確率3倍)",
+   "afterTarget": "全",
+   "afterRate": "37%",
+   "afterEffectShort": "攻撃 2.5%×防御参加武将数(280人)=700.0%"
+  }
+ ]
 }

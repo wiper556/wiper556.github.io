@@ -43,5 +43,60 @@
  "wikiOldestComment": "2018-09-04",
  "wikiCommentCount": 218,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "大動員",
+   "rank": "B",
+   "afterSkill": "大動員",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 8%上昇+速度 24%上昇(部隊内で最も速い兵士速度で移動)"
+  },
+  {
+   "slot": "B",
+   "skill": "御母の神意",
+   "rank": "B",
+   "afterSkill": "御母の神意",
+   "afterRank": "B",
+   "target": "槍弓砲",
+   "rate": "8%",
+   "effectShort": "攻撃 50%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "宿木",
+   "rank": "B",
+   "afterSkill": "宿木",
+   "afterRank": "B",
+   "target": "部隊長",
+   "rate": "55%",
+   "effectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ)"
+  },
+  {
+   "slot": "S1",
+   "skill": "風狂幻術",
+   "rank": "B",
+   "afterSkill": "風狂幻術",
+   "afterRank": "B",
+   "target": "部隊長",
+   "rate": "53%",
+   "effectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ、TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "妙計暗躍",
+   "rank": "A",
+   "afterSkill": "天賦の神算",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "15%",
+   "effectShort": "攻撃戦闘勝利時のみ、敵軍全武将に追加ダメージ+35(重複不可)",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 12%上昇 / 破壊 5%上昇"
+  }
+ ]
 }

@@ -44,5 +44,72 @@
  "wikiOldestComment": "2014-12-12",
  "wikiCommentCount": 296,
  "chGuess": "9章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊挟撃",
+   "rank": "E",
+   "afterSkill": "弓隊守護",
+   "afterRank": "E",
+   "target": "弓",
+   "rate": "25%",
+   "effectShort": "攻撃 (コストx6.5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "弓",
+   "afterRate": "25%",
+   "afterEffectShort": "弓防：13%上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "弓妖陣",
+   "rank": "B",
+   "afterSkill": "背水之陣",
+   "afterRank": "B",
+   "target": "槍弓砲",
+   "rate": "25%",
+   "effectShort": "防御 39%上昇",
+   "afterTarget": "槍弓馬",
+   "afterRate": "20%",
+   "afterEffectShort": "防御 37%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "反逆の奏",
+   "rank": "B",
+   "afterSkill": "三矢の礎",
+   "afterRank": "A",
+   "target": "弓",
+   "rate": "25%",
+   "effectShort": "攻撃 50%上昇",
+   "afterTarget": "弓",
+   "afterRate": "40%",
+   "afterEffectShort": "防御 35%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "三矢の礎",
+   "rank": "A",
+   "afterSkill": "戦陣 千鳥",
+   "afterRank": "B",
+   "target": "弓",
+   "rate": "40%",
+   "effectShort": "防御 35%上昇",
+   "afterTarget": "弓馬",
+   "afterRate": "45%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "天魔封縛陣",
+   "rank": "S",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "20%",
+   "effectShort": null,
+   "afterTarget": "馬・砲・器",
+   "afterRate": "40%",
+   "afterEffectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  }
+ ]
 }

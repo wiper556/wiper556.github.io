@@ -43,5 +43,72 @@
  "wikiOldestComment": "2025-01-15",
  "wikiCommentCount": 1,
  "chGuess": "28章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "白鷹ノ導き",
+   "rank": "C",
+   "afterSkill": "野太刀",
+   "afterRank": "C",
+   "target": "弓砲器",
+   "rate": "38%",
+   "effectShort": "攻撃 330%上昇 / 防御 330%上昇 / 破壊 60%上昇",
+   "afterTarget": "全",
+   "afterRate": "17%",
+   "afterEffectShort": "攻撃 77%上昇 / 防御 77%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "白鷹ノ導き",
+   "rank": "C",
+   "afterSkill": "野太刀",
+   "afterRank": "C",
+   "target": "弓砲器",
+   "rate": "38%",
+   "effectShort": "攻撃 330%上昇 / 防御 330%上昇 / 破壊 60%上昇",
+   "afterTarget": "全",
+   "afterRate": "17%",
+   "afterEffectShort": "攻撃 77%上昇 / 防御 77%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "白鷹ノ導き",
+   "rank": "C",
+   "afterSkill": "野太刀",
+   "afterRank": "C",
+   "target": "弓砲器",
+   "rate": "38%",
+   "effectShort": "攻撃 330%上昇 / 防御 330%上昇 / 破壊 60%上昇",
+   "afterTarget": "全",
+   "afterRate": "17%",
+   "afterEffectShort": "攻撃 77%上昇 / 防御 77%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "野太刀",
+   "rank": "C",
+   "afterSkill": "戦陣 凱旋",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "17%",
+   "effectShort": "攻撃 77%上昇 / 防御 77%上昇",
+   "afterTarget": "全",
+   "afterRate": "10%",
+   "afterEffectShort": "攻撃 87%上昇+防御 87%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "槍術無双",
+   "rank": "C",
+   "afterSkill": "討虎七撃",
+   "afterRank": "C",
+   "target": "槍砲器",
+   "rate": "36%",
+   "effectShort": "攻撃 265%上昇 / 防御 265%上昇 / 破壊 55%上昇",
+   "afterTarget": "槍器鉄",
+   "afterRate": "38%",
+   "afterEffectShort": "攻撃 240%上昇 / 防御 240%上昇 / 破壊 50%上昇"
+  }
+ ]
 }

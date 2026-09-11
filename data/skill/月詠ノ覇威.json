@@ -78,6 +78,30 @@
    "slot": "S2"
   },
   {
+   "name": "毛利元就",
+   "no": "31293",
+   "slot": "S2",
+   "note": [
+    "毛利元就（5）(31293)のsynthesisTable S2枠(2026-08-23)"
+   ]
+  },
+  {
+   "name": "上杉景勝",
+   "no": "31301",
+   "slot": "S2",
+   "note": [
+    "上杉景勝（6）(31301)のsynthesisTable S2枠(2026-08-23)"
+   ]
+  },
+  {
+   "name": "本多忠勝",
+   "no": "31303",
+   "slot": "S2",
+   "note": [
+    "本多忠勝（2）(31303)のsynthesisTable S2枠(2026-08-23)"
+   ]
+  },
+  {
    "name": "北条氏綱",
    "no": "31315",
    "slot": "S2",
@@ -86,10 +110,28 @@
    ]
   },
   {
+   "name": "堀秀政（2）",
+   "no": "2475",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "堀秀政（2）(2475)のsynthesisTable S1枠(2026-08-16、自己参照。A・B枠はskill=絶技兵術→afterSkill=本スキルのためA-3-12によりgrantedViaSkills側で参照済み)"
+   ]
+  },
+  {
    "name": "独眼竜政宗",
    "no": "2582",
    "slot": "S1・S2",
    "db": "kyoku"
+  },
+  {
+   "name": "妙玖（2）",
+   "no": "2585",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "妙玖（2）(2585)のsynthesisTable S1枠(2026-09-11)"
+   ]
   },
   {
    "name": "難攻不落の天守",
@@ -126,6 +168,12 @@
    ]
   },
   {
+   "name": "ロビンマスク",
+   "no": "2633",
+   "slot": "S2",
+   "db": "kyoku"
+  },
+  {
    "name": "織田有楽斎",
    "no": "2823",
    "slot": "S2",
@@ -159,6 +207,15 @@
    "db": "kyoku",
    "note": [
     "長谷川等伯(2827)のsynthesisTable S2枠(2026-08-15)"
+   ]
+  },
+  {
+   "name": "五郎八姫（3）",
+   "no": "2829",
+   "slot": "C・S2",
+   "db": "kyoku",
+   "note": [
+    "五郎八姫（3）(2829)のsynthesisTable C・S2枠(2026-09-11)"
    ]
   },
   {
@@ -235,45 +292,6 @@
    "no": "7404",
    "slot": "S2",
    "db": "kyoku"
-  },
-  {
-   "name": "ロビンマスク",
-   "no": "2633",
-   "slot": "S2",
-   "db": "kyoku"
-  },
-  {
-   "name": "堀秀政（2）",
-   "no": "2475",
-   "slot": "S1",
-   "db": "kyoku",
-   "note": [
-    "堀秀政（2）(2475)のsynthesisTable S1枠(2026-08-16、自己参照。A・B枠はskill=絶技兵術→afterSkill=本スキルのためA-3-12によりgrantedViaSkills側で参照済み)"
-   ]
-  },
-  {
-   "name": "毛利元就",
-   "no": "31293",
-   "slot": "S2",
-   "note": [
-    "毛利元就（5）(31293)のsynthesisTable S2枠(2026-08-23)"
-   ]
-  },
-  {
-   "name": "上杉景勝",
-   "no": "31301",
-   "slot": "S2",
-   "note": [
-    "上杉景勝（6）(31301)のsynthesisTable S2枠(2026-08-23)"
-   ]
-  },
-  {
-   "name": "本多忠勝",
-   "no": "31303",
-   "slot": "S2",
-   "note": [
-    "本多忠勝（2）(31303)のsynthesisTable S2枠(2026-08-23)"
-   ]
   }
  ],
  "grantedViaSkills": [
@@ -307,6 +325,10 @@
   },
   {
    "skill": "絶技兵術",
+   "rank": "S"
+  },
+  {
+   "skill": "水恋揺蕩",
    "rank": "S"
   }
  ],

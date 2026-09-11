@@ -44,5 +44,69 @@
  "wikiOldestComment": "2018-11-05",
  "wikiCommentCount": 111,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊堅陣",
+   "rank": "F",
+   "afterSkill": "槍隊奇襲",
+   "afterRank": "E",
+   "target": "槍",
+   "rate": "30%",
+   "effectShort": "槍防：12%上昇",
+   "afterTarget": "槍",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "花舜妙香",
+   "rank": "C",
+   "afterSkill": "釣り野伏 鬼",
+   "afterRank": "B",
+   "target": "槍弓砲",
+   "rate": "30%",
+   "effectShort": "防御 40%上昇",
+   "afterTarget": "砲",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "戦陣 轟砲",
+   "rank": "A",
+   "afterSkill": "覇王絶世",
+   "afterRank": "SS",
+   "target": "砲・器",
+   "rate": "45%",
+   "effectShort": "攻撃 66%上昇(防御 66%上昇)",
+   "afterTarget": "全",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃部隊ランクボーナスx15%上昇(部隊ランクボーナスで効果が変化)"
+  },
+  {
+   "slot": "S1",
+   "skill": "夢我龍撃",
+   "rank": "B",
+   "afterSkill": "夢我龍撃",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  }
+ ]
 }

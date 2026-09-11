@@ -59,7 +59,10 @@
    "skill": "野太刀",
    "rank": null,
    "afterSkill": null,
-   "afterRank": null
+   "afterRank": null,
+   "target": "全",
+   "rate": "17%",
+   "effectShort": "攻撃 77%上昇 / 防御 77%上昇"
   }
  ],
  "trTable": [

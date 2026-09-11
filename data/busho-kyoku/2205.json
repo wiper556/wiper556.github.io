@@ -42,5 +42,69 @@
  "wikiOldestComment": "2017-10-03",
  "wikiCommentCount": 69,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄砲隊堅陣",
+   "rank": "F",
+   "afterSkill": "鉄砲隊奇襲",
+   "afterRank": "E",
+   "target": "砲",
+   "rate": "25%",
+   "effectShort": "砲防：12%上昇",
+   "afterTarget": "砲",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃 12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "弓砲鱗撃",
+   "rank": "C",
+   "afterSkill": "砲陣の極み",
+   "afterRank": "B",
+   "target": "弓砲",
+   "rate": "35%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "砲",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "衝角",
+   "rank": "C",
+   "afterSkill": "武装商船",
+   "afterRank": "A",
+   "target": "砲器",
+   "rate": "36%",
+   "effectShort": "攻撃 36%上昇 / 破壊 50%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "部隊内全武将が持つ全スキルに「器」対象を追加する(兵科対象スキル限定・模倣不可)"
+  },
+  {
+   "slot": "S1",
+   "skill": "日本丸咆哮",
+   "rank": "B",
+   "afterSkill": "日本丸咆哮",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "16%",
+   "effectShort": "攻撃 49%上昇 / 破壊 25%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "叛将烈破",
+   "rank": "B",
+   "afterSkill": "戦陣 阿吽",
+   "afterRank": "A",
+   "target": "槍砲",
+   "rate": "32%",
+   "effectShort": "攻撃 36%上昇 / 防御 36%上昇",
+   "afterTarget": "全",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃 42%上昇+防御 42%上昇"
+  }
+ ]
 }

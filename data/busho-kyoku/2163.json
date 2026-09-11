@@ -41,5 +41,66 @@
  "wikiOldestComment": "2016-02-06",
  "wikiCommentCount": 40,
  "chGuess": "11章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "乗り崩し",
+   "rank": "D",
+   "afterSkill": "鬼刺",
+   "afterRank": "C",
+   "target": "槍馬",
+   "rate": "20%",
+   "effectShort": "攻撃 20%上昇 / 破壊 5%上昇",
+   "afterTarget": "槍馬砲",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "修羅の援兵",
+   "rank": "D",
+   "afterSkill": "修羅の援兵",
+   "afterRank": "D",
+   "target": "槍弓馬",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇 / (合流攻撃時は効果2倍)"
+  },
+  {
+   "slot": "C",
+   "skill": "常世虫",
+   "rank": "C",
+   "afterSkill": "声遣縦横",
+   "afterRank": "D",
+   "target": "槍弓砲",
+   "rate": "26%",
+   "effectShort": "攻撃 37%上昇",
+   "afterTarget": "槍馬砲",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃 38%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "絢鳥",
+   "rank": "B",
+   "afterSkill": "絢鳥",
+   "afterRank": "B",
+   "target": "槍弓",
+   "rate": "35%",
+   "effectShort": "攻撃 42%上昇 / 破壊 15%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "車懸り 軍神",
+   "rank": "S",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "20%",
+   "effectShort": "攻撃 35%上昇",
+   "afterTarget": "馬・砲・器",
+   "afterRate": "40%",
+   "afterEffectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  }
+ ]
 }

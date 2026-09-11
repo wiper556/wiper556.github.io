@@ -42,5 +42,60 @@
  "wikiOldestComment": "2018-03-05",
  "wikiCommentCount": 29,
  "chGuess": "15章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "管領の威光",
+   "rank": "D",
+   "afterSkill": "管領の威光",
+   "afterRank": "D",
+   "target": "馬砲器",
+   "rate": "43%",
+   "effectShort": "防御 34%上昇 / 破壊 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "賢妖の軍師",
+   "rank": "D",
+   "afterSkill": "花舜妙香",
+   "afterRank": "C",
+   "target": "槍弓",
+   "rate": "35%",
+   "effectShort": "防御 23+(ランクx3) %上昇 確率：+35% / 速度 20%上昇 確率：+100% / 防御効果は武将ランクで変化",
+   "afterTarget": "槍弓砲",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 40%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "不退ノ防戦",
+   "rank": "B",
+   "afterSkill": "不退ノ防戦",
+   "afterRank": "B",
+   "target": "馬砲器",
+   "rate": "38%",
+   "effectShort": "防御 52%上昇 確率：+38% / 速度 40%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "忍祖千里眼",
+   "rank": "B",
+   "afterSkill": "忍祖千里眼",
+   "afterRank": "B",
+   "target": "槍砲器",
+   "rate": "40%/100%",
+   "effectShort": "防御 49%上昇(確率40%)+速度 30%上昇(確率100%、加勢出陣時は速度効果3倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "不死鳥",
+   "rank": "B",
+   "afterSkill": "不死鳥",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": "防御 34%上昇(自部隊の武将ダメージ軽減6%・重複発動上限数4)"
+  }
+ ]
 }

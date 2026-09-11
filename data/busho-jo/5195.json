@@ -44,5 +44,72 @@
  "wikiOldestComment": "2020-04-30",
  "wikiCommentCount": 46,
  "chGuess": "19章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "旗鼓堂々",
+   "rank": "E",
+   "afterSkill": "捨て身の初陣",
+   "afterRank": "D",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "砲器",
+   "afterRate": "70%",
+   "afterEffectShort": "防御 32%上昇 / (自領以外の加勢で効果1.5倍)"
+  },
+  {
+   "slot": "B",
+   "skill": "兵器布陣",
+   "rank": "E",
+   "afterSkill": "城砕き",
+   "afterRank": "E",
+   "target": "器",
+   "rate": "15%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "器",
+   "afterRate": "15%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "龍哭の酒",
+   "rank": "F",
+   "afterSkill": "伏僧嘗胆",
+   "afterRank": "E",
+   "target": "器",
+   "rate": "25%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "弓砲",
+   "afterRate": "22%",
+   "afterEffectShort": "防御 12%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "捨て身の初陣",
+   "rank": "D",
+   "afterSkill": "不退ノ防戦",
+   "afterRank": "B",
+   "target": "砲器",
+   "rate": "70%",
+   "effectShort": "防御 32%上昇 / (自領以外の加勢で効果1.5倍)",
+   "afterTarget": "馬砲器",
+   "afterRate": "38%",
+   "afterEffectShort": "防御 52%上昇 確率：+38% / 速度 40%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "兵器運用術",
+   "rank": "E",
+   "afterSkill": "兵器突撃",
+   "afterRank": "F",
+   "target": "砲器",
+   "rate": "100%",
+   "effectShort": "速度 25%上昇",
+   "afterTarget": "器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 20%上昇"
+  }
+ ]
 }

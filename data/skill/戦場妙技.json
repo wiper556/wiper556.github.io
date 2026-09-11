@@ -6,10 +6,100 @@
  "effectSummary": "B/LV10 確率 32% 攻撃 72%上昇/防御 72%上昇/破壊 20%上昇/対象:全",
  "sourceCharacters": [
   {
+   "name": "大崎夫人",
+   "no": "2287",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "大崎夫人(2287)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "本願寺教如",
+   "no": "2290",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "本願寺教如(2290)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "百武賢兼",
+   "no": "2323",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "百武賢兼(2323)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "井伊直政（3）",
    "no": "2440",
    "slot": "B",
    "db": "kyoku"
+  },
+  {
+   "name": "お市（2）",
+   "no": "2535",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "お市（2）(2535)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "織田信長（2）",
+   "no": "2536",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "織田信長（2）(2536)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "織田信長（3）",
+   "no": "2537",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "織田信長（3）(2537)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "羽柴秀吉（3）",
+   "no": "2538",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "羽柴秀吉（3）(2538)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "徳川家康",
+   "no": "2539",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "徳川家康(2539)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "武田信玄（2）",
+   "no": "2540",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "武田信玄（2）(2540)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "大友宗麟（2）",
+   "no": "2546",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "大友宗麟（2）(2546)のsynthesisTable C枠(2026-09-11)"
+   ]
   },
   {
    "name": "織田信雄",
@@ -90,6 +180,14 @@
    "slot": "S2",
    "note": [
     "団忠正(3542)のsynthesisTable S2枠(2026-08-23)"
+   ]
+  },
+  {
+   "name": "伊達実元",
+   "no": "3599",
+   "slot": "S2",
+   "note": [
+    "伊達実元(3599)のsynthesisTable S2枠(2026-09-11)"
    ]
   }
  ],

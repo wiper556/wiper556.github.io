@@ -43,5 +43,72 @@
  "wikiOldestComment": "2016-10-28",
  "wikiCommentCount": 26,
  "chGuess": "12章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "兵器布陣",
+   "rank": "E",
+   "afterSkill": "城砕き",
+   "afterRank": "E",
+   "target": "器",
+   "rate": "15%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "器",
+   "afterRate": "15%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "兵器突撃",
+   "rank": "F",
+   "afterSkill": "迅速行軍",
+   "afterRank": "E",
+   "target": "器",
+   "rate": "15%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "速度 20%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "兵器運用術",
+   "rank": "E",
+   "afterSkill": "兵器突撃",
+   "afterRank": "F",
+   "target": "砲器",
+   "rate": "100%",
+   "effectShort": "速度 25%上昇",
+   "afterTarget": "器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 20%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "城砕き",
+   "rank": "E",
+   "afterSkill": "防壁砕き",
+   "afterRank": "E",
+   "target": "器",
+   "rate": "15%",
+   "effectShort": "破壊 20%上昇",
+   "afterTarget": "器",
+   "afterRate": "30%",
+   "afterEffectShort": "破壊 12%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "槍衾",
+   "rank": "D",
+   "afterSkill": "義兵進軍",
+   "afterRank": "C",
+   "target": "槍器",
+   "rate": "30%",
+   "effectShort": "防御 25%上昇",
+   "afterTarget": "槍弓馬砲",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 7%上昇 / 速度 10%上昇"
+  }
+ ]
 }

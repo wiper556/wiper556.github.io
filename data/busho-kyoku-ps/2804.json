@@ -40,5 +40,69 @@
  ],
  "wikiOldestComment": "2022-02-10",
  "wikiCommentCount": 25,
- "chGuess": "22-23章"
+ "chGuess": "22-23章",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "飛び雁金",
+   "rank": "S",
+   "afterSkill": "風狂魔術",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "70%",
+   "effectShort": "防御 90%上昇(卓越 追加確率60%で防御効果が4倍)",
+   "afterTarget": "全",
+   "afterRate": "45%",
+   "afterEffectShort": "防御 (敵部隊移動速度÷1)%上昇(最も部隊移動速度の大きい敵部隊の数値を参照する)"
+  },
+  {
+   "slot": "B",
+   "skill": "飛び雁金",
+   "rank": "S",
+   "afterSkill": "風狂魔術",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "70%",
+   "effectShort": "防御 90%上昇(卓越 追加確率60%で防御効果が4倍)",
+   "afterTarget": "全",
+   "afterRate": "45%",
+   "afterEffectShort": "防御 (敵部隊移動速度÷1)%上昇(最も部隊移動速度の大きい敵部隊の数値を参照する)"
+  },
+  {
+   "slot": "C",
+   "skill": "極楽護法",
+   "rank": "B",
+   "afterSkill": "戦場妙技",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 60%上昇 防御 60%上昇 / 卓越：追加確率50%で攻防効果が1.5倍",
+   "afterTarget": "全",
+   "afterRate": "32%",
+   "afterEffectShort": "攻撃 72%上昇+防御 72%上昇+破壊 20%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "風狂魔術",
+   "rank": "A",
+   "afterSkill": "風狂魔術",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "45%",
+   "effectShort": "防御 (敵部隊移動速度÷1)%上昇(最も部隊移動速度の大きい敵部隊の数値を参照する)"
+  },
+  {
+   "slot": "S2",
+   "skill": "鬼滅刺",
+   "rank": "A",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  }
+ ]
 }

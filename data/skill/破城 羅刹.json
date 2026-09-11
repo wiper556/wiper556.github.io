@@ -10,6 +10,23 @@
    "no": "2453",
    "slot": "A・B",
    "db": "kyoku"
+  },
+  {
+   "name": "母里太兵衛（3）",
+   "no": "2462",
+   "slot": "A・B",
+   "db": "kyoku",
+   "note": [
+    "母里太兵衛（3）(2462)のsynthesisTable A・B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "松平家忠",
+   "no": "3535",
+   "slot": "S1",
+   "note": [
+    "松平家忠(3535)のsynthesisTable S1枠(2026-09-11)"
+   ]
   }
  ],
  "ownHiddenCandidate": {

@@ -7,6 +7,69 @@
  "categoryLinks": [],
  "sourceCharacters": [
   {
+   "name": "大友義鎮",
+   "no": "2431",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "大友義鎮(2431)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "織田信長（2）",
+   "no": "2536",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "織田信長（2）(2536)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "織田信長（3）",
+   "no": "2537",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "織田信長（3）(2537)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "羽柴秀吉（3）",
+   "no": "2538",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "羽柴秀吉（3）(2538)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "徳川家康",
+   "no": "2539",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "徳川家康(2539)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "島津義弘（3）",
+   "no": "2544",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "島津義弘（3）(2544)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "龍造寺隆信（2）",
+   "no": "2549",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "龍造寺隆信（2）(2549)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "色部勝長",
    "no": "3420",
    "slot": "A",
@@ -159,11 +222,51 @@
    ]
   },
   {
+   "name": "小梁川宗朝",
+   "no": "3591",
+   "slot": "S2",
+   "note": [
+    "小梁川宗朝(3591)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "宇都宮国綱",
+   "no": "3600",
+   "slot": "S2",
+   "note": [
+    "宇都宮国綱(3600)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "石動雷十太",
    "no": "3606",
    "slot": "S2",
    "note": [
     "石動雷十太(3606)のsynthesisTable S2枠(2026-09-02)"
+   ]
+  },
+  {
+   "name": "末津姫",
+   "no": "3616",
+   "slot": "S1",
+   "note": [
+    "末津姫(3616)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "神保氏張",
+   "no": "3619",
+   "slot": "S2",
+   "note": [
+    "神保氏張(3619)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "菅正利",
+   "no": "3631",
+   "slot": "S2",
+   "note": [
+    "菅正利(3631)のsynthesisTable S2枠(2026-09-11)"
    ]
   },
   {
@@ -188,6 +291,38 @@
    "slot": "S2",
    "note": [
     "バッファローマン(3651)のsynthesisTable S2枠(2026-09-02)"
+   ]
+  },
+  {
+   "name": "松永久通（2）",
+   "no": "3658",
+   "slot": "S2",
+   "note": [
+    "松永久通（2）(3658)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "福富秀勝",
+   "no": "3664",
+   "slot": "S2",
+   "note": [
+    "福富秀勝(3664)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "小笠原長時",
+   "no": "3669",
+   "slot": "S2",
+   "note": [
+    "小笠原長時(3669)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "木沢長政（2）",
+   "no": "3675",
+   "slot": "S2",
+   "note": [
+    "木沢長政（2）(3675)のsynthesisTable S2枠(2026-09-11)"
    ]
   },
   {

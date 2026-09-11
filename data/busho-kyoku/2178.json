@@ -42,5 +42,66 @@
  "wikiOldestComment": "2016-09-08",
  "wikiCommentCount": 77,
  "chGuess": "12章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "兵器進撃",
+   "rank": "F",
+   "afterSkill": "鉄砲隊進撃",
+   "afterRank": "F",
+   "target": "器",
+   "rate": "10%",
+   "effectShort": "攻撃 15%上昇",
+   "afterTarget": "砲",
+   "afterRate": "8%",
+   "afterEffectShort": "攻撃 15%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "鬼石曼子",
+   "rank": "A",
+   "afterSkill": "釣り野伏 真",
+   "afterRank": "S",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "砲",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 35%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "薩摩の軍神",
+   "rank": "A",
+   "afterSkill": "釣り野伏 真",
+   "afterRank": "S",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "砲",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 35%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "謀君の差配",
+   "rank": "B",
+   "afterSkill": "謀君の差配",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 風雷火",
+   "rank": "B",
+   "afterSkill": "戦陣 風雷火",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ]
 }

@@ -41,5 +41,66 @@
  "wikiOldestComment": "2019-04-26",
  "wikiCommentCount": 34,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊備え",
+   "rank": "F",
+   "afterSkill": "槍隊堅守",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "10%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "槍",
+   "afterRate": "20%",
+   "afterEffectShort": "槍防：10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "二葉心",
+   "rank": "D",
+   "afterSkill": "二葉心",
+   "afterRank": "D",
+   "target": "槍弓馬",
+   "rate": "28%",
+   "effectShort": "攻撃 42%上昇 / 防御 42%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "戦慄ノ美姫",
+   "rank": "D",
+   "afterSkill": "新館御料人",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "32%",
+   "effectShort": "攻撃 46%上昇 / 防御 46%上昇",
+   "afterTarget": "弓砲器",
+   "afterRate": "70%",
+   "afterEffectShort": "攻撃 57.6%上昇 / 防御 57.6%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "足鼎賢女",
+   "rank": "B",
+   "afterSkill": "足鼎賢女",
+   "afterRank": "B",
+   "target": "槍器鉄",
+   "rate": "38%",
+   "effectShort": "攻撃 74%上昇 防御 74%上昇 / (職業「姫」の武将に対してのみ効果あり)"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 轟砲",
+   "rank": "A",
+   "afterSkill": "覇王絶世",
+   "afterRank": "SS",
+   "target": "砲・器",
+   "rate": "45%",
+   "effectShort": "攻撃 66%上昇(防御 66%上昇)",
+   "afterTarget": "全",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃部隊ランクボーナスx15%上昇(部隊ランクボーナスで効果が変化)"
+  }
+ ]
 }

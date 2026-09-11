@@ -41,5 +41,69 @@
  "wikiOldestComment": "2015-09-04",
  "wikiCommentCount": 48,
  "chGuess": "10章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "城破り",
+   "rank": "F",
+   "afterSkill": "槍隊急襲",
+   "afterRank": "F",
+   "target": "器",
+   "rate": "10%",
+   "effectShort": "破壊 15%上昇",
+   "afterTarget": "槍",
+   "afterRate": "16%",
+   "afterEffectShort": "槍攻：7.5%上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "鉄壁の備え",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "名人",
+   "rank": "B",
+   "afterSkill": "背水之陣",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "20%",
+   "effectShort": "防御 42%上昇",
+   "afterTarget": "槍弓馬",
+   "afterRate": "20%",
+   "afterEffectShort": "防御 37%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "不動の荒神",
+   "rank": "B",
+   "afterSkill": "不動の荒神",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "18%",
+   "effectShort": "防御 45%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "騎射 狭間矢",
+   "rank": "A",
+   "afterSkill": "戦陣 千鳥",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "44%",
+   "effectShort": "防御 32%上昇",
+   "afterTarget": "弓馬",
+   "afterRate": "45%",
+   "afterEffectShort": "防御 30%上昇"
+  }
+ ]
 }

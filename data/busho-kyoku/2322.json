@@ -42,5 +42,72 @@
  "wikiOldestComment": "2022-06-01",
  "wikiCommentCount": 16,
  "chGuess": "23章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "宏才弁舌ノ政僧",
+   "rank": "A",
+   "afterSkill": "月花十文字龍",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍弓器焙",
+   "afterRate": "47%",
+   "afterEffectShort": "攻撃 94%上昇 防御 94%上昇 破壊 45%上昇 / 飛翔4(敵軍に飛翔を持つ武将が4人未満のとき通常武将ダメージを受けない)"
+  },
+  {
+   "slot": "B",
+   "skill": "宏才弁舌ノ政僧",
+   "rank": "A",
+   "afterSkill": "月花十文字龍",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍弓器焙",
+   "afterRate": "47%",
+   "afterEffectShort": "攻撃 94%上昇 防御 94%上昇 破壊 45%上昇 / 飛翔4(敵軍に飛翔を持つ武将が4人未満のとき通常武将ダメージを受けない)"
+  },
+  {
+   "slot": "C",
+   "skill": "十字飛車",
+   "rank": "A",
+   "afterSkill": "騒速ノ神撃",
+   "afterRank": "SS",
+   "target": "槍砲器",
+   "rate": "42%",
+   "effectShort": "攻撃 77%上昇 / 防御 77%上昇 / 破壊 50%上昇",
+   "afterTarget": "槍・弓・器・焙",
+   "afterRate": "57%",
+   "afterEffectShort": "攻撃 100%上昇 防御 100%上昇 部隊内の「騒速ノ神撃」スキルx25%を攻防効果に加算"
+  },
+  {
+   "slot": "S1",
+   "skill": "月花十文字龍",
+   "rank": "A",
+   "afterSkill": "十字飛車",
+   "afterRank": "A",
+   "target": "槍弓器焙",
+   "rate": "47%",
+   "effectShort": "攻撃 94%上昇 防御 94%上昇 破壊 45%上昇 / 飛翔4(敵軍に飛翔を持つ武将が4人未満のとき通常武将ダメージを受けない)",
+   "afterTarget": "槍砲器",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 77%上昇 / 防御 77%上昇 / 破壊 50%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "鬼滅刺",
+   "rank": "A",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  }
+ ]
 }

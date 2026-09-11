@@ -43,5 +43,72 @@
  "wikiOldestComment": "2024-10-19",
  "wikiCommentCount": 1,
  "chGuess": "28章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鈴槍空鳴",
+   "rank": "C",
+   "afterSkill": "清将哀諫",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍器鉄",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 100%上昇 / 卓越：追加確率30%で攻撃効果が3倍"
+  },
+  {
+   "slot": "B",
+   "skill": "鈴槍空鳴",
+   "rank": "C",
+   "afterSkill": "清将哀諫",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍器鉄",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 100%上昇 / 卓越：追加確率30%で攻撃効果が3倍"
+  },
+  {
+   "slot": "C",
+   "skill": "鈴槍空鳴",
+   "rank": "C",
+   "afterSkill": "清将哀諫",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍器鉄",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 100%上昇 / 卓越：追加確率30%で攻撃効果が3倍"
+  },
+  {
+   "slot": "S1",
+   "skill": "清将哀諫",
+   "rank": "C",
+   "afterSkill": "土佐ノ英知",
+   "afterRank": "C",
+   "target": "槍器鉄",
+   "rate": "100%",
+   "effectShort": "攻撃 100%上昇 / 卓越：追加確率30%で攻撃効果が3倍",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 24%上昇 / 卓越：追加確率50%で攻撃効果が4倍"
+  },
+  {
+   "slot": "S2",
+   "skill": "虎切刀",
+   "rank": "C",
+   "afterSkill": "鬼滅刺",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 66%上昇 / 防御 66%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)"
+  }
+ ]
 }

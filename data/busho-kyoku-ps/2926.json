@@ -43,5 +43,66 @@
  "wikiOldestComment": "2016-04-06",
  "wikiCommentCount": 34,
  "chGuess": "11章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊堅陣",
+   "rank": "F",
+   "afterSkill": "弓隊奇襲",
+   "afterRank": "E",
+   "target": "弓",
+   "rate": "30%",
+   "effectShort": "防御 12%上昇",
+   "afterTarget": "弓",
+   "afterRate": "30%",
+   "afterEffectShort": "弓攻：12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "土壁の術",
+   "rank": "D",
+   "afterSkill": "矢雨備え",
+   "afterRank": "D",
+   "target": "弓器",
+   "rate": "15%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "弓器",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 25%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "死兵六道契",
+   "rank": "B",
+   "afterSkill": "戦陣 千鳥",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓馬",
+   "afterRate": "45%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "冥兵曼荼羅",
+   "rank": "B",
+   "afterSkill": "冥兵曼荼羅",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "鬼神刺",
+   "rank": "B",
+   "afterSkill": "鬼神刺",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "20%",
+   "effectShort": "攻撃 (コスト×10) %上昇 / 武将コストによって効果が変化"
+  }
+ ]
 }

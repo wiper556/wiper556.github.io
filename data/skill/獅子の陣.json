@@ -15,12 +15,64 @@
    ]
   },
   {
+   "name": "北条氏康（2）",
+   "no": "1023",
+   "slot": "C",
+   "note": [
+    "北条氏康（2）(1023)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "北条氏康（3）",
+   "no": "1049",
+   "slot": "B",
+   "note": [
+    "北条氏康（3）(1049)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "北条氏政",
+   "no": "2073",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "北条氏政(2073)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "瑞渓院",
+   "no": "2086",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "瑞渓院(2086)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "黄梅院",
+   "no": "2123",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "黄梅院(2123)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "本願寺蓮如",
    "no": "2702",
    "slot": "B",
    "db": "kyoku",
    "note": [
     "本願寺蓮如(2702)のsynthesisTable B枠(2026-08-16)"
+   ]
+  },
+  {
+   "name": "瑞渓院-復刻-",
+   "no": "2963",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "瑞渓院-復刻-(2963)のsynthesisTable S2枠(2026-09-11)"
    ]
   },
   {

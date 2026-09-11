@@ -45,5 +45,63 @@
  "wikiOldestComment": "2019-01-20",
  "wikiCommentCount": 53,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊襲撃",
+   "rank": "F",
+   "afterSkill": "槍隊堅守",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "20%",
+   "effectShort": "攻撃 10%上昇",
+   "afterTarget": "槍",
+   "afterRate": "20%",
+   "afterEffectShort": "槍防：10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "屈指の勇将",
+   "rank": "D",
+   "afterSkill": "屈指の勇将",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "37%",
+   "effectShort": "攻撃 22%上昇+防御 22%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "愛民ノ采配",
+   "rank": "D",
+   "afterSkill": "暁光",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "48%",
+   "effectShort": "攻撃 40%上昇 / 防御 40%上昇",
+   "afterTarget": "全",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃 38%上昇 / 防御 38%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "黒衣ノ法壁",
+   "rank": "B",
+   "afterSkill": "黒衣ノ法壁",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "質実剛健",
+   "rank": "B",
+   "afterSkill": "質実剛健",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "27%",
+   "effectShort": "攻撃防御 ((1+武将ランク)x武将コストx1.9) %上昇 / 武将ランクとコストで効果が変化"
+  }
+ ]
 }

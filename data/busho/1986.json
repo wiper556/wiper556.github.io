@@ -44,5 +44,66 @@
  "wikiOldestComment": "2019-11-08",
  "wikiCommentCount": 43,
  "chGuess": "18章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "八幡攻陣",
+   "rank": "S",
+   "afterSkill": "天焉相克",
+   "afterRank": "SS",
+   "target": "槍馬砲器",
+   "rate": "35%",
+   "effectShort": null,
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "70%",
+   "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"
+  },
+  {
+   "slot": "C",
+   "skill": "八幡軍神",
+   "rank": "S",
+   "afterSkill": "八目鳴鏑ノ奏",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "54%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "37%",
+   "afterEffectShort": "攻撃 2.5%×防御参加武将数(280人)=700.0%"
+  },
+  {
+   "slot": "S1",
+   "skill": "八目鳴鏑ノ奏",
+   "rank": "SS",
+   "afterSkill": "八目鳴鏑ノ奏",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "37%",
+   "effectShort": "攻撃 2.5%×防御参加武将数(280人)=700.0%"
+  },
+  {
+   "slot": "S2",
+   "skill": "騒速ノ神撃",
+   "rank": "SS",
+   "afterSkill": "騒速ノ神撃",
+   "afterRank": "SS",
+   "target": "槍・弓・器・焙",
+   "rate": "57%",
+   "effectShort": "攻撃 100%上昇 防御 100%上昇 部隊内の「騒速ノ神撃」スキルx25%を攻防効果に加算"
+  }
+ ]
 }

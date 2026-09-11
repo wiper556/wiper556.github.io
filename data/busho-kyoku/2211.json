@@ -45,5 +45,63 @@
  "wikiOldestComment": "2018-01-15",
  "wikiCommentCount": 56,
  "chGuess": "15章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "騎馬隊堅守",
+   "rank": "F",
+   "afterSkill": "騎馬隊襲撃",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "20%",
+   "effectShort": "馬防：10%上昇",
+   "afterTarget": "馬",
+   "afterRate": "20%",
+   "afterEffectShort": "馬攻：10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "懐刀",
+   "rank": "D",
+   "afterSkill": "懐刀",
+   "afterRank": "D",
+   "target": "馬砲器",
+   "rate": "32%",
+   "effectShort": "防御 35%上昇 / 武将ランクで効果が変化"
+  },
+  {
+   "slot": "C",
+   "skill": "隠し駒",
+   "rank": "D",
+   "afterSkill": "管領の威光",
+   "afterRank": "D",
+   "target": "砲器",
+   "rate": "32%",
+   "effectShort": "防御 44%上昇 / 破壊 25%上昇",
+   "afterTarget": "馬砲器",
+   "afterRate": "43%",
+   "afterEffectShort": "防御 34%上昇 / 破壊 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "不退ノ防戦",
+   "rank": "B",
+   "afterSkill": "不退ノ防戦",
+   "afterRank": "B",
+   "target": "馬砲器",
+   "rate": "38%",
+   "effectShort": "防御 52%上昇 確率：+38% / 速度 40%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "一国忠言",
+   "rank": "D",
+   "afterSkill": "一国忠言",
+   "afterRank": "D",
+   "target": "槍馬砲",
+   "rate": "24%",
+   "effectShort": "防御 27%上昇 / 防御時のみ、自軍の兵士被害数：2.5%減少(重複・模倣不可)"
+  }
+ ]
 }

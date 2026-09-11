@@ -43,5 +43,72 @@
  "wikiOldestComment": "2024-10-19",
  "wikiCommentCount": 1,
  "chGuess": "28章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "乱風混剣",
+   "rank": "C",
+   "afterSkill": "覇国ノ嗣子",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍馬器",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 40%上昇 / 武将ランクで攻撃効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "乱風混剣",
+   "rank": "C",
+   "afterSkill": "覇国ノ嗣子",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍馬器",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 40%上昇 / 武将ランクで攻撃効果が変化"
+  },
+  {
+   "slot": "C",
+   "skill": "乱風混剣",
+   "rank": "C",
+   "afterSkill": "覇国ノ嗣子",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍馬器",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 40%上昇 / 武将ランクで攻撃効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "覇国ノ嗣子",
+   "rank": "C",
+   "afterSkill": "暴風波斬",
+   "afterRank": "C",
+   "target": "槍馬器",
+   "rate": "45%",
+   "effectShort": "攻撃 40%上昇 / 武将ランクで攻撃効果が変化",
+   "afterTarget": "槍馬騎",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 16%上昇 / 武将ランクで攻撃効果が変化"
+  },
+  {
+   "slot": "S2",
+   "skill": "暴風波斬",
+   "rank": "C",
+   "afterSkill": "彷徨ふ鬼火",
+   "afterRank": "A",
+   "target": "槍馬騎",
+   "rate": "42%",
+   "effectShort": "攻撃 16%上昇 / 武将ランクで攻撃効果が変化",
+   "afterTarget": "槍馬砲",
+   "afterRate": "47%",
+   "afterEffectShort": "攻撃 (1.8×防御参加武将数)%上昇 / 卓越：追加確率30%で攻撃効果が1.5倍"
+  }
+ ]
 }

@@ -45,5 +45,63 @@
  "wikiOldestComment": "2022-04-08",
  "wikiCommentCount": 32,
  "chGuess": "23章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "入来神舞",
+   "rank": "S",
+   "afterSkill": "飛蝶野分",
+   "afterRank": "B",
+   "target": "部隊長",
+   "rate": "55%",
+   "effectShort": "部隊長の模倣可能な初期スキルを1.1倍に強化して模倣(TRなし)",
+   "afterTarget": "部隊長",
+   "afterRate": "60%",
+   "afterEffectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ)(TRなし)"
+  },
+  {
+   "slot": "B",
+   "skill": "入来神舞",
+   "rank": "S",
+   "afterSkill": "飛蝶野分",
+   "afterRank": "B",
+   "target": "部隊長",
+   "rate": "55%",
+   "effectShort": "部隊長の模倣可能な初期スキルを1.1倍に強化して模倣(TRなし)",
+   "afterTarget": "部隊長",
+   "afterRate": "60%",
+   "afterEffectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ)(TRなし)"
+  },
+  {
+   "slot": "C",
+   "skill": "神勅烈母",
+   "rank": "S",
+   "afterSkill": "神勅烈母",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "神勅烈母",
+   "rank": "S",
+   "afterSkill": "神勅烈母",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "高津姫神",
+   "rank": "SS",
+   "afterSkill": "高津姫神",
+   "afterRank": "SS",
+   "target": "自身",
+   "rate": "70%",
+   "effectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  }
+ ]
 }

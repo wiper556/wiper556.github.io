@@ -7,6 +7,24 @@
  "categoryLinks": [],
  "sourceCharacters": [
   {
+   "name": "平手政秀",
+   "no": "2149",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "平手政秀(2149)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "今井宗久",
+   "no": "2733",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "今井宗久(2733)のsynthesisTable S2枠(2026-08-16、担当K6)"
+   ]
+  },
+  {
    "name": "織田有楽斎",
    "no": "3717",
    "slot": "移植不可",
@@ -22,15 +40,6 @@
    "db": "toku",
    "note": [
     "呂宋助左衛門(3729)のsynthesisTable S2枠(2026-08-16、担当T2)"
-   ]
-  },
-  {
-   "name": "今井宗久",
-   "no": "2733",
-   "slot": "S2",
-   "db": "kyoku",
-   "note": [
-    "今井宗久(2733)のsynthesisTable S2枠(2026-08-16、担当K6)"
    ]
   }
  ],

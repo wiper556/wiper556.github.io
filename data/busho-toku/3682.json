@@ -41,5 +41,63 @@
   "2026-08-30: 鍛錬(TR)が無いことを明記した。うぐさんの規則で**鍛錬が登場したのは No.1263 が追加された28章から**であり、特 は現在まで鍛錬の追加が無い。データもそれを裏付けており、27章のカードは LV10 のみ・28章のカードは LV10〜TR5 を持つ。**28章以降で鍛錬の無い武将も居るため、そちらには何も書いていない。**"
  ],
  "wikiOldestComment": null,
- "wikiCommentCount": null
+ "wikiCommentCount": null,
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "猫興赤姫",
+   "rank": "C",
+   "afterSkill": "風魔狩",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍砲器",
+   "afterRate": "100%",
+   "afterEffectShort": "速度 150%上昇 / 破壊 60%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "謀神ノ珠玉",
+   "rank": "C",
+   "afterSkill": "謀神ノ珠玉",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "内蔵助流槍術",
+   "rank": "C",
+   "afterSkill": "内蔵助流槍術",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "内蔵助流槍術",
+   "rank": "C",
+   "afterSkill": "内蔵助流槍術",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "風魔狩",
+   "rank": "C",
+   "afterSkill": "都鄙合体",
+   "afterRank": "B",
+   "target": "槍砲器",
+   "rate": "100%",
+   "effectShort": "速度 150%上昇 / 破壊 60%上昇",
+   "afterTarget": "槍馬騎",
+   "afterRate": "49%",
+   "afterEffectShort": "攻撃 82%上昇 確率：+49% / 防御 82%上昇 確率：+49% / 速度 35%上昇"
+  }
+ ]
 }

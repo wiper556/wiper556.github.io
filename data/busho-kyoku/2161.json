@@ -41,5 +41,69 @@
  "wikiOldestComment": "2016-01-14",
  "wikiCommentCount": 56,
  "chGuess": "11章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊進撃",
+   "rank": "F",
+   "afterSkill": "槍隊襲撃",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "10%",
+   "effectShort": "槍攻：15%上昇",
+   "afterTarget": "槍",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "浪切",
+   "rank": "B",
+   "afterSkill": "鬼神刺",
+   "afterRank": "B",
+   "target": "槍砲",
+   "rate": "30%",
+   "effectShort": "攻撃 37%上昇",
+   "afterTarget": "全",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 (コスト×10) %上昇 / 武将コストによって効果が変化"
+  },
+  {
+   "slot": "C",
+   "skill": "黒鬼刺",
+   "rank": "D",
+   "afterSkill": "鬼神刺",
+   "afterRank": "B",
+   "target": "槍馬砲",
+   "rate": "15%",
+   "effectShort": "攻撃 (コストx10) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "全",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 (コスト×10) %上昇 / 武将コストによって効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "鬼神刺",
+   "rank": "B",
+   "afterSkill": "鬼神刺",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "20%",
+   "effectShort": "攻撃 (コスト×10) %上昇 / 武将コストによって効果が変化"
+  },
+  {
+   "slot": "S2",
+   "skill": "常世虫",
+   "rank": "C",
+   "afterSkill": "声遣縦横",
+   "afterRank": "D",
+   "target": "槍弓砲",
+   "rate": "26%",
+   "effectShort": "攻撃 37%上昇",
+   "afterTarget": "槍馬砲",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃 38%上昇"
+  }
+ ]
 }

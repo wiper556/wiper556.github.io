@@ -6,7 +6,8 @@
  "effectSummary": "SS/LV10 確率：+40% / 対象 槍弓馬 防御：63%上昇 (攻撃部隊に兵器兵科がいれば効果1.5倍)",
  "notes": [
   "2026-08-15(黄丸化検証): 角隈石宗(2811)のsourceCharacters列挙を削除。synthesisTableのC枠は八重言代主神[SS]→無窮天斥陣[SS](skill≠afterSkill)であり、A-3-12によりここへ直接列挙すべきでない(grantedViaSkillsで八重言代主神を参照済み)。角隈石宗自身はdata/skill/八重言代主神.jsonのsourceCharactersに記載。他武将(島津豊久・一条房家・織田有楽斎)分も同型の重複が疑われるが、今回のスコープ外のため未確認のまま残す。",
-  "2026-08-15(No.2817黄丸化検証): 山科言継(2817)も同型の誤り(synthesisTable C枠のskillは八重言代主神でafterSkillが本スキル)だったためsourceCharactersから削除。八重言代主神側には既にC枠で記載済み。"
+  "2026-08-15(No.2817黄丸化検証): 山科言継(2817)も同型の誤り(synthesisTable C枠のskillは八重言代主神でafterSkillが本スキル)だったためsourceCharactersから削除。八重言代主神側には既にC枠で記載済み。",
+  "ownHiddenCandidateは、このスキルが1次候補として載っている枠(1070 真田昌幸（2） S2枠)の2次候補から(S-08)。"
  ],
  "trTable": [
   {
@@ -23,7 +24,52 @@
   {
    "skill": "天神旋武",
    "rank": "S"
+  },
+  {
+   "skill": "天つ凪ノ方喰",
+   "rank": "S"
+  },
+  {
+   "skill": "天勇背水之陣",
+   "rank": "S"
   }
  ],
- "sourceCharacters": []
+ "sourceCharacters": [
+  {
+   "name": "真田昌幸（2）",
+   "no": "1070",
+   "slot": "S2",
+   "note": [
+    "真田昌幸（2）(1070)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "長宗我部盛親",
+   "no": "1074",
+   "slot": "S1",
+   "note": [
+    "長宗我部盛親(1074)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "立花宗茂",
+   "no": "1076",
+   "slot": "S1",
+   "note": [
+    "立花宗茂(1076)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "柴田勝家（2）",
+   "no": "1089",
+   "slot": "S1",
+   "note": [
+    "柴田勝家（2）(1089)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  }
+ ],
+ "ownHiddenCandidate": {
+  "skill": "八重言代主神",
+  "rank": "SS"
+ }
 }

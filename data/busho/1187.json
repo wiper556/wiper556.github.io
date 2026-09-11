@@ -47,5 +47,60 @@
  "wikiOldestComment": "2021-02-05",
  "wikiCommentCount": 101,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "八重言代主神",
+   "rank": "SS",
+   "afterSkill": "無窮天斥陣",
+   "afterRank": "SS",
+   "target": "自身",
+   "rate": "70%",
+   "effectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)",
+   "afterTarget": "槍弓馬",
+   "afterRate": "40%",
+   "afterEffectShort": "防御 63%上昇(攻撃部隊に兵器兵科がいれば効果1.5倍)"
+  },
+  {
+   "slot": "B",
+   "skill": "神屋楯比売命",
+   "rank": "SS",
+   "afterSkill": "神屋楯比売命",
+   "afterRank": "SS",
+   "target": "自身",
+   "rate": "70%",
+   "effectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "C",
+   "skill": "高津姫神",
+   "rank": "SS",
+   "afterSkill": "高津姫神",
+   "afterRank": "SS",
+   "target": "自身",
+   "rate": "70%",
+   "effectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "S1",
+   "skill": "三千世界神将",
+   "rank": "SS",
+   "afterSkill": "三千世界神将",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "防御 120%上昇(本丸防御陣形時コスト消費-1)"
+  },
+  {
+   "slot": "S2",
+   "skill": "三千世界神将",
+   "rank": "SS",
+   "afterSkill": "三千世界神将",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "防御 120%上昇(本丸防御陣形時コスト消費-1)"
+  }
+ ]
 }
