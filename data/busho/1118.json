@@ -43,5 +43,63 @@
  ],
  "wikiOldestComment": "2018-08-09",
  "wikiCommentCount": 199,
- "chGuess": "15-16章"
+ "chGuess": "15-16章",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "馬上砲術",
+   "rank": "D",
+   "afterSkill": "馬上砲術",
+   "afterRank": "D",
+   "target": "馬砲",
+   "rate": "60%",
+   "effectShort": "攻撃 15%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "C",
+   "skill": "神光征軍",
+   "rank": "SS",
+   "afterSkill": "神光征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 90%上昇+速度 200%上昇(TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "覇王絶世",
+   "rank": "SS",
+   "afterSkill": "覇王絶世",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "24%",
+   "effectShort": "攻撃部隊ランクボーナスx15%上昇(部隊ランクボーナスで効果が変化)"
+  },
+  {
+   "slot": "S2",
+   "skill": "天綾の誓約",
+   "rank": "SS",
+   "afterSkill": "天焉相克",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "攻撃 99.9%上昇 防御 99.9%上昇 破壊 150%上昇",
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "70%",
+   "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"
+  }
+ ]
 }

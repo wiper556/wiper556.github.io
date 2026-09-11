@@ -44,5 +44,66 @@
  "wikiOldestComment": "2017-09-04",
  "wikiCommentCount": 93,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "炮烙の計",
+   "rank": "D",
+   "afterSkill": "謀殺",
+   "afterRank": "D",
+   "target": "弓砲器",
+   "rate": "15%",
+   "effectShort": "攻撃 20%上昇 / 破壊 15%上昇",
+   "afterTarget": "全",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃戦闘勝利時のみ、敵軍1部隊の武将に追加ダメージ+35"
+  },
+  {
+   "slot": "B",
+   "skill": "南蛮砲術",
+   "rank": "D",
+   "afterSkill": "船団爆雷",
+   "afterRank": "B",
+   "target": "砲器",
+   "rate": "24%",
+   "effectShort": "攻撃 34%上昇 / 破壊 27%上昇",
+   "afterTarget": "弓砲器",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃 30%上昇 / 破壊 10%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "鬼小十郎",
+   "rank": "B",
+   "afterSkill": "戦陣 風雷火",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": null,
+   "afterRate": null,
+   "afterEffectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "羅馬の砲術",
+   "rank": "B",
+   "afterSkill": "羅馬の砲術",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "破軍星",
+   "rank": "SS",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "馬・砲・器",
+   "rate": "40%",
+   "effectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  }
+ ]
 }

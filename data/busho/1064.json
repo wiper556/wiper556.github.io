@@ -44,5 +44,63 @@
  "wikiOldestComment": "2015-11-15",
  "wikiCommentCount": 275,
  "chGuess": "11章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "神将",
+   "rank": "A",
+   "afterSkill": "神将",
+   "afterRank": "A",
+   "target": "槍弓馬",
+   "rate": "35%",
+   "effectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "刀八毘沙門天",
+   "rank": "S",
+   "afterSkill": "掃天封壁陣",
+   "afterRank": "SS",
+   "target": "槍・弓・馬",
+   "rate": "20%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "6%",
+   "afterEffectShort": "攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化する"
+  },
+  {
+   "slot": "C",
+   "skill": "覇王征軍",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "42%",
+   "effectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "掃天封壁陣",
+   "rank": "SS",
+   "afterSkill": "掃天封壁陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "6%",
+   "effectShort": "攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化する"
+  },
+  {
+   "slot": "S2",
+   "skill": "天征相克",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "槍弓馬",
+   "rate": "20%",
+   "effectShort": "攻撃 25%上昇",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  }
+ ]
 }

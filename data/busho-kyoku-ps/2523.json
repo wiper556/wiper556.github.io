@@ -44,5 +44,72 @@
  ],
  "wikiOldestComment": "2020-02-05",
  "wikiCommentCount": 6,
- "chGuess": "18-19章"
+ "chGuess": "18-19章",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "傾国ノ魅姫",
+   "rank": "A",
+   "afterSkill": "戦陣 轟砲",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 54%上昇(自拠点防御時は防御効果2倍)",
+   "afterTarget": "砲・器",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 66%上昇(防御 66%上昇)"
+  },
+  {
+   "slot": "B",
+   "skill": "戦陣 阿吽",
+   "rank": "A",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "25%",
+   "effectShort": "攻撃 42%上昇+防御 42%上昇",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "C",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "戦陣 轟砲",
+   "rank": "A",
+   "afterSkill": "覇王絶世",
+   "afterRank": "SS",
+   "target": "砲・器",
+   "rate": "45%",
+   "effectShort": "攻撃 66%上昇(防御 66%上昇)",
+   "afterTarget": "全",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃部隊ランクボーナスx15%上昇(部隊ランクボーナスで効果が変化)"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 無双",
+   "rank": "A",
+   "afterSkill": "無双英傑",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 67%上昇+防御 67%上昇",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 99.9%上昇 防御 99.9%上昇 部隊消費コストを0.5低下 (特殊効果は模倣不可)"
+  }
+ ]
 }

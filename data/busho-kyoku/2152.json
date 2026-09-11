@@ -41,5 +41,69 @@
  "wikiOldestComment": "2015-10-09",
  "wikiCommentCount": 78,
  "chGuess": "10章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "騎馬隊襲撃",
+   "rank": "F",
+   "afterSkill": "騎馬隊堅守",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "20%",
+   "effectShort": "馬攻：10%上昇",
+   "afterTarget": "馬",
+   "afterRate": "20%",
+   "afterEffectShort": "馬防：10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "霧雨の念",
+   "rank": "D",
+   "afterSkill": "義兵進軍",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍弓馬砲",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 7%上昇 / 速度 10%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "獅子奮迅",
+   "rank": "D",
+   "afterSkill": "三段撃ち",
+   "afterRank": "D",
+   "target": "槍弓",
+   "rate": "15%",
+   "effectShort": "攻撃 25%上昇 / 破壊 5%上昇",
+   "afterTarget": "弓砲",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 20%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "鳳凰馬藺",
+   "rank": "B",
+   "afterSkill": "鳳凰馬藺",
+   "afterRank": "B",
+   "target": "弓馬",
+   "rate": "24%",
+   "effectShort": "攻撃 47%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "太閤の威光",
+   "rank": "S",
+   "afterSkill": "天衣無縫陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇+破壊 40%上昇",
+   "afterTarget": "全",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 (20+コスト×10) %上昇"
+  }
+ ]
 }

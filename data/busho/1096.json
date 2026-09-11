@@ -46,5 +46,69 @@
  "wikiOldestComment": "2017-05-19",
  "wikiCommentCount": 108,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "尾張の虎",
+   "rank": "B",
+   "afterSkill": "疾風怒濤",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "26%",
+   "effectShort": "攻撃 27%上昇+破壊 4%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 5%上昇 / 速度 32%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "天魔波旬",
+   "rank": "S",
+   "afterSkill": "天魔波旬",
+   "afterRank": "S",
+   "target": "砲",
+   "rate": "20%",
+   "effectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "天虎相剋",
+   "rank": "S",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "馬砲器",
+   "rate": "37%",
+   "effectShort": null,
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "天穿神滅",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "砲器",
+   "rate": "50%",
+   "effectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "覇道天聖",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 26%上昇(所属部隊の武将が持つスキルを無効化や発動率低下から保護)",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  }
+ ]
 }

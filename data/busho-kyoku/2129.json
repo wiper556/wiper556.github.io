@@ -44,5 +44,69 @@
  "wikiOldestComment": "2015-01-16",
  "wikiCommentCount": 106,
  "chGuess": "9章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "武運長久",
+   "rank": "C",
+   "afterSkill": "三段撃 神速",
+   "afterRank": "C",
+   "target": "槍砲",
+   "rate": "15%",
+   "effectShort": "攻撃 (コストx9) %上昇 破壊 5%上昇 / (攻撃効果は武将のコストで効果が変化します)",
+   "afterTarget": "砲",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 12%上昇 / 破壊 15%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "千樹挟撃陣",
+   "rank": "C",
+   "afterSkill": "火竜の術",
+   "afterRank": "D",
+   "target": "槍馬",
+   "rate": "35%",
+   "effectShort": "防御 28%上昇",
+   "afterTarget": "弓器",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 15%上昇 / 破壊 15%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "背水之陣",
+   "rank": "B",
+   "afterSkill": "背水之陣",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "20%",
+   "effectShort": "防御 37%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "真田丸 雁金",
+   "rank": "C",
+   "afterSkill": "武運長久",
+   "afterRank": "C",
+   "target": "槍馬砲",
+   "rate": "20%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "槍砲",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 破壊 5%上昇 / (攻撃効果は武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 真田丸",
+   "rank": "A",
+   "afterSkill": "日本一の兵",
+   "afterRank": "B",
+   "target": "槍馬砲",
+   "rate": "30%",
+   "effectShort": "防御 35%上昇",
+   "afterTarget": "槍馬砲",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 35%上昇"
+  }
+ ]
 }

@@ -46,5 +46,69 @@
  "wikiOldestComment": "2016-12-02",
  "wikiCommentCount": 44,
  "chGuess": "13章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "兵器運用術",
+   "rank": "E",
+   "afterSkill": "兵器突撃",
+   "afterRank": "F",
+   "target": "砲器",
+   "rate": "100%",
+   "effectShort": "速度 25%上昇",
+   "afterTarget": "器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "詭謀の宴",
+   "rank": "B",
+   "afterSkill": "捨て奸",
+   "afterRank": "B",
+   "target": "砲器",
+   "rate": "50%",
+   "effectShort": "攻撃 15%上昇",
+   "afterTarget": "弓砲器",
+   "afterRate": "15%",
+   "afterEffectShort": "防御 37%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "船団爆雷",
+   "rank": "B",
+   "afterSkill": "神速",
+   "afterRank": "A",
+   "target": "弓砲器",
+   "rate": "25%",
+   "effectShort": "攻撃 30%上昇 / 破壊 10%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "速度 55%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "村上舟戦要法",
+   "rank": "A",
+   "afterSkill": "村上舟戦要法",
+   "afterRank": "A",
+   "target": "槍弓器",
+   "rate": "44%",
+   "effectShort": "攻撃 1.2%×防御参加武将数(280人)=336.0%"
+  },
+  {
+   "slot": "S2",
+   "skill": "謀神",
+   "rank": "S",
+   "afterSkill": "騎神",
+   "afterRank": "SS",
+   "target": "弓・器",
+   "rate": "50%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 (コストx4.5) %+速度 50%上昇"
+  }
+ ]
 }

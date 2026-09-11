@@ -46,5 +46,69 @@
  "wikiOldestComment": "2018-01-15",
  "wikiCommentCount": 126,
  "chGuess": "15章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "電光石火",
+   "rank": "C",
+   "afterSkill": "啄木鳥",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 2.5%上昇 / 速度 25%上昇",
+   "afterTarget": "弓馬",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 20%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "双鞭驃騎兵",
+   "rank": "A",
+   "afterSkill": "神速",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "速度 55%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "銀翼神騎兵",
+   "rank": "S",
+   "afterSkill": "覇竜十架砲",
+   "afterRank": "S",
+   "target": "弓馬器",
+   "rate": "100%",
+   "effectShort": "攻撃 64%上昇 防御 64%上昇 速度 50%上昇",
+   "afterTarget": "馬砲器攻防速",
+   "afterRate": "18%",
+   "afterEffectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "覇竜十架砲",
+   "rank": "S",
+   "afterSkill": "八重言代主神",
+   "afterRank": "SS",
+   "target": "馬砲器攻防速",
+   "rate": "18%",
+   "effectShort": null,
+   "afterTarget": "自身",
+   "afterRate": "70%",
+   "afterEffectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "S2",
+   "skill": "神光征軍",
+   "rank": "SS",
+   "afterSkill": "神光征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 90%上昇+速度 200%上昇(TRなし)"
+  }
+ ]
 }

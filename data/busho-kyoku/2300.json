@@ -41,5 +41,69 @@
  "wikiOldestComment": "2021-07-08",
  "wikiCommentCount": 17,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "非攻",
+   "rank": "B",
+   "afterSkill": "鬼門ノ憤将",
+   "afterRank": "B",
+   "target": "槍砲器",
+   "rate": "37%",
+   "effectShort": "防御 82%上昇 / このスキルを所持する武将の所有者が影城主のとき、防御効果1.5倍",
+   "afterTarget": "槍砲器",
+   "afterRate": "52%",
+   "afterEffectShort": "防御 70%上昇 確率：+52% / 速度 50%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "非攻",
+   "rank": "B",
+   "afterSkill": "鬼門ノ憤将",
+   "afterRank": "B",
+   "target": "槍砲器",
+   "rate": "37%",
+   "effectShort": "防御 82%上昇 / このスキルを所持する武将の所有者が影城主のとき、防御効果1.5倍",
+   "afterTarget": "槍砲器",
+   "afterRate": "52%",
+   "afterEffectShort": "防御 70%上昇 確率：+52% / 速度 50%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "今子龍",
+   "rank": "D",
+   "afterSkill": "忍祖千里眼",
+   "afterRank": "B",
+   "target": "槍砲器",
+   "rate": "30%",
+   "effectShort": "防御 36%上昇 / (自領以外の加勢で効果1.5倍)",
+   "afterTarget": "槍砲器",
+   "afterRate": "40%/100%",
+   "afterEffectShort": "防御 49%上昇(確率40%)+速度 30%上昇(確率100%、加勢出陣時は速度効果3倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "鬼門ノ憤将",
+   "rank": "B",
+   "afterSkill": "不退ノ防戦",
+   "afterRank": "B",
+   "target": "槍砲器",
+   "rate": "52%",
+   "effectShort": "防御 70%上昇 確率：+52% / 速度 50%上昇",
+   "afterTarget": "馬砲器",
+   "afterRate": "38%",
+   "afterEffectShort": "防御 52%上昇 確率：+38% / 速度 40%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "忍祖千里眼",
+   "rank": "B",
+   "afterSkill": "忍祖千里眼",
+   "afterRank": "B",
+   "target": "槍砲器",
+   "rate": "40%/100%",
+   "effectShort": "防御 49%上昇(確率40%)+速度 30%上昇(確率100%、加勢出陣時は速度効果3倍)"
+  }
+ ]
 }

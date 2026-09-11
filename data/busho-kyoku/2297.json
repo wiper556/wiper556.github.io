@@ -41,5 +41,69 @@
  "wikiOldestComment": "2021-05-10",
  "wikiCommentCount": 17,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "冥姫ノ霧",
+   "rank": "B",
+   "afterSkill": "川並衆",
+   "afterRank": "B",
+   "target": "槍器鉄",
+   "rate": "27%",
+   "effectShort": "防御 62%上昇 / (自領以外の加勢で効果1.5倍)",
+   "afterTarget": "槍弓砲器",
+   "afterRate": "44%",
+   "afterEffectShort": "防御 60%上昇(自軍5部隊以下の防御時効果1.5倍)"
+  },
+  {
+   "slot": "B",
+   "skill": "槍隊守備",
+   "rank": "F",
+   "afterSkill": "槍隊急襲",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "16%",
+   "effectShort": "防御 (コストx5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍",
+   "afterRate": "16%",
+   "afterEffectShort": "槍攻：7.5%上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "今子龍",
+   "rank": "D",
+   "afterSkill": "忍祖千里眼",
+   "afterRank": "B",
+   "target": "槍砲器",
+   "rate": "30%",
+   "effectShort": "防御 36%上昇 / (自領以外の加勢で効果1.5倍)",
+   "afterTarget": "槍砲器",
+   "afterRate": "40%/100%",
+   "afterEffectShort": "防御 49%上昇(確率40%)+速度 30%上昇(確率100%、加勢出陣時は速度効果3倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "川並衆",
+   "rank": "B",
+   "afterSkill": "川並衆",
+   "afterRank": "B",
+   "target": "槍弓砲器",
+   "rate": "44%",
+   "effectShort": "防御 60%上昇(自軍5部隊以下の防御時効果1.5倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "籠城の妙技",
+   "rank": "A",
+   "afterSkill": "三千世界神将",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "防御 50%上昇(卓越:追加確率15%で防御効果が3倍)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "防御 120%上昇(本丸防御陣形時コスト消費-1)"
+  }
+ ]
 }

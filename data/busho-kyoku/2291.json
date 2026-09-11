@@ -41,5 +41,72 @@
  "wikiOldestComment": "2021-02-17",
  "wikiCommentCount": 23,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "民兵動員",
+   "rank": "B",
+   "afterSkill": "凍土ノ女神",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍弓馬器",
+   "afterRate": "50%",
+   "afterEffectShort": "防御 84%上昇 / 卓越：追加確率25%で防御効果が1.5倍"
+  },
+  {
+   "slot": "B",
+   "skill": "弓隊布陣",
+   "rank": "E",
+   "afterSkill": "弓隊堅陣",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "15%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "弓",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 12%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "戦ノ香",
+   "rank": "D",
+   "afterSkill": "波瀾ノ夕立",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "44%",
+   "effectShort": "防御 55%上昇",
+   "afterTarget": "槍砲器",
+   "afterRate": "36%",
+   "afterEffectShort": "防御 43%上昇 / 破壊 25%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "凍土ノ女神",
+   "rank": "B",
+   "afterSkill": "違い鎌",
+   "afterRank": "D",
+   "target": "槍弓馬器",
+   "rate": "50%",
+   "effectShort": "防御 84%上昇 / 卓越：追加確率25%で防御効果が1.5倍",
+   "afterTarget": "槍弓馬",
+   "afterRate": "32%",
+   "afterEffectShort": "防御 40%上昇 / 武将ランクで効果が変化"
+  },
+  {
+   "slot": "S2",
+   "skill": "籠城の妙技",
+   "rank": "A",
+   "afterSkill": "三千世界神将",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "防御 50%上昇(卓越:追加確率15%で防御効果が3倍)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "防御 120%上昇(本丸防御陣形時コスト消費-1)"
+  }
+ ]
 }

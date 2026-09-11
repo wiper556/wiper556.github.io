@@ -7,12 +7,93 @@
  "categoryLinks": [],
  "sourceCharacters": [
   {
+   "name": "毛利輝元（2）",
+   "no": "1056",
+   "slot": "C",
+   "note": [
+    "毛利輝元（2）(1056)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "龍造寺隆信（2）",
+   "no": "1061",
+   "slot": "C",
+   "note": [
+    "龍造寺隆信（2）(1061)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "柴田勝家",
+   "no": "1062",
+   "slot": "C",
+   "note": [
+    "柴田勝家(1062)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "上杉謙信（3）【覇】",
+   "no": "1064",
+   "slot": "S2",
+   "note": [
+    "上杉謙信（3）【覇】(1064)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "三好長慶",
+   "no": "1066",
+   "slot": "S2",
+   "note": [
+    "三好長慶(1066)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "真田昌幸（2）",
+   "no": "1070",
+   "slot": "S1",
+   "note": [
+    "真田昌幸（2）(1070)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "加藤清正（2）",
+   "no": "1075",
+   "slot": "S1",
+   "note": [
+    "加藤清正（2）(1075)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "武田晴信",
+   "no": "1098",
+   "slot": "S2",
+   "note": [
+    "武田晴信(1098)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "長尾景虎",
+   "no": "1099",
+   "slot": "S2",
+   "note": [
+    "長尾景虎(1099)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "池田勝入斎",
    "no": "2919",
    "slot": "S2",
    "db": "kyoku",
    "note": [
     "池田勝入斎(2919)のsynthesisTable S2枠(2026-08-14)"
+   ]
+  },
+  {
+   "name": "尚巴志",
+   "no": "2922",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "尚巴志(2922)のsynthesisTable S2枠(2026-09-11)"
    ]
   }
  ],

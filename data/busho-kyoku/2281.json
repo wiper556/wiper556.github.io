@@ -43,5 +43,69 @@
  "wikiOldestComment": "2020-09-04",
  "wikiCommentCount": 35,
  "chGuess": "20章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "都鄙合体",
+   "rank": "B",
+   "afterSkill": "告天子",
+   "afterRank": "B",
+   "target": "槍馬騎",
+   "rate": "49%",
+   "effectShort": "攻撃 82%上昇 確率：+49% / 防御 82%上昇 確率：+49% / 速度 35%上昇",
+   "afterTarget": "槍馬騎",
+   "afterRate": "27%",
+   "afterEffectShort": "攻撃防御 (1+武将ランク×武将コスト×2.3) %上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "騎馬隊急襲",
+   "rank": "F",
+   "afterSkill": "騎馬隊守備",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "16%",
+   "effectShort": "攻撃 (コストx5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "馬",
+   "afterRate": "16%",
+   "afterEffectShort": "防御 (コストx5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "二葉心",
+   "rank": "D",
+   "afterSkill": "二葉心",
+   "afterRank": "D",
+   "target": "槍弓馬",
+   "rate": "28%",
+   "effectShort": "攻撃 42%上昇 / 防御 42%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "告天子",
+   "rank": "B",
+   "afterSkill": "質実剛健",
+   "afterRank": "B",
+   "target": "槍馬騎",
+   "rate": "27%",
+   "effectShort": "攻撃防御 (1+武将ランク×武将コスト×2.3) %上昇",
+   "afterTarget": "弓馬砲",
+   "afterRate": "27%",
+   "afterEffectShort": "攻撃防御 ((1+武将ランク)x武将コストx1.9) %上昇 / 武将ランクとコストで効果が変化"
+  },
+  {
+   "slot": "S2",
+   "skill": "騎聖",
+   "rank": "A",
+   "afterSkill": "神光征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 80%上昇+速度 50%上昇(武将コストで変動)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 90%上昇+速度 200%上昇(TRなし)"
+  }
+ ]
 }

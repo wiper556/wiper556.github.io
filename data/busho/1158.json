@@ -46,5 +46,63 @@
  "wikiOldestComment": "2020-02-14",
  "wikiCommentCount": 45,
  "chGuess": "19章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "天刻禄寿",
+   "rank": "S",
+   "afterSkill": "天香山命",
+   "afterRank": "SS",
+   "target": "槍・馬・器・鉄",
+   "rate": "27%",
+   "effectShort": null,
+   "afterTarget": "全 覇道",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 120%上昇+速度 90%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "武神八幡陣",
+   "rank": "SS",
+   "afterSkill": "武神八幡陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 41.56%上昇(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "C",
+   "skill": "天鎖燎原陣",
+   "rank": "SS",
+   "afterSkill": "天鎖燎原陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "天香山命",
+   "rank": "SS",
+   "afterSkill": "天香山命",
+   "afterRank": "SS",
+   "target": "全 覇道",
+   "rate": "100%",
+   "effectShort": "攻撃 120%上昇+速度 90%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 龍馬",
+   "rank": "A",
+   "afterSkill": "茅纒之矟ノ煌",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "防御 1%上昇(部隊ランクボーナス×10%を加算)",
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "防御 100%上昇 自部隊の武将ダメージ軽減3% (重複発動上限数4)"
+  }
+ ]
 }

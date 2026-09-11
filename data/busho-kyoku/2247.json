@@ -43,5 +43,66 @@
  "wikiOldestComment": "2019-04-03",
  "wikiCommentCount": 78,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊堅守",
+   "rank": "F",
+   "afterSkill": "弓隊襲撃",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "20%",
+   "effectShort": "防御 10%上昇",
+   "afterTarget": "弓",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "没落ノ強弓",
+   "rank": "D",
+   "afterSkill": "算術の極み",
+   "afterRank": "D",
+   "target": "弓焙",
+   "rate": "28%",
+   "effectShort": "防御 (部隊ランクボーナス×7.5)%上昇 / (部隊ランクボーナスで効果が変化)",
+   "afterTarget": "弓器",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 38%上昇 / 破壊 22%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "傾国ノ美姫",
+   "rank": "B",
+   "afterSkill": "宿木",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "34%",
+   "effectShort": "防御 26+(ランクx4) %上昇 確率：+34% / 速度 30%上昇 確率：+100% / 防御効果は武将ランクで変化",
+   "afterTarget": "部隊長",
+   "afterRate": "55%",
+   "afterEffectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ)"
+  },
+  {
+   "slot": "S1",
+   "skill": "鵺ノ接吻",
+   "rank": "B",
+   "afterSkill": "鵺ノ接吻",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "白夜ノ才姫",
+   "rank": "B",
+   "afterSkill": "白夜ノ才姫",
+   "afterRank": "B",
+   "target": "弓馬器",
+   "rate": "35%",
+   "effectShort": "防御 57%上昇 / 他城主の拠点に加勢中にも、部隊の兵士編成を行える"
+  }
+ ]
 }

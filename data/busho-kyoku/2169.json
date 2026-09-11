@@ -42,5 +42,63 @@
  "wikiOldestComment": "2016-04-26",
  "wikiCommentCount": 58,
  "chGuess": "11章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓馬構え",
+   "rank": "D",
+   "afterSkill": "足軽軍法",
+   "afterRank": "D",
+   "target": "弓馬",
+   "rate": "30%",
+   "effectShort": "防御 25%上昇",
+   "afterTarget": "槍器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "鉄甲陣",
+   "rank": "D",
+   "afterSkill": "足軽軍法",
+   "afterRank": "D",
+   "target": "槍弓",
+   "rate": "30%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "槍器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "空蝉",
+   "rank": "C",
+   "afterSkill": "空蝉",
+   "afterRank": "C",
+   "target": "槍弓馬",
+   "rate": "33%",
+   "effectShort": "防御 22%上昇 / (自領以外の加勢で効果3倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "狂奏",
+   "rank": "B",
+   "afterSkill": "狂奏",
+   "afterRank": "B",
+   "target": "槍・弓・馬",
+   "rate": "25%",
+   "effectShort": "防御 30%上昇(防御戦闘勝利時のみ敵軍1部隊の武将に追加ダメージ+20)"
+  },
+  {
+   "slot": "S2",
+   "skill": "不動の荒神",
+   "rank": "B",
+   "afterSkill": "不動の荒神",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "18%",
+   "effectShort": "防御 45%上昇"
+  }
+ ]
 }

@@ -15,11 +15,62 @@
    ]
   },
   {
+   "name": "徳川家康（3）",
+   "no": "1024",
+   "slot": "C",
+   "note": [
+    "徳川家康（3）(1024)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "福島正則",
+   "no": "1044",
+   "slot": "C",
+   "note": [
+    "福島正則(1044)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "徳川家康（5）",
+   "no": "1055",
+   "slot": "B",
+   "note": [
+    "徳川家康（5）(1055)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "竹千代",
    "no": "1808",
    "slot": "C",
    "note": [
     "竹千代(1808)のsynthesisTable C枠(2026-08-23)"
+   ]
+  },
+  {
+   "name": "松平忠輝",
+   "no": "2088",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "松平忠輝(2088)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "浅野幸長（2）",
+   "no": "2191",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "浅野幸長（2）(2191)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "於大の方",
+   "no": "2198",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "於大の方(2198)のsynthesisTable S2枠(2026-09-11)"
    ]
   },
   {
@@ -29,6 +80,15 @@
    "db": "kyoku",
    "note": [
     "林羅山(2721)のsynthesisTable S1枠(2026-08-16、担当K6)"
+   ]
+  },
+  {
+   "name": "徳川家光",
+   "no": "2723",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "徳川家光(2723)のsynthesisTable C枠(2026-09-11)"
    ]
   }
  ],

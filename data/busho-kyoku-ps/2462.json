@@ -45,5 +45,66 @@
  "wikiOldestComment": "2023-01-10",
  "wikiCommentCount": 24,
  "chGuess": "24章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "破城 羅刹",
+   "rank": "S",
+   "afterSkill": "神屋楯比売命",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 124%上昇+破壊 55%上昇(資源獲得率12%・破壊した耐久値に応じて資源獲得)",
+   "afterTarget": "自身",
+   "afterRate": "70%",
+   "afterEffectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "B",
+   "skill": "破城 羅刹",
+   "rank": "S",
+   "afterSkill": "神屋楯比売命",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 124%上昇+破壊 55%上昇(資源獲得率12%・破壊した耐久値に応じて資源獲得)",
+   "afterTarget": "自身",
+   "afterRate": "70%",
+   "afterEffectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "C",
+   "skill": "猛虎鉄牙",
+   "rank": "S",
+   "afterSkill": "猛虎鉄牙",
+   "afterRank": "S",
+   "target": "槍・鉄",
+   "rate": "100%",
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "猛虎鉄牙",
+   "rank": "S",
+   "afterSkill": "猛虎鉄牙",
+   "afterRank": "S",
+   "target": "槍・鉄",
+   "rate": "100%",
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "天綾の誓約",
+   "rank": "SS",
+   "afterSkill": "天焉相克",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "攻撃 99.9%上昇 防御 99.9%上昇 破壊 150%上昇",
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "70%",
+   "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"
+  }
+ ]
 }

@@ -44,5 +44,63 @@
  "wikiOldestComment": "2017-06-05",
  "wikiCommentCount": 108,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊奇襲",
+   "rank": "E",
+   "afterSkill": "槍隊堅陣",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "30%",
+   "effectShort": "攻撃 12%上昇",
+   "afterTarget": "槍",
+   "afterRate": "30%",
+   "afterEffectShort": "槍防：12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "戦鬼紅刃",
+   "rank": "B",
+   "afterSkill": "鬼神刺",
+   "afterRank": "B",
+   "target": "槍馬器",
+   "rate": "32%",
+   "effectShort": "攻撃 39%上昇 / 破壊 24%上昇",
+   "afterTarget": "全",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 (コスト×10) %上昇 / 武将コストによって効果が変化"
+  },
+  {
+   "slot": "C",
+   "skill": "三日月の礎",
+   "rank": "D",
+   "afterSkill": "三日月の礎",
+   "afterRank": "D",
+   "target": "槍器",
+   "rate": "23%",
+   "effectShort": "攻撃 (コストx3) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S1",
+   "skill": "鈴鳴り武者",
+   "rank": "B",
+   "afterSkill": "鈴鳴り武者",
+   "afterRank": "B",
+   "target": "槍馬器",
+   "rate": "27%",
+   "effectShort": "攻撃 18.02%上昇 / (部隊の総コストで効果が変化します)"
+  },
+  {
+   "slot": "S2",
+   "skill": "村上舟戦要法",
+   "rank": "A",
+   "afterSkill": "村上舟戦要法",
+   "afterRank": "A",
+   "target": "槍弓器",
+   "rate": "44%",
+   "effectShort": "攻撃 1.2%×防御参加武将数(280人)=336.0%"
+  }
+ ]
 }

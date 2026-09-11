@@ -45,5 +45,66 @@
  "wikiOldestComment": "2017-03-07",
  "wikiCommentCount": 118,
  "chGuess": "13章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "騎馬隊突撃",
+   "rank": "F",
+   "afterSkill": "騎馬隊奇襲",
+   "afterRank": "E",
+   "target": "馬",
+   "rate": "15%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "馬",
+   "afterRate": "30%",
+   "afterEffectShort": "馬攻：12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "夢幻の慈愛",
+   "rank": "D",
+   "afterSkill": "浪切",
+   "afterRank": "B",
+   "target": "槍砲",
+   "rate": "18%",
+   "effectShort": "攻撃 40%上昇 / 武将ランクで効果が変化",
+   "afterTarget": "槍砲",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 37%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "堅国の絆",
+   "rank": "A",
+   "afterSkill": "堅国の絆",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 5%上昇(自本領に滞在する全部隊に効果)"
+  },
+  {
+   "slot": "S1",
+   "skill": "夢幻の牢姫",
+   "rank": "B",
+   "afterSkill": "夢幻の牢姫",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "妖艶遊戯",
+   "rank": "A",
+   "afterSkill": "花魁心操術",
+   "afterRank": "A",
+   "target": "部隊長",
+   "rate": "25%",
+   "effectShort": "相手側1部隊の部隊長を無力化(攻撃・防御・兵法を1にする)",
+   "afterTarget": "姫",
+   "afterRate": "100%",
+   "afterEffectShort": "部隊内姫武将スキル発動率+10%(重複不可)"
+  }
+ ]
 }

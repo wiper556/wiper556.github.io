@@ -41,5 +41,66 @@
  ],
  "wikiOldestComment": "2019-02-08",
  "wikiCommentCount": 32,
- "chGuess": "16-17章"
+ "chGuess": "16-17章",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊襲撃",
+   "rank": "F",
+   "afterSkill": "槍隊堅守",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "20%",
+   "effectShort": "攻撃 10%上昇",
+   "afterTarget": "槍",
+   "afterRate": "20%",
+   "afterEffectShort": "槍防：10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "葵ノ戦姫",
+   "rank": "D",
+   "afterSkill": "戦巧者",
+   "afterRank": "D",
+   "target": "弓焙",
+   "rate": "70%",
+   "effectShort": "攻撃 43.2%上昇 破壊 20%上昇",
+   "afterTarget": "槍弓器",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 36%上昇 / (2部隊以下の攻撃で効果1.5倍)"
+  },
+  {
+   "slot": "C",
+   "skill": "暁光",
+   "rank": "D",
+   "afterSkill": "屈指の勇将",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "24%",
+   "effectShort": "攻撃 38%上昇 / 防御 38%上昇",
+   "afterTarget": "全",
+   "afterRate": "37%",
+   "afterEffectShort": "攻撃 22%上昇+防御 22%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "乾為天",
+   "rank": "B",
+   "afterSkill": "乾為天",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "新館御料人",
+   "rank": "B",
+   "afterSkill": "新館御料人",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "70%",
+   "effectShort": "攻撃 57.6%上昇 / 防御 57.6%上昇"
+  }
+ ]
 }

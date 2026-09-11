@@ -37952,6 +37952,23 @@
    "url": "https://ixanary.com/skills/%E5%9B%9B%E9%A2%A8%E8%B3%A2%E9%B3%B3"
   }
  ],
+ "skill:団右衛門見参": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 29520,
+    "cache": "26e307b34fda0a85.txt",
+    "cache_bytes": 29520,
+    "cache_sha256": "556a1d3f7351e383",
+    "sha256": "556a1d3f7351e383",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(29520 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%9B%A3%E5%8F%B3%E8%A1%9B%E9%96%80%E8%A6%8B%E5%8F%82"
+  }
+ ],
  "skill:国友筒": [
   {
    "date": "2026-08-15",
@@ -38819,6 +38836,23 @@
    "url": "https://ixanary.com/skills/%E5%A4%A9%E4%B8%8B%E9%9D%99%E8%AC%90"
   }
  ],
+ "skill:天之瓊矛ノ雫": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 27351,
+    "cache": "2288540aaf88e710.txt",
+    "cache_bytes": 27351,
+    "cache_sha256": "67d810756c1b2906",
+    "sha256": "67d810756c1b2906",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(27351 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A4%A9%E4%B9%8B%E7%93%8A%E7%9F%9B%E3%83%8E%E9%9B%AB"
+  }
+ ],
  "skill:天凛不抜": [
   {
    "date": "2026-08-15",
@@ -38851,6 +38885,23 @@
    "result": "取得した(28547 bytes)",
    "source": "ixanary",
    "url": "https://ixanary.com/skills/%E5%A4%A9%E5%B1%B1%E9%BE%8D%E5%96%B0%E3%83%8E%E9%87%87"
+  }
+ ],
+ "skill:天征三千界": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 26580,
+    "cache": "e539ba1c34fe3341.txt",
+    "cache_bytes": 26580,
+    "cache_sha256": "7a2a29f39b767439",
+    "sha256": "7a2a29f39b767439",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(26580 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A4%A9%E5%BE%81%E4%B8%89%E5%8D%83%E7%95%8C"
   }
  ],
  "skill:天征相克": [
@@ -38904,6 +38955,23 @@
    "url": "https://ixanary.com/skills/%E5%A4%A9%E6%88%92%20%E4%BA%94%E8%8A%92%E6%98%9F"
   }
  ],
+ "skill:天戦無窮": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 26447,
+    "cache": "bd93aa079760928f.txt",
+    "cache_bytes": 26447,
+    "cache_sha256": "578b8523bc6fc107",
+    "sha256": "578b8523bc6fc107",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(26447 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A4%A9%E6%88%A6%E7%84%A1%E7%AA%AE"
+  }
+ ],
  "skill:天手力男": [
   {
    "date": "2026-08-23",
@@ -38919,6 +38987,23 @@
    "result": "取得した(28485 bytes)",
    "source": "ixanary",
    "url": "https://ixanary.com/skills/%E5%A4%A9%E6%89%8B%E5%8A%9B%E7%94%B7"
+  }
+ ],
+ "skill:天星神童": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 26817,
+    "cache": "6be23a3cb243b717.txt",
+    "cache_bytes": 26817,
+    "cache_sha256": "2cdfca406b2d6a6e",
+    "sha256": "2cdfca406b2d6a6e",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(26817 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A4%A9%E6%98%9F%E7%A5%9E%E7%AB%A5"
   }
  ],
  "skill:天正ノ楠木": [
@@ -39006,6 +39091,23 @@
    "url": "https://ixanary.com/skills/%E5%A4%A9%E7%A5%9E%E6%97%8B%E6%AD%A6"
   }
  ],
+ "skill:天神破軍": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 27464,
+    "cache": "94dfdade4763d566.txt",
+    "cache_bytes": 27464,
+    "cache_sha256": "05857a018b45f642",
+    "sha256": "05857a018b45f642",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(27464 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A4%A9%E7%A5%9E%E7%A0%B4%E8%BB%8D"
+  }
+ ],
  "skill:天稟ノ軍才": [
   {
    "date": "2026-08-23",
@@ -39023,6 +39125,40 @@
    "url": "https://ixanary.com/skills/%E5%A4%A9%E7%A8%9F%E3%83%8E%E8%BB%8D%E6%89%8D"
   }
  ],
+ "skill:天竜睥睨": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 26483,
+    "cache": "512d8139bdeef0f3.txt",
+    "cache_bytes": 26483,
+    "cache_sha256": "1db2bbf71beb2510",
+    "sha256": "1db2bbf71beb2510",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(26483 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A4%A9%E7%AB%9C%E7%9D%A5%E7%9D%A8"
+  }
+ ],
+ "skill:天纓燎炎": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 26671,
+    "cache": "bf0732ce84ccd74d.txt",
+    "cache_bytes": 26671,
+    "cache_sha256": "985f95bcef128acb",
+    "sha256": "985f95bcef128acb",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(26671 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A4%A9%E7%BA%93%E7%87%8E%E7%82%8E"
+  }
+ ],
  "skill:天羽々斬雷": [
   {
    "date": "2026-09-02",
@@ -39038,6 +39174,23 @@
    "result": "取得した(27719 bytes)",
    "source": "ixanary",
    "url": "https://ixanary.com/skills/%E5%A4%A9%E7%BE%BD%E3%80%85%E6%96%AC%E9%9B%B7"
+  }
+ ],
+ "skill:天翔演武": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 27982,
+    "cache": "7c35312b4168c3f0.txt",
+    "cache_bytes": 27982,
+    "cache_sha256": "e56ddb0b50924517",
+    "sha256": "e56ddb0b50924517",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(27982 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A4%A9%E7%BF%94%E6%BC%94%E6%AD%A6"
   }
  ],
  "skill:天衣無縫陣": [
@@ -39069,6 +39222,23 @@
    "result": "取得失敗: HTTP Error 404: Not Found",
    "source": "ixanary",
    "url": "https://ixanary.com/skills/%E5%A4%A9%E8%A8%88%E5%8D%83%E5%B9%B4%E9%B3%B3%E5%87%B0"
+  }
+ ],
+ "skill:天謀海神": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 26876,
+    "cache": "8e810096644bd3e0.txt",
+    "cache_bytes": 26876,
+    "cache_sha256": "69557d3c80213fe6",
+    "sha256": "69557d3c80213fe6",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(26876 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A4%A9%E8%AC%80%E6%B5%B7%E7%A5%9E"
   }
  ],
  "skill:天賦の神算": [
@@ -39120,6 +39290,23 @@
    "result": "取得した(27852 bytes)",
    "source": "ixanary",
    "url": "https://ixanary.com/skills/%E5%A4%A9%E9%82%AA%E9%AC%BC"
+  }
+ ],
+ "skill:天鎖燎原陣": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 28947,
+    "cache": "e2c7e6e72bf8be1a.txt",
+    "cache_bytes": 28947,
+    "cache_sha256": "894b3ee447620f3e",
+    "sha256": "894b3ee447620f3e",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(28947 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A4%A9%E9%8E%96%E7%87%8E%E5%8E%9F%E9%99%A3"
   }
  ],
  "skill:太閤の威光": [
@@ -45822,6 +46009,23 @@
    "url": "https://ixanary.com/skills/%E7%84%A1%E6%AF%94%E3%83%8E%E5%8B%9D%E8%B2%A0%E5%B8%AB"
   }
  ],
+ "skill:無窮ノ神軍": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 26781,
+    "cache": "ed1c3ca61885ce7f.txt",
+    "cache_bytes": 26781,
+    "cache_sha256": "f4891b039649afb9",
+    "sha256": "f4891b039649afb9",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(26781 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E7%84%A1%E7%AA%AE%E3%83%8E%E7%A5%9E%E8%BB%8D"
+  }
+ ],
  "skill:無辜ノ哀炎": [
   {
    "date": "2026-08-15",
@@ -47284,6 +47488,23 @@
    "url": "https://ixanary.com/skills/%E7%A0%B4%E7%AA%AE%E3%83%8E%E5%8B%87%E5%B0%86"
   }
  ],
+ "skill:破蛇神轡銜": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 26714,
+    "cache": "2ab0cf0320a1f42e.txt",
+    "cache_bytes": 26714,
+    "cache_sha256": "ef1ed1674e466265",
+    "sha256": "ef1ed1674e466265",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(26714 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E7%A0%B4%E8%9B%87%E7%A5%9E%E8%BD%A1%E9%8A%9C"
+  }
+ ],
  "skill:破軍十六神将": [
   {
    "date": "2026-08-15",
@@ -47401,6 +47622,23 @@
    "result": "取得した(27701 bytes)",
    "source": "ixanary",
    "url": "https://ixanary.com/skills/%E7%A5%9E%E3%81%AE%E6%81%A9%E5%AF%B5"
+  }
+ ],
+ "skill:神塵 傀儡": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 26524,
+    "cache": "d09505db12cc22e8.txt",
+    "cache_bytes": 26524,
+    "cache_sha256": "1470040ae51e4780",
+    "sha256": "1470040ae51e4780",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(26524 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E7%A5%9E%E5%A1%B5%20%E5%82%80%E5%84%A1"
   }
  ],
  "skill:神変機略": [
@@ -47590,6 +47828,23 @@
    "url": "https://ixanary.com/skills/%E7%A5%9E%E8%99%8E%E5%90%BC%E9%99%A3"
   }
  ],
+ "skill:神虎相克": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 26543,
+    "cache": "0bba3481a33fdf02.txt",
+    "cache_bytes": 26543,
+    "cache_sha256": "18436f138a9642b5",
+    "sha256": "18436f138a9642b5",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(26543 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E7%A5%9E%E8%99%8E%E7%9B%B8%E5%85%8B"
+  }
+ ],
  "skill:神行法": [
   {
    "date": "2026-08-23",
@@ -47622,6 +47877,23 @@
    "result": "取得した(28492 bytes)",
    "source": "ixanary",
    "url": "https://ixanary.com/skills/%E7%A5%9E%E8%A1%8C%E6%B3%95%20%E5%8D%83%E9%87%8C"
+  }
+ ],
+ "skill:神術 伊呂波": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 27037,
+    "cache": "5d0e99ceb947f3ed.txt",
+    "cache_bytes": 27037,
+    "cache_sha256": "7ba852cf2e01b4c6",
+    "sha256": "7ba852cf2e01b4c6",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(27037 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E7%A5%9E%E8%A1%93%20%E4%BC%8A%E5%91%82%E6%B3%A2"
   }
  ],
  "skill:神記一筆": [
@@ -54838,6 +55110,23 @@
    "result": "取得した(28633 bytes)",
    "source": "ixanary",
    "url": "https://ixanary.com/skills/%E9%BB%84%E6%AF%8D%E8%A1%A3%E8%A1%86"
+  }
+ ],
+ "skill:黄泉平坂ノ妖": [
+  {
+   "date": "2026-09-11",
+   "evidence": {
+    "bytes": 26890,
+    "cache": "19af04dc1850e5b2.txt",
+    "cache_bytes": 26890,
+    "cache_sha256": "c6fddfdadedc1ea7",
+    "sha256": "c6fddfdadedc1ea7",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(26890 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E9%BB%84%E6%B3%89%E5%B9%B3%E5%9D%82%E3%83%8E%E5%A6%96"
   }
  ],
  "skill:黄道援兵": [

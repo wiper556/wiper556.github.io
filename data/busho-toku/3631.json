@@ -44,5 +44,63 @@
  "wikiOldestComment": "2025-06-08",
  "wikiCommentCount": 2,
  "chGuess": "29章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "志興壮剣",
+   "rank": "C",
+   "afterSkill": "春霞晴詠",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 140%上昇 / 防御 140%上昇 / 部隊コスト12以下で効果2倍"
+  },
+  {
+   "slot": "B",
+   "skill": "斃秦",
+   "rank": "C",
+   "afterSkill": "斃秦",
+   "afterRank": "C",
+   "target": "槍砲器",
+   "rate": "55%",
+   "effectShort": "攻撃 250%上昇 / 防御 250%上昇 / 部隊コスト12以下で効果1.5倍"
+  },
+  {
+   "slot": "C",
+   "skill": "斃秦",
+   "rank": "C",
+   "afterSkill": "斃秦",
+   "afterRank": "C",
+   "target": "槍砲器",
+   "rate": "55%",
+   "effectShort": "攻撃 250%上昇 / 防御 250%上昇 / 部隊コスト12以下で効果1.5倍"
+  },
+  {
+   "slot": "S1",
+   "skill": "斃秦",
+   "rank": "C",
+   "afterSkill": "斃秦",
+   "afterRank": "C",
+   "target": "槍砲器",
+   "rate": "55%",
+   "effectShort": "攻撃 250%上昇 / 防御 250%上昇 / 部隊コスト12以下で効果1.5倍"
+  },
+  {
+   "slot": "S2",
+   "skill": "野太刀",
+   "rank": "C",
+   "afterSkill": "戦陣 凱旋",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "17%",
+   "effectShort": "攻撃 77%上昇 / 防御 77%上昇",
+   "afterTarget": "全",
+   "afterRate": "10%",
+   "afterEffectShort": "攻撃 87%上昇+防御 87%上昇"
+  }
+ ]
 }

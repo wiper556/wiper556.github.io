@@ -46,5 +46,69 @@
  "wikiOldestComment": "2019-02-09",
  "wikiCommentCount": 64,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "蛇神轡銜",
+   "rank": "S",
+   "afterSkill": "破蛇神轡銜",
+   "afterRank": "S",
+   "target": "槍・器・鉄",
+   "rate": "15%",
+   "effectShort": null,
+   "afterTarget": "槍砲器",
+   "afterRate": "24%",
+   "afterEffectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "天神破軍",
+   "rank": "SS",
+   "afterSkill": "天神破軍",
+   "afterRank": "SS",
+   "target": "槍砲器",
+   "rate": "50%",
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "破蛇神轡銜",
+   "rank": "S",
+   "afterSkill": "式神ノ冥王",
+   "afterRank": "SS",
+   "target": "槍砲器",
+   "rate": "24%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "破蛇神轡銜",
+   "rank": "S",
+   "afterSkill": "式神ノ冥王",
+   "afterRank": "SS",
+   "target": "槍砲器",
+   "rate": "24%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇"
+  }
+ ]
 }

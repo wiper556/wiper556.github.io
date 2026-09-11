@@ -42,5 +42,72 @@
  "wikiOldestComment": "2014-04-29",
  "wikiCommentCount": 135,
  "chGuess": "7章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "虎牙猛撃",
+   "rank": "C",
+   "afterSkill": "足軽軍法",
+   "afterRank": "D",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "弓馬構え",
+   "rank": "D",
+   "afterSkill": "足軽軍法",
+   "afterRank": "D",
+   "target": "弓馬",
+   "rate": "30%",
+   "effectShort": "防御 25%上昇",
+   "afterTarget": "槍器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "一領具足",
+   "rank": "B",
+   "afterSkill": "姫鬼戦舞",
+   "afterRank": "S",
+   "target": "槍弓砲",
+   "rate": "100%",
+   "effectShort": "攻撃 6%上昇 / 速度 35%上昇",
+   "afterTarget": "槍砲",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 30%上昇+破壊 25%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "槍陣の極み",
+   "rank": "B",
+   "afterSkill": "柳生新陰流",
+   "afterRank": "A",
+   "target": "槍",
+   "rate": "30%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "将",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 40%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "姫鬼戦舞",
+   "rank": "S",
+   "afterSkill": "天衣無縫陣",
+   "afterRank": "SS",
+   "target": "槍砲",
+   "rate": "30%",
+   "effectShort": "攻撃 30%上昇+破壊 25%上昇",
+   "afterTarget": "全",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 (20+コスト×10) %上昇"
+  }
+ ]
 }

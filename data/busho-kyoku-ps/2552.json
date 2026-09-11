@@ -48,5 +48,69 @@
  "wikiOldestComment": "2021-10-07",
  "wikiCommentCount": 10,
  "chGuess": "22章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "木遁封魔",
+   "rank": "S",
+   "afterSkill": "遁世影武者",
+   "afterRank": "B",
+   "target": "部隊長",
+   "rate": "58%",
+   "effectShort": "部隊長の初期スキルを1.1倍に強化して模倣(TRなし)",
+   "afterTarget": "部隊長",
+   "afterRate": "50%",
+   "afterEffectShort": "所属部隊の部隊長が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "B",
+   "skill": "木遁封魔",
+   "rank": "S",
+   "afterSkill": "遁世影武者",
+   "afterRank": "B",
+   "target": "部隊長",
+   "rate": "58%",
+   "effectShort": "部隊長の初期スキルを1.1倍に強化して模倣(TRなし)",
+   "afterTarget": "部隊長",
+   "afterRate": "50%",
+   "afterEffectShort": "所属部隊の部隊長が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "C",
+   "skill": "飛蝶野分",
+   "rank": "B",
+   "afterSkill": "風狂幻術",
+   "afterRank": "B",
+   "target": "部隊長",
+   "rate": "60%",
+   "effectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ)(TRなし)",
+   "afterTarget": "部隊長",
+   "afterRate": "53%",
+   "afterEffectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ、TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "遁世影武者",
+   "rank": "B",
+   "afterSkill": "風林火山",
+   "afterRank": "S",
+   "target": "部隊長",
+   "rate": "50%",
+   "effectShort": "所属部隊の部隊長が持つ初期スキルを模倣する(戦闘スキルのみ)",
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 30%上昇+破壊 15%上昇(TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "宿木",
+   "rank": "B",
+   "afterSkill": "宿木",
+   "afterRank": "B",
+   "target": "部隊長",
+   "rate": "55%",
+   "effectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ)"
+  }
+ ]
 }

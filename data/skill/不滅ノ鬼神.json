@@ -6,12 +6,48 @@
  "effectSummary": "S/LV10 対象:全\n①攻撃 100%上昇する(確率70%)\n②速度 70%上昇する(確率100%)",
  "sourceCharacters": [
   {
+   "name": "馬場信房（3）",
+   "no": "2308",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "馬場信房（3）(2308)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "明智秀満（2）",
+   "no": "2329",
+   "slot": "S1・S2",
+   "db": "kyoku",
+   "note": [
+    "明智秀満（2）(2329)のsynthesisTable S1・S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "井伊直孝（2）",
    "no": "2366",
    "slot": "S1・S2",
    "db": "kyoku",
    "note": [
     "井伊直孝(2366)のsynthesisTable S1枠(2026-08-16)"
+   ]
+  },
+  {
+   "name": "戸沢盛安",
+   "no": "2454",
+   "slot": "A・S2",
+   "db": "kyoku",
+   "note": [
+    "戸沢盛安(2454)のsynthesisTable A・S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "宇喜多モニカ（2）",
+   "no": "2569",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "宇喜多モニカ（2）(2569)のsynthesisTable A枠(2026-09-11)"
    ]
   },
   {

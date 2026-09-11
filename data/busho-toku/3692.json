@@ -31,14 +31,20 @@
    "skill": "一揆討伐",
    "rank": null,
    "afterSkill": null,
-   "afterRank": null
+   "afterRank": null,
+   "target": "弓砲器",
+   "rate": "60%",
+   "effectShort": "攻撃 345%上昇 防御 345%上昇"
   },
   {
    "slot": "B",
    "skill": "斃秦",
    "rank": null,
    "afterSkill": null,
-   "afterRank": null
+   "afterRank": null,
+   "target": "槍砲器",
+   "rate": "55%",
+   "effectShort": "攻撃 250%上昇 / 防御 250%上昇 / 部隊コスト12以下で効果1.5倍"
   },
   {
    "slot": "C",

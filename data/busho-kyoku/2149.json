@@ -41,5 +41,69 @@
  "wikiOldestComment": "2015-08-11",
  "wikiCommentCount": 197,
  "chGuess": "10章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊堅守",
+   "rank": "F",
+   "afterSkill": "弓隊襲撃",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "20%",
+   "effectShort": "防御 10%上昇",
+   "afterTarget": "弓",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "鉄砲隊挟撃",
+   "rank": "E",
+   "afterSkill": "鉄砲隊守護",
+   "afterRank": "E",
+   "target": "砲",
+   "rate": "20%",
+   "effectShort": "攻撃 (コストx6.5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "砲",
+   "afterRate": "20%",
+   "afterEffectShort": "防御 (コストx6.5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "尾張の虎",
+   "rank": "B",
+   "afterSkill": "疾風怒濤",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "26%",
+   "effectShort": "攻撃 27%上昇+破壊 4%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 5%上昇 / 速度 32%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "洞察",
+   "rank": "B",
+   "afterSkill": "洞察",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "防御 7.5%上昇(部隊ランクボーナスで効果が変化)"
+  },
+  {
+   "slot": "S2",
+   "skill": "数奇者",
+   "rank": "C",
+   "afterSkill": "神勅賢母",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "-",
+   "effectShort": "取引手数料 30%軽減(重複不可)",
+   "afterTarget": "槍馬砲",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 39%上昇"
+  }
+ ]
 }

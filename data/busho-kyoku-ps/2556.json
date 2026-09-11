@@ -45,5 +45,57 @@
  "wikiOldestComment": "2022-04-10",
  "wikiCommentCount": 16,
  "chGuess": "23章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "前知兵法",
+   "rank": "S",
+   "afterSkill": "前知兵法",
+   "afterRank": "S",
+   "target": "-",
+   "rate": "15%",
+   "effectShort": "攻撃戦闘時、防御側の各部隊内でもっとも兵法が高い武将の兵法値を 0 にする(重複不可・模倣不可)"
+  },
+  {
+   "slot": "B",
+   "skill": "前知兵法",
+   "rank": "S",
+   "afterSkill": "前知兵法",
+   "afterRank": "S",
+   "target": "-",
+   "rate": "15%",
+   "effectShort": "攻撃戦闘時、防御側の各部隊内でもっとも兵法が高い武将の兵法値を 0 にする(重複不可・模倣不可)"
+  },
+  {
+   "slot": "C",
+   "skill": "王佐ノ智慧",
+   "rank": "S",
+   "afterSkill": "王佐ノ智慧",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "王佐ノ智慧",
+   "rank": "S",
+   "afterSkill": "王佐ノ智慧",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "騒速ノ神撃",
+   "rank": "SS",
+   "afterSkill": "騒速ノ神撃",
+   "afterRank": "SS",
+   "target": "槍・弓・器・焙",
+   "rate": "57%",
+   "effectShort": "攻撃 100%上昇 防御 100%上昇 部隊内の「騒速ノ神撃」スキルx25%を攻防効果に加算"
+  }
+ ]
 }

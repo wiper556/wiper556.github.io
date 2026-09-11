@@ -41,5 +41,66 @@
  "wikiOldestComment": "2016-03-07",
  "wikiCommentCount": 70,
  "chGuess": "11章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "神行法",
+   "rank": "D",
+   "afterSkill": "謀殺",
+   "afterRank": "D",
+   "target": "器",
+   "rate": "100%",
+   "effectShort": "速度 35%上昇",
+   "afterTarget": "全",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃戦闘勝利時のみ、敵軍1部隊の武将に追加ダメージ+35"
+  },
+  {
+   "slot": "B",
+   "skill": "義龍双乱撃",
+   "rank": "B",
+   "afterSkill": "義龍双乱撃",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "100%",
+   "effectShort": "攻撃 15%上昇 / 速度 27%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "六道陽炎",
+   "rank": "D",
+   "afterSkill": "戦姫 陽炎",
+   "afterRank": "D",
+   "target": "槍馬",
+   "rate": "15%",
+   "effectShort": "攻撃 45%上昇",
+   "afterTarget": "槍馬",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 7%上昇 / 速度 40%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "花礫",
+   "rank": "B",
+   "afterSkill": "花礫",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "風林火山",
+   "rank": "S",
+   "afterSkill": "神算鬼謀 滅",
+   "afterRank": "A",
+   "target": "槍・弓・馬",
+   "rate": "45%",
+   "effectShort": "攻撃 30%上昇+破壊 15%上昇(TRなし)",
+   "afterTarget": "槍弓器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 24%上昇 / 破壊 46%上昇"
+  }
+ ]
 }

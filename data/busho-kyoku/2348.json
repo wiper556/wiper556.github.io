@@ -41,5 +41,69 @@
  "wikiOldestComment": "2023-07-03",
  "wikiCommentCount": 11,
  "chGuess": "25章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "清賢ノ遊姫",
+   "rank": "A",
+   "afterSkill": "入来神舞",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 140%上昇+防御 140%上昇+部隊内姫武将のスキル発動率+10%・卓越追加確率+25%(模倣不可・特殊効果は自部隊内では重複不可)",
+   "afterTarget": "部隊長",
+   "afterRate": "55%",
+   "afterEffectShort": "部隊長の模倣可能な初期スキルを1.1倍に強化して模倣(TRなし)"
+  },
+  {
+   "slot": "B",
+   "skill": "清賢ノ遊姫",
+   "rank": "A",
+   "afterSkill": "入来神舞",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 140%上昇+防御 140%上昇+部隊内姫武将のスキル発動率+10%・卓越追加確率+25%(模倣不可・特殊効果は自部隊内では重複不可)",
+   "afterTarget": "部隊長",
+   "afterRate": "55%",
+   "afterEffectShort": "部隊長の模倣可能な初期スキルを1.1倍に強化して模倣(TRなし)"
+  },
+  {
+   "slot": "C",
+   "skill": "忌火",
+   "rank": "B",
+   "afterSkill": "忌火",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 44%上昇 / 防御 44%上昇(部隊内姫武将スキル発動率+15%・特殊効果は部隊内重複不可)"
+  },
+  {
+   "slot": "S1",
+   "skill": "入来神舞",
+   "rank": "S",
+   "afterSkill": "飛蝶野分",
+   "afterRank": "B",
+   "target": "部隊長",
+   "rate": "55%",
+   "effectShort": "部隊長の模倣可能な初期スキルを1.1倍に強化して模倣(TRなし)",
+   "afterTarget": "部隊長",
+   "afterRate": "60%",
+   "afterEffectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ)(TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "波濤ノ剛撃",
+   "rank": "S",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 114%上昇+防御 114%上昇+部隊内卓越追加確率+20%(模倣不可・特殊効果は自部隊内では重複不可)",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  }
+ ]
 }

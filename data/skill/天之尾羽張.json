@@ -6,6 +6,30 @@
  "effectSummary": "SS/LV10 確率 100% 攻撃 170%上昇/対象:全\n①攻撃 170%上昇する\n②速度 150%上昇する",
  "sourceCharacters": [
   {
+   "name": "南部晴政（2）",
+   "no": "1181",
+   "slot": "S2",
+   "note": [
+    "南部晴政（2）(1181)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "武田勝頼（3）",
+   "no": "1184",
+   "slot": "S2",
+   "note": [
+    "武田勝頼（3）(1184)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "最上義光（4）",
+   "no": "1192",
+   "slot": "C",
+   "note": [
+    "最上義光（4）(1192)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "前田慶次",
    "no": "1222",
    "slot": "B"
@@ -34,10 +58,37 @@
    ]
   },
   {
+   "name": "百地三太夫-復刻-（2）",
+   "no": "2553",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "百地三太夫-復刻-（2）(2553)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "宇喜多モニカ（2）",
+   "no": "2569",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "宇喜多モニカ（2）(2569)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "茶々（3）",
    "no": "2574",
    "slot": "B",
    "db": "kyoku"
+  },
+  {
+   "name": "立花誾千代（2）",
+   "no": "2588",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "立花誾千代（2）(2588)のsynthesisTable S2枠(2026-09-11)"
+   ]
   }
  ],
  "ownHiddenCandidate": {

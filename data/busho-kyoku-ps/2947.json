@@ -45,5 +45,63 @@
  "wikiOldestComment": "2018-01-16",
  "wikiCommentCount": 29,
  "chGuess": "15章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄壁の備え",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "屈指の勇将",
+   "rank": "D",
+   "afterSkill": "屈指の勇将",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "37%",
+   "effectShort": "攻撃 22%上昇+防御 22%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "玄武の落延",
+   "rank": "B",
+   "afterSkill": "将軍親政",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "防御 40%上昇(兵士被害増加・武将追加ダメージのスキル効果を全て無効化)",
+   "afterTarget": "槍馬",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 7%上昇+防御 7%上昇(戦闘に参加した自軍全部隊に効果)"
+  },
+  {
+   "slot": "S1",
+   "skill": "忠勇烈臣",
+   "rank": "B",
+   "afterSkill": "忠勇烈臣",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "38%",
+   "effectShort": "防御 35%上昇+破壊 15%上昇(武将ランクで効果が変化・ランクアップ毎に効果7%加算)"
+  },
+  {
+   "slot": "S2",
+   "skill": "洞察",
+   "rank": "B",
+   "afterSkill": "洞察",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "防御 7.5%上昇(部隊ランクボーナスで効果が変化)"
+  }
+ ]
 }

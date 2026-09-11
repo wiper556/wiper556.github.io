@@ -43,5 +43,69 @@
  "wikiOldestComment": "2016-07-05",
  "wikiCommentCount": 108,
  "chGuess": "12章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "乗り崩し",
+   "rank": "D",
+   "afterSkill": "鬼刺",
+   "afterRank": "C",
+   "target": "槍馬",
+   "rate": "20%",
+   "effectShort": "攻撃 20%上昇 / 破壊 5%上昇",
+   "afterTarget": "槍馬砲",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "紅蓮赤備",
+   "rank": "B",
+   "afterSkill": "剛勇無双",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍馬砲",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 25%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "赤備 烈火",
+   "rank": "B",
+   "afterSkill": "神算鬼謀",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍器",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 10%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "赤備 鍾馗",
+   "rank": "B",
+   "afterSkill": "赤備 鍾馗",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "27%",
+   "effectShort": "攻撃 ((ランク+1)xコストx2) %上昇 / 武将ランクとコストで効果が変化"
+  },
+  {
+   "slot": "S2",
+   "skill": "風林火山 戦",
+   "rank": "A",
+   "afterSkill": "風林火山",
+   "afterRank": "S",
+   "target": "槍弓馬",
+   "rate": "35%",
+   "effectShort": "攻撃 30%上昇",
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 30%上昇+破壊 15%上昇(TRなし)"
+  }
+ ]
 }

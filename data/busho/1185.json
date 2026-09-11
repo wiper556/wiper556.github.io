@@ -48,5 +48,63 @@
  "wikiOldestComment": "2021-02-06",
  "wikiCommentCount": 38,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "天勇雷槍光陣",
+   "rank": "S",
+   "afterSkill": "天焉相克",
+   "afterRank": "SS",
+   "target": "槍馬器鉄",
+   "rate": "62%",
+   "effectShort": null,
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "70%",
+   "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"
+  },
+  {
+   "slot": "B",
+   "skill": "八目鳴鏑ノ奏",
+   "rank": "SS",
+   "afterSkill": "八目鳴鏑ノ奏",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "37%",
+   "effectShort": "攻撃 2.5%×防御参加武将数(280人)=700.0%"
+  },
+  {
+   "slot": "C",
+   "skill": "天岩戸ノ神域",
+   "rank": "SS",
+   "afterSkill": "天岩戸ノ神域",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "70%",
+   "effectShort": "攻撃 2.8%×防御参加武将数(280人)=784.0%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "天焉相克",
+   "rank": "SS",
+   "afterSkill": "八重言代主神",
+   "afterRank": "SS",
+   "target": "槍・弓・馬",
+   "rate": "70%",
+   "effectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)",
+   "afterTarget": "自身",
+   "afterRate": "70%",
+   "afterEffectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "S2",
+   "skill": "八目鳴鏑ノ奏",
+   "rank": "SS",
+   "afterSkill": "八目鳴鏑ノ奏",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "37%",
+   "effectShort": "攻撃 2.5%×防御参加武将数(280人)=700.0%"
+  }
+ ]
 }

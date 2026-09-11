@@ -12,11 +12,81 @@
    "slot": "移植不可"
   },
   {
+   "name": "島津義久（2）",
+   "no": "1026",
+   "slot": "C",
+   "note": [
+    "島津義久（2）(1026)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "島津義弘",
+   "no": "1045",
+   "slot": "S2",
+   "note": [
+    "島津義弘(1045)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "虎寿丸",
    "no": "1805",
    "slot": "C",
    "note": [
     "虎寿丸(1805)のsynthesisTable C枠(2026-08-23)"
+   ]
+  },
+  {
+   "name": "花舜夫人",
+   "no": "2095",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "花舜夫人(2095)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "島津義久",
+   "no": "2104",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "島津義久(2104)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "島津家久",
+   "no": "2110",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "島津家久(2110)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "島津日新斎",
+   "no": "2718",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "島津日新斎(2718)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "島津義弘（2）",
+   "no": "2903",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "島津義弘（2）(2903)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "花舜夫人-復刻Ⅰ-",
+   "no": "2955",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "花舜夫人-復刻Ⅰ-(2955)のsynthesisTable S2枠(2026-09-11)"
    ]
   },
   {

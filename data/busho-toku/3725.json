@@ -45,5 +45,72 @@
  "wikiOldestComment": "2016-01-14",
  "wikiCommentCount": 119,
  "chGuess": "11章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄砲隊進撃",
+   "rank": "F",
+   "afterSkill": "城破り",
+   "afterRank": "F",
+   "target": "砲",
+   "rate": "8%",
+   "effectShort": "攻撃 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "10%",
+   "afterEffectShort": "破壊 15%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "夜叉の円舞",
+   "rank": "D",
+   "afterSkill": "傾天の嘆き",
+   "afterRank": "B",
+   "target": "弓砲",
+   "rate": "30%",
+   "effectShort": "攻撃 33%上昇",
+   "afterTarget": "弓砲",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 35%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "気丈な覚悟",
+   "rank": "D",
+   "afterSkill": "常世虫",
+   "afterRank": "C",
+   "target": "弓砲器",
+   "rate": "100%",
+   "effectShort": "攻撃 50%上昇 / 戦闘敗北時は自軍兵士被害数+25%",
+   "afterTarget": "槍弓砲",
+   "afterRate": "26%",
+   "afterEffectShort": "攻撃 37%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "常世虫",
+   "rank": "C",
+   "afterSkill": "声遣縦横",
+   "afterRank": "D",
+   "target": "槍弓砲",
+   "rate": "26%",
+   "effectShort": "攻撃 37%上昇",
+   "afterTarget": "槍馬砲",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃 38%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "焔 六冥銭",
+   "rank": "A",
+   "afterSkill": "謀 表裏比興",
+   "afterRank": "S",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 45%上昇"
+  }
+ ]
 }

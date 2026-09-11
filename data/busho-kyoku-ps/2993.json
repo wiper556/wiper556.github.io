@@ -43,5 +43,66 @@
  "wikiOldestComment": "2019-01-17",
  "wikiCommentCount": 33,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "火縄剛撃陣",
+   "rank": "C",
+   "afterSkill": "神速",
+   "afterRank": "A",
+   "target": "砲器",
+   "rate": "20%",
+   "effectShort": "防御 45%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "速度 55%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "伝来ノ島筒",
+   "rank": "D",
+   "afterSkill": "叛将烈破",
+   "afterRank": "B",
+   "target": "砲器",
+   "rate": "5%",
+   "effectShort": "防御 64.8%上昇 / (合流攻撃防御時は必ずスキル発動)",
+   "afterTarget": "槍砲",
+   "afterRate": "32%",
+   "afterEffectShort": "攻撃 36%上昇 / 防御 36%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "月下ノ進撃",
+   "rank": "A",
+   "afterSkill": "月下ノ進撃",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "神降り",
+   "rank": "A",
+   "afterSkill": "神降り",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "天鬼雷砲",
+   "rank": "S",
+   "afterSkill": "八重言代主神",
+   "afterRank": "SS",
+   "target": "槍砲器",
+   "rate": "37%",
+   "effectShort": null,
+   "afterTarget": "自身",
+   "afterRate": "70%",
+   "afterEffectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  }
+ ]
 }

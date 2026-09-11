@@ -15,6 +15,22 @@
    ]
   },
   {
+   "name": "淀",
+   "no": "1035",
+   "slot": "C",
+   "note": [
+    "淀(1035)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "加藤清正",
+   "no": "1043",
+   "slot": "C",
+   "note": [
+    "加藤清正(1043)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "茶々",
    "no": "1810",
    "slot": "C",
@@ -31,12 +47,75 @@
    ]
   },
   {
+   "name": "宇喜多秀家",
+   "no": "2085",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "宇喜多秀家(2085)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "茶々（2）",
+   "no": "2121",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "茶々（2）(2121)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "羽柴秀吉（2）",
+   "no": "2148",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "羽柴秀吉（2）(2148)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "毛利勝永",
+   "no": "2152",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "毛利勝永(2152)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "甲斐姫（2）",
+   "no": "2173",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "甲斐姫（2）(2173)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "小早川隆景（2）",
    "no": "2915",
    "slot": "S1",
    "db": "kyoku",
    "note": [
     "小早川隆景(2915)のsynthesisTable S1枠(2026-08-14)"
+   ]
+  },
+  {
+   "name": "大野治房",
+   "no": "2933",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "大野治房(2933)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "豊臣関白秀吉",
+   "no": "2992",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "豊臣関白秀吉(2992)のsynthesisTable B枠(2026-09-11)"
    ]
   }
  ],

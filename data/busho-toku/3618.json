@@ -46,5 +46,72 @@
  "wikiOldestComment": "2025-02-19",
  "wikiCommentCount": 2,
  "chGuess": "29章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "決死ノ忠言",
+   "rank": "C",
+   "afterSkill": "伊達者",
+   "afterRank": "C",
+   "target": "槍砲器",
+   "rate": "29%",
+   "effectShort": "攻撃 365%上昇 / 合流攻撃時は必ずスキル発動",
+   "afterTarget": "馬砲器",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃 330%上昇 / 合流攻撃時は必ずスキル発動"
+  },
+  {
+   "slot": "B",
+   "skill": "決死ノ忠言",
+   "rank": "C",
+   "afterSkill": "伊達者",
+   "afterRank": "C",
+   "target": "槍砲器",
+   "rate": "29%",
+   "effectShort": "攻撃 365%上昇 / 合流攻撃時は必ずスキル発動",
+   "afterTarget": "馬砲器",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃 330%上昇 / 合流攻撃時は必ずスキル発動"
+  },
+  {
+   "slot": "C",
+   "skill": "決死ノ忠言",
+   "rank": "C",
+   "afterSkill": "伊達者",
+   "afterRank": "C",
+   "target": "槍砲器",
+   "rate": "29%",
+   "effectShort": "攻撃 365%上昇 / 合流攻撃時は必ずスキル発動",
+   "afterTarget": "馬砲器",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃 330%上昇 / 合流攻撃時は必ずスキル発動"
+  },
+  {
+   "slot": "S1",
+   "skill": "伊達者",
+   "rank": "C",
+   "afterSkill": "鉄声",
+   "afterRank": "C",
+   "target": "馬砲器",
+   "rate": "25%",
+   "effectShort": "攻撃 330%上昇 / 合流攻撃時は必ずスキル発動",
+   "afterTarget": "弓砲器",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 285%上昇 / 合流攻撃時は必ずスキル発動"
+  },
+  {
+   "slot": "S2",
+   "skill": "鉄声",
+   "rank": "C",
+   "afterSkill": "新宮党",
+   "afterRank": "C",
+   "target": "弓砲器",
+   "rate": "20%",
+   "effectShort": "攻撃 285%上昇 / 合流攻撃時は必ずスキル発動",
+   "afterTarget": "槍弓馬",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃 96%上昇 / 合流攻撃時は必ずスキル発動"
+  }
+ ]
 }

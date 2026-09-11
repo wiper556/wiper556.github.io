@@ -45,5 +45,63 @@
  "wikiOldestComment": "2018-12-03",
  "wikiCommentCount": 27,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊布陣",
+   "rank": "E",
+   "afterSkill": "弓隊堅陣",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "15%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "弓",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "歩き巫女",
+   "rank": "D",
+   "afterSkill": "蒼刃ノ輔曳",
+   "afterRank": "D",
+   "target": "弓器",
+   "rate": "38%",
+   "effectShort": "防御 43%上昇",
+   "afterTarget": "弓器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 27%上昇 / (攻撃部隊に兵器兵科がいれば効果2倍)"
+  },
+  {
+   "slot": "C",
+   "skill": "焔王の教え",
+   "rank": "C",
+   "afterSkill": "焔王の教え",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "謀君蹴撃",
+   "rank": "B",
+   "afterSkill": "謀君蹴撃",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "34%",
+   "effectShort": "防御 60%上昇 確率：+34% / 速度 35%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "忍祖千里眼",
+   "rank": "B",
+   "afterSkill": "忍祖千里眼",
+   "afterRank": "B",
+   "target": "槍砲器",
+   "rate": "40%/100%",
+   "effectShort": "防御 49%上昇(確率40%)+速度 30%上昇(確率100%、加勢出陣時は速度効果3倍)"
+  }
+ ]
 }

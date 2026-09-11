@@ -15,12 +15,55 @@
    ]
   },
   {
+   "name": "徳川家康（4）【覇】",
+   "no": "1041",
+   "slot": "C",
+   "note": [
+    "徳川家康（4）【覇】(1041)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "徳川家康-復刻-【覇】",
+   "no": "1958",
+   "slot": "B",
+   "note": [
+    "徳川家康-復刻-【覇】(1958)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "徳川秀忠",
+   "no": "2109",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "徳川秀忠(2109)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "藤堂高虎",
+   "no": "2147",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "藤堂高虎(2147)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "三浦按針",
    "no": "2719",
    "slot": "C",
    "db": "kyoku",
    "note": [
     "三浦按針(2719)のsynthesisTable C枠(2026-08-16、担当K6)"
+   ]
+  },
+  {
+   "name": "水野勝成",
+   "no": "2720",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "水野勝成(2720)のsynthesisTable S2枠(2026-09-11)"
    ]
   }
  ],

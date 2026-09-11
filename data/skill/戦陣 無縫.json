@@ -6,6 +6,24 @@
  "effectSummary": "A/LV10 確率 42% 防御上昇/対象:全\n①部隊総コストに応じて防御効果が変化する(LV10基準80%上昇)",
  "sourceCharacters": [
   {
+   "name": "龍勝院",
+   "no": "2345",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "龍勝院(2345)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "振姫",
+   "no": "2351",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "振姫(2351)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "津軽為信（2）",
    "no": "2359",
    "slot": "S2",

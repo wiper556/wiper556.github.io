@@ -46,5 +46,72 @@
  "wikiOldestComment": "2025-02-19",
  "wikiCommentCount": 1,
  "chGuess": "29章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "仙府幻法",
+   "rank": "C",
+   "afterSkill": "黄影射陣",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": null,
+   "afterRate": null,
+   "afterEffectShort": null
+  },
+  {
+   "slot": "B",
+   "skill": "仙府幻法",
+   "rank": "C",
+   "afterSkill": "黄影射陣",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": null,
+   "afterRate": null,
+   "afterEffectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "仙府幻法",
+   "rank": "C",
+   "afterSkill": "黄影射陣",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": null,
+   "afterRate": null,
+   "afterEffectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "黄影射陣",
+   "rank": "C",
+   "afterSkill": "黒鎖ノ悌道",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓馬器",
+   "afterRate": "42%",
+   "afterEffectShort": "防御 150%上昇 / このスキルを所持する武将の所有者が影城主のとき、防御効果2倍"
+  },
+  {
+   "slot": "S2",
+   "skill": "七騎筆頭",
+   "rank": "C",
+   "afterSkill": "野太刀",
+   "afterRank": "C",
+   "target": "槍砲器",
+   "rate": "40%",
+   "effectShort": "防御 210%上昇 / このスキルを所持する武将の所有者が影城主のとき、防御効果1.5倍",
+   "afterTarget": "全",
+   "afterRate": "17%",
+   "afterEffectShort": "攻撃 77%上昇 / 防御 77%上昇"
+  }
+ ]
 }

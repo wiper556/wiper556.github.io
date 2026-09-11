@@ -6,6 +6,86 @@
  "effectSummary": "A/LV10 確率 45% 攻撃 66%上昇/防御 66%上昇/対象:砲・器",
  "sourceCharacters": [
   {
+   "name": "細川ガラシャ",
+   "no": "1974",
+   "slot": "A",
+   "note": [
+    "細川ガラシャ(1974)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "高坂昌信（2）",
+   "no": "2234",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "高坂昌信（2）(2234)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "虎御前",
+   "no": "2235",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "虎御前(2235)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "安芸国虎",
+   "no": "2236",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "安芸国虎(2236)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "春日局（2）",
+   "no": "2249",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "春日局（2）(2249)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "荒木村重",
+   "no": "2265",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "荒木村重(2265)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "太原雪斎（2）",
+   "no": "2267",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "太原雪斎（2）(2267)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "明石全登（2）",
+   "no": "2408",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "明石全登（2）(2408)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "近衛前久",
+   "no": "2411",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "近衛前久(2411)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "高山右近",
    "no": "2412",
    "slot": "S2",
@@ -22,6 +102,51 @@
    "no": "2416",
    "slot": "S2",
    "db": "kyoku"
+  },
+  {
+   "name": "春日虎綱",
+   "no": "2428",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "春日虎綱(2428)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "小少将-復刻-",
+   "no": "2523",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "小少将-復刻-(2523)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "真田信繁",
+   "no": "2543",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "真田信繁(2543)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "津田監物",
+   "no": "2772",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "津田監物(2772)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "甲賀弦之介",
+   "no": "2988",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "甲賀弦之介(2988)のsynthesisTable B枠(2026-09-11)"
+   ]
   },
   {
    "name": "本多正信",

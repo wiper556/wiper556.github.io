@@ -44,5 +44,63 @@
  "wikiOldestComment": "2017-08-04",
  "wikiCommentCount": 93,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鬼刺",
+   "rank": "C",
+   "afterSkill": "乗り崩し",
+   "afterRank": "D",
+   "target": "槍馬砲",
+   "rate": "15%",
+   "effectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍馬",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 20%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "剛勇無双",
+   "rank": "B",
+   "afterSkill": "剛勇無双",
+   "afterRank": "B",
+   "target": "槍馬砲",
+   "rate": "30%",
+   "effectShort": "攻撃 25%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "質実剛健",
+   "rank": "B",
+   "afterSkill": "質実剛健",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "27%",
+   "effectShort": "攻撃防御 ((1+武将ランク)x武将コストx1.9) %上昇 / 武将ランクとコストで効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "武人の浄財",
+   "rank": "C",
+   "afterSkill": "攻城の妙技",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "銅銭獲得率5%(参加した対人攻撃/防御で倒した兵数×銅銭獲得率=獲得銅銭)",
+   "afterTarget": "全",
+   "afterRate": "10%",
+   "afterEffectShort": "戦闘勝利時のみ防御側の兵士被害数+40%"
+  },
+  {
+   "slot": "S2",
+   "skill": "武功浄財",
+   "rank": "A",
+   "afterSkill": "武功浄財",
+   "afterRank": "A",
+   "target": "合流",
+   "rate": "20%",
+   "effectShort": "銅銭獲得率2.5%(対人合流攻撃で倒した兵数に応じて攻撃参加者全員が銅銭獲得)"
+  }
+ ]
 }

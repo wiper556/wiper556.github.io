@@ -42,5 +42,72 @@
  "wikiOldestComment": "2023-11-02",
  "wikiCommentCount": 16,
  "chGuess": "26章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "不撓ノ仁将",
+   "rank": "A",
+   "afterSkill": "千兵ノ耀姫",
+   "afterRank": "A",
+   "target": "槍・砲・器",
+   "rate": "35%",
+   "effectShort": "防御 70%上昇+破壊 100%上昇((1.3×防御参加武将数)%を防御効果に加算・模倣不可)",
+   "afterTarget": "弓馬器騎",
+   "afterRate": "50%",
+   "afterEffectShort": "兵站 / 防御 170%上昇 破壊 80%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "不撓ノ仁将",
+   "rank": "A",
+   "afterSkill": "千兵ノ耀姫",
+   "afterRank": "A",
+   "target": "槍・砲・器",
+   "rate": "35%",
+   "effectShort": "防御 70%上昇+破壊 100%上昇((1.3×防御参加武将数)%を防御効果に加算・模倣不可)",
+   "afterTarget": "弓馬器騎",
+   "afterRate": "50%",
+   "afterEffectShort": "兵站 / 防御 170%上昇 破壊 80%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "戦陣 凪",
+   "rank": "A",
+   "afterSkill": "海神ノ浮船",
+   "afterRank": "SS",
+   "target": "全 飛翔2",
+   "rate": "60%",
+   "effectShort": "防御 110%上昇(飛翔2・自軍防御参加武将が30以上の時、防御効果2倍)",
+   "afterTarget": "全 飛翔4",
+   "afterRate": "48%",
+   "afterEffectShort": "防御 (3.5×防御参加武将数)%上昇(敵軍飛翔持ち4人未満の時通常武将ダメージを受けない)"
+  },
+  {
+   "slot": "S1",
+   "skill": "千兵ノ耀姫",
+   "rank": "A",
+   "afterSkill": "龍神ノ加護",
+   "afterRank": "A",
+   "target": "弓馬器騎",
+   "rate": "50%",
+   "effectShort": "兵站 / 防御 170%上昇 破壊 80%上昇",
+   "afterTarget": "馬・砲・器",
+   "afterRate": "46%",
+   "afterEffectShort": "防御 135%上昇+本丸防御陣形配置時コスト消費-0.5(模倣不可)"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 凪",
+   "rank": "A",
+   "afterSkill": "海神ノ浮船",
+   "afterRank": "SS",
+   "target": "全 飛翔2",
+   "rate": "60%",
+   "effectShort": "防御 110%上昇(飛翔2・自軍防御参加武将が30以上の時、防御効果2倍)",
+   "afterTarget": "全 飛翔4",
+   "afterRate": "48%",
+   "afterEffectShort": "防御 (3.5×防御参加武将数)%上昇(敵軍飛翔持ち4人未満の時通常武将ダメージを受けない)"
+  }
+ ]
 }

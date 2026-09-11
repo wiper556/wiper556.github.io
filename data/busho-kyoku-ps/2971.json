@@ -46,5 +46,66 @@
  "wikiOldestComment": "2016-12-24",
  "wikiCommentCount": 19,
  "chGuess": "13章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄壁の備え",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "槍陣の極み",
+   "rank": "B",
+   "afterSkill": "柳生新陰流",
+   "afterRank": "A",
+   "target": "槍",
+   "rate": "30%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "将",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 40%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "賢女烈婦",
+   "rank": "B",
+   "afterSkill": "賢女烈婦",
+   "afterRank": "B",
+   "target": "槍弓",
+   "rate": "30%",
+   "effectShort": "防御 33%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "援槍飛檄",
+   "rank": "B",
+   "afterSkill": "援槍飛檄",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "34%",
+   "effectShort": "防御 36%上昇 / (自領以外の加勢で効果2倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "天威日輪",
+   "rank": "S",
+   "afterSkill": "天鎖燎原陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "30%",
+   "afterEffectShort": null
+  }
+ ]
 }

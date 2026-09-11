@@ -12,6 +12,38 @@
  ],
  "sourceCharacters": [
   {
+   "name": "蘆名盛氏（2）【覇】",
+   "no": "1154",
+   "slot": "S1",
+   "note": [
+    "蘆名盛氏（2）【覇】(1154)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "織田信長（6）【覇】",
+   "no": "1166",
+   "slot": "S1",
+   "note": [
+    "織田信長（6）【覇】(1166)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "足利義昭（3）【覇】",
+   "no": "1178",
+   "slot": "S1",
+   "note": [
+    "足利義昭（3）【覇】(1178)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "宇喜多直家（2）",
+   "no": "1187",
+   "slot": "C",
+   "note": [
+    "宇喜多直家（2）(1187)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "今川義元（4）【覇】",
    "no": "1203",
    "slot": "C"
@@ -37,6 +69,30 @@
    "slot": "A"
   },
   {
+   "name": "伊達政宗-復刻-（4）【覇】",
+   "no": "1991",
+   "slot": "S1",
+   "note": [
+    "伊達政宗-復刻-（4）【覇】(1991)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "明智光秀（3）【覇】",
+   "no": "1994",
+   "slot": "S2",
+   "note": [
+    "明智光秀（3）【覇】(1994)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "織田信長-復刻-（5）【覇】",
+   "no": "1997",
+   "slot": "S1",
+   "note": [
+    "織田信長-復刻-（5）【覇】(1997)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "長尾景虎（3）",
    "no": "10064",
    "slot": "A"
@@ -52,6 +108,51 @@
    "no": "2458",
    "slot": "S1",
    "db": "kyoku"
+  },
+  {
+   "name": "フロイス",
+   "no": "2465",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "フロイス(2465)のsynthesisTable S1枠(2026-08-16、自己参照。ixanary.com/skills/星読ノ聖賢とixawiki BushoCard/2465の2ソース確認)"
+   ]
+  },
+  {
+   "name": "内藤如安-復刻-",
+   "no": "2513",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "内藤如安-復刻-(2513)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "淀-復刻-",
+   "no": "2557",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "淀-復刻-(2557)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "果心居士-復刻Ⅱ-",
+   "no": "2580",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "果心居士-復刻Ⅱ-(2580)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "愛姫（4）",
+   "no": "2584",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "愛姫（4）(2584)のsynthesisTable S1枠(2026-09-11)"
+   ]
   },
   {
    "name": "相楽左之助",
@@ -76,15 +177,6 @@
    "note": [
     "千姫(2840)のsynthesisTable B枠(2026-08-15)"
    ]
-  },
-  {
-   "name": "フロイス",
-   "no": "2465",
-   "slot": "S1",
-   "db": "kyoku",
-   "note": [
-    "フロイス(2465)のsynthesisTable S1枠(2026-08-16、自己参照。ixanary.com/skills/星読ノ聖賢とixawiki BushoCard/2465の2ソース確認)"
-   ]
   }
  ],
  "ownHiddenCandidate": {
@@ -96,6 +188,12 @@
    "level": "LV10",
    "points": "-",
    "effect": "自身　確率 70% / 初期スキル(戦闘スキルのみ)を模倣(1倍)"
+  }
+ ],
+ "grantedViaSkills": [
+  {
+   "skill": "覇龍千架砲",
+   "rank": "S"
   }
  ]
 }

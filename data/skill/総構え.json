@@ -7,6 +7,30 @@
  "categoryLinks": [],
  "sourceCharacters": [
   {
+   "name": "長宗我部元親（3）",
+   "no": "1059",
+   "slot": "A",
+   "note": [
+    "長宗我部元親（3）(1059)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "福島正則（2）",
+   "no": "1071",
+   "slot": "A",
+   "note": [
+    "福島正則（2）(1071)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "北条氏政（2）",
+   "no": "1086",
+   "slot": "B",
+   "note": [
+    "北条氏政（2）(1086)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "北条氏政",
    "no": "2073",
    "slot": "移植不可",
@@ -16,12 +40,102 @@
    ]
   },
   {
+   "name": "瑞渓院",
+   "no": "2086",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "瑞渓院(2086)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "黄梅院",
+   "no": "2123",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "黄梅院(2123)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "長野業正",
+   "no": "2145",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "長野業正(2145)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "慶誾尼",
+   "no": "2156",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "慶誾尼(2156)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "曲直瀬道三-復刻Ⅰ-",
+   "no": "2502",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "曲直瀬道三-復刻Ⅰ-(2502)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "桃源院",
+   "no": "2725",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "桃源院(2725)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "北条氏綱",
    "no": "2739",
    "slot": "A",
    "db": "kyoku",
    "note": [
     "北条氏綱(2739)のsynthesisTable A枠(2026-08-16、担当K6)"
+   ]
+  },
+  {
+   "name": "足利義晴",
+   "no": "2750",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "足利義晴(2750)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "九戸政実",
+   "no": "2914",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "九戸政実(2914)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "黄梅院-復刻Ⅰ-",
+   "no": "2959",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "黄梅院-復刻Ⅰ-(2959)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "瑞渓院-復刻-",
+   "no": "2963",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "瑞渓院-復刻-(2963)のsynthesisTable B枠(2026-09-11)"
    ]
   },
   {

@@ -7,12 +7,29 @@
  "categoryLinks": [],
  "sourceCharacters": [
   {
+   "name": "明智光秀（3）【覇】",
+   "no": "1994",
+   "slot": "S1",
+   "note": [
+    "明智光秀（3）【覇】(1994)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "淀",
    "no": "2704",
    "slot": "移植不可",
    "db": "kyoku",
    "note": [
     "淀(2704)の初期スキル。淀自身のsynthesisTableのA/B/C/S1/S2のどの枠にも載らないため移植不可(2026-08-16、担当K6)。"
+   ]
+  },
+  {
+   "name": "春日局",
+   "no": "2726",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "春日局(2726)のsynthesisTable S1枠(2026-09-11)"
    ]
   },
   {

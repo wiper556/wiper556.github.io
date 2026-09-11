@@ -44,5 +44,63 @@
  "wikiOldestComment": "2018-03-05",
  "wikiCommentCount": 39,
  "chGuess": "15章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "花椿",
+   "rank": "D",
+   "afterSkill": "花椿",
+   "afterRank": "D",
+   "target": "槍砲器",
+   "rate": "32%",
+   "effectShort": "防御 39%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "神虎吼陣",
+   "rank": "B",
+   "afterSkill": "神虎吼陣",
+   "afterRank": "B",
+   "target": "槍馬砲器",
+   "rate": "13%",
+   "effectShort": "防御 42%上昇 / 「陣」「同盟陣」防御時は100%発動"
+  },
+  {
+   "slot": "C",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "川並衆",
+   "rank": "B",
+   "afterSkill": "川並衆",
+   "afterRank": "B",
+   "target": "槍弓砲器",
+   "rate": "44%",
+   "effectShort": "防御 60%上昇(自軍5部隊以下の防御時効果1.5倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "覇国無双",
+   "rank": "S",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "攻撃 40%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  }
+ ]
 }

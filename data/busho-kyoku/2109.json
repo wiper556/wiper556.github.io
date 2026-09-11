@@ -44,5 +44,72 @@
  "wikiOldestComment": "2014-06-04",
  "wikiCommentCount": 168,
  "chGuess": "8章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "矢雨備え",
+   "rank": "D",
+   "afterSkill": "三段撃 神速",
+   "afterRank": "C",
+   "target": "弓器",
+   "rate": "30%",
+   "effectShort": "防御 25%上昇",
+   "afterTarget": "砲",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 12%上昇 / 破壊 15%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "三河堅陣",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "武辺者見参",
+   "rank": "B",
+   "afterSkill": "車懸り",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "攻撃 17%上昇",
+   "afterTarget": "全",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "鬼笛乃可勢",
+   "rank": "B",
+   "afterSkill": "三河魂",
+   "afterRank": "S",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍弓砲",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 25%上昇+破壊 25%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "覇道 不如帰",
+   "rank": "S",
+   "afterSkill": "騎神",
+   "afterRank": "SS",
+   "target": "槍馬砲",
+   "rate": "30%",
+   "effectShort": "攻撃 30%上昇+破壊 30%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 (コストx4.5) %+速度 50%上昇"
+  }
+ ]
 }

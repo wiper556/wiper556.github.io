@@ -43,5 +43,63 @@
  "wikiOldestComment": "2017-07-06",
  "wikiCommentCount": 21,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "懐刀",
+   "rank": "D",
+   "afterSkill": "懐刀",
+   "afterRank": "D",
+   "target": "馬砲器",
+   "rate": "32%",
+   "effectShort": "防御 35%上昇 / 武将ランクで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "慧眼機略",
+   "rank": "A",
+   "afterSkill": "騎神烈破",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "馬",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 35%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "鬼謀 国砕",
+   "rank": "B",
+   "afterSkill": "鬼謀 国砕",
+   "afterRank": "B",
+   "target": "上級器",
+   "rate": "35%",
+   "effectShort": "攻撃 10%上昇+破壊 25%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "破軍星",
+   "rank": "SS",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "馬・砲・器",
+   "rate": "40%",
+   "effectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "S2",
+   "skill": "君臣豊楽",
+   "rank": "B",
+   "afterSkill": "捨て奸",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "15%",
+   "effectShort": "防御 40%上昇",
+   "afterTarget": "弓砲器",
+   "afterRate": "15%",
+   "afterEffectShort": "防御 37%上昇"
+  }
+ ]
 }

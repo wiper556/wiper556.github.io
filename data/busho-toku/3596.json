@@ -44,5 +44,72 @@
  "wikiOldestComment": "2024-10-05",
  "wikiCommentCount": 4,
  "chGuess": "28章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "柳心剣",
+   "rank": "C",
+   "afterSkill": "苛砲",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓砲器",
+   "afterRate": "15%",
+   "afterEffectShort": "防御 280%上昇 / 自拠点防御時は100%発動"
+  },
+  {
+   "slot": "B",
+   "skill": "柳心剣",
+   "rank": "C",
+   "afterSkill": "苛砲",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓砲器",
+   "afterRate": "15%",
+   "afterEffectShort": "防御 280%上昇 / 自拠点防御時は100%発動"
+  },
+  {
+   "slot": "C",
+   "skill": "柳心剣",
+   "rank": "C",
+   "afterSkill": "苛砲",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓砲器",
+   "afterRate": "15%",
+   "afterEffectShort": "防御 280%上昇 / 自拠点防御時は100%発動"
+  },
+  {
+   "slot": "S1",
+   "skill": "苛砲",
+   "rank": "C",
+   "afterSkill": "花菱ノ礎",
+   "afterRank": "C",
+   "target": "弓砲器",
+   "rate": "15%",
+   "effectShort": "防御 280%上昇 / 自拠点防御時は100%発動",
+   "afterTarget": "弓器焙",
+   "afterRate": "12%",
+   "afterEffectShort": "防御 89%上昇 / 自拠点防御時は100%発動"
+  },
+  {
+   "slot": "S2",
+   "skill": "越州僧君",
+   "rank": "C",
+   "afterSkill": "籠城の妙技",
+   "afterRank": "A",
+   "target": "槍器鉄",
+   "rate": "10%",
+   "effectShort": "防御 105%上昇 / 自拠点防御時は100%発動",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "防御 50%上昇(卓越:追加確率15%で防御効果が3倍)"
+  }
+ ]
 }

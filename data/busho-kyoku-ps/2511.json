@@ -45,5 +45,66 @@
  ],
  "wikiOldestComment": "2019-08-04",
  "wikiCommentCount": 29,
- "chGuess": "17-18章"
+ "chGuess": "17-18章",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦慄ノ美姫",
+   "rank": "D",
+   "afterSkill": "新館御料人",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "32%",
+   "effectShort": "攻撃 46%上昇 / 防御 46%上昇",
+   "afterTarget": "弓砲器",
+   "afterRate": "70%",
+   "afterEffectShort": "攻撃 57.6%上昇 / 防御 57.6%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "戦陣 無双",
+   "rank": "A",
+   "afterSkill": "無双英傑",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 67%上昇+防御 67%上昇",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 99.9%上昇 防御 99.9%上昇 部隊消費コストを0.5低下 (特殊効果は模倣不可)"
+  },
+  {
+   "slot": "C",
+   "skill": "白夜ノ才姫",
+   "rank": "B",
+   "afterSkill": "白夜ノ才姫",
+   "afterRank": "B",
+   "target": "弓馬器",
+   "rate": "35%",
+   "effectShort": "防御 57%上昇 / 他城主の拠点に加勢中にも、部隊の兵士編成を行える"
+  },
+  {
+   "slot": "S1",
+   "skill": "東国一ノ美女",
+   "rank": "A",
+   "afterSkill": "東国一ノ美女",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "傾国ノ美姫",
+   "rank": "B",
+   "afterSkill": "宿木",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "34%",
+   "effectShort": "防御 26+(ランクx4) %上昇 確率：+34% / 速度 30%上昇 確率：+100% / 防御効果は武将ランクで変化",
+   "afterTarget": "部隊長",
+   "afterRate": "55%",
+   "afterEffectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ)"
+  }
+ ]
 }

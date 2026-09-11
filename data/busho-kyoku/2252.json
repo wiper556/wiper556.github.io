@@ -41,5 +41,69 @@
  "wikiOldestComment": "2019-07-02",
  "wikiCommentCount": 17,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "騎馬隊突撃",
+   "rank": "F",
+   "afterSkill": "騎馬隊奇襲",
+   "afterRank": "E",
+   "target": "馬",
+   "rate": "15%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "馬",
+   "afterRate": "30%",
+   "afterEffectShort": "馬攻：12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "夜叉進軍",
+   "rank": "D",
+   "afterSkill": "猿臂ノ術",
+   "afterRank": "B",
+   "target": "弓馬",
+   "rate": "100%",
+   "effectShort": "攻撃 35%上昇 / 速度 35%上昇",
+   "afterTarget": "槍弓器",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 25%上昇 / 速度 40%上昇 / 部隊内で最も速い兵士速度で移動"
+  },
+  {
+   "slot": "C",
+   "skill": "赤童百鬼",
+   "rank": "B",
+   "afterSkill": "鬼神刺",
+   "afterRank": "B",
+   "target": "槍馬器",
+   "rate": "100%",
+   "effectShort": "攻撃 22%上昇 / 破壊 19%上昇 / 速度 33%上昇",
+   "afterTarget": "全",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 (コスト×10) %上昇 / 武将コストによって効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "三斎流具足",
+   "rank": "B",
+   "afterSkill": "三斎流具足",
+   "afterRank": "B",
+   "target": "馬器騎",
+   "rate": "100%",
+   "effectShort": "攻撃 48%上昇 / 破壊 35%上昇 / 速度 35%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "騎迅強襲",
+   "rank": "B",
+   "afterSkill": "遁世影武者",
+   "afterRank": "B",
+   "target": "槍・馬・器",
+   "rate": "30%/100%",
+   "effectShort": "攻撃 35%上昇(確率30%)+速度 25%上昇",
+   "afterTarget": "部隊長",
+   "afterRate": "50%",
+   "afterEffectShort": "所属部隊の部隊長が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  }
+ ]
 }

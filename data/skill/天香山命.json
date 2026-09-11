@@ -12,6 +12,62 @@
  ],
  "sourceCharacters": [
   {
+   "name": "太田道灌",
+   "no": "1146",
+   "slot": "S1",
+   "note": [
+    "太田道灌(1146)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "松永久秀（2）",
+   "no": "1150",
+   "slot": "S1",
+   "note": [
+    "松永久秀（2）(1150)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "北条氏綱",
+   "no": "1158",
+   "slot": "S1",
+   "note": [
+    "北条氏綱(1158)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "徳川家康（8）【覇】",
+   "no": "1168",
+   "slot": "A",
+   "note": [
+    "徳川家康（8）【覇】(1168)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "上杉謙信（4）",
+   "no": "1173",
+   "slot": "S1",
+   "note": [
+    "上杉謙信（4）(1173)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "武田勝頼（3）",
+   "no": "1184",
+   "slot": "C",
+   "note": [
+    "武田勝頼（3）(1184)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "本多忠勝",
+   "no": "1193",
+   "slot": "C",
+   "note": [
+    "本多忠勝(1193)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "柴田勝家（4）",
    "no": "1216",
    "slot": "C"
@@ -37,6 +93,24 @@
    "db": "kyoku",
    "note": [
     "小幡信貞(2486)のsynthesisTable A枠(2026-08-16)"
+   ]
+  },
+  {
+   "name": "果心居士-復刻Ⅱ-",
+   "no": "2580",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "果心居士-復刻Ⅱ-(2580)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "あやめ",
+   "no": "2581",
+   "slot": "B・C",
+   "db": "kyoku",
+   "note": [
+    "あやめ(2581)のsynthesisTable B・C枠(2026-09-11)"
    ]
   },
   {
@@ -86,5 +160,19 @@
  ],
  "notes": [
   "柴田勝家(No.1216)synthesisTable候補C・ixanary生HTML確認済み(TRなし、LV10のみ)"
+ ],
+ "grantedViaSkills": [
+  {
+   "skill": "天謀爆裂ノ調",
+   "rank": "S"
+  },
+  {
+   "skill": "天刻禄寿",
+   "rank": "S"
+  },
+  {
+   "skill": "車懸り 魔滅",
+   "rank": "S"
+  }
  ]
 }

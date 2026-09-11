@@ -41,5 +41,72 @@
  "wikiOldestComment": "2024-10-19",
  "wikiCommentCount": 1,
  "chGuess": "28章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "月衛",
+   "rank": "C",
+   "afterSkill": "籠鳥ノ安息",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓馬器",
+   "afterRate": "45%",
+   "afterEffectShort": "防御 125%上昇 / 自拠点防御時は防御効果2倍"
+  },
+  {
+   "slot": "B",
+   "skill": "月衛",
+   "rank": "C",
+   "afterSkill": "籠鳥ノ安息",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓馬器",
+   "afterRate": "45%",
+   "afterEffectShort": "防御 125%上昇 / 自拠点防御時は防御効果2倍"
+  },
+  {
+   "slot": "C",
+   "skill": "月衛",
+   "rank": "C",
+   "afterSkill": "籠鳥ノ安息",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓馬器",
+   "afterRate": "45%",
+   "afterEffectShort": "防御 125%上昇 / 自拠点防御時は防御効果2倍"
+  },
+  {
+   "slot": "S1",
+   "skill": "籠鳥ノ安息",
+   "rank": "C",
+   "afterSkill": "忌籠ノ計",
+   "afterRank": "A",
+   "target": "弓馬器",
+   "rate": "45%",
+   "effectShort": "防御 125%上昇 / 自拠点防御時は防御効果2倍",
+   "afterTarget": "槍弓器鉄",
+   "afterRate": "38%",
+   "afterEffectShort": "防御 62%上昇 / 自拠点防御時は防御効果3倍"
+  },
+  {
+   "slot": "S2",
+   "skill": "大樹ノ萌芽",
+   "rank": "C",
+   "afterSkill": "覇・太虚国崩",
+   "afterRank": "B",
+   "target": "槍弓馬器",
+   "rate": "70%",
+   "effectShort": "防御 55%上昇 / 自拠点防御時は防御効果2倍",
+   "afterTarget": "全",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 75%上昇"
+  }
+ ]
 }

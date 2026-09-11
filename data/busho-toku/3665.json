@@ -41,5 +41,66 @@
   "2026-08-30: 鍛錬(TR)が無いことを明記した。うぐさんの規則で**鍛錬が登場したのは No.1263 が追加された28章から**であり、特 は現在まで鍛錬の追加が無い。データもそれを裏付けており、27章のカードは LV10 のみ・28章のカードは LV10〜TR5 を持つ。**28章以降で鍛錬の無い武将も居るため、そちらには何も書いていない。**"
  ],
  "wikiOldestComment": null,
- "wikiCommentCount": 0
+ "wikiCommentCount": 0,
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "八虎筆頭",
+   "rank": "C",
+   "afterSkill": "一千烈刃",
+   "afterRank": "C",
+   "target": "槍弓砲",
+   "rate": "45%",
+   "effectShort": "攻撃 70%上昇 / 破壊 50%上昇 / (合流攻撃時、攻撃効果4倍)",
+   "afterTarget": "槍弓馬",
+   "afterRate": "56%",
+   "afterEffectShort": "攻撃 35%上昇 破壊 50%上昇 / (合流攻撃時、攻撃効果3倍)"
+  },
+  {
+   "slot": "B",
+   "skill": "烈忠鋼陣",
+   "rank": "C",
+   "afterSkill": "八虎筆頭",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍弓砲",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 70%上昇 / 破壊 50%上昇 / (合流攻撃時、攻撃効果4倍)"
+  },
+  {
+   "slot": "C",
+   "skill": "河州ノ鋭才",
+   "rank": "C",
+   "afterSkill": "河州ノ鋭才",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "河州ノ鋭才",
+   "rank": "C",
+   "afterSkill": "河州ノ鋭才",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "八虎筆頭",
+   "rank": "C",
+   "afterSkill": "一千烈刃",
+   "afterRank": "C",
+   "target": "槍弓砲",
+   "rate": "45%",
+   "effectShort": "攻撃 70%上昇 / 破壊 50%上昇 / (合流攻撃時、攻撃効果4倍)",
+   "afterTarget": "槍弓馬",
+   "afterRate": "56%",
+   "afterEffectShort": "攻撃 35%上昇 破壊 50%上昇 / (合流攻撃時、攻撃効果3倍)"
+  }
+ ]
 }

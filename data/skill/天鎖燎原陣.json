@@ -1,0 +1,197 @@
+{
+ "name": "天鎖燎原陣",
+ "rank": "SS",
+ "baseRate": 30.0,
+ "target": "全",
+ "effectSummary": "SS/LV10 確率 30% 防御 (部隊ランクボーナス×15) %上昇 / ★28 防御 135%上昇/対象:全",
+ "categoryLinks": [],
+ "sourceCharacters": [
+  {
+   "name": "斎藤道三",
+   "no": "1065",
+   "slot": "S2",
+   "note": [
+    "斎藤道三(1065)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "尼子晴久",
+   "no": "1067",
+   "slot": "S1",
+   "note": [
+    "尼子晴久(1067)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "福島正則（2）",
+   "no": "1071",
+   "slot": "S2",
+   "note": [
+    "福島正則（2）(1071)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "小早川秀秋",
+   "no": "1077",
+   "slot": "S2",
+   "note": [
+    "小早川秀秋(1077)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "織田信長（4）【覇】",
+   "no": "1082",
+   "slot": "S2",
+   "note": [
+    "織田信長（4）【覇】(1082)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "豊臣秀吉（4）",
+   "no": "1083",
+   "slot": "S1",
+   "note": [
+    "豊臣秀吉（4）(1083)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "柴田勝家（2）",
+   "no": "1089",
+   "slot": "S2",
+   "note": [
+    "柴田勝家（2）(1089)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "三好長慶（2）【覇】",
+   "no": "1094",
+   "slot": "C",
+   "note": [
+    "三好長慶（2）【覇】(1094)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "大内義隆",
+   "no": "1104",
+   "slot": "C",
+   "note": [
+    "大内義隆(1104)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "宇喜多直家",
+   "no": "1129",
+   "slot": "S2",
+   "note": [
+    "宇喜多直家(1129)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "尼子経久（3）【覇】",
+   "no": "1155",
+   "slot": "B",
+   "note": [
+    "尼子経久（3）【覇】(1155)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "北条氏綱",
+   "no": "1158",
+   "slot": "C",
+   "note": [
+    "北条氏綱(1158)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "一条兼定",
+   "no": "1162",
+   "slot": "B",
+   "note": [
+    "一条兼定(1162)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "大友宗麟（3）",
+   "no": "1164",
+   "slot": "C",
+   "note": [
+    "大友宗麟（3）(1164)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "龍造寺隆信",
+   "no": "1165",
+   "slot": "C",
+   "note": [
+    "龍造寺隆信(1165)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "お市-復刻-",
+   "no": "1951",
+   "slot": "S1",
+   "note": [
+    "お市-復刻-(1951)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "真田昌幸-復刻-",
+   "no": "1961",
+   "slot": "S1",
+   "note": [
+    "真田昌幸-復刻-(1961)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "足利義昭-復刻-",
+   "no": "1976",
+   "slot": "S1",
+   "note": [
+    "足利義昭-復刻-(1976)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "石田三成（2）",
+   "no": "2930",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "石田三成（2）(2930)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  }
+ ],
+ "notes": [
+  "ixanary.com(skills/天鎖燎原陣)から登録(2026-08-14)。S以上のスキルはページを作る決まり(S-01)にもとづく新規作成。",
+  "対象・確率・効果文はixanaryの表記をうちの書式に直したもの。categoryLinksとsourceCharactersは各武将の登録時に追記する。",
+  "ownHiddenCandidateは、このスキルが1次候補として載っている枠(1065 斎藤道三 S2枠)の2次候補から(S-08)。"
+ ],
+ "trTable": [
+  {
+   "level": "LV10",
+   "points": "-",
+   "effect": "全　確率 30% / 防御 (部隊ランクボーナス×15) %上昇 / ★28 防御 135%上昇"
+  }
+ ],
+ "grantedViaSkills": [
+  {
+   "skill": "根国ノ戦戟",
+   "rank": "S"
+  },
+  {
+   "skill": "天威日輪",
+   "rank": "S"
+  },
+  {
+   "skill": "絶間ノ天姫",
+   "rank": "S"
+  },
+  {
+   "skill": "天下の勅命",
+   "rank": "S"
+  }
+ ],
+ "ownHiddenCandidate": {
+  "skill": "天鎖燎原陣",
+  "rank": "SS"
+ }
+}

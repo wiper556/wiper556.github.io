@@ -45,5 +45,66 @@
  "wikiOldestComment": "2015-02-06",
  "wikiCommentCount": 137,
  "chGuess": "9章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄壁の備え",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "才知徳行",
+   "rank": "D",
+   "afterSkill": "才知徳行",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "防御 20%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "雪月花 碧甲",
+   "rank": "B",
+   "afterSkill": "才知徳行",
+   "afterRank": "D",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 20%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "才知徳行",
+   "rank": "D",
+   "afterSkill": "才知徳行",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "防御 20%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "天元の用兵",
+   "rank": "S",
+   "afterSkill": "破軍星",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "25%",
+   "effectShort": null,
+   "afterTarget": "馬・砲・器",
+   "afterRate": "40%",
+   "afterEffectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"
+  }
+ ]
 }

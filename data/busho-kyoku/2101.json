@@ -42,5 +42,66 @@
  "wikiOldestComment": "2014-02-05",
  "wikiCommentCount": 232,
  "chGuess": "7章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "雌竜の仲裁",
+   "rank": "B",
+   "afterSkill": "玄狐跳澗",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "馬砲",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "鬼謀 国砕",
+   "rank": "B",
+   "afterSkill": "鬼謀 国砕",
+   "afterRank": "B",
+   "target": "上級器",
+   "rate": "35%",
+   "effectShort": "攻撃 10%上昇+破壊 25%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "戦陣 千鳥",
+   "rank": "B",
+   "afterSkill": "戦陣 千鳥",
+   "afterRank": "B",
+   "target": "弓馬",
+   "rate": "45%",
+   "effectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "玄狐跳澗",
+   "rank": "B",
+   "afterSkill": "猛勇黒天狐",
+   "afterRank": "S",
+   "target": "馬砲",
+   "rate": "30%",
+   "effectShort": "攻撃 30%上昇",
+   "afterTarget": "全",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 45%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "猛勇黒天狐",
+   "rank": "S",
+   "afterSkill": "騎神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "25%",
+   "effectShort": "防御 45%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 (コストx4.5) %+速度 50%上昇"
+  }
+ ]
 }

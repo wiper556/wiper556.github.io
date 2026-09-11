@@ -44,5 +44,63 @@
  "wikiOldestComment": "2025-04-20",
  "wikiCommentCount": 1,
  "chGuess": "29章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "勇心発露",
+   "rank": "C",
+   "afterSkill": "神通力",
+   "afterRank": "C",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 87%上昇 / 武将HPが70以下のとき、防御効果を1.5倍する",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "防御 74%上昇 / このスキルを所持する武将の全スキルの卓越確率に15%を加算する(模倣不可)"
+  },
+  {
+   "slot": "B",
+   "skill": "血染金幣",
+   "rank": "C",
+   "afterSkill": "血染金幣",
+   "afterRank": "C",
+   "target": "全",
+   "rate": "55%",
+   "effectShort": "防御 190%上昇 / 武将HPが60以下のとき、防御効果を2倍する"
+  },
+  {
+   "slot": "C",
+   "skill": "血染金幣",
+   "rank": "C",
+   "afterSkill": "血染金幣",
+   "afterRank": "C",
+   "target": "全",
+   "rate": "55%",
+   "effectShort": "防御 190%上昇 / 武将HPが60以下のとき、防御効果を2倍する"
+  },
+  {
+   "slot": "S1",
+   "skill": "血染金幣",
+   "rank": "C",
+   "afterSkill": "血染金幣",
+   "afterRank": "C",
+   "target": "全",
+   "rate": "55%",
+   "effectShort": "防御 190%上昇 / 武将HPが60以下のとき、防御効果を2倍する"
+  },
+  {
+   "slot": "S2",
+   "skill": "籠城の妙技",
+   "rank": "A",
+   "afterSkill": "三千世界神将",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "防御 50%上昇(卓越:追加確率15%で防御効果が3倍)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "防御 120%上昇(本丸防御陣形時コスト消費-1)"
+  }
+ ]
 }

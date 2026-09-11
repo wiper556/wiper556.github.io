@@ -45,5 +45,60 @@
  "wikiOldestComment": "2021-08-13",
  "wikiCommentCount": 36,
  "chGuess": "22章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "天岩戸ノ神域",
+   "rank": "SS",
+   "afterSkill": "天岩戸ノ神域",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "70%",
+   "effectShort": "攻撃 2.8%×防御参加武将数(280人)=784.0%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "天焉相克",
+   "rank": "SS",
+   "afterSkill": "八重言代主神",
+   "afterRank": "SS",
+   "target": "槍・弓・馬",
+   "rate": "70%",
+   "effectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)",
+   "afterTarget": "自身",
+   "afterRate": "70%",
+   "afterEffectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "C",
+   "skill": "天之尾羽張",
+   "rank": "SS",
+   "afterSkill": "天之尾羽張",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 170%上昇+速度 150%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "火之迦具土神",
+   "rank": "SS",
+   "afterSkill": "火之迦具土神",
+   "afterRank": "SS",
+   "target": "槍・馬・砲",
+   "rate": "100%",
+   "effectShort": "攻撃 160%上昇(卓越追加確率25%・3倍・TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "破軍星 皇",
+   "rank": "SS",
+   "afterSkill": "破軍星 皇",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "69%",
+   "effectShort": "攻撃 140%上昇(自部隊同時攻撃時コスト最大0.5除外・模倣不可)"
+  }
+ ]
 }

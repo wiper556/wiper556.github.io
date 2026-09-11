@@ -6,6 +6,86 @@
  "effectSummary": "A/LV10 確率 100% 攻撃・速度上昇/対象:全\n①攻撃が武将のコストに応じて上昇する(コスト5基準80%上昇)\n②速度 50%上昇する",
  "sourceCharacters": [
   {
+   "name": "毛利元就（4）",
+   "no": "1177",
+   "slot": "S2",
+   "note": [
+    "毛利元就（4）(1177)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "足利成氏",
+   "no": "2281",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "足利成氏(2281)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "馬場信房（3）",
+   "no": "2308",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "馬場信房（3）(2308)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "大野治房（2）",
+   "no": "2318",
+   "slot": "S1・S2",
+   "db": "kyoku",
+   "note": [
+    "大野治房（2）(2318)のsynthesisTable S1・S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "佐々成政（2）",
+   "no": "2326",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "佐々成政（2）(2326)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "明智秀満（2）",
+   "no": "2329",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "明智秀満（2）(2329)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "毛利秀元",
+   "no": "2333",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "毛利秀元(2333)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "立花道雪（3）",
+   "no": "2340",
+   "slot": "C・S2",
+   "db": "kyoku",
+   "note": [
+    "立花道雪（3）(2340)のsynthesisTable C・S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "浅野長晟",
+   "no": "2341",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "浅野長晟(2341)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "井伊直孝（2）",
    "no": "2366",
    "slot": "B・C",
@@ -21,10 +101,55 @@
    "db": "kyoku"
   },
   {
+   "name": "大友義鎮",
+   "no": "2431",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "大友義鎮(2431)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "織田信忠（2）",
+   "no": "2433",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "織田信忠（2）(2433)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "天徳寺礼能",
+   "no": "2436",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "天徳寺礼能(2436)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "中馬大蔵",
+   "no": "2438",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "中馬大蔵(2438)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "斎藤朝信（3）",
    "no": "2439",
    "slot": "S2",
    "db": "kyoku"
+  },
+  {
+   "name": "戸沢盛安",
+   "no": "2454",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "戸沢盛安(2454)のsynthesisTable B枠(2026-09-11)"
+   ]
   },
   {
    "name": "天草四郎時貞",
@@ -46,6 +171,14 @@
    "no": "7003",
    "slot": "A",
    "db": "kyoku"
+  },
+  {
+   "name": "畠山義総",
+   "no": "3645",
+   "slot": "S2",
+   "note": [
+    "畠山義総(3645)のsynthesisTable S2枠(2026-09-11)"
+   ]
   },
   {
    "name": "ウォーズマン",

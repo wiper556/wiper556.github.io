@@ -45,5 +45,69 @@
  "wikiOldestComment": "2015-06-10",
  "wikiCommentCount": 185,
  "chGuess": "10章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄壁の備え",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "槍陣の極み",
+   "rank": "B",
+   "afterSkill": "柳生新陰流",
+   "afterRank": "A",
+   "target": "槍",
+   "rate": "30%",
+   "effectShort": "防御 30%上昇",
+   "afterTarget": "将",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 40%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "援槍励檄",
+   "rank": "B",
+   "afterSkill": "賢女烈婦",
+   "afterRank": "B",
+   "target": "槍弓",
+   "rate": "30%",
+   "effectShort": "防御 35%上昇 / (自領以外の加勢で効果2倍)",
+   "afterTarget": "槍弓",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 33%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "賢女烈婦",
+   "rank": "B",
+   "afterSkill": "賢女烈婦",
+   "afterRank": "B",
+   "target": "槍弓",
+   "rate": "30%",
+   "effectShort": "防御 33%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "天下の采配",
+   "rank": "S",
+   "afterSkill": "神算鬼謀 滅",
+   "afterRank": "A",
+   "target": "槍馬砲",
+   "rate": "45%",
+   "effectShort": "防御 35%上昇",
+   "afterTarget": "槍弓器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 24%上昇 / 破壊 46%上昇"
+  }
+ ]
 }

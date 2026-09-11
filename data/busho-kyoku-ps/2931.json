@@ -43,5 +43,69 @@
  "wikiOldestComment": "2016-09-09",
  "wikiCommentCount": 45,
  "chGuess": "12章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍撃の真髄",
+   "rank": "E",
+   "afterSkill": "槍衾",
+   "afterRank": "D",
+   "target": "槍",
+   "rate": "20%",
+   "effectShort": "攻撃 15%上昇",
+   "afterTarget": "槍器",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 25%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "槍撃 修羅",
+   "rank": "C",
+   "afterSkill": "剣豪将軍",
+   "afterRank": "B",
+   "target": "槍",
+   "rate": "25%",
+   "effectShort": "攻撃 25%上昇 / 破壊 5%上昇",
+   "afterTarget": null,
+   "afterRate": "35%",
+   "afterEffectShort": "対象 将 / 攻撃 35%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "鬼子母神",
+   "rank": "A",
+   "afterSkill": "廟算合従陣",
+   "afterRank": "S",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓馬砲",
+   "afterRate": "32%",
+   "afterEffectShort": "防御 42%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "鬼神刺",
+   "rank": "B",
+   "afterSkill": "鬼神刺",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "20%",
+   "effectShort": "攻撃 (コスト×10) %上昇 / 武将コストによって効果が変化"
+  },
+  {
+   "slot": "S2",
+   "skill": "天廟斬算",
+   "rank": "S",
+   "afterSkill": "八重言代主神",
+   "afterRank": "SS",
+   "target": "弓・器",
+   "rate": "35%",
+   "effectShort": "攻撃 1.7%×防御参加武将数(280人)=476.0%上昇",
+   "afterTarget": "自身",
+   "afterRate": "70%",
+   "afterEffectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  }
+ ]
 }

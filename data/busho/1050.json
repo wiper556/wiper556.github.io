@@ -45,5 +45,66 @@
  "wikiOldestComment": "2014-11-19",
  "wikiCommentCount": 173,
  "chGuess": "9章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "砲陣 菖蒲",
+   "rank": "A",
+   "afterSkill": "八咫烏",
+   "afterRank": "B",
+   "target": "砲器",
+   "rate": "40%",
+   "effectShort": "防御 35%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 30%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "冥界の花嫁",
+   "rank": "A",
+   "afterSkill": "魔王三段撃",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "防御 40%上昇(攻撃部隊に馬兵科がいる時のみ発動)",
+   "afterTarget": "砲",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 30%上昇+破壊 20%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "無間ノ天姫",
+   "rank": "S",
+   "afterSkill": "天焉神軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 20%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "天焉神軍",
+   "rank": "SS",
+   "afterSkill": "天焉神軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 20%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "天衣無縫陣",
+   "rank": "SS",
+   "afterSkill": "天衣無縫陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "55%",
+   "effectShort": "防御 (20+コスト×10) %上昇"
+  }
+ ]
 }

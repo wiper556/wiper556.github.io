@@ -39,5 +39,72 @@
  ],
  "wikiOldestComment": "2022-02-10",
  "wikiCommentCount": 13,
- "chGuess": "22-23章"
+ "chGuess": "22-23章",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦慄ノ遁走曲",
+   "rank": "A",
+   "afterSkill": "覇・月扇乱舞",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "52%",
+   "effectShort": "防御 88%上昇 確率：+52% / 速度 40%上昇 確率：+100% / (加勢出陣時は速度効果3倍)",
+   "afterTarget": "弓砲器",
+   "afterRate": "38%",
+   "afterEffectShort": "防御 75%上昇 確率：+38% / 速度 35%上昇 確率：+100% / (加勢出陣時は速度効果2倍)"
+  },
+  {
+   "slot": "B",
+   "skill": "弓隊守護",
+   "rank": "E",
+   "afterSkill": "弓隊挟撃",
+   "afterRank": "E",
+   "target": "弓",
+   "rate": "25%",
+   "effectShort": "弓防：13%上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "弓",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃 (コストx6.5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "不識ノ殿軍",
+   "rank": "B",
+   "afterSkill": "無間牢",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "70%",
+   "effectShort": "防御 64%上昇 / 卓越：追加確率30%で防御効果が1.5倍",
+   "afterTarget": "槍弓馬器",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 77%上昇 確率：+25% / 速度 45%上昇 確率：+100% / (加勢出陣時は速度効果2倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "覇・月扇乱舞",
+   "rank": "B",
+   "afterSkill": "戦陣 龍馬",
+   "afterRank": "A",
+   "target": "弓砲器",
+   "rate": "38%",
+   "effectShort": "防御 75%上昇 確率：+38% / 速度 35%上昇 確率：+100% / (加勢出陣時は速度効果2倍)",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "防御 1%上昇(部隊ランクボーナス×10%を加算)"
+  },
+  {
+   "slot": "S2",
+   "skill": "覇・月扇乱舞",
+   "rank": "B",
+   "afterSkill": "戦陣 龍馬",
+   "afterRank": "A",
+   "target": "弓砲器",
+   "rate": "38%",
+   "effectShort": "防御 75%上昇 確率：+38% / 速度 35%上昇 確率：+100% / (加勢出陣時は速度効果2倍)",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "防御 1%上昇(部隊ランクボーナス×10%を加算)"
+  }
+ ]
 }

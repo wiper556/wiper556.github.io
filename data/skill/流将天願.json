@@ -7,6 +7,15 @@
  "categoryLinks": [],
  "sourceCharacters": [
   {
+   "name": "唐梅院",
+   "no": "2343",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "唐梅院(2343)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "大友義統",
    "no": "3525",
    "slot": "A・B",

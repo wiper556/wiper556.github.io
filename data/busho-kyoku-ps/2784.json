@@ -43,5 +43,63 @@
  "wikiOldestComment": "2020-06-23",
  "wikiCommentCount": 37,
  "chGuess": "19章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "武ノ魅",
+   "rank": "A",
+   "afterSkill": "騎士団ノ凱旋",
+   "afterRank": "A",
+   "target": "槍馬砲器",
+   "rate": "34%",
+   "effectShort": "防御 20%上昇 / (敵部隊移動速度÷1%を加算 / (最も大きい敵部隊移動速度を参照)",
+   "afterTarget": null,
+   "afterRate": null,
+   "afterEffectShort": null
+  },
+  {
+   "slot": "B",
+   "skill": "洞察",
+   "rank": "B",
+   "afterSkill": "洞察",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "防御 7.5%上昇(部隊ランクボーナスで効果が変化)"
+  },
+  {
+   "slot": "C",
+   "skill": "愛染王法",
+   "rank": "B",
+   "afterSkill": "愛染王法",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 105.6%上昇 / 武将ランクで効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "堅国の絆",
+   "rank": "A",
+   "afterSkill": "堅国の絆",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "防御 5%上昇(自本領に滞在する全部隊に効果)"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 凱旋",
+   "rank": "A",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "10%",
+   "effectShort": "攻撃 87%上昇+防御 87%上昇",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  }
+ ]
 }

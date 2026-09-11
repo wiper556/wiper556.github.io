@@ -43,5 +43,66 @@
  "wikiOldestComment": "2021-10-05",
  "wikiCommentCount": 26,
  "chGuess": "22章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鎮魂ノ戦鬼",
+   "rank": "A",
+   "afterSkill": "八虐無道",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓馬砲",
+   "afterRate": "47%",
+   "afterEffectShort": "攻撃 80%上昇 / 自部隊同時攻撃時、部隊総コストからこの武将分のコストを最大0.5まで除外(模倣不可)"
+  },
+  {
+   "slot": "B",
+   "skill": "鎮魂ノ戦鬼",
+   "rank": "A",
+   "afterSkill": "八虐無道",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓馬砲",
+   "afterRate": "47%",
+   "afterEffectShort": "攻撃 80%上昇 / 自部隊同時攻撃時、部隊総コストからこの武将分のコストを最大0.5まで除外(模倣不可)"
+  },
+  {
+   "slot": "C",
+   "skill": "三斎流具足",
+   "rank": "B",
+   "afterSkill": "三斎流具足",
+   "afterRank": "B",
+   "target": "馬器騎",
+   "rate": "100%",
+   "effectShort": "攻撃 48%上昇 / 破壊 35%上昇 / 速度 35%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "八虐無道",
+   "rank": "B",
+   "afterSkill": "班寅集",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "47%",
+   "effectShort": "攻撃 80%上昇 / 自部隊同時攻撃時、部隊総コストからこの武将分のコストを最大0.5まで除外(模倣不可)",
+   "afterTarget": null,
+   "afterRate": "18%",
+   "afterEffectShort": "対象 弓/砲 / 攻撃 70%上昇 / (合流攻撃時は発動率2倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "一騎当千ノ兵",
+   "rank": "A",
+   "afterSkill": "一騎当千ノ兵",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ]
 }

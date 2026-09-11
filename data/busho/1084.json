@@ -46,5 +46,69 @@
  "wikiOldestComment": "2016-11-16",
  "wikiCommentCount": 97,
  "chGuess": "13章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "刹那の猛勇",
+   "rank": "D",
+   "afterSkill": "義兵進軍",
+   "afterRank": "C",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "攻撃 10%上昇",
+   "afterTarget": "槍弓馬砲",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 7%上昇 / 速度 10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "天葵の神攻",
+   "rank": "S",
+   "afterSkill": "覇王 葵巴",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "20%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "防御 35%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "四神天道",
+   "rank": "S",
+   "afterSkill": "覇道天聖",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "30%/100%",
+   "effectShort": "攻撃 54%上昇(確率30%)+防御 54%上昇(確率30%)+速度 36%上昇(確率100%)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 26%上昇(所属部隊の武将が持つスキルを無効化や発動率低下から保護)"
+  },
+  {
+   "slot": "S1",
+   "skill": "覇道天聖",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 26%上昇(所属部隊の武将が持つスキルを無効化や発動率低下から保護)",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "覇王征軍",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "42%",
+   "effectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  }
+ ]
 }

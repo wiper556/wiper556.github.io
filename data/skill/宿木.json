@@ -12,6 +12,33 @@
  ],
  "sourceCharacters": [
   {
+   "name": "小少将",
+   "no": "2204",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "小少将(2204)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "池田恒興",
+   "no": "2296",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "池田恒興(2296)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "寿桂尼（2）",
+   "no": "2320",
+   "slot": "C・S2",
+   "db": "kyoku",
+   "note": [
+    "寿桂尼（2）(2320)のsynthesisTable C・S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "伊達成実（3）",
    "no": "2336",
    "slot": "C",
@@ -28,6 +55,24 @@
    "no": "2430",
    "slot": "S1",
    "db": "kyoku"
+  },
+  {
+   "name": "渡辺了",
+   "no": "2434",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "渡辺了(2434)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "風魔小太郎-復刻Ⅱ-",
+   "no": "2552",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "風魔小太郎-復刻Ⅱ-(2552)のsynthesisTable S2枠(2026-09-11)"
+   ]
   },
   {
    "name": "お市（3）",
@@ -54,6 +99,15 @@
    "db": "kyoku",
    "note": [
     "今川氏輝(2749)のsynthesisTable S1枠(2026-08-15)"
+   ]
+  },
+  {
+   "name": "妙喜尼",
+   "no": "2762",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "妙喜尼(2762)のsynthesisTable C枠(2026-09-11)"
    ]
   },
   {

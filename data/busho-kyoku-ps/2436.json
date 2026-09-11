@@ -44,5 +44,72 @@
  "wikiOldestComment": "2021-03-06",
  "wikiCommentCount": 25,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "十二狂槍",
+   "rank": "A",
+   "afterSkill": "鼓腹撃壌",
+   "afterRank": "A",
+   "target": "槍・器・鉄",
+   "rate": "49%",
+   "effectShort": "攻撃 70%上昇+強襲専用部隊配置時この武将の部隊コスト消費-2(模倣不可・コスト減算はこの武将のコスト分まで)",
+   "afterTarget": "槍弓馬",
+   "afterRate": "33%",
+   "afterEffectShort": "攻撃 89%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "戦陣 勝鬨",
+   "rank": "A",
+   "afterSkill": "天岩戸ノ神域",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "35%/100%",
+   "effectShort": "攻撃 77%上昇(確率35%)+防御 77%上昇(確率35%)+速度 40%上昇(確率100%)",
+   "afterTarget": "全",
+   "afterRate": "70%",
+   "afterEffectShort": "攻撃 2.8%×防御参加武将数(280人)=784.0%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "騎聖",
+   "rank": "A",
+   "afterSkill": "神光征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 80%上昇+速度 50%上昇(武将コストで変動)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 90%上昇+速度 200%上昇(TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "鼓腹撃壌",
+   "rank": "A",
+   "afterSkill": "天焉相克",
+   "afterRank": "SS",
+   "target": "槍弓馬",
+   "rate": "33%",
+   "effectShort": "攻撃 89%上昇",
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "70%",
+   "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"
+  },
+  {
+   "slot": "S2",
+   "skill": "戦陣 凱旋",
+   "rank": "A",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "10%",
+   "effectShort": "攻撃 87%上昇+防御 87%上昇",
+   "afterTarget": "全",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  }
+ ]
 }

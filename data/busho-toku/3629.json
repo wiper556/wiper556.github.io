@@ -41,5 +41,63 @@
  "wikiOldestComment": "2025-05-10",
  "wikiCommentCount": 1,
  "chGuess": "29章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍術無双",
+   "rank": "C",
+   "afterSkill": "討虎七撃",
+   "afterRank": "C",
+   "target": "槍砲器",
+   "rate": "36%",
+   "effectShort": "攻撃 265%上昇 / 防御 265%上昇 / 破壊 55%上昇",
+   "afterTarget": "槍器鉄",
+   "afterRate": "38%",
+   "afterEffectShort": "攻撃 240%上昇 / 防御 240%上昇 / 破壊 50%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "虎風銃",
+   "rank": "C",
+   "afterSkill": "虎風銃",
+   "afterRank": "C",
+   "target": "弓砲器",
+   "rate": "44%",
+   "effectShort": "防御 340%上昇 / 破壊 80%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "虎風銃",
+   "rank": "C",
+   "afterSkill": "虎風銃",
+   "afterRank": "C",
+   "target": "弓砲器",
+   "rate": "44%",
+   "effectShort": "防御 340%上昇 / 破壊 80%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "虎風銃",
+   "rank": "C",
+   "afterSkill": "虎風銃",
+   "afterRank": "C",
+   "target": "弓砲器",
+   "rate": "44%",
+   "effectShort": "防御 340%上昇 / 破壊 80%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "白鷹ノ導き",
+   "rank": "C",
+   "afterSkill": "野太刀",
+   "afterRank": "C",
+   "target": "弓砲器",
+   "rate": "38%",
+   "effectShort": "攻撃 330%上昇 / 防御 330%上昇 / 破壊 60%上昇",
+   "afterTarget": "全",
+   "afterRate": "17%",
+   "afterEffectShort": "攻撃 77%上昇 / 防御 77%上昇"
+  }
+ ]
 }

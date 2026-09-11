@@ -46,5 +46,66 @@
  "wikiOldestComment": "2016-12-21",
  "wikiCommentCount": 44,
  "chGuess": "13章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "騎馬隊襲撃",
+   "rank": "F",
+   "afterSkill": "騎馬隊堅守",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "20%",
+   "effectShort": "馬攻：10%上昇",
+   "afterTarget": "馬",
+   "afterRate": "20%",
+   "afterEffectShort": "馬防：10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "神風襲来",
+   "rank": "B",
+   "afterSkill": "疾風怒濤",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 6%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 5%上昇 / 速度 32%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "武神 火車懸",
+   "rank": "B",
+   "afterSkill": "武神 火車懸",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "闘神 火車懸",
+   "rank": "B",
+   "afterSkill": "闘神 火車懸",
+   "afterRank": "B",
+   "target": "槍馬砲",
+   "rate": "33%",
+   "effectShort": "攻撃 48%上昇 / 破壊 27%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "天神旋武",
+   "rank": "S",
+   "afterSkill": "無窮天斥陣",
+   "afterRank": "SS",
+   "target": "槍弓",
+   "rate": "26%",
+   "effectShort": "攻撃 60%上昇",
+   "afterTarget": "槍弓馬",
+   "afterRate": "40%",
+   "afterEffectShort": "防御 63%上昇(攻撃部隊に兵器兵科がいれば効果1.5倍)"
+  }
+ ]
 }

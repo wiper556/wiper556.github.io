@@ -44,5 +44,69 @@
  "wikiOldestComment": "2016-04-28",
  "wikiCommentCount": 74,
  "chGuess": "11章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊挟撃",
+   "rank": "E",
+   "afterSkill": "槍隊守護",
+   "afterRank": "E",
+   "target": "槍",
+   "rate": "25%",
+   "effectShort": "槍攻：9.75%上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍",
+   "afterRate": "25%",
+   "afterEffectShort": "防御 (コストx6.5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "槍隊剛撃",
+   "rank": "D",
+   "afterSkill": "足軽軍法",
+   "afterRank": "D",
+   "target": "槍",
+   "rate": "35%",
+   "effectShort": "攻撃 20%上昇",
+   "afterTarget": "槍器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "雷斬仁将",
+   "rank": "B",
+   "afterSkill": "雷切",
+   "afterRank": "A",
+   "target": "槍弓馬",
+   "rate": "3%",
+   "effectShort": "攻撃 52%上昇 / (発動率＝確率x防御武将数)",
+   "afterTarget": "槍馬",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "雷切",
+   "rank": "A",
+   "afterSkill": "轟音 無鹿",
+   "afterRank": "S",
+   "target": "槍馬",
+   "rate": "30%",
+   "effectShort": "攻撃 30%上昇",
+   "afterTarget": "器",
+   "afterRate": "30%",
+   "afterEffectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "神将",
+   "rank": "A",
+   "afterSkill": "神将",
+   "afterRank": "A",
+   "target": "槍弓馬",
+   "rate": "35%",
+   "effectShort": "攻撃 30%上昇"
+  }
+ ]
 }

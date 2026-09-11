@@ -13,6 +13,24 @@
  ],
  "sourceCharacters": [
   {
+   "name": "前野忠康",
+   "no": "2328",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "前野忠康(2328)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "松寿院",
+   "no": "2348",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "松寿院(2348)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "吉川元春（3）",
    "no": "2449",
    "slot": "A・B",

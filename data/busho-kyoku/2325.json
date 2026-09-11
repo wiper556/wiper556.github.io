@@ -42,5 +42,72 @@
  "wikiOldestComment": "2022-07-04",
  "wikiCommentCount": 15,
  "chGuess": "23章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "武勇鬼神ノ如し",
+   "rank": "A",
+   "afterSkill": "淡雪ノ舞",
+   "afterRank": "A",
+   "target": "弓砲器",
+   "rate": "55%",
+   "effectShort": "防御 92%上昇 / 拠点待機90分ごとに防御効果1.2倍(上限3回) / 防御最大：158.9%上昇",
+   "afterTarget": "弓砲器",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 10%上昇 / (所属部隊のレアリティB以上のスキル個数 x10%)"
+  },
+  {
+   "slot": "B",
+   "skill": "武勇鬼神ノ如し",
+   "rank": "A",
+   "afterSkill": "淡雪ノ舞",
+   "afterRank": "A",
+   "target": "弓砲器",
+   "rate": "55%",
+   "effectShort": "防御 92%上昇 / 拠点待機90分ごとに防御効果1.2倍(上限3回) / 防御最大：158.9%上昇",
+   "afterTarget": "弓砲器",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 10%上昇 / (所属部隊のレアリティB以上のスキル個数 x10%)"
+  },
+  {
+   "slot": "C",
+   "skill": "淡雪ノ舞",
+   "rank": "A",
+   "afterSkill": "愛染王法",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "55%",
+   "effectShort": "防御 10%上昇 / (所属部隊のレアリティB以上のスキル個数 x10%)",
+   "afterTarget": "全",
+   "afterRate": "40%",
+   "afterEffectShort": "防御 105.6%上昇 / 武将ランクで効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "淡雪ノ舞",
+   "rank": "A",
+   "afterSkill": "愛染王法",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "55%",
+   "effectShort": "防御 10%上昇 / (所属部隊のレアリティB以上のスキル個数 x10%)",
+   "afterTarget": "全",
+   "afterRate": "40%",
+   "afterEffectShort": "防御 105.6%上昇 / 武将ランクで効果が変化"
+  },
+  {
+   "slot": "S2",
+   "skill": "覇・月扇乱舞",
+   "rank": "B",
+   "afterSkill": "戦陣 龍馬",
+   "afterRank": "A",
+   "target": "弓砲器",
+   "rate": "38%",
+   "effectShort": "防御 75%上昇 確率：+38% / 速度 35%上昇 確率：+100% / (加勢出陣時は速度効果2倍)",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "防御 1%上昇(部隊ランクボーナス×10%を加算)"
+  }
+ ]
 }

@@ -44,5 +44,63 @@
  "wikiOldestComment": "2017-12-04",
  "wikiCommentCount": 70,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "兵器進撃",
+   "rank": "F",
+   "afterSkill": "鉄砲隊進撃",
+   "afterRank": "F",
+   "target": "器",
+   "rate": "10%",
+   "effectShort": "攻撃 15%上昇",
+   "afterTarget": "砲",
+   "afterRate": "8%",
+   "afterEffectShort": "攻撃 15%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "追い腹",
+   "rank": "D",
+   "afterSkill": "追い腹",
+   "afterRank": "D",
+   "target": "槍砲器",
+   "rate": "100%",
+   "effectShort": "攻撃 8%上昇 / 破壊 19%上昇 / 速度 24%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "大動員",
+   "rank": "B",
+   "afterSkill": "大動員",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 8%上昇+速度 24%上昇(部隊内で最も速い兵士速度で移動)"
+  },
+  {
+   "slot": "S1",
+   "skill": "猿臂ノ術",
+   "rank": "B",
+   "afterSkill": "猿臂ノ術",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "100%",
+   "effectShort": "攻撃 25%上昇 / 速度 40%上昇 / 部隊内で最も速い兵士速度で移動"
+  },
+  {
+   "slot": "S2",
+   "skill": "騎迅強襲",
+   "rank": "B",
+   "afterSkill": "遁世影武者",
+   "afterRank": "B",
+   "target": "槍・馬・器",
+   "rate": "30%/100%",
+   "effectShort": "攻撃 35%上昇(確率30%)+速度 25%上昇",
+   "afterTarget": "部隊長",
+   "afterRate": "50%",
+   "afterEffectShort": "所属部隊の部隊長が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  }
+ ]
 }

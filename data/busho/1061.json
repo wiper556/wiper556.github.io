@@ -38,5 +38,66 @@
   "2026-08-23: カード名を「龍造寺隆信」から「龍造寺隆信（2）」に直した。（N）はゲーム内には無く、プレイヤーが見分けるために付けられたもの。うぐさんのルールは「早く出た順に1から振る・1枚目は無印・**覇と通常天は通し番号**・**復刻は復刻前の番号を踏襲する**・**未登録のカードも数える**」。順番は章(wikiの最古コメントから推定)で決めた。**ixawiki の一覧の表示名は正ではない**(wiki は覇と復刻を別の列で数えており、うぐさんのルールとは違う)。wiki は復刻かどうかの判別にだけ使った。"
  ],
  "wikiOldestComment": "2015-05-18",
- "wikiCommentCount": 214
+ "wikiCommentCount": 214,
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊円陣",
+   "rank": "D",
+   "afterSkill": "足軽軍法",
+   "afterRank": "D",
+   "target": "槍",
+   "rate": "40%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "槍器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "猩猩ノ熊王",
+   "rank": "S",
+   "afterSkill": "天焉神軍",
+   "afterRank": "SS",
+   "target": "槍・弓",
+   "rate": "26%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 20%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "天征相克",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "槍弓馬",
+   "rate": "20%",
+   "effectShort": "攻撃 25%上昇",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "天焉神軍",
+   "rank": "SS",
+   "afterSkill": "天焉神軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 20%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "覇王征軍",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "42%",
+   "effectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"
+  }
+ ]
 }

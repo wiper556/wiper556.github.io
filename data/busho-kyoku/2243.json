@@ -43,5 +43,66 @@
  "wikiOldestComment": "2019-12-02",
  "wikiCommentCount": 67,
  "chGuess": "18章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊堅守",
+   "rank": "F",
+   "afterSkill": "弓隊襲撃",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "20%",
+   "effectShort": "防御 10%上昇",
+   "afterTarget": "弓",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "賢妖の軍師",
+   "rank": "D",
+   "afterSkill": "花舜妙香",
+   "afterRank": "C",
+   "target": "槍弓",
+   "rate": "35%",
+   "effectShort": "防御 23+(ランクx3) %上昇 確率：+35% / 速度 20%上昇 確率：+100% / 防御効果は武将ランクで変化",
+   "afterTarget": "槍弓砲",
+   "afterRate": "30%",
+   "afterEffectShort": "防御 40%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "愛民ノ采配",
+   "rank": "D",
+   "afterSkill": "暁光",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "48%",
+   "effectShort": "攻撃 40%上昇 / 防御 40%上昇",
+   "afterTarget": "全",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃 38%上昇 / 防御 38%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "五風十雨法",
+   "rank": "B",
+   "afterSkill": "五風十雨法",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "闘戦経",
+   "rank": "B",
+   "afterSkill": "闘戦経",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "10%",
+   "effectShort": "防御 80.4%上昇 / 自拠点防御時は100%発動"
+  }
+ ]
 }

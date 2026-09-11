@@ -32,6 +32,69 @@
    ]
   },
   {
+   "name": "島左近（4）",
+   "no": "2316",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "島左近（4）(2316)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "滝川一益（2）",
+   "no": "2324",
+   "slot": "S1・S2",
+   "db": "kyoku",
+   "note": [
+    "滝川一益（2）(2324)のsynthesisTable S1・S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "前野忠康",
+   "no": "2328",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "前野忠康(2328)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "松前慶広",
+   "no": "2330",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "松前慶広(2330)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "龍勝院",
+   "no": "2345",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "龍勝院(2345)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "結城秀康（3）",
+   "no": "2349",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "結城秀康（3）(2349)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "真田信綱",
+   "no": "2350",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "真田信綱(2350)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "三好義賢（2）",
    "no": "2368",
    "slot": "C",
@@ -42,6 +105,33 @@
    "no": "2397",
    "slot": "S1",
    "db": "kyoku"
+  },
+  {
+   "name": "藤堂高虎（2）",
+   "no": "2565",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "藤堂高虎（2）(2565)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "柳生石舟斎-復刻Ⅱ-",
+   "no": "2572",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "柳生石舟斎-復刻Ⅱ-(2572)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "今井宗久-復刻-",
+   "no": "2579",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "今井宗久-復刻-(2579)のsynthesisTable S2枠(2026-09-11)"
+   ]
   },
   {
    "name": "国友善兵衛",

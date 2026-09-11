@@ -45,5 +45,63 @@
  "wikiOldestComment": "2022-04-05",
  "wikiCommentCount": 9,
  "chGuess": "23章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "騎龍 轟攻陣",
+   "rank": "A",
+   "afterSkill": "騎龍 轟攻陣",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "B",
+   "skill": "天綾の誓約",
+   "rank": "SS",
+   "afterSkill": "天焉相克",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "攻撃 99.9%上昇 防御 99.9%上昇 破壊 150%上昇",
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "70%",
+   "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"
+  },
+  {
+   "slot": "C",
+   "skill": "式神ノ冥王",
+   "rank": "SS",
+   "afterSkill": "荒破閃神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇",
+   "afterTarget": "全",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 110%上昇 (6部隊以下の攻撃で効果2倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "六道を護る者",
+   "rank": "S",
+   "afterSkill": "六道を護る者",
+   "afterRank": "S",
+   "target": "馬・騎",
+   "rate": "60%",
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "覚悟十躰",
+   "rank": "A",
+   "afterSkill": "覚悟十躰",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "資源獲得率：15% / 破壊した耐久値に応じて資源獲得"
+  }
+ ]
 }

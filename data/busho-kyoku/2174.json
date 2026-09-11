@@ -43,5 +43,69 @@
  "wikiOldestComment": "2016-07-07",
  "wikiCommentCount": 45,
  "chGuess": "12章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄砲隊堅陣",
+   "rank": "F",
+   "afterSkill": "鉄砲隊奇襲",
+   "afterRank": "E",
+   "target": "砲",
+   "rate": "25%",
+   "effectShort": "砲防：12%上昇",
+   "afterTarget": "砲",
+   "afterRate": "25%",
+   "afterEffectShort": "攻撃 12%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "槍陣 弧月",
+   "rank": "B",
+   "afterSkill": "足軽軍法",
+   "afterRank": "D",
+   "target": "槍砲",
+   "rate": "35%",
+   "effectShort": "攻撃 20%上昇 / 破壊 10%上昇",
+   "afterTarget": "槍器",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃 (コストx9) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "C",
+   "skill": "応竜恋慕",
+   "rank": "A",
+   "afterSkill": "滅殺陣弦月",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 15%上昇 / 破壊 7%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "滅殺陣弦月",
+   "rank": "B",
+   "afterSkill": "天賦の神算",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 15%上昇 / 破壊 7%上昇",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 12%上昇 / 破壊 5%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "龍識眼",
+   "rank": "B",
+   "afterSkill": "龍識眼",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ]
 }

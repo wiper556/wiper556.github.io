@@ -46,5 +46,66 @@
  "wikiOldestComment": "2018-08-17",
  "wikiCommentCount": 47,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊守備",
+   "rank": "F",
+   "afterSkill": "弓隊急襲",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "16%",
+   "effectShort": "防御 (コストx6) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "弓",
+   "afterRate": "16%",
+   "afterEffectShort": "攻撃 (コストx5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "炮烙の計",
+   "rank": "D",
+   "afterSkill": "謀殺",
+   "afterRank": "D",
+   "target": "弓砲器",
+   "rate": "15%",
+   "effectShort": "攻撃 20%上昇 / 破壊 15%上昇",
+   "afterTarget": "全",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃戦闘勝利時のみ、敵軍1部隊の武将に追加ダメージ+35"
+  },
+  {
+   "slot": "C",
+   "skill": "不天ノ采配",
+   "rank": "B",
+   "afterSkill": "焔弓 轟攻陣",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "弓焙",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃 76%上昇+破棄 30%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "焔弓 轟攻陣",
+   "rank": "A",
+   "afterSkill": "焔弓 轟攻陣",
+   "afterRank": "A",
+   "target": "弓焙",
+   "rate": "24%",
+   "effectShort": "攻撃 76%上昇+破棄 30%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "鳰の払暁",
+   "rank": "B",
+   "afterSkill": "鳰の払暁",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "40%",
+   "effectShort": "防御 28%上昇 / (自領以外の加勢で効果2倍)"
+  }
+ ]
 }

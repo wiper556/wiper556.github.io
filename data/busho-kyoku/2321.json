@@ -42,5 +42,72 @@
  "wikiOldestComment": "2022-05-06",
  "wikiCommentCount": 15,
  "chGuess": "23章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "砲扇 風雷火",
+   "rank": "A",
+   "afterSkill": "武ノ魅",
+   "afterRank": "A",
+   "target": "砲器",
+   "rate": "46%",
+   "effectShort": "防御 92%上昇 / このスキルを所持する武将の所有者が影城主のとき、防御効果1.5倍",
+   "afterTarget": "槍馬砲器",
+   "afterRate": "34%",
+   "afterEffectShort": "防御 20%上昇 / (敵部隊移動速度÷1%を加算 / (最も大きい敵部隊移動速度を参照)"
+  },
+  {
+   "slot": "B",
+   "skill": "砲扇 風雷火",
+   "rank": "A",
+   "afterSkill": "武ノ魅",
+   "afterRank": "A",
+   "target": "砲器",
+   "rate": "46%",
+   "effectShort": "防御 92%上昇 / このスキルを所持する武将の所有者が影城主のとき、防御効果1.5倍",
+   "afterTarget": "槍馬砲器",
+   "afterRate": "34%",
+   "afterEffectShort": "防御 20%上昇 / (敵部隊移動速度÷1%を加算 / (最も大きい敵部隊移動速度を参照)"
+  },
+  {
+   "slot": "C",
+   "skill": "紅騎焔貫",
+   "rank": "B",
+   "afterSkill": "百万石長壁",
+   "afterRank": "B",
+   "target": "馬砲器",
+   "rate": "52%",
+   "effectShort": "防御 86%上昇 確率：+52% / 速度 50%上昇",
+   "afterTarget": "槍馬砲",
+   "afterRate": "9%",
+   "afterEffectShort": "防御 84%上昇 / 自拠点防御時は100%発動"
+  },
+  {
+   "slot": "S1",
+   "skill": "武ノ魅",
+   "rank": "A",
+   "afterSkill": "騎士団ノ凱旋",
+   "afterRank": "A",
+   "target": "槍馬砲器",
+   "rate": "34%",
+   "effectShort": "防御 20%上昇 / (敵部隊移動速度÷1%を加算 / (最も大きい敵部隊移動速度を参照)",
+   "afterTarget": null,
+   "afterRate": null,
+   "afterEffectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "大かむろ",
+   "rank": "B",
+   "afterSkill": "八虐無道",
+   "afterRank": "B",
+   "target": "馬砲器",
+   "rate": "36%",
+   "effectShort": "攻撃 94%上昇 確率：+36% / 防御 94%上昇 確率：+36% / 速度 40%上昇",
+   "afterTarget": "弓馬砲",
+   "afterRate": "47%",
+   "afterEffectShort": "攻撃 80%上昇 / 自部隊同時攻撃時、部隊総コストからこの武将分のコストを最大0.5まで除外(模倣不可)"
+  }
+ ]
 }

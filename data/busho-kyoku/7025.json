@@ -31,21 +31,30 @@
    "skill": "無心武響",
    "rank": null,
    "afterSkill": null,
-   "afterRank": null
+   "afterRank": null,
+   "target": "槍・弓・器・鉄",
+   "rate": "42%",
+   "effectShort": "防御 360%上昇(武将ダメージ軽減3%)"
   },
   {
    "slot": "B",
    "skill": "先見ノ直観",
    "rank": null,
    "afterSkill": null,
-   "afterRank": null
+   "afterRank": null,
+   "target": "槍・馬・砲",
+   "rate": "50%",
+   "effectShort": "攻撃 600%上昇(対人攻撃勝利時に名声+20)"
   },
   {
    "slot": "C",
    "skill": "鉄国",
    "rank": null,
    "afterSkill": null,
-   "afterRank": null
+   "afterRank": null,
+   "target": "弓・砲・器",
+   "rate": "40%",
+   "effectShort": "攻撃 440%上昇+防御 440%上昇+破壊 110%上昇"
   },
   {
    "slot": "S1",
@@ -59,7 +68,10 @@
    "skill": "志半ノ矛楯",
    "rank": null,
    "afterSkill": null,
-   "afterRank": null
+   "afterRank": null,
+   "target": "全",
+   "rate": "65%",
+   "effectShort": "攻撃 465%上昇+防御 465%上昇(模倣不可)"
   }
  ],
  "trTable": [

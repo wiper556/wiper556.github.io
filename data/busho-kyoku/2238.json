@@ -43,5 +43,63 @@
  "wikiOldestComment": "2018-12-03",
  "wikiCommentCount": 24,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "槍隊守備",
+   "rank": "F",
+   "afterSkill": "槍隊急襲",
+   "afterRank": "F",
+   "target": "槍",
+   "rate": "16%",
+   "effectShort": "防御 (コストx5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "槍",
+   "afterRate": "16%",
+   "afterEffectShort": "槍攻：7.5%上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "美意延年",
+   "rank": "D",
+   "afterSkill": "突貫破城",
+   "afterRank": "D",
+   "target": "槍砲",
+   "rate": "34%",
+   "effectShort": "攻撃 42%上昇 / 防御 42%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "16%",
+   "afterEffectShort": "攻撃 40%上昇 / 破壊 18%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "銃王の教え",
+   "rank": "C",
+   "afterSkill": "銃王の教え",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "日輪ノ轍",
+   "rank": "B",
+   "afterSkill": "日輪ノ轍",
+   "afterRank": "B",
+   "target": "槍器鉄",
+   "rate": "40%",
+   "effectShort": "防御 2.7%上昇 / (部隊ランクボーナスで効果が変化)"
+  },
+  {
+   "slot": "S2",
+   "skill": "烈侵滅国",
+   "rank": "B",
+   "afterSkill": "烈侵滅国",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "25%",
+   "effectShort": "攻撃防御 ((1+武将ランク)×コストx2) %上昇"
+  }
+ ]
 }

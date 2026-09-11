@@ -43,5 +43,72 @@
  "wikiOldestComment": "2022-11-02",
  "wikiCommentCount": 5,
  "chGuess": "24章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "虎将ノ朱翼",
+   "rank": "C",
+   "afterSkill": "騎迅強襲",
+   "afterRank": "B",
+   "target": "槍弓馬器",
+   "rate": "35%",
+   "effectShort": "攻撃 82%上昇 確率：+35% / 速度 30%上昇 確率：+100% / (3部隊以下の攻撃で攻撃効果1.5倍)",
+   "afterTarget": "槍・馬・器",
+   "afterRate": "30%/100%",
+   "afterEffectShort": "攻撃 35%上昇(確率30%)+速度 25%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "虎将ノ朱翼",
+   "rank": "C",
+   "afterSkill": "騎迅強襲",
+   "afterRank": "B",
+   "target": "槍弓馬器",
+   "rate": "35%",
+   "effectShort": "攻撃 82%上昇 確率：+35% / 速度 30%上昇 確率：+100% / (3部隊以下の攻撃で攻撃効果1.5倍)",
+   "afterTarget": "槍・馬・器",
+   "afterRate": "30%/100%",
+   "afterEffectShort": "攻撃 35%上昇(確率30%)+速度 25%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "土佐ノ英知",
+   "rank": "C",
+   "afterSkill": "極楽護法",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 24%上昇 / 卓越：追加確率50%で攻撃効果が4倍",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 60%上昇 防御 60%上昇 / 卓越：追加確率50%で攻防効果が1.5倍"
+  },
+  {
+   "slot": "S1",
+   "skill": "騎迅強襲",
+   "rank": "B",
+   "afterSkill": "遁世影武者",
+   "afterRank": "B",
+   "target": "槍・馬・器",
+   "rate": "30%/100%",
+   "effectShort": "攻撃 35%上昇(確率30%)+速度 25%上昇",
+   "afterTarget": "部隊長",
+   "afterRate": "50%",
+   "afterEffectShort": "所属部隊の部隊長が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "S2",
+   "skill": "不退ノ神将",
+   "rank": "A",
+   "afterSkill": "極楽護法",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 60%上昇 防御 60%上昇 / 卓越：追加確率50%で攻防効果が1.5倍"
+  }
+ ]
 }

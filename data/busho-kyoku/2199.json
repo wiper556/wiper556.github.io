@@ -42,5 +42,66 @@
  "wikiOldestComment": "2017-07-05",
  "wikiCommentCount": 31,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "両杭繋ぎ馬",
+   "rank": "D",
+   "afterSkill": "両杭繋ぎ馬",
+   "afterRank": "D",
+   "target": "馬砲器",
+   "rate": "100%",
+   "effectShort": "攻撃 6%上昇 / 破壊 14%上昇 / 速度 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "黒鬼刺",
+   "rank": "D",
+   "afterSkill": "鬼神刺",
+   "afterRank": "B",
+   "target": "槍馬砲",
+   "rate": "15%",
+   "effectShort": "攻撃 (コストx10) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "全",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 (コスト×10) %上昇 / 武将コストによって効果が変化"
+  },
+  {
+   "slot": "C",
+   "skill": "赤童百鬼",
+   "rank": "B",
+   "afterSkill": "鬼神刺",
+   "afterRank": "B",
+   "target": "槍馬器",
+   "rate": "100%",
+   "effectShort": "攻撃 22%上昇 / 破壊 19%上昇 / 速度 33%上昇",
+   "afterTarget": "全",
+   "afterRate": "20%",
+   "afterEffectShort": "攻撃 (コスト×10) %上昇 / 武将コストによって効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "乗り崩し赤牛",
+   "rank": "B",
+   "afterSkill": "乗り崩し赤牛",
+   "afterRank": "B",
+   "target": "槍馬器",
+   "rate": "49%",
+   "effectShort": "攻撃 39%上昇 / 破壊 30%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "騎迅強襲",
+   "rank": "B",
+   "afterSkill": "遁世影武者",
+   "afterRank": "B",
+   "target": "槍・馬・器",
+   "rate": "30%/100%",
+   "effectShort": "攻撃 35%上昇(確率30%)+速度 25%上昇",
+   "afterTarget": "部隊長",
+   "afterRate": "50%",
+   "afterEffectShort": "所属部隊の部隊長が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  }
+ ]
 }

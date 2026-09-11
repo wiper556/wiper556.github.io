@@ -44,5 +44,60 @@
  "wikiOldestComment": "2018-12-21",
  "wikiCommentCount": 110,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "声遣縦横",
+   "rank": "D",
+   "afterSkill": "声遣縦横",
+   "afterRank": "D",
+   "target": "槍馬砲",
+   "rate": "24%",
+   "effectShort": "攻撃 38%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "闘神 火車懸",
+   "rank": "B",
+   "afterSkill": "闘神 火車懸",
+   "afterRank": "B",
+   "target": "槍馬砲",
+   "rate": "33%",
+   "effectShort": "攻撃 48%上昇 / 破壊 27%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "質実剛健",
+   "rank": "B",
+   "afterSkill": "質実剛健",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "27%",
+   "effectShort": "攻撃防御 ((1+武将ランク)x武将コストx1.9) %上昇 / 武将ランクとコストで効果が変化"
+  },
+  {
+   "slot": "S1",
+   "skill": "八幡攻陣",
+   "rank": "S",
+   "afterSkill": "天焉相克",
+   "afterRank": "SS",
+   "target": "槍馬砲器",
+   "rate": "35%",
+   "effectShort": null,
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "70%",
+   "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"
+  },
+  {
+   "slot": "S2",
+   "skill": "下弦ノ翼龍",
+   "rank": "A",
+   "afterSkill": "下弦ノ翼龍",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ]
 }

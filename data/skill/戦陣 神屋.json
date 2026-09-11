@@ -6,10 +6,13 @@
  "effectSummary": "A/LV10 確率 50% 攻撃 210%上昇+防御 210%上昇/対象:全\n①攻撃 210%上昇する\n②防御 210%上昇する",
  "sourceCharacters": [
   {
-   "name": "志賀親次（2）",
-   "no": "7007",
-   "slot": "B",
-   "db": "kyoku"
+   "name": "遠藤直経",
+   "no": "2344",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "遠藤直経(2344)のsynthesisTable S1枠(2026-09-11)"
+   ]
   },
   {
    "name": "十河一存",
@@ -19,6 +22,12 @@
    "note": [
     "十河一存(2364)のsynthesisTable S2枠(2026-08-23)"
    ]
+  },
+  {
+   "name": "志賀親次（2）",
+   "no": "7007",
+   "slot": "B",
+   "db": "kyoku"
   }
  ],
  "ownHiddenCandidate": {

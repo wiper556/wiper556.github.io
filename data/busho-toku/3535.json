@@ -43,5 +43,72 @@
  "wikiOldestComment": "2023-03-06",
  "wikiCommentCount": 10,
  "chGuess": "25章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄魂不撓",
+   "rank": "C",
+   "afterSkill": "破城 羅刹",
+   "afterRank": "S",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 124%上昇+破壊 55%上昇(資源獲得率12%・破壊した耐久値に応じて資源獲得)"
+  },
+  {
+   "slot": "B",
+   "skill": "鉄魂不撓",
+   "rank": "C",
+   "afterSkill": "破城 羅刹",
+   "afterRank": "S",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 124%上昇+破壊 55%上昇(資源獲得率12%・破壊した耐久値に応じて資源獲得)"
+  },
+  {
+   "slot": "C",
+   "skill": "賢臣",
+   "rank": "D",
+   "afterSkill": "御朱印衆",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 15%上昇 破壊 30%上昇 / 資源獲得率：8% / 破壊した耐久値に応じて資源獲得",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 50%上昇 / 資源獲得率：12% / 破壊した耐久値に応じて資源獲得"
+  },
+  {
+   "slot": "S1",
+   "skill": "破城 羅刹",
+   "rank": "S",
+   "afterSkill": "神屋楯比売命",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 124%上昇+破壊 55%上昇(資源獲得率12%・破壊した耐久値に応じて資源獲得)",
+   "afterTarget": "自身",
+   "afterRate": "70%",
+   "afterEffectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "S2",
+   "skill": "虎切刀",
+   "rank": "C",
+   "afterSkill": "鬼滅刺",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 66%上昇 / 防御 66%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)"
+  }
+ ]
 }

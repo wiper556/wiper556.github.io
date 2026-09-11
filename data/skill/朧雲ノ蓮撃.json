@@ -4,7 +4,35 @@
  "baseRate": 35,
  "target": "弓・砲・器",
  "effectSummary": "S/LV10 確率 35% 攻撃 12%上昇/対象:弓・砲・器\n①攻撃 12%上昇する\n②防御 12%上昇する\n③所属部隊内のレアリティS以上のスキル個数×12%を攻撃・防御効果に加算する",
- "sourceCharacters": [],
+ "sourceCharacters": [
+  {
+   "name": "長尾晴景",
+   "no": "2332",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "長尾晴景(2332)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "上杉憲政（2）",
+   "no": "2337",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "上杉憲政（2）(2337)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "九鬼嘉隆（2）",
+   "no": "2464",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "九鬼嘉隆（2）(2464)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  }
+ ],
  "grantedViaSkills": [
   {
    "skill": "龍神ノ加護",

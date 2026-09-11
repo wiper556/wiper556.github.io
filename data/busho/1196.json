@@ -46,5 +46,63 @@
  "wikiOldestComment": "2021-08-13",
  "wikiCommentCount": 48,
  "chGuess": "22章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "夢幻城回廊",
+   "rank": "S",
+   "afterSkill": "禍津日神ノ謀",
+   "afterRank": "SS",
+   "target": "砲・器",
+   "rate": "70%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "70%",
+   "afterEffectShort": "防御 145%上昇+自部隊の武将ダメージ軽減3%(重複発動上限4)"
+  },
+  {
+   "slot": "B",
+   "skill": "夢幻城回廊",
+   "rank": "S",
+   "afterSkill": "禍津日神ノ謀",
+   "afterRank": "SS",
+   "target": "砲・器",
+   "rate": "70%",
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "70%",
+   "afterEffectShort": "防御 145%上昇+自部隊の武将ダメージ軽減3%(重複発動上限4)"
+  },
+  {
+   "slot": "C",
+   "skill": "星宿劫ノ法壁",
+   "rank": "SS",
+   "afterSkill": "星宿劫ノ法壁",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "49%",
+   "effectShort": "防御 120%上昇+本丸防御陣形の第参列目以降配置時、防御効果が3倍"
+  },
+  {
+   "slot": "S1",
+   "skill": "禍津日神ノ謀",
+   "rank": "SS",
+   "afterSkill": "禍津日神ノ謀",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "70%",
+   "effectShort": "防御 145%上昇+自部隊の武将ダメージ軽減3%(重複発動上限4)"
+  },
+  {
+   "slot": "S2",
+   "skill": "三千世界神将",
+   "rank": "SS",
+   "afterSkill": "三千世界神将",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "防御 120%上昇(本丸防御陣形時コスト消費-1)"
+  }
+ ]
 }

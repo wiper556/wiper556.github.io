@@ -6,11 +6,517 @@
  "effectSummary": "A/LV10 確率 44% 攻撃 66%上昇/対象:全\n①攻撃 66%上昇する\n②防御 66%上昇する",
  "sourceCharacters": [
   {
+   "name": "織田信長（5）【覇】",
+   "no": "1118",
+   "slot": "B",
+   "note": [
+    "織田信長（5）【覇】(1118)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "徳川家康（7）【覇】",
+   "no": "1119",
+   "slot": "B",
+   "note": [
+    "徳川家康（7）【覇】(1119)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "羽柴秀吉【覇】",
+   "no": "1120",
+   "slot": "B",
+   "note": [
+    "羽柴秀吉【覇】(1120)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "柴田勝家（3）",
+   "no": "1122",
+   "slot": "B",
+   "note": [
+    "柴田勝家（3）(1122)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "伊東義祐",
+   "no": "1125",
+   "slot": "B",
+   "note": [
+    "伊東義祐(1125)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "毛利元就（3）【覇】",
+   "no": "1130",
+   "slot": "A",
+   "note": [
+    "毛利元就（3）【覇】(1130)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "今川義元（3）【覇】",
+   "no": "1131",
+   "slot": "A",
+   "note": [
+    "今川義元（3）【覇】(1131)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "細川晴元",
+   "no": "1132",
+   "slot": "A",
+   "note": [
+    "細川晴元(1132)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "蘆名盛氏",
+   "no": "1133",
+   "slot": "A",
+   "note": [
+    "蘆名盛氏(1133)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "織田信秀（2）",
+   "no": "1134",
+   "slot": "A",
+   "note": [
+    "織田信秀（2）(1134)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "松平清康",
+   "no": "1135",
+   "slot": "A",
+   "note": [
+    "松平清康(1135)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "斎藤道三（3）",
+   "no": "1136",
+   "slot": "A",
+   "note": [
+    "斎藤道三（3）(1136)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "伊達晴宗",
+   "no": "1137",
+   "slot": "A",
+   "note": [
+    "伊達晴宗(1137)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "尼子経久（2）",
+   "no": "1138",
+   "slot": "A",
+   "note": [
+    "尼子経久（2）(1138)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "北条早雲（2）",
+   "no": "1139",
+   "slot": "A",
+   "note": [
+    "北条早雲（2）(1139)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "朝倉孝景（2）",
+   "no": "1140",
+   "slot": "A",
+   "note": [
+    "朝倉孝景（2）(1140)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "島津忠良",
+   "no": "1141",
+   "slot": "A",
+   "note": [
+    "島津忠良(1141)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "石田三成（4）【覇】",
+   "no": "1142",
+   "slot": "A",
+   "note": [
+    "石田三成（4）【覇】(1142)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "黒田如水（3）【覇】",
+   "no": "1143",
+   "slot": "A",
+   "note": [
+    "黒田如水（3）【覇】(1143)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "加藤清正（3）",
+   "no": "1144",
+   "slot": "A",
+   "note": [
+    "加藤清正（3）(1144)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "直江兼続",
+   "no": "1145",
+   "slot": "A",
+   "note": [
+    "直江兼続(1145)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "太田道灌",
+   "no": "1146",
+   "slot": "A",
+   "note": [
+    "太田道灌(1146)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "真田幸村",
+   "no": "1147",
+   "slot": "A",
+   "note": [
+    "真田幸村(1147)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "松平元康",
+   "no": "1148",
+   "slot": "A",
+   "note": [
+    "松平元康(1148)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "大谷吉継",
+   "no": "1149",
+   "slot": "A",
+   "note": [
+    "大谷吉継(1149)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "松永久秀（2）",
+   "no": "1150",
+   "slot": "A",
+   "note": [
+    "松永久秀（2）(1150)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "村上武吉",
+   "no": "1151",
+   "slot": "A",
+   "note": [
+    "村上武吉(1151)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "立花宗茂（2）",
+   "no": "1152",
+   "slot": "A",
+   "note": [
+    "立花宗茂（2）(1152)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "鍋島直茂",
+   "no": "1153",
+   "slot": "A",
+   "note": [
+    "鍋島直茂(1153)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "佐吉",
    "no": "1817",
    "slot": "A",
    "note": [
     "佐吉(1817)のsynthesisTable A枠(2026-08-23)"
+   ]
+  },
+  {
+   "name": "石田三成-復刻-（3）",
+   "no": "1966",
+   "slot": "A",
+   "note": [
+    "石田三成-復刻-（3）(1966)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "大友宗麟-復刻-（2）",
+   "no": "1967",
+   "slot": "A",
+   "note": [
+    "大友宗麟-復刻-（2）(1967)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "立花宗茂-復刻-",
+   "no": "1968",
+   "slot": "A",
+   "note": [
+    "立花宗茂-復刻-(1968)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "井伊直虎（2）",
+   "no": "1969",
+   "slot": "B",
+   "note": [
+    "井伊直虎（2）(1969)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "三好長慶-復刻-",
+   "no": "1970",
+   "slot": "A",
+   "note": [
+    "三好長慶-復刻-(1970)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "今川義元-復刻-",
+   "no": "1971",
+   "slot": "A",
+   "note": [
+    "今川義元-復刻-(1971)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "上杉景勝-復刻-（2）",
+   "no": "1972",
+   "slot": "A",
+   "note": [
+    "上杉景勝-復刻-（2）(1972)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "立花誾千代",
+   "no": "1973",
+   "slot": "A",
+   "note": [
+    "立花誾千代(1973)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "細川ガラシャ",
+   "no": "1974",
+   "slot": "B",
+   "note": [
+    "細川ガラシャ(1974)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "足利義昭-復刻-",
+   "no": "1976",
+   "slot": "A",
+   "note": [
+    "足利義昭-復刻-(1976)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "武田信玄-復刻-（3）【覇】",
+   "no": "1977",
+   "slot": "A",
+   "note": [
+    "武田信玄-復刻-（3）【覇】(1977)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "北条早雲-復刻-【覇】",
+   "no": "1978",
+   "slot": "A",
+   "note": [
+    "北条早雲-復刻-【覇】(1978)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "足利義輝-復刻-【覇】",
+   "no": "1979",
+   "slot": "A",
+   "note": [
+    "足利義輝-復刻-【覇】(1979)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "井伊直虎-復刻-（2）",
+   "no": "1981",
+   "slot": "A",
+   "note": [
+    "井伊直虎-復刻-（2）(1981)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "立花誾千代-復刻-",
+   "no": "1982",
+   "slot": "A",
+   "note": [
+    "立花誾千代-復刻-(1982)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "細川ガラシャ-復刻-",
+   "no": "1983",
+   "slot": "A",
+   "note": [
+    "細川ガラシャ-復刻-(1983)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "三好長慶-復刻-（2）【覇】",
+   "no": "1984",
+   "slot": "A",
+   "note": [
+    "三好長慶-復刻-（2）【覇】(1984)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "村上義清-復刻-",
+   "no": "1985",
+   "slot": "A",
+   "note": [
+    "村上義清-復刻-(1985)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "長宗我部盛親-復刻-（2）",
+   "no": "1986",
+   "slot": "A",
+   "note": [
+    "長宗我部盛親-復刻-（2）(1986)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "井伊直虎-復刻-",
+   "no": "1987",
+   "slot": "A",
+   "note": [
+    "井伊直虎-復刻-(1987)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "明智光秀-復刻-（2）【覇】",
+   "no": "1988",
+   "slot": "B",
+   "note": [
+    "明智光秀-復刻-（2）【覇】(1988)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "北条氏康-復刻-（4）【覇】",
+   "no": "1989",
+   "slot": "B",
+   "note": [
+    "北条氏康-復刻-（4）【覇】(1989)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "大内義隆-復刻-",
+   "no": "1990",
+   "slot": "B",
+   "note": [
+    "大内義隆-復刻-(1990)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "武田信繁（2）",
+   "no": "2218",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "武田信繁（2）(2218)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "吉弘鑑理",
+   "no": "2223",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "吉弘鑑理(2223)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "長宗我部信親",
+   "no": "2224",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "長宗我部信親(2224)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "虎御前",
+   "no": "2235",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "虎御前(2235)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "斎藤朝信（2）",
+   "no": "2266",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "斎藤朝信（2）(2266)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "前田玄以",
+   "no": "2327",
+   "slot": "C・S1",
+   "db": "kyoku",
+   "note": [
+    "前田玄以(2327)のsynthesisTable C・S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "松前慶広",
+   "no": "2330",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "松前慶広(2330)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "真壁氏幹",
+   "no": "2331",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "真壁氏幹(2331)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "毛利秀元",
+   "no": "2333",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "毛利秀元(2333)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "加藤貞泰",
+   "no": "2346",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "加藤貞泰(2346)のsynthesisTable A枠(2026-09-11)"
    ]
   },
   {
@@ -26,10 +532,55 @@
    "db": "kyoku"
   },
   {
+   "name": "白石宗実",
+   "no": "2405",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "白石宗実(2405)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "斎藤利三（2）",
+   "no": "2406",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "斎藤利三（2）(2406)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "近衛前久",
+   "no": "2411",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "近衛前久(2411)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "蒲生郷成",
    "no": "2414",
    "slot": "B",
    "db": "kyoku"
+  },
+  {
+   "name": "佐竹義宣（2）",
+   "no": "2417",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "佐竹義宣（2）(2417)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "太田三楽",
+   "no": "2418",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "太田三楽(2418)のsynthesisTable B枠(2026-09-11)"
+   ]
   },
   {
    "name": "谷津主水",
@@ -38,16 +589,88 @@
    "db": "kyoku"
   },
   {
+   "name": "大島雲八",
+   "no": "2420",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "大島雲八(2420)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "上泉信綱",
+   "no": "2421",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "上泉信綱(2421)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "お福",
+   "no": "2422",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "お福(2422)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "高橋紹運（2）",
+   "no": "2423",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "高橋紹運（2）(2423)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "宇喜多秀家（2）",
    "no": "2424",
    "slot": "B",
    "db": "kyoku"
   },
   {
+   "name": "蒲生氏郷（3）",
+   "no": "2425",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "蒲生氏郷（3）(2425)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "後藤又兵衛（2）",
+   "no": "2426",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "後藤又兵衛（2）(2426)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "渡辺了",
+   "no": "2434",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "渡辺了(2434)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "佐竹義重",
    "no": "2437",
    "slot": "A",
    "db": "kyoku"
+  },
+  {
+   "name": "中馬大蔵",
+   "no": "2438",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "中馬大蔵(2438)のsynthesisTable B枠(2026-09-11)"
+   ]
   },
   {
    "name": "斎藤朝信（3）",
@@ -68,6 +691,330 @@
    "db": "kyoku",
    "note": [
     "フロイス(2465)のsynthesisTable A枠(2026-08-16。ixanary.com/skills/星読ノ聖賢とixawiki BushoCard/2465の合成候補テーブルで1次A=戦陣 破軍[A]→2次A=天穿神滅[SS]を2ソース確認)"
+   ]
+  },
+  {
+   "name": "北条氏綱-復刻-",
+   "no": "2505",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "北条氏綱-復刻-(2505)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "ヴィレラ-復刻-",
+   "no": "2506",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "ヴィレラ-復刻-(2506)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "黄梅院-復刻Ⅱ-",
+   "no": "2507",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "黄梅院-復刻Ⅱ-(2507)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "妙玖-復刻Ⅱ-",
+   "no": "2508",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "妙玖-復刻Ⅱ-(2508)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "前田慶次-復刻Ⅱ-",
+   "no": "2509",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "前田慶次-復刻Ⅱ-(2509)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "内藤如安-復刻-",
+   "no": "2513",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "内藤如安-復刻-(2513)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "明石全登-復刻-（2）",
+   "no": "2514",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "明石全登-復刻-（2）(2514)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "花舜夫人-復刻Ⅱ-",
+   "no": "2515",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "花舜夫人-復刻Ⅱ-(2515)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "山手殿-復刻-",
+   "no": "2516",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "山手殿-復刻-(2516)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "果心居士-復刻Ⅰ-",
+   "no": "2517",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "果心居士-復刻Ⅰ-(2517)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "服部半蔵-復刻Ⅰ-（2）",
+   "no": "2518",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "服部半蔵-復刻Ⅰ-（2）(2518)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "早川殿-復刻-",
+   "no": "2519",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "早川殿-復刻-(2519)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "細川ガラシャ-復刻Ⅱ-",
+   "no": "2520",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "細川ガラシャ-復刻Ⅱ-(2520)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "藤堂高虎-復刻-",
+   "no": "2521",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "藤堂高虎-復刻-(2521)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "島津豊久-復刻-（2）",
+   "no": "2522",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "島津豊久-復刻-（2）(2522)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "小少将-復刻-",
+   "no": "2523",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "小少将-復刻-(2523)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "茶々-復刻Ⅱ-",
+   "no": "2524",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "茶々-復刻Ⅱ-(2524)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "織田三郎信長（2）",
+   "no": "2525",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "織田三郎信長（2）(2525)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "明智光秀（3）",
+   "no": "2526",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "明智光秀（3）(2526)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "胡蝶",
+   "no": "2527",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "胡蝶(2527)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "生駒類",
+   "no": "2528",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "生駒類(2528)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "前田慶次（4）",
+   "no": "2529",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "前田慶次（4）(2529)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "明智十兵衛",
+   "no": "2533",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "明智十兵衛(2533)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "煕子（2）",
+   "no": "2534",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "煕子（2）(2534)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "織田信長（2）",
+   "no": "2536",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "織田信長（2）(2536)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "織田信長（3）",
+   "no": "2537",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "織田信長（3）(2537)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "羽柴秀吉（3）",
+   "no": "2538",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "羽柴秀吉（3）(2538)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "徳川家康",
+   "no": "2539",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "徳川家康(2539)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "武田信玄（2）",
+   "no": "2540",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "武田信玄（2）(2540)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "島津義弘（3）",
+   "no": "2544",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "島津義弘（3）(2544)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "大友宗麟（2）",
+   "no": "2546",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "大友宗麟（2）(2546)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "服部半蔵-復刻Ⅱ-（2）",
+   "no": "2551",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "服部半蔵-復刻Ⅱ-（2）(2551)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "百地三太夫-復刻-（2）",
+   "no": "2553",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "百地三太夫-復刻-（2）(2553)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "松平元康",
+   "no": "2575",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "松平元康(2575)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "瀬名姫（3）",
+   "no": "2577",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "瀬名姫（3）(2577)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "今井宗久-復刻-",
+   "no": "2579",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "今井宗久-復刻-(2579)のsynthesisTable A枠(2026-09-11)"
    ]
   },
   {
@@ -125,6 +1072,15 @@
    "db": "kyoku",
    "note": [
     "宇佐美定行(2763)のsynthesisTable C枠(2026-08-15)"
+   ]
+  },
+  {
+   "name": "鈴木佐太夫（2）",
+   "no": "2765",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "鈴木佐太夫（2）(2765)のsynthesisTable A枠(2026-09-11)"
    ]
   },
   {
@@ -218,6 +1174,15 @@
    ]
   },
   {
+   "name": "長尾景春",
+   "no": "2782",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "長尾景春(2782)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "藤林長門守",
    "no": "2783",
    "slot": "A",
@@ -287,6 +1252,24 @@
    "db": "kyoku",
    "note": [
     "諏訪姫(2820)のsynthesisTable A枠(2026-08-15)"
+   ]
+  },
+  {
+   "name": "蜂須賀小六",
+   "no": "2949",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "蜂須賀小六(2949)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "黒田官兵衛（4）",
+   "no": "2950",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "黒田官兵衛（4）(2950)のsynthesisTable C枠(2026-09-11)"
    ]
   },
   {

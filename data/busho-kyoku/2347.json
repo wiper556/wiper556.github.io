@@ -41,5 +41,72 @@
  "wikiOldestComment": "2023-06-01",
  "wikiCommentCount": 9,
  "chGuess": "25章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "千兵ノ耀姫",
+   "rank": "A",
+   "afterSkill": "龍神ノ加護",
+   "afterRank": "A",
+   "target": "弓馬器騎",
+   "rate": "50%",
+   "effectShort": "兵站 / 防御 170%上昇 破壊 80%上昇",
+   "afterTarget": "馬・砲・器",
+   "afterRate": "46%",
+   "afterEffectShort": "防御 135%上昇+本丸防御陣形配置時コスト消費-0.5(模倣不可)"
+  },
+  {
+   "slot": "B",
+   "skill": "千兵ノ耀姫",
+   "rank": "A",
+   "afterSkill": "龍神ノ加護",
+   "afterRank": "A",
+   "target": "弓馬器騎",
+   "rate": "50%",
+   "effectShort": "兵站 / 防御 170%上昇 破壊 80%上昇",
+   "afterTarget": "馬・砲・器",
+   "afterRate": "46%",
+   "afterEffectShort": "防御 135%上昇+本丸防御陣形配置時コスト消費-0.5(模倣不可)"
+  },
+  {
+   "slot": "C",
+   "skill": "籠城の妙技",
+   "rank": "A",
+   "afterSkill": "三千世界神将",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "防御 50%上昇(卓越:追加確率15%で防御効果が3倍)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "防御 120%上昇(本丸防御陣形時コスト消費-1)"
+  },
+  {
+   "slot": "S1",
+   "skill": "龍神ノ加護",
+   "rank": "A",
+   "afterSkill": "朧雲ノ蓮撃",
+   "afterRank": "S",
+   "target": "馬・砲・器",
+   "rate": "46%",
+   "effectShort": "防御 135%上昇+本丸防御陣形配置時コスト消費-0.5(模倣不可)",
+   "afterTarget": "弓・砲・器",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 12%上昇+防御 12%上昇(所属部隊内レアリティS以上スキル数×12%、TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "覇・月扇乱舞",
+   "rank": "B",
+   "afterSkill": "戦陣 龍馬",
+   "afterRank": "A",
+   "target": "弓砲器",
+   "rate": "38%",
+   "effectShort": "防御 75%上昇 確率：+38% / 速度 35%上昇 確率：+100% / (加勢出陣時は速度効果2倍)",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "防御 1%上昇(部隊ランクボーナス×10%を加算)"
+  }
+ ]
 }

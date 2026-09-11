@@ -44,5 +44,60 @@
  "wikiOldestComment": "2017-04-25",
  "wikiCommentCount": 35,
  "chGuess": "13章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "城崩し",
+   "rank": "D",
+   "afterSkill": "謀殺",
+   "afterRank": "D",
+   "target": "器",
+   "rate": "35%",
+   "effectShort": "破壊 20%上昇",
+   "afterTarget": "全",
+   "afterRate": "15%",
+   "afterEffectShort": "攻撃戦闘勝利時のみ、敵軍1部隊の武将に追加ダメージ+35"
+  },
+  {
+   "slot": "B",
+   "skill": "援兵勲功",
+   "rank": "D",
+   "afterSkill": "援兵勲功",
+   "afterRank": "D",
+   "target": "弓馬器",
+   "rate": "12%",
+   "effectShort": "攻撃 39%上昇 / 合流攻撃時は必ずスキル発動"
+  },
+  {
+   "slot": "C",
+   "skill": "御国一蹴",
+   "rank": "D",
+   "afterSkill": "御国一蹴",
+   "afterRank": "D",
+   "target": "弓器",
+   "rate": "27%",
+   "effectShort": "攻撃 39%上昇 / 破壊 16%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "六道攻竜",
+   "rank": "A",
+   "afterSkill": "六道攻竜",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "豊家の意地",
+   "rank": "B",
+   "afterSkill": "豊家の意地",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ]
 }

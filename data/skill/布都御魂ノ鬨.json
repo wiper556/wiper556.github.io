@@ -6,6 +6,110 @@
  "effectSummary": "SS/LV10 確率 35% 攻撃 40%上昇/対象:全\n①攻撃 40%上昇する\n②防御 40%上昇する\n③所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算する",
  "sourceCharacters": [
   {
+   "name": "織田信長（6）【覇】",
+   "no": "1166",
+   "slot": "A",
+   "note": [
+    "織田信長（6）【覇】(1166)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "徳川家康（8）【覇】",
+   "no": "1168",
+   "slot": "B",
+   "note": [
+    "徳川家康（8）【覇】(1168)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "伊達政宗（5）",
+   "no": "1174",
+   "slot": "S1",
+   "note": [
+    "伊達政宗（5）(1174)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "浅井長政（3）",
+   "no": "1175",
+   "slot": "S1",
+   "note": [
+    "浅井長政（3）(1175)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "足利義昭（3）【覇】",
+   "no": "1178",
+   "slot": "B",
+   "note": [
+    "足利義昭（3）【覇】(1178)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "南部晴政（2）",
+   "no": "1181",
+   "slot": "B",
+   "note": [
+    "南部晴政（2）(1181)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "佐竹義重（3）",
+   "no": "1182",
+   "slot": "S1",
+   "note": [
+    "佐竹義重（3）(1182)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "里見義弘",
+   "no": "1183",
+   "slot": "S2",
+   "note": [
+    "里見義弘(1183)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "有馬晴信",
+   "no": "1188",
+   "slot": "A・S2",
+   "note": [
+    "有馬晴信(1188)のsynthesisTable A・S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "相良義陽（2）",
+   "no": "1189",
+   "slot": "S1",
+   "note": [
+    "相良義陽（2）(1189)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "本多忠勝",
+   "no": "1193",
+   "slot": "S2",
+   "note": [
+    "本多忠勝(1193)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "真田信之",
+   "no": "1194",
+   "slot": "S2",
+   "note": [
+    "真田信之(1194)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "黒田長政",
+   "no": "1200",
+   "slot": "A",
+   "note": [
+    "黒田長政(1200)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "武田晴信（2）",
    "no": "1205",
    "slot": "S2"
@@ -46,6 +150,62 @@
    "slot": "S2"
   },
   {
+   "name": "伊達政宗-復刻-（4）【覇】",
+   "no": "1991",
+   "slot": "A・S2",
+   "note": [
+    "伊達政宗-復刻-（4）【覇】(1991)のsynthesisTable A・S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "長宗我部盛親-復刻-",
+   "no": "1992",
+   "slot": "S2",
+   "note": [
+    "長宗我部盛親-復刻-(1992)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "小早川秀秋-復刻-",
+   "no": "1993",
+   "slot": "S2",
+   "note": [
+    "小早川秀秋-復刻-(1993)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "明智光秀（3）【覇】",
+   "no": "1994",
+   "slot": "A",
+   "note": [
+    "明智光秀（3）【覇】(1994)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "初",
+   "no": "1995",
+   "slot": "S2",
+   "note": [
+    "初(1995)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "江",
+   "no": "1996",
+   "slot": "A・S2",
+   "note": [
+    "江(1996)のsynthesisTable A・S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "織田信長-復刻-（5）【覇】",
+   "no": "1997",
+   "slot": "A",
+   "note": [
+    "織田信長-復刻-（5）【覇】(1997)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "毛利元就-復刻-（3）【覇】",
    "no": "10014",
    "slot": "A",
@@ -64,6 +224,24 @@
    "no": "2449",
    "slot": "S1・S2",
    "db": "kyoku"
+  },
+  {
+   "name": "フロイス",
+   "no": "2465",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "フロイス(2465)のsynthesisTable S2枠(2026-08-16、自己参照。ixanary.com/skills/星読ノ聖賢とixawiki BushoCard/2465の2ソース確認)"
+   ]
+  },
+  {
+   "name": "前田慶次（4）",
+   "no": "2529",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "前田慶次（4）(2529)のsynthesisTable S1枠(2026-09-11)"
+   ]
   },
   {
    "name": "木下藤吉郎",
@@ -88,15 +266,6 @@
    "note": [
     "藤原惺窩(2818)のsynthesisTable S2枠(2026-08-15)"
    ]
-  },
-  {
-   "name": "フロイス",
-   "no": "2465",
-   "slot": "S2",
-   "db": "kyoku",
-   "note": [
-    "フロイス(2465)のsynthesisTable S2枠(2026-08-16、自己参照。ixanary.com/skills/星読ノ聖賢とixawiki BushoCard/2465の2ソース確認)"
-   ]
   }
  ],
  "grantedViaSkills": [
@@ -111,6 +280,18 @@
   {
    "skill": "戦陣 凱旋",
    "rank": "A"
+  },
+  {
+   "skill": "独眼竜 神威",
+   "rank": "S"
+  },
+  {
+   "skill": "壊劫竜鬼兵",
+   "rank": "S"
+  },
+  {
+   "skill": "天誓ノ彷徨",
+   "rank": "S"
   }
  ],
  "ownHiddenCandidate": {

@@ -48,5 +48,57 @@
  "wikiOldestComment": "2021-02-05",
  "wikiCommentCount": 87,
  "chGuess": "21章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "天神破軍",
+   "rank": "SS",
+   "afterSkill": "天神破軍",
+   "afterRank": "SS",
+   "target": "槍砲器",
+   "rate": "50%",
+   "effectShort": null
+  },
+  {
+   "slot": "B",
+   "skill": "布都御魂ノ鬨",
+   "rank": "SS",
+   "afterSkill": "布都御魂ノ鬨",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "攻撃 40%上昇+防御 40%上昇+所属部隊内のレアリティS以上のスキル個数×20%を攻防効果に加算"
+  },
+  {
+   "slot": "C",
+   "skill": "天岩戸ノ神域",
+   "rank": "SS",
+   "afterSkill": "天岩戸ノ神域",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "70%",
+   "effectShort": "攻撃 2.8%×防御参加武将数(280人)=784.0%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "高津姫神",
+   "rank": "SS",
+   "afterSkill": "高津姫神",
+   "afterRank": "SS",
+   "target": "自身",
+   "rate": "70%",
+   "effectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "S2",
+   "skill": "火之迦具土神",
+   "rank": "SS",
+   "afterSkill": "火之迦具土神",
+   "afterRank": "SS",
+   "target": "槍・馬・砲",
+   "rate": "100%",
+   "effectShort": "攻撃 160%上昇(卓越追加確率25%・3倍・TRなし)"
+  }
+ ]
 }

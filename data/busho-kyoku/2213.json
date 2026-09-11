@@ -45,5 +45,63 @@
  "wikiOldestComment": "2018-02-02",
  "wikiCommentCount": 38,
  "chGuess": "15章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "騎馬隊襲撃",
+   "rank": "F",
+   "afterSkill": "騎馬隊堅守",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "20%",
+   "effectShort": "馬攻：10%上昇",
+   "afterTarget": "馬",
+   "afterRate": "20%",
+   "afterEffectShort": "馬防：10%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "馬上砲術",
+   "rank": "D",
+   "afterSkill": "馬上砲術",
+   "afterRank": "D",
+   "target": "馬砲",
+   "rate": "60%",
+   "effectShort": "攻撃 15%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "抗龍",
+   "rank": "B",
+   "afterSkill": "闘神 火車懸",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍馬砲",
+   "afterRate": "33%",
+   "afterEffectShort": "攻撃 48%上昇 / 破壊 27%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "闘神 火車懸",
+   "rank": "B",
+   "afterSkill": "闘神 火車懸",
+   "afterRank": "B",
+   "target": "槍馬砲",
+   "rate": "33%",
+   "effectShort": "攻撃 48%上昇 / 破壊 27%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "質実剛健",
+   "rank": "B",
+   "afterSkill": "質実剛健",
+   "afterRank": "B",
+   "target": "弓馬砲",
+   "rate": "27%",
+   "effectShort": "攻撃防御 ((1+武将ランク)x武将コストx1.9) %上昇 / 武将ランクとコストで効果が変化"
+  }
+ ]
 }

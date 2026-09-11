@@ -6,6 +6,38 @@
  "effectSummary": "A/LV10 確率 50% 攻撃 67%上昇/防御 67%上昇/対象:全",
  "sourceCharacters": [
   {
+   "name": "直江兼続",
+   "no": "1145",
+   "slot": "S2",
+   "note": [
+    "直江兼続(1145)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "大谷吉継",
+   "no": "1149",
+   "slot": "S2",
+   "note": [
+    "大谷吉継(1149)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "村上武吉",
+   "no": "1151",
+   "slot": "S2",
+   "note": [
+    "村上武吉(1151)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "鍋島直茂",
+   "no": "1153",
+   "slot": "S2",
+   "note": [
+    "鍋島直茂(1153)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "源五郎",
    "no": "1812",
    "slot": "B",
@@ -30,10 +62,89 @@
    ]
   },
   {
+   "name": "足利義輝-復刻-【覇】",
+   "no": "1979",
+   "slot": "B",
+   "note": [
+    "足利義輝-復刻-【覇】(1979)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "大内義隆-復刻-",
+   "no": "1990",
+   "slot": "S2",
+   "note": [
+    "大内義隆-復刻-(1990)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "虎哉宗乙",
+   "no": "2244",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "虎哉宗乙(2244)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "華陽院",
+   "no": "2245",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "華陽院(2245)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "蒲生郷成",
    "no": "2414",
    "slot": "C",
    "db": "kyoku"
+  },
+  {
+   "name": "佐竹義宣（2）",
+   "no": "2417",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "佐竹義宣（2）(2417)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "上泉信綱",
+   "no": "2421",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "上泉信綱(2421)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "お福",
+   "no": "2422",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "お福(2422)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "高橋紹運（2）",
+   "no": "2423",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "高橋紹運（2）(2423)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "渡辺了",
+   "no": "2434",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "渡辺了(2434)のsynthesisTable C枠(2026-09-11)"
+   ]
   },
   {
    "name": "佐竹義重",
@@ -46,6 +157,141 @@
    "no": "2440",
    "slot": "C",
    "db": "kyoku"
+  },
+  {
+   "name": "ヴィレラ-復刻-",
+   "no": "2506",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "ヴィレラ-復刻-(2506)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "駒姫-復刻-",
+   "no": "2511",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "駒姫-復刻-(2511)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "吉乃-復刻-",
+   "no": "2512",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "吉乃-復刻-(2512)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "果心居士-復刻Ⅰ-",
+   "no": "2517",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "果心居士-復刻Ⅰ-(2517)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "早川殿-復刻-",
+   "no": "2519",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "早川殿-復刻-(2519)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "細川ガラシャ-復刻Ⅱ-",
+   "no": "2520",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "細川ガラシャ-復刻Ⅱ-(2520)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "藤堂高虎-復刻-",
+   "no": "2521",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "藤堂高虎-復刻-(2521)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "島津豊久-復刻-（2）",
+   "no": "2522",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "島津豊久-復刻-（2）(2522)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "小少将-復刻-",
+   "no": "2523",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "小少将-復刻-(2523)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "茶々-復刻Ⅱ-",
+   "no": "2524",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "茶々-復刻Ⅱ-(2524)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "胡蝶",
+   "no": "2527",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "胡蝶(2527)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "生駒類",
+   "no": "2528",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "生駒類(2528)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "伊達政宗（3）",
+   "no": "2530",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "伊達政宗（3）(2530)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "明智十兵衛",
+   "no": "2533",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "明智十兵衛(2533)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "煕子（2）",
+   "no": "2534",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "煕子（2）(2534)のsynthesisTable C枠(2026-09-11)"
+   ]
   },
   {
    "name": "保科正之",
@@ -90,6 +336,24 @@
    "db": "kyoku",
    "note": [
     "小堀遠州(2780)のsynthesisTable S2枠(2026-08-16)"
+   ]
+  },
+  {
+   "name": "於大の方（2）",
+   "no": "2786",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "於大の方（2）(2786)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "阿茶局",
+   "no": "2794",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "阿茶局(2794)のsynthesisTable C枠(2026-09-11)"
    ]
   },
   {

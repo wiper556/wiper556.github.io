@@ -45,5 +45,63 @@
  "wikiOldestComment": "2018-05-02",
  "wikiCommentCount": 85,
  "chGuess": "15章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "兵器布陣",
+   "rank": "E",
+   "afterSkill": "城砕き",
+   "afterRank": "E",
+   "target": "器",
+   "rate": "15%",
+   "effectShort": "防御 20%上昇",
+   "afterTarget": "器",
+   "afterRate": "15%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "歩き巫女",
+   "rank": "D",
+   "afterSkill": "蒼刃ノ輔曳",
+   "afterRank": "D",
+   "target": "弓器",
+   "rate": "38%",
+   "effectShort": "防御 43%上昇",
+   "afterTarget": "弓器",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 27%上昇 / (攻撃部隊に兵器兵科がいれば効果2倍)"
+  },
+  {
+   "slot": "C",
+   "skill": "万端の用人",
+   "rank": "B",
+   "afterSkill": "万端の用人",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "45%",
+   "effectShort": "防御 45%上昇(他城主の拠点に加勢中にも部隊の兵士編成を行える)"
+  },
+  {
+   "slot": "S1",
+   "skill": "白夜ノ才姫",
+   "rank": "B",
+   "afterSkill": "白夜ノ才姫",
+   "afterRank": "B",
+   "target": "弓馬器",
+   "rate": "35%",
+   "effectShort": "防御 57%上昇 / 他城主の拠点に加勢中にも、部隊の兵士編成を行える"
+  },
+  {
+   "slot": "S2",
+   "skill": "新館御料人",
+   "rank": "B",
+   "afterSkill": "新館御料人",
+   "afterRank": "B",
+   "target": "弓砲器",
+   "rate": "70%",
+   "effectShort": "攻撃 57.6%上昇 / 防御 57.6%上昇"
+  }
+ ]
 }

@@ -44,5 +44,69 @@
  "wikiOldestComment": "2020-05-05",
  "wikiCommentCount": 73,
  "chGuess": "19章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "水夫動員",
+   "rank": "D",
+   "afterSkill": "死生ノ宣告",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍弓馬",
+   "afterRate": "66%",
+   "afterEffectShort": "攻撃 66%上昇 / 卓越：追加確率15%で攻撃効果が1.5倍"
+  },
+  {
+   "slot": "B",
+   "skill": "兵器進撃",
+   "rank": "F",
+   "afterSkill": "鉄砲隊進撃",
+   "afterRank": "F",
+   "target": "器",
+   "rate": "10%",
+   "effectShort": "攻撃 15%上昇",
+   "afterTarget": "砲",
+   "afterRate": "8%",
+   "afterEffectShort": "攻撃 15%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "眉月進軍",
+   "rank": "D",
+   "afterSkill": "予覚の残香",
+   "afterRank": "B",
+   "target": "槍弓器",
+   "rate": "8%",
+   "effectShort": "攻撃 57%上昇 / (19時～翌01時は確率5倍)",
+   "afterTarget": "槍弓器",
+   "afterRate": "7%",
+   "afterEffectShort": "攻撃 54%上昇 / 相手軍の武将数が20以上だと必ずスキル発動"
+  },
+  {
+   "slot": "S1",
+   "skill": "死生ノ宣告",
+   "rank": "B",
+   "afterSkill": "風狂幻術",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "66%",
+   "effectShort": "攻撃 66%上昇 / 卓越：追加確率15%で攻撃効果が1.5倍",
+   "afterTarget": "部隊長",
+   "afterRate": "53%",
+   "afterEffectShort": "部隊長の初期スキルを模倣(戦闘スキルのみ、TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "猛虎燎原",
+   "rank": "B",
+   "afterSkill": "猛虎燎原",
+   "afterRank": "B",
+   "target": "槍弓砲",
+   "rate": "18%",
+   "effectShort": "攻撃 5.4%上昇 / 攻撃 部隊ランク発動率x9%上昇"
+  }
+ ]
 }

@@ -15,12 +15,47 @@
    ]
   },
   {
+   "name": "徳川家康（4）【覇】",
+   "no": "1041",
+   "slot": "S1",
+   "note": [
+    "徳川家康（4）【覇】(1041)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "松平忠輝",
+   "no": "2088",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "松平忠輝(2088)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "瀬名姫",
+   "no": "2094",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "瀬名姫(2094)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "林羅山",
    "no": "2721",
    "slot": "S2",
    "db": "kyoku",
    "note": [
     "林羅山(2721)のsynthesisTable S2枠(2026-08-16、担当K6)"
+   ]
+  },
+  {
+   "name": "徳川家光",
+   "no": "2723",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "徳川家光(2723)のsynthesisTable S2枠(2026-09-11)"
    ]
   }
  ],
@@ -40,6 +75,12 @@
    "level": "LV10",
    "points": "-",
    "effect": "全　確率 50% / 防御 35%上昇(TRなし)"
+  }
+ ],
+ "grantedViaSkills": [
+  {
+   "skill": "天葵の神攻",
+   "rank": "S"
   }
  ]
 }

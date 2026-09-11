@@ -17,15 +17,24 @@
    "slot": "C"
   },
   {
+   "name": "緋村剣心",
+   "no": "10052",
+   "slot": "A"
+  },
+  {
+   "name": "立花誾千代（2）",
+   "no": "2588",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "立花誾千代（2）(2588)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "緋村抜刀斎",
    "no": "2601",
    "slot": "C・S2",
    "db": "kyoku"
-  },
-  {
-   "name": "緋村剣心",
-   "no": "10052",
-   "slot": "A"
   }
  ],
  "ownHiddenCandidate": {

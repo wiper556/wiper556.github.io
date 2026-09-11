@@ -41,5 +41,63 @@
  "wikiOldestComment": "2025-03-09",
  "wikiCommentCount": 1,
  "chGuess": "29章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "烈忠鋼陣",
+   "rank": "C",
+   "afterSkill": "八虎筆頭",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍弓砲",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 70%上昇 / 破壊 50%上昇 / (合流攻撃時、攻撃効果4倍)"
+  },
+  {
+   "slot": "B",
+   "skill": "鬼ノ右腕",
+   "rank": "C",
+   "afterSkill": "鬼ノ右腕",
+   "afterRank": "C",
+   "target": "全",
+   "rate": "48%",
+   "effectShort": "攻撃 345%上昇 / 破壊 70%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "鬼ノ右腕",
+   "rank": "C",
+   "afterSkill": "鬼ノ右腕",
+   "afterRank": "C",
+   "target": "全",
+   "rate": "48%",
+   "effectShort": "攻撃 345%上昇 / 破壊 70%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "鬼ノ右腕",
+   "rank": "C",
+   "afterSkill": "鬼ノ右腕",
+   "afterRank": "C",
+   "target": "全",
+   "rate": "48%",
+   "effectShort": "攻撃 345%上昇 / 破壊 70%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "虎切刀",
+   "rank": "C",
+   "afterSkill": "鬼滅刺",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 66%上昇 / 防御 66%上昇",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)"
+  }
+ ]
 }

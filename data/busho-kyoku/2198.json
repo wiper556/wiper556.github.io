@@ -42,5 +42,69 @@
  "wikiOldestComment": "2017-07-06",
  "wikiCommentCount": 45,
  "chGuess": "14章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "弓隊急襲",
+   "rank": "F",
+   "afterSkill": "弓隊守備",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "16%",
+   "effectShort": "攻撃 (コストx5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "弓",
+   "afterRate": "16%",
+   "afterEffectShort": "防御 (コストx6) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "夜叉の円舞",
+   "rank": "D",
+   "afterSkill": "傾天の嘆き",
+   "afterRank": "B",
+   "target": "弓砲",
+   "rate": "30%",
+   "effectShort": "攻撃 33%上昇",
+   "afterTarget": "弓砲",
+   "afterRate": "30%",
+   "afterEffectShort": "攻撃 35%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "常世虫",
+   "rank": "C",
+   "afterSkill": "声遣縦横",
+   "afterRank": "D",
+   "target": "槍弓砲",
+   "rate": "26%",
+   "effectShort": "攻撃 37%上昇",
+   "afterTarget": "槍馬砲",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃 38%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "御母の神意",
+   "rank": "B",
+   "afterSkill": "御母の神意",
+   "afterRank": "B",
+   "target": "槍弓砲",
+   "rate": "8%",
+   "effectShort": "攻撃 50%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "三河魂",
+   "rank": "S",
+   "afterSkill": "天衣無縫陣",
+   "afterRank": "SS",
+   "target": "槍弓砲",
+   "rate": "35%",
+   "effectShort": "攻撃 25%上昇+破壊 25%上昇",
+   "afterTarget": "全",
+   "afterRate": "55%",
+   "afterEffectShort": "防御 (20+コスト×10) %上昇"
+  }
+ ]
 }

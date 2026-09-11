@@ -43,5 +43,63 @@
  "wikiOldestComment": "2018-08-17",
  "wikiCommentCount": 51,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "騎馬隊急襲",
+   "rank": "F",
+   "afterSkill": "騎馬隊守備",
+   "afterRank": "F",
+   "target": "馬",
+   "rate": "16%",
+   "effectShort": "攻撃 (コストx5) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "馬",
+   "afterRate": "16%",
+   "afterEffectShort": "防御 (コストx5) %上昇 / (武将のコストで効果が変化します)"
+  },
+  {
+   "slot": "B",
+   "skill": "気骨の士",
+   "rank": "D",
+   "afterSkill": "気骨の士",
+   "afterRank": "D",
+   "target": "馬砲",
+   "rate": "28%",
+   "effectShort": "攻撃 38%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "旋風剛撃",
+   "rank": "B",
+   "afterSkill": "騎龍 轟攻陣",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": null,
+   "afterRate": null,
+   "afterEffectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": "騎龍 轟攻陣",
+   "rank": "A",
+   "afterSkill": "騎龍 轟攻陣",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "喰野虎",
+   "rank": "B",
+   "afterSkill": "喰野虎",
+   "afterRank": "B",
+   "target": "槍馬砲",
+   "rate": "100%",
+   "effectShort": "攻撃 25%上昇 / 破壊 20%上昇 / 速度 35%上昇"
+  }
+ ]
 }

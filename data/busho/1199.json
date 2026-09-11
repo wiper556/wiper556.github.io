@@ -45,5 +45,66 @@
  "wikiOldestComment": "2021-08-13",
  "wikiCommentCount": 29,
  "chGuess": "22章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "冥界ノ神鎌",
+   "rank": "S",
+   "afterSkill": "神屋楯比売命",
+   "afterRank": "SS",
+   "target": "槍・弓・器・焙",
+   "rate": "74%",
+   "effectShort": null,
+   "afterTarget": "自身",
+   "afterRate": "70%",
+   "afterEffectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "B",
+   "skill": "冥界ノ神鎌",
+   "rank": "S",
+   "afterSkill": "神屋楯比売命",
+   "afterRank": "SS",
+   "target": "槍・弓・器・焙",
+   "rate": "74%",
+   "effectShort": null,
+   "afterTarget": "自身",
+   "afterRate": "70%",
+   "afterEffectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "C",
+   "skill": "八重言代主神",
+   "rank": "SS",
+   "afterSkill": "無窮天斥陣",
+   "afterRank": "SS",
+   "target": "自身",
+   "rate": "70%",
+   "effectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)",
+   "afterTarget": "槍弓馬",
+   "afterRate": "40%",
+   "afterEffectShort": "防御 63%上昇(攻撃部隊に兵器兵科がいれば効果1.5倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "神屋楯比売命",
+   "rank": "SS",
+   "afterSkill": "神屋楯比売命",
+   "afterRank": "SS",
+   "target": "自身",
+   "rate": "70%",
+   "effectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"
+  },
+  {
+   "slot": "S2",
+   "skill": "天岩戸ノ神域",
+   "rank": "SS",
+   "afterSkill": "天岩戸ノ神域",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "70%",
+   "effectShort": "攻撃 2.8%×防御参加武将数(280人)=784.0%上昇"
+  }
+ ]
 }

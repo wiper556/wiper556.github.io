@@ -45,5 +45,60 @@
  "wikiOldestComment": "2017-02-14",
  "wikiCommentCount": 181,
  "chGuess": "13章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄壁の備え",
+   "rank": "D",
+   "afterSkill": "城崩し",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇",
+   "afterTarget": "器",
+   "afterRate": "35%",
+   "afterEffectShort": "破壊 20%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "柳眉倒豎",
+   "rank": "D",
+   "afterSkill": "柳眉倒豎",
+   "afterRank": "D",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "防御 24%上昇(合流攻撃防御時は効果2倍)"
+  },
+  {
+   "slot": "C",
+   "skill": "洞察",
+   "rank": "B",
+   "afterSkill": "洞察",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "防御 7.5%上昇(部隊ランクボーナスで効果が変化)"
+  },
+  {
+   "slot": "S1",
+   "skill": "女地頭",
+   "rank": "S",
+   "afterSkill": "女地頭",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "37%",
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "盟約の憐姫",
+   "rank": "A",
+   "afterSkill": "盟約の憐姫",
+   "afterRank": "A",
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ]
 }

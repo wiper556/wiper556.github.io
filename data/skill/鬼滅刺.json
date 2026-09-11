@@ -13,11 +13,117 @@
  ],
  "sourceCharacters": [
   {
+   "name": "三好長慶（3）",
+   "no": "1170",
+   "slot": "S2",
+   "note": [
+    "三好長慶（3）(1170)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "島津義久（5）",
+   "no": "1176",
+   "slot": "S2",
+   "note": [
+    "島津義久（5）(1176)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "松寿丸",
    "no": "1816",
    "slot": "A",
    "note": [
     "松寿丸(1816)のsynthesisTable A枠(2026-08-23)"
+   ]
+  },
+  {
+   "name": "如春尼",
+   "no": "2283",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "如春尼(2283)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "少弐冬尚",
+   "no": "2284",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "少弐冬尚(2284)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "本願寺教如",
+   "no": "2290",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "本願寺教如(2290)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "陶晴賢（2）",
+   "no": "2294",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "陶晴賢（2）(2294)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "内藤昌豊（2）",
+   "no": "2309",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "内藤昌豊（2）(2309)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "九戸政実（2）",
+   "no": "2310",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "九戸政実（2）(2310)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "朝倉義景（2）",
+   "no": "2313",
+   "slot": "C・S1・S2",
+   "db": "kyoku",
+   "note": [
+    "朝倉義景（2）(2313)のsynthesisTable C・S1・S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "島左近（4）",
+   "no": "2316",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "島左近（4）(2316)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "榊原康政（2）",
+   "no": "2317",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "榊原康政（2）(2317)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "板部岡江雪斎",
+   "no": "2322",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "板部岡江雪斎(2322)のsynthesisTable S2枠(2026-09-11)"
    ]
   },
   {
@@ -27,6 +133,24 @@
    "db": "kyoku",
    "note": [
     "弥助(2430)のsynthesisTable A枠(2026-08-15)"
+   ]
+  },
+  {
+   "name": "大友義鎮",
+   "no": "2431",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "大友義鎮(2431)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "渡辺了",
+   "no": "2434",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "渡辺了(2434)のsynthesisTable S2枠(2026-09-11)"
    ]
   },
   {
@@ -84,6 +208,24 @@
    ]
   },
   {
+   "name": "加藤清正（2）",
+   "no": "2446",
+   "slot": "A・B",
+   "db": "kyoku",
+   "note": [
+    "加藤清正（2）(2446)のsynthesisTable A・B枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "福島正則（2）",
+   "no": "2447",
+   "slot": "A・B",
+   "db": "kyoku",
+   "note": [
+    "福島正則（2）(2447)のsynthesisTable A・B枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "佐々木小次郎（3）",
    "no": "2450",
    "slot": "A",
@@ -99,6 +241,42 @@
    "db": "kyoku",
    "note": [
     "初鹿野信昌(2463)のsynthesisTable A枠(2026-08-16。ixanary.com/skills/香車伝右衛門とixawiki BushoCard/2463の合成候補テーブルで1次A=鬼滅刺[A]→2次A=布都御魂ノ鬨[SS]を2ソース確認)"
+   ]
+  },
+  {
+   "name": "明智十兵衛",
+   "no": "2533",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "明智十兵衛(2533)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "長尾景虎",
+   "no": "2541",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "長尾景虎(2541)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "服部半蔵-復刻Ⅱ-（2）",
+   "no": "2551",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "服部半蔵-復刻Ⅱ-（2）(2551)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "百地三太夫-復刻-（2）",
+   "no": "2553",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "百地三太夫-復刻-（2）(2553)のsynthesisTable S2枠(2026-09-11)"
    ]
   },
   {
@@ -138,6 +316,15 @@
    ]
   },
   {
+   "name": "阿茶局",
+   "no": "2794",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "阿茶局(2794)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "東郷重位",
    "no": "2795",
    "slot": "S1",
@@ -156,12 +343,30 @@
    ]
   },
   {
+   "name": "悪景政",
+   "no": "2801",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "悪景政(2801)のsynthesisTable B枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "愛洲移香斎（2）",
    "no": "2802",
    "slot": "A・B",
    "db": "kyoku",
    "note": [
     "愛洲移香斎(2802)のsynthesisTable A枠・B枠の両方(ともにskill=鬼滅刺→afterSkill=布都御魂ノ鬨。2026-08-15黄丸化検証でA単独からA・Bに訂正)"
+   ]
+  },
+  {
+   "name": "真田昌親",
+   "no": "2804",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "真田昌親(2804)のsynthesisTable S2枠(2026-09-11)"
    ]
   },
   {
@@ -196,6 +401,14 @@
    "slot": "S1",
    "note": [
     "蒲生頼郷(3541)のsynthesisTable S1枠(2026-08-23)"
+   ]
+  },
+  {
+   "name": "清原マリア",
+   "no": "3633",
+   "slot": "S2",
+   "note": [
+    "清原マリア(3633)のsynthesisTable S2枠(2026-09-11)"
    ]
   }
  ],

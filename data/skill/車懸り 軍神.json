@@ -12,11 +12,53 @@
    "slot": "移植不可"
   },
   {
+   "name": "上杉謙信（2）",
+   "no": "1021",
+   "slot": "C",
+   "note": [
+    "上杉謙信（2）(1021)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "上杉景勝",
+   "no": "1039",
+   "slot": "C",
+   "note": [
+    "上杉景勝(1039)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "虎千代",
    "no": "1807",
    "slot": "C",
    "note": [
     "虎千代(1807)のsynthesisTable C枠(2026-08-23)"
+   ]
+  },
+  {
+   "name": "上杉謙信-復刻-",
+   "no": "1960",
+   "slot": "A",
+   "note": [
+    "上杉謙信-復刻-(1960)のsynthesisTable A枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "斎藤義龍",
+   "no": "2146",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "斎藤義龍(2146)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "綾御前",
+   "no": "2163",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "綾御前(2163)のsynthesisTable S2枠(2026-09-11)"
    ]
   }
  ],

@@ -42,5 +42,72 @@
  "wikiOldestComment": "2023-01-10",
  "wikiCommentCount": 17,
  "chGuess": "24章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "龍神ノ加護",
+   "rank": "A",
+   "afterSkill": "朧雲ノ蓮撃",
+   "afterRank": "S",
+   "target": "馬・砲・器",
+   "rate": "46%",
+   "effectShort": "防御 135%上昇+本丸防御陣形配置時コスト消費-0.5(模倣不可)",
+   "afterTarget": "弓・砲・器",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 12%上昇+防御 12%上昇(所属部隊内レアリティS以上スキル数×12%、TRなし)"
+  },
+  {
+   "slot": "B",
+   "skill": "龍神ノ加護",
+   "rank": "A",
+   "afterSkill": "朧雲ノ蓮撃",
+   "afterRank": "S",
+   "target": "馬・砲・器",
+   "rate": "46%",
+   "effectShort": "防御 135%上昇+本丸防御陣形配置時コスト消費-0.5(模倣不可)",
+   "afterTarget": "弓・砲・器",
+   "afterRate": "35%",
+   "afterEffectShort": "攻撃 12%上昇+防御 12%上昇(所属部隊内レアリティS以上スキル数×12%、TRなし)"
+  },
+  {
+   "slot": "C",
+   "skill": "戦陣 凪",
+   "rank": "A",
+   "afterSkill": "海神ノ浮船",
+   "afterRank": "SS",
+   "target": "全 飛翔2",
+   "rate": "60%",
+   "effectShort": "防御 110%上昇(飛翔2・自軍防御参加武将が30以上の時、防御効果2倍)",
+   "afterTarget": "全 飛翔4",
+   "afterRate": "48%",
+   "afterEffectShort": "防御 (3.5×防御参加武将数)%上昇(敵軍飛翔持ち4人未満の時通常武将ダメージを受けない)"
+  },
+  {
+   "slot": "S1",
+   "skill": "朧雲ノ蓮撃",
+   "rank": "S",
+   "afterSkill": "朧雲ノ進撃",
+   "afterRank": "SSS",
+   "target": "弓・砲・器",
+   "rate": "35%",
+   "effectShort": "攻撃 12%上昇+防御 12%上昇(所属部隊内レアリティS以上スキル数×12%、TRなし)",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": "籠城の妙技",
+   "rank": "A",
+   "afterSkill": "三千世界神将",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "防御 50%上昇(卓越:追加確率15%で防御効果が3倍)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "防御 120%上昇(本丸防御陣形時コスト消費-1)"
+  }
+ ]
 }

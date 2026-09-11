@@ -43,5 +43,72 @@
  "wikiOldestComment": "2024-10-05",
  "wikiCommentCount": 4,
  "chGuess": "28章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "猫興赤姫",
+   "rank": "C",
+   "afterSkill": "風魔狩",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍砲器",
+   "afterRate": "100%",
+   "afterEffectShort": "速度 150%上昇 / 破壊 60%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "猫興赤姫",
+   "rank": "C",
+   "afterSkill": "風魔狩",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍砲器",
+   "afterRate": "100%",
+   "afterEffectShort": "速度 150%上昇 / 破壊 60%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "猫興赤姫",
+   "rank": "C",
+   "afterSkill": "風魔狩",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "槍砲器",
+   "afterRate": "100%",
+   "afterEffectShort": "速度 150%上昇 / 破壊 60%上昇"
+  },
+  {
+   "slot": "S1",
+   "skill": "風魔狩",
+   "rank": "C",
+   "afterSkill": "都鄙合体",
+   "afterRank": "B",
+   "target": "槍砲器",
+   "rate": "100%",
+   "effectShort": "速度 150%上昇 / 破壊 60%上昇",
+   "afterTarget": "槍馬騎",
+   "afterRate": "49%",
+   "afterEffectShort": "攻撃 82%上昇 確率：+49% / 防御 82%上昇 確率：+49% / 速度 35%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "円明鎖鎌",
+   "rank": "C",
+   "afterSkill": "疾風怒濤",
+   "afterRank": "B",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 5%上昇 / 速度 32%上昇"
+  }
+ ]
 }

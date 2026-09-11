@@ -12,6 +12,120 @@
  ],
  "sourceCharacters": [
   {
+   "name": "長宗我部元親（5）",
+   "no": "1169",
+   "slot": "S2",
+   "note": [
+    "長宗我部元親（5）(1169)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "北条氏康（5）",
+   "no": "1171",
+   "slot": "S2",
+   "note": [
+    "北条氏康（5）(1171)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "浅井長政（3）",
+   "no": "1175",
+   "slot": "S2",
+   "note": [
+    "浅井長政（3）(1175)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "山内一豊",
+   "no": "2280",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "山内一豊(2280)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "前田利長",
+   "no": "2282",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "前田利長(2282)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "大野治長",
+   "no": "2286",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "大野治長(2286)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "豊臣秀次",
+   "no": "2289",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "豊臣秀次(2289)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "妙林尼",
+   "no": "2291",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "妙林尼(2291)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "おつやの方",
+   "no": "2297",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "おつやの方(2297)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "前田玄以",
+   "no": "2327",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "前田玄以(2327)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "支倉常長",
+   "no": "2335",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "支倉常長(2335)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "上杉憲政（2）",
+   "no": "2337",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "上杉憲政（2）(2337)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "信松尼",
+   "no": "2347",
+   "slot": "C",
+   "db": "kyoku",
+   "note": [
+    "信松尼(2347)のsynthesisTable C枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "浅井亮政（4）",
    "no": "2361",
    "slot": "S1",
@@ -33,10 +147,55 @@
    "db": "kyoku"
   },
   {
+   "name": "水谷正村",
+   "no": "2442",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "水谷正村(2442)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "片倉景綱",
    "no": "2443",
    "slot": "S2",
    "db": "kyoku"
+  },
+  {
+   "name": "小野和泉",
+   "no": "2445",
+   "slot": "A・B・C",
+   "db": "kyoku",
+   "note": [
+    "小野和泉(2445)のsynthesisTable A・B・C枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "煕子（2）",
+   "no": "2534",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "煕子（2）(2534)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "長宗我部元親（2）",
+   "no": "2547",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "長宗我部元親（2）(2547)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "北条氏康",
+   "no": "2550",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "北条氏康(2550)のsynthesisTable S1枠(2026-09-11)"
+   ]
   },
   {
    "name": "新城",
@@ -48,12 +207,111 @@
    ]
   },
   {
+   "name": "安土城",
+   "no": "2560",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "安土城(2560)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "中津城",
+   "no": "2561",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "中津城(2561)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "会津若松城",
+   "no": "2562",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "会津若松城(2562)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "熊本城",
+   "no": "2563",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "熊本城(2563)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "大坂城",
+   "no": "2564",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "大坂城(2564)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "佐々木小次郎-復刻-（2）",
+   "no": "2571",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "佐々木小次郎-復刻-（2）(2571)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "松平元康",
+   "no": "2575",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "松平元康(2575)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "瀬名姫（3）",
+   "no": "2577",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "瀬名姫（3）(2577)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "出雲阿国（3）",
    "no": "2788",
    "slot": "S2",
    "db": "kyoku",
    "note": [
     "出雲阿国(2788)のsynthesisTable S2枠(2026-08-16)"
+   ]
+  },
+  {
+   "name": "阿茶局",
+   "no": "2794",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "阿茶局(2794)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "荒木だし",
+   "no": "2798",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "荒木だし(2798)のsynthesisTable S1枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "朝比奈摩仙名",
+   "no": "2800",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "朝比奈摩仙名(2800)のsynthesisTable S2枠(2026-09-11)"
    ]
   },
   {
@@ -113,6 +371,54 @@
    ]
   },
   {
+   "name": "後藤信康（2）",
+   "no": "3613",
+   "slot": "S2",
+   "note": [
+    "後藤信康（2）(3613)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "細川高国",
+   "no": "3617",
+   "slot": "S2",
+   "note": [
+    "細川高国(3617)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "毛屋武久",
+   "no": "3622",
+   "slot": "S2",
+   "note": [
+    "毛屋武久(3622)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "本多正重",
+   "no": "3625",
+   "slot": "S2",
+   "note": [
+    "本多正重(3625)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "毛受勝照",
+   "no": "3626",
+   "slot": "S2",
+   "note": [
+    "毛受勝照(3626)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "城井鎮房",
+   "no": "3627",
+   "slot": "S2",
+   "note": [
+    "城井鎮房(3627)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "スタイナー",
    "no": "3639",
    "slot": "S2",
@@ -145,6 +451,14 @@
    ]
   },
   {
+   "name": "渡辺通",
+   "no": "3647",
+   "slot": "S2",
+   "note": [
+    "渡辺通(3647)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
    "name": "キン肉マン",
    "no": "3650",
    "slot": "S2",
@@ -158,6 +472,86 @@
    "slot": "S2",
    "note": [
     "ブロッケンジュニア(3654)のsynthesisTable S2枠(2026-08-23)"
+   ]
+  },
+  {
+   "name": "猪子兵助",
+   "no": "3657",
+   "slot": "S2",
+   "note": [
+    "猪子兵助(3657)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "長谷川秀一",
+   "no": "3662",
+   "slot": "S2",
+   "note": [
+    "長谷川秀一(3662)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "尼子勝久",
+   "no": "3663",
+   "slot": "S2",
+   "note": [
+    "尼子勝久(3663)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "三好宗三",
+   "no": "3671",
+   "slot": "S2",
+   "note": [
+    "三好宗三(3671)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "河野通宣",
+   "no": "3674",
+   "slot": "S2",
+   "note": [
+    "河野通宣(3674)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "天野隆重",
+   "no": "3676",
+   "slot": "S2",
+   "note": [
+    "天野隆重(3676)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "菅沼定盈",
+   "no": "3678",
+   "slot": "S2",
+   "note": [
+    "菅沼定盈(3678)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "三枝昌貞",
+   "no": "3683",
+   "slot": "S2",
+   "note": [
+    "三枝昌貞(3683)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "諏訪頼重（2）",
+   "no": "3684",
+   "slot": "S2",
+   "note": [
+    "諏訪頼重（2）(3684)のsynthesisTable S2枠(2026-09-11)"
+   ]
+  },
+  {
+   "name": "芳賀高定",
+   "no": "3686",
+   "slot": "S2",
+   "note": [
+    "芳賀高定(3686)のsynthesisTable S2枠(2026-09-11)"
    ]
   }
  ],
@@ -209,6 +603,10 @@
   {
    "skill": "煽風",
    "rank": "C"
+  },
+  {
+   "skill": "不敗ノ蟠龍",
+   "rank": "S"
   }
  ],
  "trTable": [
