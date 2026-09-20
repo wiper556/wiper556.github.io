@@ -94,7 +94,7 @@
    "afterRank": "SS",
    "target": "槍弓砲器",
    "rate": "37%",
-   "effectShort": null,
+   "effectShort": "攻撃 (コストx17) %上昇 / (武将のコストで効果が変化します)",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": null
@@ -107,7 +107,7 @@
    "afterRank": "SS",
    "target": "槍弓砲器",
    "rate": "37%",
-   "effectShort": null,
+   "effectShort": "攻撃 (コストx17) %上昇 / (武将のコストで効果が変化します)",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": null

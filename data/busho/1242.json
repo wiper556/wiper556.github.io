@@ -55,7 +55,7 @@
    "afterRank": "SSS",
    "target": "弓・馬・器・騎 兵站",
    "rate": "50%",
-   "effectShort": null,
+   "effectShort": "防御 3.4%×防御参加武将数(280人)=952.0%(卓越追加確率20%で1.5倍)",
    "afterTarget": "部隊長",
    "afterRate": "70%",
    "afterEffectShort": "所属部隊の部隊長が持つ模倣可能な初期スキルを通常攻撃/防御効果1.25倍にして模倣する"
@@ -68,7 +68,7 @@
    "afterRank": "SSS",
    "target": "弓・馬・器・騎 兵站",
    "rate": "50%",
-   "effectShort": null,
+   "effectShort": "防御 3.4%×防御参加武将数(280人)=952.0%(卓越追加確率20%で1.5倍)",
    "afterTarget": "部隊長",
    "afterRate": "70%",
    "afterEffectShort": "所属部隊の部隊長が持つ模倣可能な初期スキルを通常攻撃/防御効果1.25倍にして模倣する"

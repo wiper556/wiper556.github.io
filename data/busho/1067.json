@@ -61,7 +61,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "34%",
-   "effectShort": null,
+   "effectShort": "攻撃 44%上昇+防御 44%上昇",
    "afterTarget": "全",
    "afterRate": "30%",
    "afterEffectShort": null
@@ -84,7 +84,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "30%",
-   "effectShort": null
+   "effectShort": "防御 (部隊ランクボーナス×15) %上昇 / ★28 防御 135%上昇"
   },
   {
    "slot": "S2",

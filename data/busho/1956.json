@@ -81,7 +81,7 @@
    "afterRank": "S",
    "target": "砲",
    "rate": "20%",
-   "effectShort": null
+   "effectShort": "攻撃 60%上昇"
   },
   {
    "slot": "S1",
@@ -91,7 +91,7 @@
    "afterRank": "S",
    "target": "砲・器",
    "rate": "10%",
-   "effectShort": null
+   "effectShort": "攻撃 40%上昇"
   },
   {
    "slot": "S2",

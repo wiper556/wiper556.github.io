@@ -91,7 +91,7 @@
    "afterRank": "SS",
    "target": "器",
    "rate": "30%",
-   "effectShort": null,
+   "effectShort": "攻撃 30%上昇+破壊 25%上昇",
    "afterTarget": "全",
    "afterRate": "55%",
    "afterEffectShort": "防御 (20+コスト×10) %上昇"
@@ -104,7 +104,7 @@
    "afterRank": "A",
    "target": "砲器",
    "rate": "25%",
-   "effectShort": null,
+   "effectShort": "攻撃 35%上昇+破壊 30%上昇",
    "afterTarget": "槍弓器",
    "afterRate": "50%",
    "afterEffectShort": "攻撃 24%上昇 / 破壊 46%上昇"

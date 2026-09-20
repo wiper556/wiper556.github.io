@@ -58,7 +58,7 @@
    "afterRank": "SS",
    "target": "槍馬器鉄",
    "rate": "62%",
-   "effectShort": null,
+   "effectShort": "攻撃 3.2%×防御参加武将数(280人)=896.0%上昇",
    "afterTarget": "槍・弓・馬",
    "afterRate": "70%",
    "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"

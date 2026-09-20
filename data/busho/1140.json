@@ -69,7 +69,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "45%",
-   "effectShort": null,
+   "effectShort": "防御 64%上昇(自軍6部隊以下の防御時は効果2.5倍)",
    "afterTarget": "全",
    "afterRate": "6%",
    "afterEffectShort": "攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化する"
@@ -102,7 +102,7 @@
    "afterRank": "S",
    "target": "全",
    "rate": "24%",
-   "effectShort": null
+   "effectShort": "防御 40%上昇 / 自拠点防御時は防御効果1.5倍"
   }
  ]
 }

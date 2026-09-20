@@ -69,7 +69,7 @@
    "afterRank": "S",
    "target": "槍・器・鉄",
    "rate": "15%",
-   "effectShort": null,
+   "effectShort": "攻撃 85%上昇(合流攻撃時は確率3倍)",
    "afterTarget": "槍砲器",
    "afterRate": "24%",
    "afterEffectShort": null
@@ -82,7 +82,7 @@
    "afterRank": "SS",
    "target": "槍砲器",
    "rate": "50%",
-   "effectShort": null
+   "effectShort": "攻撃 (2x防御参加武将) %上昇"
   },
   {
    "slot": "S1",
@@ -92,7 +92,7 @@
    "afterRank": "SS",
    "target": "槍砲器",
    "rate": "24%",
-   "effectShort": null,
+   "effectShort": "攻撃 85%上昇 / 合流攻撃時は必ずスキル発動",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇"
@@ -105,7 +105,7 @@
    "afterRank": "SS",
    "target": "槍砲器",
    "rate": "24%",
-   "effectShort": null,
+   "effectShort": "攻撃 85%上昇 / 合流攻撃時は必ずスキル発動",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇"

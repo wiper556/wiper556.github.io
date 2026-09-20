@@ -62,7 +62,7 @@
    "afterRank": "SS",
    "target": "弓・砲・器",
    "rate": "65%",
-   "effectShort": null,
+   "effectShort": "防御 100%上昇(自部隊の武将ダメージ軽減4%・重複発動上限数5)",
    "afterTarget": "砲器",
    "afterRate": "99.9%",
    "afterEffectShort": "防御 2%×防御参加武将数(280人)=560.0%"

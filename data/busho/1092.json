@@ -68,7 +68,7 @@
    "afterRank": "A",
    "target": "槍馬器",
    "rate": "100%",
-   "effectShort": null,
+   "effectShort": "攻撃 30%上昇+破壊 26%上昇+速度 44%上昇",
    "afterTarget": null,
    "afterRate": null,
    "afterEffectShort": null

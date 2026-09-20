@@ -68,7 +68,7 @@
    "afterRank": "SS",
    "target": "槍・弓・馬",
    "rate": "20%",
-   "effectShort": null,
+   "effectShort": "攻撃 65%上昇(合流攻撃時必ず発動)",
    "afterTarget": "全",
    "afterRate": "6%",
    "afterEffectShort": "攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化する"
@@ -81,7 +81,7 @@
    "afterRank": "SS",
    "target": "槍・馬",
    "rate": "53%",
-   "effectShort": null,
+   "effectShort": "攻撃 32%上昇(敵部隊に槍兵科か弓兵科がいれば効果2.5倍)",
    "afterTarget": "槍・弓・馬",
    "afterRate": "70%",
    "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"

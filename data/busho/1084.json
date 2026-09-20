@@ -69,7 +69,7 @@
    "afterRank": "S",
    "target": "全",
    "rate": "20%",
-   "effectShort": null,
+   "effectShort": "攻撃 45%上昇",
    "afterTarget": "全",
    "afterRate": "50%",
    "afterEffectShort": "防御 35%上昇"

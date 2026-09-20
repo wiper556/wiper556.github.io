@@ -69,7 +69,7 @@
    "afterRank": "S",
    "target": "砲",
    "rate": "20%",
-   "effectShort": null
+   "effectShort": "攻撃 60%上昇"
   },
   {
    "slot": "C",
@@ -79,7 +79,7 @@
    "afterRank": "SS",
    "target": "馬砲器",
    "rate": "37%",
-   "effectShort": null,
+   "effectShort": "攻撃 1.7%×防御参加武将数(280人)=476.0%",
    "afterTarget": "砲器",
    "afterRate": "50%",
    "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"

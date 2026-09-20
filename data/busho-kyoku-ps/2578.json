@@ -54,7 +54,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "100%",
-   "effectShort": null,
+   "effectShort": "攻撃 180%上昇(飛翔12以上所持時は飛翔を全て失う代わりに攻撃効果4倍)",
    "afterTarget": "全",
    "afterRate": "100%",
    "afterEffectShort": "攻撃 254%上昇+卓越:攻撃戦闘時追加確率30%で自部隊の兵士被害15%減少(部隊内重複上限2・模倣不可)"
@@ -67,7 +67,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "100%",
-   "effectShort": null,
+   "effectShort": "攻撃 180%上昇(飛翔12以上所持時は飛翔を全て失う代わりに攻撃効果4倍)",
    "afterTarget": "全",
    "afterRate": "100%",
    "afterEffectShort": "攻撃 254%上昇+卓越:攻撃戦闘時追加確率30%で自部隊の兵士被害15%減少(部隊内重複上限2・模倣不可)"

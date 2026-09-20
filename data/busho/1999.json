@@ -54,7 +54,7 @@
    "afterRank": "SS",
    "target": "砲",
    "rate": "30%",
-   "effectShort": null,
+   "effectShort": "攻撃 15%上昇(武将ランクで変動・天限突破207%)+破壊 75%上昇",
    "afterTarget": "全",
    "afterRate": "45%",
    "afterEffectShort": "攻撃 180%上昇(HP100以上時ランダム敵1部隊全武将に追加ダメージ5・模倣不可)"
@@ -67,7 +67,7 @@
    "afterRank": "SS",
    "target": "砲",
    "rate": "30%",
-   "effectShort": null,
+   "effectShort": "攻撃 15%上昇(武将ランクで変動・天限突破207%)+破壊 75%上昇",
    "afterTarget": "全",
    "afterRate": "45%",
    "afterEffectShort": "攻撃 180%上昇(HP100以上時ランダム敵1部隊全武将に追加ダメージ5・模倣不可)"

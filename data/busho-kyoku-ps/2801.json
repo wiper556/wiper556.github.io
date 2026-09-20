@@ -54,7 +54,7 @@
    "afterRank": "A",
    "target": "砲",
    "rate": "50%",
-   "effectShort": null,
+   "effectShort": "攻撃 40%上昇(この武将と同じ兵種を指揮する敵軍武将数×5%を攻撃効果に加算・同兵種160名で+840%)",
    "afterTarget": "全",
    "afterRate": "50%",
    "afterEffectShort": "攻撃 70%上昇(部隊内全武将の兵科対象の初期スキルに「砲」対象を追加)"

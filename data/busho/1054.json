@@ -81,7 +81,7 @@
    "afterRank": "SS",
    "target": "弓馬砲",
    "rate": "15%",
-   "effectShort": null,
+   "effectShort": "防御 55%上昇",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "防御 41.56%上昇(部隊総コストで変動、TRなし)"

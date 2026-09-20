@@ -56,7 +56,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "100%",
-   "effectShort": null,
+   "effectShort": "攻撃 110%上昇+防御 110%上昇(卓越:追加確率70%で1.5倍)",
    "afterTarget": "槍・弓・馬",
    "afterRate": "70%",
    "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"
@@ -69,7 +69,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "100%",
-   "effectShort": null,
+   "effectShort": "攻撃 110%上昇+防御 110%上昇(卓越:追加確率70%で1.5倍)",
    "afterTarget": "槍・弓・馬",
    "afterRate": "70%",
    "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"

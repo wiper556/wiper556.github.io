@@ -94,7 +94,7 @@
    "afterRank": "S",
    "target": "槍・器・鉄",
    "rate": "40%",
-   "effectShort": null
+   "effectShort": "攻撃 80%上昇(卓越:追加確率35%で2倍)"
   },
   {
    "slot": "S2",

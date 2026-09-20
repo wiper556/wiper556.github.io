@@ -92,7 +92,7 @@
    "afterRank": "S",
    "target": "槍・馬・器・鉄",
    "rate": "45%",
-   "effectShort": null
+   "effectShort": "防御 65%上昇+破壊 45%上昇(1.2%×防御参加武将数(280人)=336.0%を加算・模倣不可)"
   },
   {
    "slot": "S2",
