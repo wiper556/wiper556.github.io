@@ -56,7 +56,7 @@
    "afterRank": "SS",
    "target": "砲・器",
    "rate": "70%",
-   "effectShort": null,
+   "effectShort": "防御 124%/170%/240%上昇(確率 70%/30%/5%・組み合わせ選択制・移動時は選択不可)",
    "afterTarget": "全",
    "afterRate": "70%",
    "afterEffectShort": "防御 145%上昇+自部隊の武将ダメージ軽減3%(重複発動上限4)"
@@ -69,7 +69,7 @@
    "afterRank": "SS",
    "target": "砲・器",
    "rate": "70%",
-   "effectShort": null,
+   "effectShort": "防御 124%/170%/240%上昇(確率 70%/30%/5%・組み合わせ選択制・移動時は選択不可)",
    "afterTarget": "全",
    "afterRate": "70%",
    "afterEffectShort": "防御 145%上昇+自部隊の武将ダメージ軽減3%(重複発動上限4)"

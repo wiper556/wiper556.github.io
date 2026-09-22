@@ -75,7 +75,7 @@
    "afterRank": "S",
    "target": "全",
    "rate": "50%",
-   "effectShort": null
+   "effectShort": "攻撃 159%上昇+防御 159%上昇(職業「姫」の武将に対してのみ効果あり)"
   },
   {
    "slot": "S1",
@@ -85,7 +85,7 @@
    "afterRank": "S",
    "target": "全",
    "rate": "50%",
-   "effectShort": null
+   "effectShort": "攻撃 159%上昇+防御 159%上昇(職業「姫」の武将に対してのみ効果あり)"
   },
   {
    "slot": "S2",

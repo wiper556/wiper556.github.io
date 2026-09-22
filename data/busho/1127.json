@@ -79,7 +79,7 @@
    "afterRank": "SS",
    "target": "弓・器・焙",
    "rate": "45%",
-   "effectShort": null,
+   "effectShort": "防御 75%上昇(自軍5部隊以下の防御時効果1.5倍)",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "防御 (部隊総コスト依存)%上昇(総C25=328.02%)"

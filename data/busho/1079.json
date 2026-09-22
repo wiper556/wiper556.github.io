@@ -80,7 +80,7 @@
    "afterRank": "SS",
    "target": "弓・砲",
    "rate": "35%",
-   "effectShort": null,
+   "effectShort": "攻撃 40%上昇(4部隊以下の攻撃で1.5倍)",
    "afterTarget": "全",
    "afterRate": "42%",
    "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"

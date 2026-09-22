@@ -92,7 +92,7 @@
    "afterRank": "S",
    "target": "馬・砲・器",
    "rate": "44%",
-   "effectShort": null
+   "effectShort": "防御 90%上昇(自軍6部隊以上で1.5倍)"
   },
   {
    "slot": "S2",

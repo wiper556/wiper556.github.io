@@ -56,7 +56,7 @@
    "afterRank": "SS",
    "target": "槍・馬・器・鉄",
    "rate": "27%",
-   "effectShort": null,
+   "effectShort": "防御 112%上昇(自部隊ダメージ5%軽減・重複上限5)",
    "afterTarget": "全 覇道",
    "afterRate": "100%",
    "afterEffectShort": "攻撃 120%上昇+速度 90%上昇"
@@ -79,7 +79,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "30%",
-   "effectShort": null
+   "effectShort": "防御 (部隊ランクボーナス×15) %上昇 / ★28 防御 135%上昇"
   },
   {
    "slot": "S1",

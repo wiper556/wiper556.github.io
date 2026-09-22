@@ -90,7 +90,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "100%",
-   "effectShort": null,
+   "effectShort": "全攻 7%上昇+全速 45%上昇",
    "afterTarget": "全",
    "afterRate": "100%",
    "afterEffectShort": "攻撃 (コストx4.5) %+速度 50%上昇"
@@ -103,7 +103,7 @@
    "afterRank": "SS",
    "target": "全攻速",
    "rate": null,
-   "effectShort": null,
+   "effectShort": "攻撃 40%上昇(確率40%)+速度 25%低下(確率100%)",
    "afterTarget": "馬・砲・器",
    "afterRate": "40%",
    "afterEffectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"

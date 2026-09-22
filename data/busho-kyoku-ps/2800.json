@@ -55,7 +55,7 @@
    "afterRank": "SS",
    "target": "槍・器・鉄",
    "rate": "12%",
-   "effectShort": null,
+   "effectShort": "防御 80%上昇(部隊長なら発動率と効果4倍・模倣不可)",
    "afterTarget": "全",
    "afterRate": "55%",
    "afterEffectShort": null
@@ -68,7 +68,7 @@
    "afterRank": "SS",
    "target": "槍・器・鉄",
    "rate": "12%",
-   "effectShort": null,
+   "effectShort": "防御 80%上昇(部隊長なら発動率と効果4倍・模倣不可)",
    "afterTarget": "全",
    "afterRate": "55%",
    "afterEffectShort": null
@@ -81,7 +81,7 @@
    "afterRank": "SS",
    "target": "槍・器・鉄",
    "rate": "12%",
-   "effectShort": null,
+   "effectShort": "防御 80%上昇(部隊長なら発動率と効果4倍・模倣不可)",
    "afterTarget": "全",
    "afterRate": "55%",
    "afterEffectShort": null
@@ -94,7 +94,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "55%",
-   "effectShort": null
+   "effectShort": "防御 (部隊ランクボーナス×18) %上昇 / ★28 防御 162%上昇"
   },
   {
    "slot": "S2",

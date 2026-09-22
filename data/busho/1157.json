@@ -56,7 +56,7 @@
    "afterRank": "SS",
    "target": "槍・弓・馬",
    "rate": "25%",
-   "effectShort": null,
+   "effectShort": "攻撃 130%上昇(敵軍1部隊HP被害20%増加・模倣不可)",
    "afterTarget": "全",
    "afterRate": "50%",
    "afterEffectShort": "攻撃 99.9%上昇 防御 99.9%上昇 部隊消費コストを0.5低下 (特殊効果は模倣不可)"

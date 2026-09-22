@@ -102,7 +102,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "100%",
-   "effectShort": null,
+   "effectShort": "防御 39%上昇(自軍武将スキル発動率+3%・重複不可)",
    "afterTarget": "全",
    "afterRate": "30%",
    "afterEffectShort": null

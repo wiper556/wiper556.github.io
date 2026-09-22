@@ -80,7 +80,7 @@
    "afterRank": "SS",
    "target": "槍弓馬器攻防速",
    "rate": null,
-   "effectShort": null,
+   "effectShort": "攻撃 70%上昇(確率40%)+防御 70%上昇(確率40%)+速度 60%上昇(確率100%)",
    "afterTarget": "全",
    "afterRate": "100%",
    "afterEffectShort": "攻撃 90%上昇+速度 200%上昇(TRなし)"

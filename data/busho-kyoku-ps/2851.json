@@ -117,7 +117,7 @@
    "afterRank": "S",
    "target": null,
    "rate": "100%",
-   "effectShort": null
+   "effectShort": "防御 0%上昇(所持名声×3%・最大2500%)+防御戦闘で減少したHPと同数の名声を消費(複数発動時は各部隊につき消費量が最も大きい一件分のみ消費)"
   },
   {
    "slot": "S2",
@@ -127,7 +127,7 @@
    "afterRank": "S",
    "target": null,
    "rate": "100%",
-   "effectShort": null
+   "effectShort": "防御 0%上昇(所持名声×3%・最大2500%)+防御戦闘で減少したHPと同数の名声を消費(複数発動時は各部隊につき消費量が最も大きい一件分のみ消費)"
   }
  ]
 }

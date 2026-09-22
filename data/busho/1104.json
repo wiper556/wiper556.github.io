@@ -65,7 +65,7 @@
    "afterRank": "SS",
    "target": "砲・器",
    "rate": "43%",
-   "effectShort": null,
+   "effectShort": "防御 24%上昇(自軍内の同兵種指揮武将数×3%を加算)",
    "afterTarget": "砲器",
    "afterRate": "99.9%",
    "afterEffectShort": "防御 2%×防御参加武将数(280人)=560.0%"
@@ -78,7 +78,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "30%",
-   "effectShort": null
+   "effectShort": "防御 (部隊ランクボーナス×15) %上昇 / ★28 防御 135%上昇"
   },
   {
    "slot": "S1",

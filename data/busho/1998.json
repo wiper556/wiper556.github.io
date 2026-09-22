@@ -52,7 +52,7 @@
    "afterRank": "A",
    "target": "弓・砲・器",
    "rate": "35%",
-   "effectShort": null,
+   "effectShort": "敵軍の総攻撃力 10%低下(対象兵科を指揮した防御時のみ)",
    "afterTarget": "全",
    "afterRate": "35%",
    "afterEffectShort": "攻撃部隊武将の特殊効果付き追加スキル発動率を低下(相手発動率×0.6で計算・重複不可)"
@@ -65,7 +65,7 @@
    "afterRank": "A",
    "target": "全",
    "rate": "70%",
-   "effectShort": null,
+   "effectShort": "敵軍の総攻撃力 8%低下(防御戦闘時のみ・重複不可)",
    "afterTarget": "全",
    "afterRate": "35%",
    "afterEffectShort": "攻撃部隊武将の特殊効果付き追加スキル発動率を低下(相手発動率×0.6で計算・重複不可)"

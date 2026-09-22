@@ -81,7 +81,7 @@
    "afterRank": "SS",
    "target": "槍馬砲器",
    "rate": "39%",
-   "effectShort": null,
+   "effectShort": "攻撃 52%上昇+破壊 39%上昇",
    "afterTarget": "砲器",
    "afterRate": "50%",
    "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"

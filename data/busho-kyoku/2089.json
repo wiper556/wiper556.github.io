@@ -101,7 +101,7 @@
    "afterRank": "S",
    "target": "槍弓馬",
    "rate": "40%",
-   "effectShort": null,
+   "effectShort": "攻撃 30%上昇+破壊 20%上昇",
    "afterTarget": "弓・器",
    "afterRate": "50%",
    "afterEffectShort": null

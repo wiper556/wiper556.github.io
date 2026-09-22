@@ -61,7 +61,7 @@
    "afterRank": "SS",
    "target": "馬・砲・器",
    "rate": "36%",
-   "effectShort": null,
+   "effectShort": "防御 48%上昇",
    "afterTarget": "全",
    "afterRate": "6%",
    "afterEffectShort": "攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化する"
@@ -94,7 +94,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "30%",
-   "effectShort": null
+   "effectShort": "防御 (部隊ランクボーナス×15) %上昇 / ★28 防御 135%上昇"
   }
  ]
 }

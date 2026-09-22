@@ -52,7 +52,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "57%",
-   "effectShort": null,
+   "effectShort": "攻撃 75%上昇(同兵種指揮敵軍武将数×4%加算)",
    "afterTarget": "自身",
    "afterRate": "70%",
    "afterEffectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"

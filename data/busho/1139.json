@@ -71,7 +71,7 @@
    "afterRank": "S",
    "target": "槍・弓・馬・器",
    "rate": "44%",
-   "effectShort": null,
+   "effectShort": "防御 60%上昇+破壊 35%上昇(1%×防御参加武将数(280人)=280.0%を加算・模倣不可)",
    "afterTarget": "全",
    "afterRate": "32%",
    "afterEffectShort": null
@@ -94,7 +94,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "32%",
-   "effectShort": null,
+   "effectShort": "防御 90%上昇 / (合流攻撃防御時は必ずスキル発動)",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇"
@@ -107,7 +107,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "32%",
-   "effectShort": null,
+   "effectShort": "防御 90%上昇 / (合流攻撃防御時は必ずスキル発動)",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇"
