@@ -44,7 +44,8 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # 先頭の「対象　確率 X% /」。対象は兵科名+スコープ語で 40字に収まる。
-HEAD = re.compile(r'^.{0,40}?確率\s*[+＋]?[\d.]+%\s*(?:/|／)?\s*')
+# 確率が「-」(城スキルなど、確率の概念が無いもの)の形もある。
+HEAD = re.compile(r'^.{0,40}?確率\s*(?:[+＋]?[\d.]+%|[-−–])\s*(?:/|／)?\s*')
 # LV10 の効果文の末尾に付く鍛錬の有無(D-17)。合成表には書かない。
 TRNASHI = re.compile(r'\s*(?:・TRなし|\(TRなし\)|（TRなし）)')
 
@@ -84,6 +85,18 @@ OVERRIDES = {
     # (勢王秘剣は TR1 も)に正しい形があるので、そこから取った。正本側の LV10 は別途直す。
     '神勅烈母': '防御 (7×自軍「姫」武将数)%上昇(効果上限1000%)',
     '勢王秘剣': '攻撃 (12×飛翔を持たない防御参加武将数)%上昇(模倣不可)',
+
+    # --- 2回目(2026-09-22)。rate か target も空で、1回目は触らなかった行のぶん ---
+    # いずれも確率が2つ以上並ぶ LV10。上と同じ扱いにした。
+    # LV10: 槍弓馬器　攻撃 確率 40% / 70%上昇+防御 確率 40% / 70%上昇+速度 確率 100% / 60%上昇
+    '天神凱武': '攻撃 70%上昇(確率40%)+防御 70%上昇(確率40%)+速度 60%上昇(確率100%)',
+    # LV10: 全　攻撃 確率 40% / 40%上昇+速度 確率 100% / 25%低下
+    '懸乱龍 雷霆': '攻撃 40%上昇(確率40%)+速度 25%低下(確率100%)',
+    # LV10: 弓・砲　攻撃 確率 30% / 45%上昇+速度 確率 100% / 25%低下
+    '螺旋生死掘': '攻撃 45%上昇(確率30%)+速度 25%低下(確率100%)',
+    # LV10 の本文が対象「全」を繰り返してから始まる。区切りの読点は既存の書き方に合わせ・にした。
+    '団右衛門見参': '防御 0%上昇(所持名声×3%・最大2500%)+防御戦闘で減少したHPと同数の名声を消費'
+                    '(複数発動時は各部隊につき消費量が最も大きい一件分のみ消費)',
 }
 
 # --- 書き込む前の関門 -----------------------------------------------------
@@ -167,10 +180,9 @@ def main():
             s = r.get('skill')
             if not s or r.get('effectShort'):
                 continue
-            # target と rate が入っている行だけが対象。3項目とも空の行は
-            # スキル名しか分からないので、ここでは触らない(外部調査が要る)。
-            if not r.get('target') or not r.get('rate'):
-                continue
+            # effectShort の出どころはスキル名 -> 正本 なので、同じ行の target や
+            # rate が空でも関係なく取れる。rate が正本にも無い行(城スキルなど)は
+            # rate を空のまま残し、効果文だけ入れる。
             targets.setdefault(s, []).append((f, i))
 
     texts, blocked, nosrc = {}, [], []
@@ -196,37 +208,55 @@ def main():
             texts[s] = t
 
     if nosrc:
-        print('■ 正本に LV10 が無い %d種(外部調査が要る): %s' % (len(nosrc), '/'.join(nosrc)))
+        rows_nosrc = sum(len(targets[s]) for s in nosrc)
+        print('■ 正本が無い %d種 / %d行 は触らない(外部調査が要る)'
+              % (len(nosrc), rows_nosrc))
     if blocked:
         print('■ 関門で止めた %d種(OVERRIDES に手で書く)' % len(blocked))
         for s, why, t in blocked:
             print('   [%s] %s: %s' % (s, why, t))
 
-    by_file = {}
+    # 正本の target も、空いている行へ入れる。'-' や None は中身が無いのと同じ。
+    hon_target = {}
+    for p in glob.glob(os.path.join(ROOT, 'data/skill/*.json')):
+        j = json.load(open(p, encoding='utf-8'))
+        t = j.get('target')
+        if t and t != '-':
+            hon_target[j['name']] = t
+
+    # ファイルごとに (行番号, 項目, 値) を集める
+    jobs = {}
     for s in texts:
         for f, i in targets[s]:
-            by_file.setdefault(f, []).append((s, i))
+            jobs.setdefault(f, []).append((i, s, 'effectShort', texts[s]))
+    for f in busho_files():
+        d = json.load(open(f, encoding='utf-8'))
+        for i, r in enumerate(d.get('synthesisTable') or []):
+            s = r.get('skill')
+            if s and not r.get('target') and s in hon_target:
+                jobs.setdefault(f, []).append((i, s, 'target', hon_target[s]))
 
-    rows = 0
-    for f, jobs in sorted(by_file.items()):
+    count = {'effectShort': 0, 'target': 0}
+    for f, todo in sorted(jobs.items()):
         d = json.load(open(f, encoding='utf-8'))
         st = d.get('synthesisTable') or []
         changed = False
-        for s, i in jobs:
+        for i, s, field, value in todo:
             r = st[i]
-            if r.get('skill') != s or r.get('effectShort'):
+            if r.get('skill') != s or r.get(field):
                 continue
-            r['effectShort'] = texts[s]
+            r[field] = value
             changed = True
-            rows += 1
+            count[field] += 1
         if changed and write:
             # newline='\n' を外すと Windows で CRLF になり、差分が全行になる
             with open(f, 'w', encoding='utf-8', newline='\n') as fh:
                 json.dump(d, fh, ensure_ascii=False, indent=1)
                 fh.write('\n')
 
-    print('スキル %d種 / 行 %d件 を%s' % (len(texts), rows,
-                                        '書き込んだ' if write else '書き込む(下見)'))
+    print('effectShort %d行(%d種) / target %d行 を%s'
+          % (count['effectShort'], len(texts), count['target'],
+             '書き込んだ' if write else '書き込む(下見)'))
     if not write:
         print('(--write で書き込む)')
     return 0
