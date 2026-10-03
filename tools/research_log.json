@@ -55696,6 +55696,153 @@
    "url": "https://ixanary.com/skills/%EF%BC%B4%E3%83%96%E3%83%AB%E3%83%89%E3%83%BC%E3%82%B6%E3%83%BC"
   }
  ],
+ "syn:1121": [
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 28492,
+    "cache": "cde4b8bb8d0faee5.txt",
+    "cache_bytes": 28492,
+    "cache_sha256": "caffa9a35cbb22a1",
+    "sha256": "caffa9a35cbb22a1",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(28492 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%8B%9D%E8%BB%8D%E7%A5%9E%E6%92%83/"
+  },
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 67905,
+    "cache": "5fb05e5afa23ad72.txt",
+    "cache_bytes": 65536,
+    "cache_sha256": "bd293b0bf4a01ab4",
+    "sha256": "b05a86fe4bbcb983",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(67905 bytes)",
+   "source": "ixawiki",
+   "url": "https://ixawiki.com/index.php?BushoCard%2F1121%BE%E5%BF%F9%B7%CA%BE%A1"
+  }
+ ],
+ "syn:1125": [
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 28513,
+    "cache": "c7b33828b00865cd.txt",
+    "cache_bytes": 28513,
+    "cache_sha256": "f544bc4d480e1a57",
+    "sha256": "f544bc4d480e1a57",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(28513 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A4%A9%E6%94%BB%E7%8B%82%E5%88%83/"
+  },
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 55802,
+    "cache": "e00c2932d9447a38.txt",
+    "cache_bytes": 55802,
+    "cache_sha256": "bf6f8c010ceca5ab",
+    "sha256": "bf6f8c010ceca5ab",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(55802 bytes)",
+   "source": "ixawiki",
+   "url": "https://ixawiki.com/index.php?BushoCard%2F1125%B0%CB%C5%EC%B5%C1%CD%B4"
+  }
+ ],
+ "syn:1967": [
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 28437,
+    "cache": "a23e591055cfba80.txt",
+    "cache_bytes": 28437,
+    "cache_sha256": "7d54bb11fae5a218",
+    "sha256": "7d54bb11fae5a218",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(28437 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E7%84%A1%E9%96%93%E5%9B%BD%E5%B4%A9%E3%81%97/"
+  },
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 57191,
+    "cache": "7e9061e290c91fef.txt",
+    "cache_bytes": 57191,
+    "cache_sha256": "8aefbb9cb14791dc",
+    "sha256": "8aefbb9cb14791dc",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(57191 bytes)",
+   "source": "ixawiki",
+   "url": "https://ixawiki.com/index.php?BushoCard%2F1967%C2%E7%CD%A7%BD%A1%CE%DB"
+  }
+ ],
+ "syn:1977": [
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 59419,
+    "cache": "30ce12c39a8dde90.txt",
+    "cache_bytes": 59419,
+    "cache_sha256": "197cccb7ed118c62",
+    "sha256": "197cccb7ed118c62",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(59419 bytes)",
+   "source": "ixawiki",
+   "url": "https://ixawiki.com/index.php?BushoCard%2F1977%C9%F0%C5%C4%BF%AE%B8%BC"
+  }
+ ],
+ "syn:破軍一投": [
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 29316,
+    "cache": "f2ccebac15aaf3e4.txt",
+    "cache_bytes": 29316,
+    "cache_sha256": "279ad75766bbd73e",
+    "sha256": "279ad75766bbd73e",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(29316 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E7%A0%B4%E8%BB%8D%E4%B8%80%E6%8A%95/"
+  }
+ ],
+ "syn:覇神雷霆": [
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 28564,
+    "cache": "26aa47d5e530283d.txt",
+    "cache_bytes": 28564,
+    "cache_sha256": "a8c08414b7bb0dde",
+    "sha256": "a8c08414b7bb0dde",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(28564 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E8%A6%87%E7%A5%9E%E9%9B%B7%E9%9C%86/"
+  }
+ ],
  "ランク:星神闘覇": [
   {
    "date": "2026-08-13",

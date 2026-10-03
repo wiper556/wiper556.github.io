@@ -49,8 +49,12 @@ def kyoku_dir(no):
     if len(n) == 5:
         if n[:2] in ("20", "21", "22"):
             return "busho-ketsu"
-        if n[:2] == "31":
+        # 2026-10-03: パラレル天は 31xxx(32章前半)だけでなく 40xxx(10月追加)もある。
+        # 40077〜40079 が "busho" に落ちて発覚。パラレル極(32640)は極の置き場に入れている。
+        if n[:2] in ("31", "40"):
             return "busho-parallel"
+        if n[:2] == "32":
+            return "busho-kyoku-ps"
         return "busho"          # 10xxx(記念・コラボ)は天と同じ置き場
     if len(n) == 4:
         if n[0] in ("2", "7"):
