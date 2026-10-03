@@ -1,0 +1,98 @@
+{
+ "name": "遠山綱景",
+ "no": "5272",
+ "ch": "32章",
+ "cost": 1.5,
+ "troop": "槍攻",
+ "sub": "",
+ "effect": "槍攻上昇",
+ "furigana": "とおやまつなかげ",
+ "illustrator": "まっつん！",
+ "imageFull": "assets/img/characters/no5272_full.png",
+ "imageChar": "assets/img/characters/no5272_char.png",
+ "atkBase": 560,
+ "atkGrowth": null,
+ "defBase": 420,
+ "defGrowth": null,
+ "tacticsBase": 440,
+ "tacticsGrowth": null,
+ "lv0Troops": 1330,
+ "rankGrades": {
+  "yari": "C",
+  "yumi": "D",
+  "uma": "D",
+  "ki": "D"
+ },
+ "initialSkill": "槍隊進撃",
+ "skillDetail": "E/LV10 確率 10% 槍攻 15%上昇/対象:槍\n①槍攻が15%上昇する",
+ "trTable": [
+  {
+   "level": "LV10",
+   "points": "-",
+   "effect": "槍　確率 10% / 槍攻 15%上昇(TRなし)"
+  }
+ ],
+ "categoryLinks": [],
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": null,
+   "rank": null,
+   "afterSkill": null,
+   "afterRank": null,
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "B",
+   "skill": null,
+   "rank": null,
+   "afterSkill": null,
+   "afterRank": null,
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": null,
+   "rank": null,
+   "afterSkill": null,
+   "afterRank": null,
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": null,
+   "rank": null,
+   "afterSkill": null,
+   "afterRank": null,
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": null,
+   "rank": null,
+   "afterSkill": null,
+   "afterRank": null,
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ],
+ "notes": [
+  "カード画像(2026-10-03撮影のスクリーンショット)から 名前・ふりがな・コスト・統率4隅・攻撃/防御/兵法の初期値・指揮兵数・スキル名と効果・絵師 を読んだ(D-01: 統率はバッジを拡大して目視、宝石なし)。",
+  "章: ixagno(blog-entry-11254)の「2026年10月追加の新武将」(10月1日メンテ)に掲載されている32章の新カード。",
+  "ixagnoに記事が無く、成長値と合成表は未確認(null)。",
+  "ixanary.com(/cards/5272/ は404)・ixawiki.com はどちらも2026-10-03時点で未掲載。標準2ソースが揃わないため青丸のまま(I-01・D-06)。",
+  "鍛錬: 特・上・序は鍛錬の追加が無い(D-17)ので LV10 のみ・TRなし。"
+ ],
+ "reviewedOk": false,
+ "wikiOldestComment": null,
+ "wikiCommentCount": null
+}

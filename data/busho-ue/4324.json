@@ -1,0 +1,98 @@
+{
+ "name": "万里小路貞子",
+ "no": "4324",
+ "ch": "32章",
+ "cost": 2,
+ "troop": "弓防",
+ "sub": "",
+ "effect": "弓防上昇(武将のコストで効果が変化)",
+ "furigana": "までのこうじさだこ",
+ "illustrator": "琴吹由",
+ "imageFull": "assets/img/characters/no4324_full.png",
+ "imageChar": "assets/img/characters/no4324_char.png",
+ "atkBase": 550,
+ "atkGrowth": null,
+ "defBase": 670,
+ "defGrowth": null,
+ "tacticsBase": 470,
+ "tacticsGrowth": null,
+ "lv0Troops": 1960,
+ "rankGrades": {
+  "yari": "C",
+  "yumi": "B",
+  "uma": "C",
+  "ki": "C"
+ },
+ "initialSkill": "弓隊守護",
+ "skillDetail": "E/LV10 確率 25% 弓防 13%上昇/対象:弓\n①弓防が13%上昇する(武将のコストで効果が変化)",
+ "trTable": [
+  {
+   "level": "LV10",
+   "points": "-",
+   "effect": "弓　確率 25% / 弓防 13%上昇(武将のコストで効果が変化・TRなし)"
+  }
+ ],
+ "categoryLinks": [],
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": null,
+   "rank": null,
+   "afterSkill": null,
+   "afterRank": null,
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "B",
+   "skill": null,
+   "rank": null,
+   "afterSkill": null,
+   "afterRank": null,
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": null,
+   "rank": null,
+   "afterSkill": null,
+   "afterRank": null,
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S1",
+   "skill": null,
+   "rank": null,
+   "afterSkill": null,
+   "afterRank": null,
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  },
+  {
+   "slot": "S2",
+   "skill": null,
+   "rank": null,
+   "afterSkill": null,
+   "afterRank": null,
+   "target": null,
+   "rate": null,
+   "effectShort": null
+  }
+ ],
+ "notes": [
+  "カード画像(2026-10-03撮影のスクリーンショット)から 名前・ふりがな・コスト・統率4隅・攻撃/防御/兵法の初期値・指揮兵数・スキル名と効果・絵師 を読んだ(D-01: 統率はバッジを拡大して目視、宝石なし)。",
+  "章: ixagno(blog-entry-11254)の「2026年10月追加の新武将」(10月1日メンテ)に掲載されている32章の新カード。",
+  "ixagnoに記事が無く、成長値と合成表は未確認(null)。絵師名はカード画像の小さい文字から読んだ(要確認)。",
+  "ixanary.com(/cards/4324/ は404)・ixawiki.com はどちらも2026-10-03時点で未掲載。標準2ソースが揃わないため青丸のまま(I-01・D-06)。",
+  "鍛錬: 特・上・序は鍛錬の追加が無い(D-17)ので LV10 のみ・TRなし。"
+ ],
+ "reviewedOk": false,
+ "wikiOldestComment": null,
+ "wikiCommentCount": null
+}

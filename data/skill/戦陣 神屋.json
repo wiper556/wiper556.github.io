@@ -28,6 +28,15 @@
    "no": "7007",
    "slot": "B",
    "db": "kyoku"
+  },
+  {
+   "name": "林秀貞",
+   "no": "7027",
+   "slot": "S1",
+   "db": "kyoku",
+   "note": [
+    "林秀貞(7027)のsynthesisTable S1枠(2026-10-03)"
+   ]
   }
  ],
  "ownHiddenCandidate": {

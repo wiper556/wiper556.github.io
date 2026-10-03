@@ -6,18 +6,27 @@
  "effectSummary": "A/LV10 確率 40% 防御上昇/対象:弓・砲・器\n①部隊総コストに応じて防御効果が変化する(LV10基準15%上昇)",
  "sourceCharacters": [
   {
-   "name": "後藤又兵衛（3）",
-   "no": "2390",
-   "slot": "A",
-   "db": "kyoku"
-  },
-  {
    "name": "稲姫",
    "no": "2363",
    "slot": "A・B・C",
    "db": "kyoku",
    "note": [
     "稲姫(2363)のsynthesisTable A・B・C枠(2026-08-23)"
+   ]
+  },
+  {
+   "name": "後藤又兵衛（3）",
+   "no": "2390",
+   "slot": "A",
+   "db": "kyoku"
+  },
+  {
+   "name": "おつやの方（2）",
+   "no": "7028",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "おつやの方（2）(7028)のsynthesisTable B枠(2026-10-03)"
    ]
   }
  ],
