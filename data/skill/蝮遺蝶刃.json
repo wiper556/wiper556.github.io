@@ -10,6 +10,14 @@
    "name": "濃姫",
    "no": "10077",
    "slot": "A"
+  },
+  {
+   "name": "濃姫",
+   "no": "40077",
+   "slot": "A",
+   "note": [
+    "濃姫(40077)のsynthesisTable A枠(2026-10-03)"
+   ]
   }
  ],
  "ownHiddenCandidate": {

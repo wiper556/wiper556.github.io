@@ -8408,7 +8408,7 @@ const generalChapters = {
   "31293":30, "31294":30, "31295":30, "31296":30, "31297":30, "31298":31, "31299":31, "31300":31, "31301":31,
   "31302":31, "31303":31, "31304":31, "31305":31, "31306":31, "31307":31, "31308":31, "31309":31, "31310":32,
   "31311":32, "31312":32, "31313":32, "31314":32, "31315":32, "31316":32, "31317":32, "31318":32, "31319":32,
-  "31320":32, "31321":32, "32640":32
+  "31320":32, "31321":32, "32640":32, "40077":32, "40078":32, "40079":32
 };
 // BUILD:generalChapters:end
 
@@ -8797,7 +8797,8 @@ const generalRarityDB = {
   "31304":"parallelTen", "31305":"parallelTen", "31306":"parallelTen", "31307":"parallelTen", "31308":"parallelTen",
   "31309":"parallelTen", "31310":"parallelTen", "31311":"parallelTen", "31312":"parallelTen", "31313":"parallelTen",
   "31314":"parallelTen", "31315":"parallelTen", "31316":"parallelTen", "31317":"parallelTen", "31318":"parallelTen",
-  "31319":"parallelTen", "31320":"parallelTen", "31321":"parallelTen", "32640":"kyokuPs"
+  "31319":"parallelTen", "31320":"parallelTen", "31321":"parallelTen", "32640":"kyokuPs", "40077":"parallelTen",
+  "40078":"parallelTen", "40079":"parallelTen"
 };
 const generalSkillRankDB = {
   "1001":"S", "1002":"S", "1003":"S", "1004":"S", "1005":"S", "1006":"S", "1007":"S", "1008":"S", "1009":"S",
@@ -9101,7 +9102,7 @@ const generalSkillRankDB = {
   "31294":"S", "31295":"S", "31296":"S", "31297":"S", "31298":"SSS", "31299":"SSS", "31300":"SSS", "31301":"S",
   "31302":"S", "31303":"S", "31304":"S", "31305":"S", "31306":"S", "31307":"S", "31308":"S", "31309":"S",
   "31310":"SSS", "31311":"SSS", "31312":"SSS", "31313":"S", "31314":"S", "31315":"S", "31316":"S", "31317":"S",
-  "31318":"S", "31319":"S", "31320":"S", "31321":"S", "32640":"S"
+  "31318":"S", "31319":"S", "31320":"S", "31321":"S", "32640":"S", "40077":"S", "40078":"S", "40079":"S"
 };
 const skillRankDB = {
   "Tツイスター":"S", "あとのまつり":"B", "あの虚気を殺す":"C", "あやめの応援":"S", "いくさの子":"B", "いろはの礎":"A", "いろは歌":"S", "うつけ者":"S",
@@ -9692,7 +9693,7 @@ const generalSkillAxis = {
   "31297":"def", "31298":"atk", "31299":"def", "31300":"atk", "31301":"def", "31302":"def", "31303":"atk",
   "31304":"def", "31305":"def", "31306":"atk", "31307":"atk", "31308":"def", "31309":"def", "31310":"atk",
   "31311":"def", "31312":"atk", "31313":"atk", "31314":"def", "31315":"def", "31316":"def", "31317":"atk",
-  "31318":"atk", "31319":"def", "31320":"atk", "31321":"atk", "32640":"atk"
+  "31318":"atk", "31319":"def", "31320":"atk", "31321":"atk", "32640":"atk", "40077":"def", "40078":"both"
 };
 // BUILD:generalSkillAxis:end
 
@@ -22638,6 +22639,48 @@ const generalGrowthDB = [
     defBase: 1140, defGrowth: 47,
     tacticsBase: 540, tacticsGrowth: 2.5,
     rankGrades: {yari:'A', yumi:'S', uma:'B', ki:'A'},
+    defaultBreakthrough: '天限突破',
+    defaultStatAlloc: '攻撃振り',
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
+  },
+  {
+    name: "濃姫",
+    no: '40077',
+    cost: 5.5,
+    initialSkill: "冥妃神鈴戟",
+    lv0Troops: 5350,
+    atkBase: 1080, atkGrowth: 48,
+    defBase: 1270, defGrowth: 74,
+    tacticsBase: 670, tacticsGrowth: 3.5,
+    rankGrades: {yari:'S', yumi:'A', uma:'A', ki:'S'},
+    defaultBreakthrough: '天限突破',
+    defaultStatAlloc: '攻撃振り',
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
+  },
+  {
+    name: "三郎信長",
+    no: '40078',
+    cost: 3.5,
+    initialSkill: "覇界胎動",
+    lv0Troops: 4550,
+    atkBase: 1260, atkGrowth: 73,
+    defBase: 1260, defGrowth: 73,
+    tacticsBase: 680, tacticsGrowth: 3.5,
+    rankGrades: {yari:'A', yumi:'A', uma:'A', ki:'SS'},
+    defaultBreakthrough: '天限突破',
+    defaultStatAlloc: '攻撃振り',
+    note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
+  },
+  {
+    name: "今川氏真",
+    no: '40079',
+    cost: 5,
+    initialSkill: "弄鞠転廻",
+    lv0Troops: 5160,
+    atkBase: 1250, atkGrowth: 72,
+    defBase: 1250, defGrowth: 72,
+    tacticsBase: 670, tacticsGrowth: 3.0,
+    rankGrades: {yari:'A', yumi:'S', uma:'A', ki:'S'},
     defaultBreakthrough: '天限突破',
     defaultStatAlloc: '攻撃振り',
     note: '正本(data/busho*/)から生成。成長値が null のものは未確認。'
