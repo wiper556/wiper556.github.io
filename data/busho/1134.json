@@ -70,7 +70,7 @@
    "afterRank": "S",
    "target": "馬・器・騎",
    "rate": "35%",
-   "effectShort": null,
+   "effectShort": "防御 2%×防御参加武将数(280人)=560.0%(模倣不可)",
    "afterTarget": "馬砲器",
    "afterRate": "50%",
    "afterEffectShort": null
@@ -93,7 +93,7 @@
    "afterRank": "S",
    "target": "馬砲器",
    "rate": "50%",
-   "effectShort": null
+   "effectShort": "防御 77%上昇 / 破壊 60%上昇"
   },
   {
    "slot": "S2",
@@ -103,7 +103,7 @@
    "afterRank": "S",
    "target": "馬砲器",
    "rate": "50%",
-   "effectShort": null
+   "effectShort": "防御 77%上昇 / 破壊 60%上昇"
   }
  ]
 }

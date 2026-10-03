@@ -58,7 +58,7 @@
    "afterRank": "SS",
    "target": "弓馬焙騎",
    "rate": "36%",
-   "effectShort": null,
+   "effectShort": "攻撃 86%上昇(確率36%)+速度 50%上昇(確率100%)(4部隊以下の攻撃で攻撃効果2倍)",
    "afterTarget": "全",
    "afterRate": "37%",
    "afterEffectShort": "攻撃 2.5%×防御参加武将数(280人)=700.0%"

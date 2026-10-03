@@ -56,7 +56,7 @@
    "afterRank": "SS",
    "target": "弓・馬・器・駒",
    "rate": "35%",
-   "effectShort": null,
+   "effectShort": "攻撃 (3×攻撃参加武将数)%上昇",
    "afterTarget": "全",
    "afterRate": "37%",
    "afterEffectShort": "攻撃 2.5%×防御参加武将数(280人)=700.0%"
@@ -82,7 +82,7 @@
    "afterRank": "SS",
    "target": "槍砲器",
    "rate": "50%",
-   "effectShort": null
+   "effectShort": "攻撃 (2x防御参加武将) %上昇"
   },
   {
    "slot": "S1",

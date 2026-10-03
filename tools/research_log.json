@@ -1039,6 +1039,50 @@
    "url": "https://ixawiki.com/"
   }
  ],
+ "TR:毒鎖天命": [
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 60361,
+    "cache": "aefbd5c90b2b70a6.txt",
+    "cache_bytes": 60361,
+    "cache_sha256": "3bd2e5af4b2cc33a",
+    "sha256": "3bd2e5af4b2cc33a",
+    "status": 200
+   },
+   "found": false,
+   "result": "ixagno記事のTR1〜TR4のセルは空(TR5のみ 防御1800%/30秒 を掲載)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-11263.html"
+  },
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E6%AF%92%E9%8E%96%E5%A4%A9%E5%91%BD/"
+  },
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 7114,
+    "cache": "8b9faa6e7483e093.txt",
+    "cache_bytes": 7114,
+    "cache_sha256": "68537872c5cc36bc",
+    "sha256": "68537872c5cc36bc",
+    "status": 200
+   },
+   "found": false,
+   "result": "BushoCard/7408蘆名盛隆 は未作成ページ(編集フォーム)。TR情報なし",
+   "source": "ixawiki",
+   "url": "https://ixawiki.com/index.php?BushoCard%2F7408%E9%C3%CC%BE%C0%B9%CE%B4"
+  }
+ ],
  "TR:毘天神威": [
   {
    "date": "2026-09-02",
@@ -2103,6 +2147,48 @@
    "result": "取得した(45360 bytes)",
    "source": "ixawiki",
    "url": "https://ixawiki.com/index.php?BushoCard%2F10060%CC%F8%C0%B8%C0%D0%BD%AE%BA%D8"
+  }
+ ],
+ "busho:10077": [
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/cards/10077/"
+  }
+ ],
+ "busho:10078": [
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/cards/10078/"
+  }
+ ],
+ "busho:10079": [
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/cards/10079/"
   }
  ],
  "busho:1215竹中半兵衛": [
@@ -5877,6 +5963,20 @@
    "result": "取得失敗: HTTP Error 404: Not Found",
    "source": "ixanary",
    "url": "https://ixanary.com/cards/2859/"
+  }
+ ],
+ "busho:2860": [
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/cards/2860/"
   }
  ],
  "busho:2910": [
@@ -33209,6 +33309,20 @@
    "url": "https://ixanary.com/cards/7407/"
   }
  ],
+ "busho:7408": [
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/cards/7408/"
+  }
+ ],
  "name:7402蜂須賀家政": [
   {
    "date": "2026-08-14",
@@ -40089,6 +40203,20 @@
    "result": "取得した(28161 bytes)",
    "source": "ixanary",
    "url": "https://ixanary.com/skills/%E5%BB%BB%E5%B0%86%E4%B8%80%E5%A4%A2"
+  }
+ ],
+ "skill:弄鞠転廻": [
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%BC%84%E9%9E%A0%E8%BB%A2%E5%BB%BB"
   }
  ],
  "skill:弓妖陣": [
@@ -50254,6 +50382,20 @@
    "result": "取得した(27541 bytes)",
    "source": "ixanary",
    "url": "https://ixanary.com/skills/%E8%9D%AE%E3%81%AE%E6%84%9B%E5%A6%BE"
+  }
+ ],
+ "skill:蝮遺蝶刃": [
+  {
+   "date": "2026-10-03",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E8%9D%AE%E9%81%BA%E8%9D%B6%E5%88%83"
   }
  ],
  "skill:蝶蛇の舞": [

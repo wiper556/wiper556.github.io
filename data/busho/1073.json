@@ -81,7 +81,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "5%",
-   "effectShort": null,
+   "effectShort": "攻撃 70%上昇(攻撃時自部隊兵士被害5%減少)",
    "afterTarget": "全",
    "afterRate": "42%",
    "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"

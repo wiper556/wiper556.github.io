@@ -1,0 +1,137 @@
+{
+ "name": "おつやの方（2）",
+ "no": "7028",
+ "ch": "32章",
+ "cost": 4,
+ "troop": "槍弓鉄焙防",
+ "sub": "",
+ "effect": "自拠点でのみ、自部隊内姫武将数×210%防御上昇(姫武将のみ)",
+ "furigana": "おつやのかた",
+ "illustrator": "BISAI",
+ "imageFull": "assets/img/characters/no7028_full.png",
+ "imageChar": "assets/img/characters/no7028_char.png",
+ "atkBase": 1140,
+ "atkGrowth": 33,
+ "defBase": 1140,
+ "defGrowth": 47,
+ "tacticsBase": 540,
+ "tacticsGrowth": 2.5,
+ "lv0Troops": 4050,
+ "rankGrades": {
+  "yari": "A",
+  "yumi": "S",
+  "uma": "B",
+  "ki": "A"
+ },
+ "initialSkill": "玉響之灯",
+ "skillDetail": "A/LV10 確率 55% 防御 自部隊内姫武将数×210%上昇/対象:槍・弓・鉄・焙\n①防御が自部隊内姫武将数×210%上昇する(自拠点でのみ発動し姫武将にのみ効果あり)",
+ "trTable": [
+  {
+   "level": "LV10",
+   "points": "-",
+   "effect": "槍・弓・鉄・焙　確率 55% / 防御 自部隊内姫武将数×210%上昇(姫4人で840%・自拠点でのみ発動し、姫武将にのみ効果あり)"
+  },
+  {
+   "level": "TR1",
+   "points": "10",
+   "effect": null
+  },
+  {
+   "level": "TR2",
+   "points": "40",
+   "effect": null
+  },
+  {
+   "level": "TR3",
+   "points": "90",
+   "effect": null
+  },
+  {
+   "level": "TR4",
+   "points": "150",
+   "effect": null
+  },
+  {
+   "level": "TR5",
+   "points": "200",
+   "effect": null
+  },
+  {
+   "level": "TR6",
+   "points": "パラレル",
+   "effect": null
+  }
+ ],
+ "categoryLinks": [],
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "仁婦ノ加護",
+   "rank": "A",
+   "afterSkill": "仁婦ノ加護",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 600%上昇+防御 600%上昇(姫武将の発動率+10%・卓越追加確率+25%)",
+   "afterEffectShort": "攻撃 600%上昇+防御 600%上昇(姫武将の発動率+10%・卓越追加確率+25%)"
+  },
+  {
+   "slot": "B",
+   "skill": "凜武艶姫",
+   "rank": "A",
+   "afterSkill": "戦陣 無縫",
+   "afterRank": "A",
+   "target": "弓・砲・器",
+   "rate": "40%",
+   "effectShort": "防御 15%上昇(部隊総コストで変動)",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "防御 80%上昇(部隊総コストで変動)"
+  },
+  {
+   "slot": "C",
+   "skill": "千兵ノ耀姫",
+   "rank": "A",
+   "afterSkill": "龍神ノ加護",
+   "afterRank": "A",
+   "target": "弓・馬・器・騎 兵站",
+   "rate": "50%",
+   "effectShort": "防御 170%上昇+破壊 80%上昇(TRなし)",
+   "afterTarget": "馬・砲・器",
+   "afterRate": "46%",
+   "afterEffectShort": "防御 135%上昇(本丸防御陣形配置時コスト消費-0.5・模倣不可・TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "玉響之灯",
+   "rank": "A",
+   "afterSkill": "玉響之灯",
+   "afterRank": "A",
+   "target": "槍・弓・鉄・焙",
+   "rate": "55%",
+   "effectShort": "防御 自部隊内姫武将数×210%上昇(姫4人で840%・自拠点でのみ発動し、姫武将にのみ効果あり)",
+   "afterEffectShort": "防御 自部隊内姫武将数×210%上昇(姫4人で840%・自拠点でのみ発動し、姫武将にのみ効果あり)"
+  },
+  {
+   "slot": "S2",
+   "skill": "志半ノ矛楯",
+   "rank": "A",
+   "afterSkill": "志半ノ矛楯",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "65%",
+   "effectShort": "攻撃 465%上昇+防御 465%上昇(模倣不可)",
+   "afterEffectShort": "攻撃 465%上昇+防御 465%上昇(模倣不可)"
+  }
+ ],
+ "notes": [
+  "カード画像(2026-10-03撮影のスクリーンショット)から 名前・ふりがな・コスト・統率4隅・攻撃/防御/兵法の初期値・指揮兵数・スキル名と効果・絵師 を読んだ(D-01: 統率はバッジを拡大して目視、宝石なし)。",
+  "ixagno.blog.fc2.com(blog-entry-11260)の生HTMLで 成長値・合成テーブル(初期/移植後)を確認。",
+  "章: ixagno(blog-entry-11254)の「2026年10月追加の新武将」(10月1日メンテ)に掲載されている32章の新カード。",
+  "鍛錬の有無は記事に記載が無く、TR行は空のまま。",
+  "ixanary.com(/cards/7028/ は404)・ixawiki.com はどちらも2026-10-03時点で未掲載。標準2ソースが揃わないため青丸のまま(I-01・D-06)。"
+ ],
+ "reviewedOk": false,
+ "wikiOldestComment": null,
+ "wikiCommentCount": null
+}

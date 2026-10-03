@@ -55,7 +55,7 @@
    "afterRank": "SS",
    "target": "弓・馬・器",
    "rate": "40%",
-   "effectShort": null,
+   "effectShort": "防御 120%上昇(被ダメージ20以下を最大9に軽減)",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "防御 100%上昇 自部隊の武将ダメージ軽減3% (重複発動上限数4)"
@@ -68,7 +68,7 @@
    "afterRank": "SS",
    "target": "弓・馬・器",
    "rate": "40%",
-   "effectShort": null,
+   "effectShort": "防御 120%上昇(被ダメージ20以下を最大9に軽減)",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "防御 100%上昇 自部隊の武将ダメージ軽減3% (重複発動上限数4)"

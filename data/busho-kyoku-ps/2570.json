@@ -75,7 +75,7 @@
    "afterRank": "A",
    "target": "全",
    "rate": "50%",
-   "effectShort": null,
+   "effectShort": "攻撃 170%上昇+防御部隊の武将防御力 50%低下(特殊効果は重複不可)",
    "afterTarget": "全",
    "afterRate": "100%",
    "afterEffectShort": "攻撃 55%上昇+防御 55%上昇(自軍全武将全スキルの卓越確率に7%を加算・模倣不可・自軍内重複上限4)"

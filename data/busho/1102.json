@@ -69,7 +69,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "34%",
-   "effectShort": null,
+   "effectShort": "攻撃 44%上昇+防御 44%上昇",
    "afterTarget": "全",
    "afterRate": "30%",
    "afterEffectShort": null
@@ -82,7 +82,7 @@
    "afterRank": "SS",
    "target": "槍・馬・砲",
    "rate": "60%",
-   "effectShort": null,
+   "effectShort": "防御 60%上昇+破壊 60%上昇",
    "afterTarget": "自身",
    "afterRate": "70%",
    "afterEffectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"

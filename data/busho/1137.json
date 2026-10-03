@@ -69,7 +69,7 @@
    "afterRank": "S",
    "target": "全",
    "rate": "37%",
-   "effectShort": null,
+   "effectShort": "攻撃 70%上昇(自軍内で同兵種を指揮している武将数×2.5%を加算)",
    "afterTarget": "全",
    "afterRate": "33%",
    "afterEffectShort": null
@@ -92,7 +92,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "33%",
-   "effectShort": null,
+   "effectShort": "攻撃 87%上昇 / (合流攻撃時は確率2倍)",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇"
@@ -105,7 +105,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "33%",
-   "effectShort": null,
+   "effectShort": "攻撃 87%上昇 / (合流攻撃時は確率2倍)",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇"

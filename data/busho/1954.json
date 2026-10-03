@@ -74,7 +74,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "25%",
-   "effectShort": null,
+   "effectShort": "攻撃 45%上昇+防御 45%上昇",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "防御 41.56%上昇(部隊総コストで変動、TRなし)"

@@ -53,7 +53,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "50%",
-   "effectShort": null,
+   "effectShort": "防御 125%上昇(加勢中も部隊の兵士編成が可能)",
    "afterTarget": "全",
    "afterRate": "30%",
    "afterEffectShort": "防御 90%上昇(攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化・模倣不可)"
@@ -66,7 +66,7 @@
    "afterRank": "SS",
    "target": "砲器",
    "rate": "50%",
-   "effectShort": null,
+   "effectShort": "攻撃 (1+ランク)xコストx4 %上昇",
    "afterTarget": "槍・弓・馬",
    "afterRate": "70%",
    "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"

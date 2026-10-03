@@ -1,0 +1,138 @@
+{
+ "name": "林秀貞",
+ "no": "7027",
+ "ch": "32章",
+ "cost": 4.5,
+ "troop": "防",
+ "sub": "",
+ "effect": "自領以外の加勢戦闘時のみ、極限スキルの防御効果2.5倍",
+ "furigana": "はやしひでさだ",
+ "illustrator": "タカハシタクヤ",
+ "imageFull": "assets/img/characters/no7027_full.png",
+ "imageChar": "assets/img/characters/no7027_char.png",
+ "atkBase": 1050,
+ "atkGrowth": 34,
+ "defBase": 1160,
+ "defGrowth": 48,
+ "tacticsBase": 550,
+ "tacticsGrowth": 2.5,
+ "lv0Troops": 4330,
+ "rankGrades": {
+  "yari": "A",
+  "yumi": "A",
+  "uma": "B",
+  "ki": "S"
+ },
+ "initialSkill": "忠義ノ変節",
+ "skillDetail": "A/LV10 極限スキルの防御効果2.5倍/対象:自身\n模倣不可\n①このスキルを持つ武将カードは自領以外の加勢戦闘時のみ極限スキルの防御効果が2.5倍となる",
+ "trTable": [
+  {
+   "level": "LV10",
+   "points": "-",
+   "effect": "自身　確率 100% / 自領以外の加勢戦闘時のみ、極限スキルの防御効果2.5倍(模倣不可)"
+  },
+  {
+   "level": "TR1",
+   "points": "10",
+   "effect": "自身　確率 100% / 自領以外の加勢戦闘時のみ、極限スキルの防御効果2.7倍(模倣不可)"
+  },
+  {
+   "level": "TR2",
+   "points": "40",
+   "effect": "自身　確率 100% / 自領以外の加勢戦闘時のみ、極限スキルの防御効果3倍(模倣不可)"
+  },
+  {
+   "level": "TR3",
+   "points": "90",
+   "effect": null
+  },
+  {
+   "level": "TR4",
+   "points": "150",
+   "effect": null
+  },
+  {
+   "level": "TR5",
+   "points": "200",
+   "effect": null
+  },
+  {
+   "level": "TR6",
+   "points": "パラレル",
+   "effect": null
+  }
+ ],
+ "categoryLinks": [],
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "覇軍ノ勇士",
+   "rank": "A",
+   "afterSkill": "戦陣 神楽",
+   "afterRank": "A",
+   "target": "槍・砲・器",
+   "rate": "48%",
+   "effectShort": "攻撃・防御 320%+120%×覇軍ノ勇士所持数(4人)=800%上昇",
+   "afterTarget": "全 飛翔4",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 77%上昇(卓越:追加確率30%で2倍)"
+  },
+  {
+   "slot": "B",
+   "skill": "因果応報",
+   "rank": "B",
+   "afterSkill": "因果応報",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "10%",
+   "effectShort": "防御戦闘勝利時のみ敵軍の兵士被害数10%上昇(TRなし)",
+   "afterEffectShort": "防御戦闘勝利時のみ敵軍の兵士被害数10%上昇(TRなし)"
+  },
+  {
+   "slot": "C",
+   "skill": "謀虎因子",
+   "rank": "A",
+   "afterSkill": "謀虎因子",
+   "afterRank": "A",
+   "target": "槍・砲・器",
+   "rate": "48%",
+   "effectShort": "防御 160%上昇(格付「戦果」上位の敵城主がいると5倍)",
+   "afterEffectShort": "防御 160%上昇(格付「戦果」上位の敵城主がいると5倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "戦陣 神屋",
+   "rank": "A",
+   "afterSkill": "神屋楯比売命",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 100%上昇+防御 100%上昇",
+   "afterTarget": "自身",
+   "afterRate": "70%",
+   "afterEffectShort": "初期スキル(戦闘スキルのみ)を模倣(1倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "志半ノ矛楯",
+   "rank": "A",
+   "afterSkill": "志半ノ矛楯",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "65%",
+   "effectShort": "攻撃 465%上昇+防御 465%上昇(模倣不可)",
+   "afterEffectShort": "攻撃 465%上昇+防御 465%上昇(模倣不可)"
+  }
+ ],
+ "notes": [
+  "カード画像(2026-10-03撮影のスクリーンショット)から 名前・ふりがな・コスト・統率4隅・攻撃/防御/兵法の初期値・指揮兵数・スキル名と効果・絵師 を読んだ(D-01: 統率はバッジを拡大して目視、宝石なし)。",
+  "ixagno.blog.fc2.com(blog-entry-11261)の生HTMLで 成長値・合成テーブル(初期/移植後)を確認。",
+  "章: ixagno(blog-entry-11254)の「2026年10月追加の新武将」(10月1日メンテ)に掲載されている32章の新カード。",
+  "スクリーンショットはスキル欄がTR2のカードだった(効果3倍)。LV10・TR1の値はixagno記事から。鍛錬はTR2まで(同記事)。",
+  "確率はカード・記事とも表記なし(常時発動の特殊効果)。trTableは書式に合わせて確率100%とした。",
+  "ixanary.com(/cards/7027/ は404)・ixawiki.com はどちらも2026-10-03時点で未掲載。標準2ソースが揃わないため青丸のまま(I-01・D-06)。"
+ ],
+ "reviewedOk": false,
+ "wikiOldestComment": null,
+ "wikiCommentCount": null
+}

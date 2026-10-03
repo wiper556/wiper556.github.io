@@ -90,7 +90,7 @@
    "afterRank": "S",
    "target": "槍器鉄",
    "rate": "50%",
-   "effectShort": null
+   "effectShort": "攻撃 25%上昇(部隊の総コストに応じて効果が変化する)"
   },
   {
    "slot": "S2",

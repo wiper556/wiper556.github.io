@@ -58,7 +58,7 @@
    "afterRank": "SS",
    "target": "砲器",
    "rate": "100%",
-   "effectShort": null,
+   "effectShort": "防御 90%上昇(卓越:追加確率30%で2.5倍)",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "防御 100%上昇 自部隊の武将ダメージ軽減3% (重複発動上限数4)"

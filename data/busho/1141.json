@@ -68,7 +68,7 @@
    "afterRank": "S",
    "target": "器",
    "rate": "40%",
-   "effectShort": null,
+   "effectShort": "攻撃 70%上昇(敵部隊に兵器兵科がいれば効果1.5倍)",
    "afterTarget": "砲器",
    "afterRate": "45%",
    "afterEffectShort": null
@@ -94,7 +94,7 @@
    "afterRank": "SS",
    "target": "砲器",
    "rate": "45%",
-   "effectShort": null,
+   "effectShort": "攻撃 72%上昇 / 速度 40%上昇 / (4部隊以下の攻撃で攻撃効果1.5倍)",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": null
@@ -107,7 +107,7 @@
    "afterRank": "SS",
    "target": "砲器",
    "rate": "45%",
-   "effectShort": null,
+   "effectShort": "攻撃 72%上昇 / 速度 40%上昇 / (4部隊以下の攻撃で攻撃効果1.5倍)",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": null

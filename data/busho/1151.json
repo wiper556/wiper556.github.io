@@ -96,7 +96,7 @@
    "afterRank": "S",
    "target": "槍・弓・馬・器",
    "rate": "36%",
-   "effectShort": null
+   "effectShort": "防御 30%上昇(自軍部隊数6以下限定・敵軍部隊数×12%加算)"
   },
   {
    "slot": "S2",

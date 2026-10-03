@@ -69,7 +69,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "40%",
-   "effectShort": null,
+   "effectShort": "防御 50%上昇+破壊 40%上昇(1.2%×防御参加武将数(280人)=336.0%を防御効果に加算)",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "防御 41.56%上昇(部隊総コストで変動、TRなし)"

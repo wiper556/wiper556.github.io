@@ -69,7 +69,7 @@
    "afterRank": "SS",
    "target": "砲・器",
    "rate": "27%",
-   "effectShort": null,
+   "effectShort": "攻撃 53%上昇+破壊 36%上昇",
    "afterTarget": "馬・砲・器",
    "afterRate": "40%",
    "afterEffectShort": "攻撃 (18+コストx8) %上昇 破壊 (8+コストx3) %上昇 (武将のコストで効果が変化します)"

@@ -65,7 +65,7 @@
    "afterRank": "SS",
    "target": "槍弓馬",
    "rate": "42%",
-   "effectShort": null,
+   "effectShort": "防御 46%上昇(攻撃部隊に兵器兵科がいれば効果2倍)",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "防御 41.56%上昇(部隊総コストで変動、TRなし)"

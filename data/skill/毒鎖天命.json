@@ -1,0 +1,64 @@
+{
+ "name": "毒鎖天命",
+ "rank": "S",
+ "baseRate": 100,
+ "target": "全 兵站",
+ "effectSummary": "S/LV10 確率 100% 防御 1200%上昇/対象:全 兵站\n①防御が1200%上昇する\n②所属部隊による加勢出陣時目的地への到着時間が180秒を超えるとき180秒で到着できる",
+ "categoryLinks": [
+  {
+   "href": "skills-heitan.html",
+   "label": "兵站スキル一覧を見る"
+  }
+ ],
+ "sourceCharacters": [
+  {
+   "name": "蘆名盛隆",
+   "no": "7408",
+   "slot": "移植不可",
+   "db": "kyoku"
+  }
+ ],
+ "ownHiddenCandidate": null,
+ "trTable": [
+  {
+   "level": "LV10",
+   "points": "-",
+   "effect": "全 兵站　確率 100% / 防御 1200%上昇 / 所属部隊による加勢出陣時、目的地への到着時間が180秒を超えるとき180秒で到着できる"
+  },
+  {
+   "level": "TR1",
+   "points": "10",
+   "effect": null
+  },
+  {
+   "level": "TR2",
+   "points": "40",
+   "effect": null
+  },
+  {
+   "level": "TR3",
+   "points": "90",
+   "effect": null
+  },
+  {
+   "level": "TR4",
+   "points": "150",
+   "effect": null
+  },
+  {
+   "level": "TR5",
+   "points": "200",
+   "effect": "全 兵站　確率 100% / 防御 1800%上昇 / 所属部隊による加勢出陣時、目的地への到着時間が30秒を超えるとき30秒で到着できる"
+  },
+  {
+   "level": "TR6",
+   "points": "パラレル",
+   "effect": null
+  }
+ ],
+ "notes": [
+  "2026-10-03作成。S以上はページを作る規約(RULES.md S-01)。",
+  "カード画像と ixagno.blog.fc2.com(blog-entry-11263)から作成。ixanary・ixawikiは未掲載。",
+  "2026-10-03: categoryLinksの9項目(無尽/撤退/飛翔/覇道/不屈/兵站/卓越/人数依存/コスト減)を判定。兵站に掲載。"
+ ]
+}

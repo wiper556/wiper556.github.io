@@ -68,7 +68,7 @@
    "afterRank": "S",
    "target": "槍・弓・馬",
    "rate": "60%",
-   "effectShort": null,
+   "effectShort": "攻撃 84%上昇+防御 84%上昇+破壊 50%上昇",
    "afterTarget": "全",
    "afterRate": "40%",
    "afterEffectShort": null
@@ -94,7 +94,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "40%",
-   "effectShort": null,
+   "effectShort": "攻撃 45%上昇 防御 45%上昇 / 部隊コスト12以下で効果2倍",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇"
@@ -107,7 +107,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "40%",
-   "effectShort": null,
+   "effectShort": "攻撃 45%上昇 防御 45%上昇 / 部隊コスト12以下で効果2倍",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇"

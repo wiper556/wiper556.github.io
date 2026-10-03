@@ -80,7 +80,7 @@
    "afterRank": "SS",
    "target": "弓・砲・器",
    "rate": "40%",
-   "effectShort": null,
+   "effectShort": "攻撃 1.8%×防御参加武将数(280人)=504.0%",
    "afterTarget": "全",
    "afterRate": "100%",
    "afterEffectShort": "攻撃 50%上昇(所属部隊の武将が持つスキルを無効化や発動率低下スキルから保護)"

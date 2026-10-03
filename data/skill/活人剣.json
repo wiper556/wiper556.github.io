@@ -101,6 +101,15 @@
    "note": [
     "柳生宗矩(2793)自身の初期スキルだが、ixanary.com(skills/活人剣)の合成テーブルで1次候補Aが活人剣自身(自己参照)であることを確認できたためA枠として列挙([[feedback_transferable_slot_labeling_rule]]に基づき「移植不可」は使わない)"
    ]
+  },
+  {
+   "name": "徳川家光（2）",
+   "no": "2860",
+   "slot": "B",
+   "db": "kyoku",
+   "note": [
+    "徳川家光（2）(2860)のsynthesisTable B枠(2026-10-03)"
+   ]
   }
  ],
  "grantedViaSkills": [

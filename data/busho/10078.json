@@ -1,0 +1,135 @@
+{
+ "name": "三郎信長（2）",
+ "no": "10078",
+ "ch": "32章",
+ "cost": 3.5,
+ "troop": "全攻防",
+ "sub": "",
+ "effect": "同部隊内他武将の最大指揮兵数+3000、攻防上昇",
+ "furigana": "さぶろうのぶなが",
+ "illustrator": "直良有祐",
+ "imageFull": "assets/img/characters/no10078_full.png",
+ "imageChar": "assets/img/characters/no10078_char.png",
+ "atkBase": 1260,
+ "atkGrowth": 73,
+ "defBase": 1260,
+ "defGrowth": 73,
+ "tacticsBase": 680,
+ "tacticsGrowth": 3.5,
+ "lv0Troops": 4550,
+ "rankGrades": {
+  "yari": "A",
+  "yumi": "A",
+  "uma": "A",
+  "ki": "SS"
+ },
+ "initialSkill": "覇界胎動",
+ "skillDetail": "S/LV10 確率 50% 攻撃 800%上昇+防御 800%上昇/対象:全\n模倣不可\n①同部隊内他武将の最大指揮兵数に3000を加算する(部隊内重複不可)\n②攻撃が800%上昇する\n③防御が800%上昇する",
+ "trTable": [
+  {
+   "level": "LV10",
+   "points": "-",
+   "effect": "全　確率 50% / 攻撃 800%上昇+防御 800%上昇 / 同部隊内他武将の最大指揮兵数に3000を加算(模倣不可・部隊内重複不可)"
+  },
+  {
+   "level": "TR1",
+   "points": "10",
+   "effect": "全　確率 52% / 攻撃 850%上昇+防御 850%上昇 / 同部隊内他武将の最大指揮兵数に3100を加算(模倣不可・部隊内重複不可)"
+  },
+  {
+   "level": "TR2",
+   "points": "40",
+   "effect": "全　確率 54% / 攻撃 910%上昇+防御 910%上昇 / 同部隊内他武将の最大指揮兵数に3200を加算(模倣不可・部隊内重複不可)"
+  },
+  {
+   "level": "TR3",
+   "points": "90",
+   "effect": "全　確率 56% / 攻撃 1000%上昇+防御 1000%上昇 / 同部隊内他武将の最大指揮兵数に3300を加算(模倣不可・部隊内重複不可)"
+  },
+  {
+   "level": "TR4",
+   "points": "150",
+   "effect": "全　確率 58% / 攻撃 1090%上昇+防御 1090%上昇 / 同部隊内他武将の最大指揮兵数に3400を加算(模倣不可・部隊内重複不可)"
+  },
+  {
+   "level": "TR5",
+   "points": "200",
+   "effect": "全　確率 60% / 攻撃 1200%上昇+防御 1200%上昇 / 同部隊内他武将の最大指揮兵数に3500を加算(模倣不可・部隊内重複不可)"
+  },
+  {
+   "level": "TR6",
+   "points": "パラレル",
+   "effect": "全　確率 63% / 攻撃 1250%上昇+防御 1250%上昇 / 同部隊内他武将の最大指揮兵数に3600を加算(模倣不可・部隊内重複不可)"
+  }
+ ],
+ "categoryLinks": [],
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "三段撃 激烈",
+   "rank": "S",
+   "afterSkill": "神算鬼謀 滅",
+   "afterRank": "A",
+   "target": "砲",
+   "rate": "45%",
+   "effectShort": "攻撃 30%上昇+破壊 10%上昇(TRなし)",
+   "afterTarget": "槍弓器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 24%上昇 / 破壊 46%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "覇天金剛",
+   "rank": "SS",
+   "afterSkill": "覇天金剛",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 1350%上昇+防御 1350%上昇+速度 100%上昇",
+   "afterEffectShort": "攻撃 1350%上昇+防御 1350%上昇+速度 100%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "勇冠三軍",
+   "rank": "SSS",
+   "afterSkill": "勇冠三軍",
+   "afterRank": "SSS",
+   "target": "全",
+   "rate": "45%",
+   "effectShort": "攻撃 50%+10.2%×防御参加武将数(280人)=2906.0%(模倣不可)",
+   "afterEffectShort": "攻撃 50%+10.2%×防御参加武将数(280人)=2906.0%(模倣不可)"
+  },
+  {
+   "slot": "S1",
+   "skill": "皇天覇虎",
+   "rank": "SSS",
+   "afterSkill": "皇天覇虎",
+   "afterRank": "SSS",
+   "target": "全",
+   "rate": "45%",
+   "effectShort": "攻撃 100%+12.5%×防御参加武将数(280人)=3600.0%",
+   "afterEffectShort": "攻撃 100%+12.5%×防御参加武将数(280人)=3600.0%"
+  },
+  {
+   "slot": "S2",
+   "skill": "四天轟雷",
+   "rank": "SS",
+   "afterSkill": "四天轟雷",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 360%上昇+防御 360%上昇(砲・器対象追加)",
+   "afterEffectShort": "攻撃 360%上昇+防御 360%上昇(砲・器対象追加)"
+  }
+ ],
+ "notes": [
+  "カード画像(2026-10-03撮影のLV10スクリーンショット)から 名前・ふりがな・コスト・統率4隅・攻撃/防御/兵法の初期値・指揮兵数・スキル名とLV10の効果・絵師 を読んだ(D-01: 統率はバッジを拡大して目視、宝石なし)。",
+  "ixagno.blog.fc2.com(blog-entry-11265)の生HTMLで 成長値・鍛錬TR1〜5の効果・合成テーブル(初期/移植後)・章(32章 2026年10月追加)を確認。同記事のカード画像の統率・初期値もスクリーンショットと一致。",
+  "TR6(パラレル)はパラレル版カードNo.40078 のスクリーンショット(2026-10-03撮影、スキル欄TR6表記)から読んだ。",
+  "ixanary.com(/cards/10078/ は404)・ixawiki.com(BushoCard/10078三郎信長 は未作成ページ)はどちらも2026-10-03時点で未掲載。標準2ソースが揃わないため青丸のまま(I-01・D-06)。",
+  "（N）: 同じレアリティの同名カードを既存データで数えた(D-12)。ixagnoの表記とも一致。"
+ ],
+ "reviewedOk": false,
+ "wikiOldestComment": null,
+ "wikiCommentCount": null
+}

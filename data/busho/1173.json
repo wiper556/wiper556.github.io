@@ -53,7 +53,7 @@
    "afterRank": "SS",
    "target": "槍・弓・馬・鉄",
    "rate": "40%",
-   "effectShort": null,
+   "effectShort": "攻撃 3%×防御参加武将数(280人)=840.0%(模倣不可)",
    "afterTarget": "全 覇道",
    "afterRate": "100%",
    "afterEffectShort": "攻撃 120%上昇+速度 90%上昇"

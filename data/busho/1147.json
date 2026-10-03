@@ -93,7 +93,7 @@
    "afterRank": "S",
    "target": "槍・弓・焙",
    "rate": "24%",
-   "effectShort": null
+   "effectShort": "攻撃 82%上昇(確率24%)+速度 45%上昇(確率100%)(4部隊以下の攻撃で攻撃効果2倍)"
   },
   {
    "slot": "S2",

@@ -69,7 +69,7 @@
    "afterRank": "SS",
    "target": "槍馬器",
    "rate": "42%",
-   "effectShort": null,
+   "effectShort": "防御 1.8%×防御参加武将数(280人)=504.0%(模倣不可)",
    "afterTarget": "砲器",
    "afterRate": "99.9%",
    "afterEffectShort": "防御 2%×防御参加武将数(280人)=560.0%"
@@ -82,7 +82,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "57%",
-   "effectShort": null,
+   "effectShort": "防御 2%×防御参加武将数(280人)=560.0%(模倣不可)",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇"

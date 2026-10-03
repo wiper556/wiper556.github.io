@@ -1,0 +1,103 @@
+{
+ "name": "飛鳥井雅綱",
+ "no": "3695",
+ "ch": "32章",
+ "cost": 3,
+ "troop": "弓器鉄騎攻防",
+ "sub": "",
+ "effect": "攻防上昇、自身の全スキルの卓越確率+15%",
+ "furigana": "あすかいまさつな",
+ "illustrator": "COGA",
+ "imageFull": "assets/img/characters/no3695_full.png",
+ "imageChar": "assets/img/characters/no3695_char.png",
+ "atkBase": 940,
+ "atkGrowth": 33,
+ "defBase": 940,
+ "defGrowth": 33,
+ "tacticsBase": 450,
+ "tacticsGrowth": 2.0,
+ "lv0Troops": 3130,
+ "rankGrades": {
+  "yari": "C",
+  "yumi": "A",
+  "uma": "B",
+  "ki": "B"
+ },
+ "initialSkill": "歌鞠両道",
+ "skillDetail": "C/LV10 確率 100% 攻撃 530%上昇+防御 530%上昇/対象:弓・器・鉄・騎\n模倣不可\n①攻撃が530%上昇する\n②防御が530%上昇する\n③このスキルを所持する武将の全スキルの卓越確率に15%を加算する",
+ "trTable": [
+  {
+   "level": "LV10",
+   "points": "-",
+   "effect": "弓・器・鉄・騎　確率 100% / 攻撃 530%上昇+防御 530%上昇(自身の全スキルの卓越確率+15%・模倣不可・TRなし)"
+  }
+ ],
+ "categoryLinks": [],
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "心腹ノ守将",
+   "rank": "C",
+   "afterSkill": "心腹ノ守将",
+   "afterRank": "C",
+   "target": "弓・砲・器",
+   "rate": "100%",
+   "effectShort": "攻撃 470%上昇+防御 470%上昇(このスキルを所持する武将の全スキルの卓越確率に15%を加算・模倣不可・TRなし)",
+   "afterEffectShort": "攻撃 470%上昇+防御 470%上昇(このスキルを所持する武将の全スキルの卓越確率に15%を加算・模倣不可・TRなし)"
+  },
+  {
+   "slot": "B",
+   "skill": "不屈ノ忠義",
+   "rank": "C",
+   "afterSkill": "不屈ノ忠義",
+   "afterRank": "C",
+   "target": "全",
+   "rate": "35%",
+   "effectShort": "攻撃 150%上昇+防御 150%上昇(部隊内の「不屈ノ忠義」スキル数×100%を攻防効果に加算・TRなし)",
+   "afterEffectShort": "攻撃 150%上昇+防御 150%上昇(部隊内の「不屈ノ忠義」スキル数×100%を攻防効果に加算・TRなし)"
+  },
+  {
+   "slot": "C",
+   "skill": "歌鞠両道",
+   "rank": "C",
+   "afterSkill": "歌鞠両道",
+   "afterRank": "C",
+   "target": "弓・器・鉄・騎",
+   "rate": "100%",
+   "effectShort": "攻撃 530%上昇+防御 530%上昇(自身の全スキルの卓越確率+15%・模倣不可・TRなし)",
+   "afterEffectShort": "攻撃 530%上昇+防御 530%上昇(自身の全スキルの卓越確率+15%・模倣不可・TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "歌鞠両道",
+   "rank": "C",
+   "afterSkill": "歌鞠両道",
+   "afterRank": "C",
+   "target": "弓・器・鉄・騎",
+   "rate": "100%",
+   "effectShort": "攻撃 530%上昇+防御 530%上昇(自身の全スキルの卓越確率+15%・模倣不可・TRなし)",
+   "afterEffectShort": "攻撃 530%上昇+防御 530%上昇(自身の全スキルの卓越確率+15%・模倣不可・TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "将吏両道",
+   "rank": "C",
+   "afterSkill": "将吏両道",
+   "afterRank": "C",
+   "target": "馬・砲・器 卓越",
+   "rate": "100%",
+   "effectShort": "攻撃 355%上昇+防御 355%上昇(全スキルの卓越確率+15%・模倣不可・TRなし)",
+   "afterEffectShort": "攻撃 355%上昇+防御 355%上昇(全スキルの卓越確率+15%・模倣不可・TRなし)"
+  }
+ ],
+ "notes": [
+  "カード画像(2026-10-03撮影のスクリーンショット)から 名前・ふりがな・コスト・統率4隅・攻撃/防御/兵法の初期値・指揮兵数・スキル名と効果・絵師 を読んだ(D-01: 統率はバッジを拡大して目視、宝石なし)。",
+  "ixagno.blog.fc2.com(blog-entry-11257)の生HTMLで 成長値・合成テーブル(初期/移植後)を確認。",
+  "章: ixagno(blog-entry-11254)の「2026年10月追加の新武将」(10月1日メンテ)に掲載されている32章の新カード。",
+  "ixanary.com(/cards/3695/ は404)・ixawiki.com はどちらも2026-10-03時点で未掲載。標準2ソースが揃わないため青丸のまま(I-01・D-06)。",
+  "鍛錬: 特・上・序は鍛錬の追加が無い(D-17)ので LV10 のみ・TRなし。"
+ ],
+ "reviewedOk": false,
+ "wikiOldestComment": null,
+ "wikiCommentCount": null
+}

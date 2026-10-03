@@ -105,7 +105,7 @@
    "afterRank": "SS",
    "target": "馬・砲",
    "rate": "100%",
-   "effectShort": null,
+   "effectShort": "攻撃 18%上昇+速度 42%上昇",
    "afterTarget": "全",
    "afterRate": "42%",
    "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動、TRなし)"

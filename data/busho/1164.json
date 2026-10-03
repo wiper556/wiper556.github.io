@@ -52,7 +52,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "34%",
-   "effectShort": null,
+   "effectShort": "防御 110%上昇(最大兵数指揮時1.5倍)",
    "afterTarget": "全",
    "afterRate": "55%",
    "afterEffectShort": null
@@ -75,7 +75,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "30%",
-   "effectShort": null
+   "effectShort": "防御 (部隊ランクボーナス×15) %上昇 / ★28 防御 135%上昇"
   },
   {
    "slot": "S1",
@@ -85,7 +85,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "55%",
-   "effectShort": null
+   "effectShort": "防御 (部隊ランクボーナス×18) %上昇 / ★28 防御 162%上昇"
   },
   {
    "slot": "S2",

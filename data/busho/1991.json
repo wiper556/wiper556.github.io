@@ -90,7 +90,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "32%",
-   "effectShort": null,
+   "effectShort": "攻撃 127%上昇(確率32%)+防御 127%上昇(確率32%)+速度 40%上昇(確率100%)",
    "afterTarget": "自身",
    "afterRate": "70%",
    "afterEffectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"

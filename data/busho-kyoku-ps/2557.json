@@ -81,7 +81,7 @@
    "afterRank": "S",
    "target": "全",
    "rate": "50%",
-   "effectShort": null
+   "effectShort": "防御 (7×自軍「姫」武将数)%上昇(効果上限1000%)"
   },
   {
    "slot": "S1",
@@ -91,7 +91,7 @@
    "afterRank": "S",
    "target": "全",
    "rate": "50%",
-   "effectShort": null
+   "effectShort": "防御 (7×自軍「姫」武将数)%上昇(効果上限1000%)"
   },
   {
    "slot": "S2",

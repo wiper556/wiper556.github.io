@@ -69,7 +69,7 @@
    "afterRank": "S",
    "target": "槍・弓・馬・砲",
    "rate": "42%",
-   "effectShort": null,
+   "effectShort": "攻撃 72%上昇(4部隊以下の攻撃で効果2倍)",
    "afterTarget": "全",
    "afterRate": "48%",
    "afterEffectShort": null
@@ -92,7 +92,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "48%",
-   "effectShort": null,
+   "effectShort": "攻撃 (部隊ランクボーナス)x10 %上昇",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": null
@@ -105,7 +105,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "48%",
-   "effectShort": null,
+   "effectShort": "攻撃 (部隊ランクボーナス)x10 %上昇",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": null

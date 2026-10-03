@@ -65,7 +65,7 @@
    "afterRank": "SS",
    "target": "弓・砲・器",
    "rate": "50%",
-   "effectShort": null,
+   "effectShort": "攻撃 66%上昇+攻撃時敵軍兵士被害 5%増加(自軍全体合計で上限100%)",
    "afterTarget": "槍砲器",
    "afterRate": "50%",
    "afterEffectShort": null
@@ -91,7 +91,7 @@
    "afterRank": "SS",
    "target": "槍砲器",
    "rate": "50%",
-   "effectShort": null
+   "effectShort": "攻撃 (2x防御参加武将) %上昇"
   },
   {
    "slot": "S2",

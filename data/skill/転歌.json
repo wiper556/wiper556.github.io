@@ -13,6 +13,22 @@
  "sourceCharacters": [
   {
    "name": "今川氏真",
+   "no": "10079",
+   "slot": "A",
+   "note": [
+    "今川氏真(10079)のsynthesisTable A枠(2026-10-03)"
+   ]
+  },
+  {
+   "name": "今川氏真",
+   "no": "40079",
+   "slot": "A",
+   "note": [
+    "今川氏真(40079)のsynthesisTable A枠(2026-10-03)"
+   ]
+  },
+  {
+   "name": "今川氏真",
    "no": "2358",
    "slot": "A・B",
    "db": "kyoku"

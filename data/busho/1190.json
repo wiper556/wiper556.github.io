@@ -56,7 +56,7 @@
    "afterRank": "SS",
    "target": "槍・弓・砲",
    "rate": "45%",
-   "effectShort": null,
+   "effectShort": "攻撃 120%上昇(部隊内の異なるスキル数×20%を加算)",
    "afterTarget": "全",
    "afterRate": "45%",
    "afterEffectShort": "攻撃 180%上昇(HP100以上時ランダム敵1部隊全武将に追加ダメージ5・模倣不可)"
@@ -69,7 +69,7 @@
    "afterRank": "SS",
    "target": "槍・弓・砲",
    "rate": "45%",
-   "effectShort": null,
+   "effectShort": "攻撃 120%上昇(部隊内の異なるスキル数×20%を加算)",
    "afterTarget": "全",
    "afterRate": "45%",
    "afterEffectShort": "攻撃 180%上昇(HP100以上時ランダム敵1部隊全武将に追加ダメージ5・模倣不可)"

@@ -54,7 +54,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "100%",
-   "effectShort": null,
+   "effectShort": "防御 120%上昇+破壊 150%上昇",
    "afterTarget": "全",
    "afterRate": "49%",
    "afterEffectShort": "防御 120%上昇+本丸防御陣形の第参列目以降配置時、防御効果が3倍"
@@ -67,7 +67,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "100%",
-   "effectShort": null,
+   "effectShort": "防御 120%上昇+破壊 150%上昇",
    "afterTarget": "全",
    "afterRate": "49%",
    "afterEffectShort": "防御 120%上昇+本丸防御陣形の第参列目以降配置時、防御効果が3倍"
@@ -80,7 +80,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "100%",
-   "effectShort": null,
+   "effectShort": "防御 120%上昇+破壊 150%上昇",
    "afterTarget": "全",
    "afterRate": "49%",
    "afterEffectShort": "防御 120%上昇+本丸防御陣形の第参列目以降配置時、防御効果が3倍"

@@ -55,7 +55,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "54%",
-   "effectShort": null,
+   "effectShort": "防御 90%上昇(部隊内の異なるスキル数×12%を加算)",
    "afterTarget": "全",
    "afterRate": "50%",
    "afterEffectShort": "攻撃 99.9%上昇 防御 99.9%上昇 部隊消費コストを0.5低下 (特殊効果は模倣不可)"
@@ -68,7 +68,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "54%",
-   "effectShort": null,
+   "effectShort": "防御 90%上昇(部隊内の異なるスキル数×12%を加算)",
    "afterTarget": "全",
    "afterRate": "50%",
    "afterEffectShort": "攻撃 99.9%上昇 防御 99.9%上昇 部隊消費コストを0.5低下 (特殊効果は模倣不可)"

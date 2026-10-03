@@ -1,0 +1,106 @@
+{
+ "name": "玄広恵探",
+ "no": "3693",
+ "ch": "32章",
+ "cost": 3.5,
+ "troop": "砲器攻",
+ "sub": "",
+ "effect": "砲/器の攻撃上昇(武将ランクで攻撃効果が変化)",
+ "furigana": "げんこうえたん",
+ "illustrator": "羽乃ハトリ",
+ "imageFull": "assets/img/characters/no3693_full.png",
+ "imageChar": "assets/img/characters/no3693_char.png",
+ "atkBase": 950,
+ "atkGrowth": 36,
+ "defBase": 860,
+ "defGrowth": 25,
+ "tacticsBase": 460,
+ "tacticsGrowth": 2.0,
+ "lv0Troops": 3450,
+ "rankGrades": {
+  "yari": "B",
+  "yumi": "C",
+  "uma": "B",
+  "ki": "A"
+ },
+ "initialSkill": "螳螂之斧",
+ "skillDetail": "C/LV10 確率 40% 攻撃 110%上昇/対象:砲・器\n①攻撃が110%上昇する(武将ランクで攻撃効果が変化)",
+ "trTable": [
+  {
+   "level": "LV10",
+   "points": "-",
+   "effect": "砲・器　確率 40% / 攻撃 110%上昇(武将ランクで攻撃効果が変化・TRなし)"
+  }
+ ],
+ "categoryLinks": [],
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "三日月ノ守人",
+   "rank": "C",
+   "afterSkill": "三日月ノ守人",
+   "afterRank": "C",
+   "target": "槍・砲・器",
+   "rate": "20%",
+   "effectShort": "攻撃 500%上昇(合流攻撃時は発動率3倍・TRなし)",
+   "afterEffectShort": "攻撃 500%上昇(合流攻撃時は発動率3倍・TRなし)"
+  },
+  {
+   "slot": "B",
+   "skill": "機知流転",
+   "rank": "C",
+   "afterSkill": "機知流転",
+   "afterRank": "C",
+   "target": null,
+   "rate": null,
+   "effectShort": null,
+   "afterEffectShort": null
+  },
+  {
+   "slot": "C",
+   "skill": "螳螂之斧",
+   "rank": "C",
+   "afterSkill": "螳螂之斧",
+   "afterRank": "C",
+   "target": "砲・器",
+   "rate": "40%",
+   "effectShort": "攻撃 110%上昇(武将ランクで攻撃効果が変化・TRなし)",
+   "afterEffectShort": "攻撃 110%上昇(武将ランクで攻撃効果が変化・TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "螳螂之斧",
+   "rank": "C",
+   "afterSkill": "螳螂之斧",
+   "afterRank": "C",
+   "target": "砲・器",
+   "rate": "40%",
+   "effectShort": "攻撃 110%上昇(武将ランクで攻撃効果が変化・TRなし)",
+   "afterEffectShort": "攻撃 110%上昇(武将ランクで攻撃効果が変化・TRなし)"
+  },
+  {
+   "slot": "S2",
+   "skill": "野太刀",
+   "rank": "C",
+   "afterSkill": "戦陣 凱旋",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "17%",
+   "effectShort": "攻撃 77%上昇 / 防御 77%上昇",
+   "afterTarget": "全",
+   "afterRate": "10%",
+   "afterEffectShort": "攻撃 87%上昇+防御 87%上昇(TRなし)"
+  }
+ ],
+ "notes": [
+  "カード画像(2026-10-03撮影のスクリーンショット)から 名前・ふりがな・コスト・統率4隅・攻撃/防御/兵法の初期値・指揮兵数・スキル名と効果・絵師 を読んだ(D-01: 統率はバッジを拡大して目視、宝石なし)。",
+  "ixagno.blog.fc2.com(blog-entry-11259)の生HTMLで 成長値・合成テーブル(初期/移植後)を確認。",
+  "章: ixagno(blog-entry-11254)の「2026年10月追加の新武将」(10月1日メンテ)に掲載されている32章の新カード。",
+  "絵師名はカード画像の小さい文字から読んだ(要確認)。",
+  "ixanary.com(/cards/3693/ は404)・ixawiki.com はどちらも2026-10-03時点で未掲載。標準2ソースが揃わないため青丸のまま(I-01・D-06)。",
+  "鍛錬: 特・上・序は鍛錬の追加が無い(D-17)ので LV10 のみ・TRなし。"
+ ],
+ "reviewedOk": false,
+ "wikiOldestComment": null,
+ "wikiCommentCount": null
+}

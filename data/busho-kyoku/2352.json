@@ -90,7 +90,7 @@
    "afterRank": "SS",
    "target": "槍・弓・器・鉄",
    "rate": "50%",
-   "effectShort": null,
+   "effectShort": "防御 110%上昇(自拠点防御時は防御効果3倍)",
    "afterTarget": "全",
    "afterRate": "60%",
    "afterEffectShort": "防御 (部隊総コスト依存)%上昇(総C25=423.75%)"

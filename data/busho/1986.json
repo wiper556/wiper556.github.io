@@ -67,7 +67,7 @@
    "afterRank": "SS",
    "target": "槍馬砲器",
    "rate": "35%",
-   "effectShort": null,
+   "effectShort": "攻撃 67%上昇(4部隊以下の攻撃で効果2倍)",
    "afterTarget": "槍・弓・馬",
    "afterRate": "70%",
    "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化)"
@@ -80,7 +80,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "54%",
-   "effectShort": null,
+   "effectShort": "攻撃 79%上昇(4部隊以下の攻撃で効果2倍)",
    "afterTarget": "全",
    "afterRate": "37%",
    "afterEffectShort": "攻撃 2.5%×防御参加武将数(280人)=700.0%"

@@ -80,7 +80,7 @@
    "afterRank": "S",
    "target": "砲・器",
    "rate": "32%",
-   "effectShort": null
+   "effectShort": "攻撃 64%上昇(合流攻撃時1.5倍)+破壊 30%上昇"
   },
   {
    "slot": "S1",

@@ -95,7 +95,7 @@
    "afterRank": "SS",
    "target": "馬砲器攻防速",
    "rate": "18%",
-   "effectShort": null,
+   "effectShort": "攻撃 60%上昇(確率18%)+防御 60%上昇(確率18%)+速度 24%上昇(確率100%)",
    "afterTarget": "自身",
    "afterRate": "70%",
    "afterEffectShort": "自身が持つ初期スキルを模倣する(戦闘スキルのみ)"

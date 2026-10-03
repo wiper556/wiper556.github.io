@@ -68,7 +68,7 @@
    "afterRank": "SS",
    "target": "全",
    "rate": "10%",
-   "effectShort": null,
+   "effectShort": "攻撃 25%上昇(部隊長なら発動率と効果4倍)",
    "afterTarget": "槍砲器",
    "afterRate": "50%",
    "afterEffectShort": null
@@ -94,7 +94,7 @@
    "afterRank": "SS",
    "target": "槍砲器",
    "rate": "50%",
-   "effectShort": null
+   "effectShort": "攻撃 (2x防御参加武将) %上昇"
   },
   {
    "slot": "S2",

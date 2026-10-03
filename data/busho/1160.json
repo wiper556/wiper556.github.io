@@ -56,7 +56,7 @@
    "afterRank": "SS",
    "target": "槍・弓・器・鉄",
    "rate": "34%",
-   "effectShort": null,
+   "effectShort": "攻撃 84%上昇(卓越:追加確率30%で2.5倍)",
    "afterTarget": "全",
    "afterRate": "45%",
    "afterEffectShort": "攻撃 110%上昇 (6部隊以下の攻撃で効果2倍)"
