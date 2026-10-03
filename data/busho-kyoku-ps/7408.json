@@ -1,0 +1,144 @@
+{
+ "name": "蘆名盛隆",
+ "no": "7408",
+ "ch": "32章",
+ "cost": 5,
+ "troop": "全防",
+ "sub": "兵站",
+ "effect": "加勢出陣時、目的地への到着時間が180秒を超えるとき180秒で到着",
+ "furigana": "あしなもりたか",
+ "illustrator": "正子公也",
+ "imageFull": "assets/img/characters/no7408_full.png",
+ "imageChar": "assets/img/characters/no7408_char.png",
+ "atkBase": 1080,
+ "atkGrowth": 53,
+ "defBase": 1230,
+ "defGrowth": 65,
+ "tacticsBase": 540,
+ "tacticsGrowth": 2.5,
+ "lv0Troops": 4820,
+ "rankGrades": {
+  "yari": "A",
+  "yumi": "A",
+  "uma": "S",
+  "ki": "A"
+ },
+ "initialSkill": "毒鎖天命",
+ "skillDetail": "S/LV10 確率 100% 防御 1200%上昇/対象:全 兵站\n①防御が1200%上昇する\n②所属部隊による加勢出陣時目的地への到着時間が180秒を超えるとき180秒で到着できる",
+ "trTable": [
+  {
+   "level": "LV10",
+   "points": "-",
+   "effect": "全 兵站　確率 100% / 防御 1200%上昇 / 所属部隊による加勢出陣時、目的地への到着時間が180秒を超えるとき180秒で到着できる"
+  },
+  {
+   "level": "TR1",
+   "points": "10",
+   "effect": null
+  },
+  {
+   "level": "TR2",
+   "points": "40",
+   "effect": null
+  },
+  {
+   "level": "TR3",
+   "points": "90",
+   "effect": null
+  },
+  {
+   "level": "TR4",
+   "points": "150",
+   "effect": null
+  },
+  {
+   "level": "TR5",
+   "points": "200",
+   "effect": "全 兵站　確率 100% / 防御 1800%上昇 / 所属部隊による加勢出陣時、目的地への到着時間が30秒を超えるとき30秒で到着できる"
+  },
+  {
+   "level": "TR6",
+   "points": "パラレル",
+   "effect": null
+  }
+ ],
+ "categoryLinks": [
+  {
+   "href": "skills-heitan.html",
+   "label": "兵站スキル一覧を見る"
+  }
+ ],
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "黒獅子の謀",
+   "rank": "A",
+   "afterSkill": "廟算合従陣",
+   "afterRank": "S",
+   "target": "馬・砲",
+   "rate": "50%",
+   "effectShort": "防御 1%上昇(所属拠点の残耐久で効果変化・TRなし)",
+   "afterTarget": "弓馬砲",
+   "afterRate": "32%",
+   "afterEffectShort": "防御 42%上昇(TRなし)"
+  },
+  {
+   "slot": "B",
+   "skill": "千里必勝ノ神算",
+   "rank": "SS",
+   "afterSkill": "千里必勝ノ神算",
+   "afterRank": "SS",
+   "target": "全 覇道",
+   "rate": "42%",
+   "effectShort": "攻撃 1010%上昇+防御 1010%上昇+破壊 150%上昇",
+   "afterEffectShort": "攻撃 1010%上昇+防御 1010%上昇+破壊 150%上昇"
+  },
+  {
+   "slot": "C",
+   "skill": "黄泉醜女ノ屍兵",
+   "rank": "SS",
+   "afterSkill": "天地黎明",
+   "afterRank": "SSS",
+   "target": "全",
+   "rate": "54%",
+   "effectShort": "防御 200%上昇(70以下の被ダメージ上限45)",
+   "afterTarget": "全",
+   "afterRate": "70%",
+   "afterEffectShort": "防御 270%上昇(HP99以下で3倍・TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "権謀術数射陣",
+   "rank": "SSS",
+   "afterSkill": "龍驤虎躍",
+   "afterRank": "SS",
+   "target": "弓器焙",
+   "rate": "40%",
+   "effectShort": "防御 520%上昇 飛翔9",
+   "afterTarget": "全",
+   "afterRate": "60%",
+   "afterEffectShort": "攻撃 810%上昇+防御 810%上昇(コスト-1・特殊効果は模倣不可)"
+  },
+  {
+   "slot": "S2",
+   "skill": "永世ノ天隻",
+   "rank": "SS",
+   "afterSkill": "永世ノ天隻",
+   "afterRank": "SS",
+   "target": "全 飛翔9",
+   "rate": "48%",
+   "effectShort": "防御 6.5%×防御参加武将数(280人)=1820.0%(敵軍飛翔持ち9人未満の時通常武将ダメージを受けない)",
+   "afterEffectShort": "防御 6.5%×防御参加武将数(280人)=1820.0%(敵軍飛翔持ち9人未満の時通常武将ダメージを受けない)"
+  }
+ ],
+ "notes": [
+  "カード画像(2026-10-03撮影のLV10スクリーンショット)から 名前・ふりがな・コスト・統率4隅・攻撃/防御/兵法の初期値・指揮兵数・スキル名とLV10の効果・絵師 を読んだ(D-01: 統率はバッジを拡大して目視、宝石なし)。",
+  "ixagno.blog.fc2.com(blog-entry-11263)の生HTMLで 成長値・鍛錬TR1〜5の効果・合成テーブル(初期/移植後)・章(32章 2026年10月追加)を確認。同記事のカード画像の統率・初期値もスクリーンショットと一致。",
+  "TR1〜TR4はixagno記事でも空欄で、他に載っている情報源が無いため効果を空にした(表示は「未確認」)。TR6はパラレル版が無い極のため空。",
+  "ixanary.com(/cards/7408/ は404)・ixawiki.com(BushoCard/7408蘆名盛隆 は未作成ページ)はどちらも2026-10-03時点で未掲載。標準2ソースが揃わないため青丸のまま(I-01・D-06)。",
+  "（N）: 同じレアリティの同名カードを既存データで数えた(D-12)。ixagnoの表記とも一致。"
+ ],
+ "reviewedOk": false,
+ "wikiOldestComment": null,
+ "wikiCommentCount": null
+}
