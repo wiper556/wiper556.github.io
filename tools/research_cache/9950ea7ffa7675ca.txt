@@ -1,0 +1,755 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+ <meta http-equiv="content-type" content="application/xhtml+xml; charset=EUC-JP" />
+ <meta name="robots" content="index,follow" />
+<meta description="戦国IXA（戦国イクサ） Wiki ブラウザゲーム">
+<meta keywords="戦国IXA,戦国,IXA,sengokuixa,SQUARE,スクウェア,YAHOO,攻略,wiki,裏技,裏ワザ">
+<title>スキル追加合成 - 戦国IXA Wiki</title>
+ <link rel="stylesheet" type="text/css" media="screen" href="./css/ixa/pukiwiki.css?20111211">
+ <link rel="stylesheet" type="text/css" media="screen" href="./css/common/common.css?20111210">
+ <link rel="shortcut icon" href="./image/ixa/favicon.ico" type="image/x-icon">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+<script type="text/javascript" src="./js/common/utils.js"></script>
+<script type="text/javascript" src="./js/common/jquery.contextMenu.js"></script>
+
+<script type="text/javascript"><!--
+scrolltotop.init(540);
+//--></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17978830-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<div id="header">
+ <a href="index.php"><img id="logo" src="./image/ixa/toplogo.png" alt="戦国IXA" title="戦国IXA" /></a>
+ <h1 class="title"><a href="https://ixawiki.com/index.php?plugin=related&amp;page=%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE">スキル追加合成</a> </h1>
+</div>
+<div id="navigator"><a href="https://ixawiki.com/index.php?FrontPage">ホーム</a><span class="space"></span><a href="https://ixawiki.com/index.php?plugin=newpage&amp;refer=%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE">新規</a><a href="https://ixawiki.com/index.php?cmd=edit&amp;page=%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE">編集</a><a href="https://ixawiki.com/index.php?plugin=attach&amp;pcmd=upload&amp;page=%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE">添付</a><span class="space"></span><a href="https://ixawiki.com/index.php?cmd=list">一覧</a><a href="https://ixawiki.com/index.php?cmd=search">単語検索</a><a href="https://ixawiki.com/index.php?RecentChanges">最終更新</a><a href="https://ixawiki.com/index.php?cmd=diff&amp;page=%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE">差分</a><a href="https://ixawiki.com/index.php?cmd=backup&amp;page=%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE">バックアップ</a><span class="space"></span><a href="https://ixawiki.com/index.php?cmd=help">ヘルプ</a><span class="navi_acc"></span></div>
+<div id="contents">
+<table class="contents" width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+  <td class="ltable" valign="top"><div id="menubar">
+  <form action="http://www.ixawiki.com/index.php" method="get" id="searchform">
+<div><input type="hidden" name="encode_hint" value="ぷ" /></div>
+ <div class="search">
+  <input type="hidden" name="cmd" value="search" />
+  <input type="text" placeholder="Search" name="word" value="" size="20" class="searchinput"/>
+  <input type="submit" value="検索" class="btn success searchbutton"/>
+  <input type="radio" name="type" id="_p_search_AND" value="AND"  checked="checked" />
+  <label for="_p_search_AND">AND検索</label>
+  <input type="radio" name="type" id="_p_search_OR" value="OR"   />
+  <label for="_p_search_OR">OR検索</label>
+ </div>
+</form>
+<h4 id="content_1_0">ゲーム概要</h4>
+<p><a href="http://www.ixawiki.com/index.php?Guide%2F%A5%B2%A1%BC%A5%E0%BE%D2%B2%F0" title="Guide/ゲーム紹介">ゲーム紹介</a><br />
+<a href="http://www.ixawiki.com/index.php?Guide%2F%BB%CF%A4%E1%A4%EB%C1%B0%A4%CE%C3%ED%B0%D5%C5%C0" title="Guide/始める前の注意点"><span class="b">始める前の注意点</span></a><br />
+<a href="http://www.ixawiki.com/index.php?Guide%2F%B9%F1" title="Guide/国">国</a>　<a href="http://www.ixawiki.com/index.php?Guide%2F%C6%B1%CC%C1" title="Guide/同盟">同盟</a>　<a href="http://www.ixawiki.com/index.php?Guide%2F%BE%EB%BC%E7" title="Guide/城主">城主</a>　<a href="http://www.ixawiki.com/index.php?%CD%D1%B8%EC%BD%B8" title="用語集">用語</a><br />
+<a href="http://www.ixawiki.com/index.php?%C0%EF%B9%F1%A4%AF%A4%B8" title="戦国くじ">戦国くじ</a>　<a href="http://www.ixawiki.com/index.php?FAQ" title="FAQ">FAQ</a><br /></p>
+
+<h4 id="content_1_1">武将カード</h4>
+<p><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7" title="Busho/武将カード概要">武将概要</a>　<a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7%2F%BF%B7%A5%AB%A1%BC%A5%C9" title="Busho/武将カード一覧/新カード">最新カード</a><br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c" style="width:40px;" colspan="4"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7" title="Busho/武将カード一覧">武将カード一覧（全）</a></td></tr>
+</thead>
+<tbody><tr><td class="c" rowspan="3">レ<br class="spacer" />ア<br class="spacer" />別</td><td class="c" style="width:40px;"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7%28%C5%B7%29" title="Busho/武将カード一覧(天)"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7&amp;src=%C5%B7.png" alt="天.png" title="天.png" width="30" height="30" /></a></td><td class="c" style="width:40px;"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7%28%B6%CB%29" title="Busho/武将カード一覧(極)"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7&amp;src=%B6%CB.png" alt="極.png" title="極.png" width="30" height="30" /></a></td><td class="c" style="width:40px;"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7%28%C6%C3%29" title="Busho/武将カード一覧(特)"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7&amp;src=%C6%C3.png" alt="特.png" title="特.png" width="30" height="30" /></a></td></tr>
+<tr><td class="c" style="width:40px;"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7%28%BE%E5%29" title="Busho/武将カード一覧(上)"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7&amp;src=%BE%E5.png" alt="上.png" title="上.png" width="30" height="30" /></a></td><td class="c" style="width:40px;"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7%28%BD%F8%29" title="Busho/武将カード一覧(序)"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7&amp;src=%BD%F8.png" alt="序.png" title="序.png" width="30" height="30" /></a></td><td class="c" style="width:40px;"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7%28%B7%E6%29" title="Busho/武将カード一覧(傑)"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7&amp;src=%B7%E6.png" alt="傑.png" title="傑.png" width="30" height="30" /></a></td></tr>
+<tr><td class="c" style="width:40px;"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7%28%C2%BE%29" title="Busho/武将カード一覧(他)"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7&amp;src=%C2%BEL.png" alt="他L.png" title="他L.png" width="30" height="30" /></a></td><td class="c" style="width:40px;"></td><td class="c" style="width:40px;"></td></tr>
+</tbody>
+</table></div>
+<p><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B2%E8%C1%FC" title="Busho/武将カード画像">画像</a>
+<a href="http://www.ixawiki.com/index.php?Busho%2F%A5%AB%A1%BC%A5%C9%BC%E8%B0%FA" title="Busho/カード取引">カード取引</a>
+<a href="http://www.ixawiki.com/index.php?Busho%2F%A5%A4%A5%E9%A5%B9%A5%C8%CA%CC" title="Busho/イラスト別">イラスト別</a></p>
+
+<h4 id="content_1_2">武将スキル</h4>
+<p><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%B9%A5%AD%A5%EB" title="Busho/武将スキル">武将スキル</a><br />
+<a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F4%C2%E2%A5%B9%A5%AD%A5%EB" title="Busho/部隊スキル">部隊スキル</a><br />
+<a href="http://www.ixawiki.com/index.php?%C9%F0%BE%AD%C4%C9%B2%C3%A5%B9%A5%AD%A5%EB%B0%EC%CD%F7" title="武将追加スキル一覧">武将追加スキル一覧</a><br /></p>
+
+<h4 id="content_1_3">武将カード育成</h4>
+<p><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%E9%C0%AE" title="Busho/武将カード育成">育成概要</a>　<a href="http://www.ixawiki.com/index.php?Busho%2F%C9%AC%CD%D7%B7%D0%B8%B3%C3%CD" title="Busho/必要経験値">必要経験値</a><br />
+<a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B9%E7%C0%AE" title="Busho/武将カード合成">合成概要</a>　<a href="http://www.ixawiki.com/index.php?%A5%B9%A5%AD%A5%EB%C6%BB%BE%EC" title="スキル道場">スキル道場</a><br /></p>
+
+<h4 id="content_1_4">所領・開拓</h4>
+<p><a href="http://www.ixawiki.com/index.php?Other%2FNPC%B6%F5%A4%AD%C3%CF" title="Other/NPC空き地">NPC空き地</a>　<a href="http://www.ixawiki.com/index.php?Other%2F%BD%EA%CE%CE" title="Other/所領">所領</a></p>
+
+<h4 id="content_1_5">内政</h4>
+<p><a href="http://www.ixawiki.com/index.php?Domestic%2F%B7%FA%C3%DB%A5%C4%A5%EA%A1%BC" title="Domestic/建築ツリー">建築ツリー</a>　<a href="http://www.ixawiki.com/index.php?Domestic%2F%BB%DC%C0%DF" title="Domestic/施設">施設</a><br />
+<a href="http://www.ixawiki.com/index.php?Busho%2F%CA%BC%BB%CE%B0%EC%CD%F7" title="Busho/兵士一覧">研究/兵士一覧</a>　<a href="http://www.ixawiki.com/index.php?%C8%EB%B6%AD%C3%B5%BA%F7" title="秘境探索">秘境探索</a><br />
+<a href="http://www.ixawiki.com/index.php?%B2%CC%BF%B4%B0%DB%B6%AD" title="果心異境">果心異境</a></p>
+
+<h4 id="content_1_6">合戦</h4>
+<p><a href="http://www.ixawiki.com/index.php?%B9%E7%C0%EF%B3%B5%CD%D7" title="合戦概要">合戦概要</a>　<a href="http://www.ixawiki.com/index.php?%B9%E7%C0%EF%A5%AC%A5%A4%A5%C9" title="合戦ガイド">合戦ガイド</a><br />
+<a href="http://www.ixawiki.com/index.php?%C0%EF%B8%F9%A4%C8%B9%E7%C0%EF%CA%F3%BD%B7" title="戦功と合戦報酬">戦功と合戦報酬</a>　<a href="http://www.ixawiki.com/index.php?%CC%BE%C0%BC%A4%C8%BB%DC%A4%B7" title="名声と施し">名声と施し</a><br /></p>
+
+<h4 id="content_1_7">クエスト/刷新</h4>
+<p><a href="http://www.ixawiki.com/index.php?%A5%AF%A5%A8%A5%B9%A5%C8" title="クエスト">クエスト</a>　<a href="http://www.ixawiki.com/index.php?%A5%EF%A1%BC%A5%EB%A5%C9%BA%FE%BF%B7" title="ワールド刷新">ワールド刷新</a>
+<br /></p>
+
+<h4 id="content_1_8">イベント</h4>
+<p><a href="http://www.ixawiki.com/index.php?%A5%A4%A5%D9%A5%F3%A5%C8%2F%B8%B8%A4%CE%C9%F0%BE%AD%C2%E7%B6%C2%B1%E3" title="イベント/幻の武将大饗宴">幻の武将大饗宴</a><br />
+<a href="http://www.ixawiki.com/index.php?%A4%EF%A4%F3%A4%C0%A4%D5%A4%EB%C7%D5%28%B2%BE%29" title="わんだふる杯(仮)">わんだふる杯(仮)</a><br />
+<br /></p>
+
+<h4 id="content_1_9">その他</h4>
+<p><a href="http://www.ixawiki.com/index.php?%A5%B3%A5%E1%A5%F3%A5%C8" title="コメント">コメント</a><br />
+<a href="http://www.ixawiki.com/index.php?BushoCard%2F%A5%C6%A5%F3%A5%D7%A5%EC" title="BushoCard/テンプレ">テンプレ(武将カード)</a><br /></p>
+<div style="text-align:right">total:600857<br class="spacer" />
+today:5<br class="spacer" />
+yesterday:7<br class="spacer" />
+<span style="font-size:12px;display:inline-block;line-height:130%;text-indent:0px">online:73</span><br class="spacer" />
+<br /></div>
+<h5>最新の10件</h5>
+<div class="recent"><strong>2026-10-04</strong>
+<ul class="recent_list">
+ <li><a href="https://ixawiki.com/index.php?levelup%20casino" title="levelup casino">levelup casino</a></li>
+ <li><a href="https://ixawiki.com/index.php?level%20up%20casino%20app" title="level up casino app">level up casino app</a></li>
+ <li><a href="https://ixawiki.com/index.php?RecentDeleted" title="RecentDeleted">RecentDeleted</a></li>
+ <li><a href="https://ixawiki.com/index.php?Busho%2F%CA%BC%BB%CE%B0%EC%CD%F7" title="Busho/兵士一覧">Busho/兵士一覧</a></li>
+</ul>
+<strong>2026-10-03</strong>
+<ul class="recent_list">
+ <li><a href="https://ixawiki.com/index.php?%C9%F0%BE%AD%C4%C9%B2%C3%A5%B9%A5%AD%A5%EB%B0%EC%CD%F7" title="武将追加スキル一覧">武将追加スキル一覧</a></li>
+</ul>
+<strong>2026-10-02</strong>
+<ul class="recent_list">
+ <li><a href="https://ixawiki.com/index.php?BushoCard%2F2035%CC%D3%CD%F8%B5%B1%B8%B5" title="BushoCard/2035毛利輝元">BushoCard/2035毛利輝元</a></li>
+</ul>
+<strong>2026-09-30</strong>
+<ul class="recent_list">
+ <li><a href="https://ixawiki.com/index.php?%A5%B3%A5%E1%A5%F3%A5%C8%2FBusho%2F%A5%A4%A5%E9%A5%B9%A5%C8%CA%CC" title="コメント/Busho/イラスト別">コメント/Busho/イラスト別</a></li>
+ <li><a href="https://ixawiki.com/index.php?%A5%B3%A5%E1%A5%F3%A5%C8%2FBusho%2F%CA%BC%BB%CE%B0%EC%CD%F7" title="コメント/Busho/兵士一覧">コメント/Busho/兵士一覧</a></li>
+ <li><a href="https://ixawiki.com/index.php?%A5%B3%A5%E1%A5%F3%A5%C8%2F%CD%D1%B8%EC%BD%B8" title="コメント/用語集">コメント/用語集</a></li>
+ <li><a href="https://ixawiki.com/index.php?%A5%B3%A5%E1%A5%F3%A5%C8%2FBusho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%E9%C0%AE" title="コメント/Busho/武将カード育成">コメント/Busho/武将カード育成</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+<p><br />
+<a href="http://www.ixawiki.com/index.php?RecentChanges" title="RecentChanges">最終更新</a></p>
+
+</div></td>
+  <td class="ctable" valign="top">
+   <div id ="topicpath"><a href="https://ixawiki.com/index.php?FrontPage" title="FrontPage">Top</a> &gt; スキル追加合成</div>   <div id="body"><table class="toc" cellspacing="0" border="0" cellpadding="0"><tr><td>
+<a id="contents_1"></a>
+<div><h2 class="toctitle">目次</h2></div>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="#cd814358"> スキル追加合成の基礎知識 </a>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="#i17984f6"> 基本パターン </a></li>
+<li><a href="#y3314f33"> スロット2の追加スキルによる変化 </a></li>
+<li><a href="#ke316333"> 候補S1の出現条件 </a>
+<ul class="list3" style="padding-left:16px;margin-left:16px"><li><a href="#nc8a8189"> パターン1 </a></li>
+<li><a href="#h5134fa1"> パターン2 </a></li></ul></li>
+<li><a href="#p491742e"> 候補S2の出現条件 </a></li>
+<li><a href="#c6f6e2f1"> 補足 </a></li>
+<li><a href="#g8b91d08"> よくある複雑な合成例 </a></li>
+<li><a href="#j5afe786"> 合成例画像 </a></li>
+<li><a href="#d506bfa8"> 覚えておくと役に立つかもしれない追加スキル有用例 </a></li></ul></li>
+<li><a href="#e995df28"> ザックリスキル追加説明 </a></li>
+<li><a href="#y39bfa12"> コメント </a></li></ul>
+</td></tr></table>
+
+<p><br /></p>
+<h2 id="content_1_0">スキル追加合成の基礎知識  <a class="anchor_super" id="cd814358" href="https://ixawiki.com/index.php?%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE#cd814358" title="cd814358">&dagger;</a> <a class="anchor_super" href="https://ixawiki.com/index.php?cmd=edit&amp;page=%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE&amp;id=cd814358"><img src="./image/common/plus/paraedit.png" width="9" height="9" alt="Edit" title="Edit" /></a></h2>
+<p>各合成の概要については<a href="https://ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B9%E7%C0%AE" title="Busho/武将カード合成">武将カード合成</a>を参照してください。<br />
+ここでは、スキル追加合成について説明します。<br />
+<br />
+スキル追加合成は、スロット1のカードにスロット2のカードからスキルを追加する合成です。<br />
+ただし、<span style="color:red">スロット2のカードが持つスキルを直接移すことはできず</span>、スロット2のカードが持つスキルの合成テーブルを基に合成が行われます。<br />
+各スキルの合成テーブルは<a href="https://ixawiki.com/index.php?%C9%F0%BE%AD%C4%C9%B2%C3%A5%B9%A5%AD%A5%EB%B0%EC%CD%F7" title="武将追加スキル一覧">追加合成</a>を参照してください。<br />
+<br />
+■合成テーブルの使われ方<br />
+合成テーブルを使用するのはスロット2にセットしたカードのスキルだけです。スロット1にセットしたカードのスキルは合成テーブルを使用しません。<br />
+<br />
+スロット2のカードが持つ初期スキル(スキル1)の合成テーブルが候補のベースとして使用されます。<br />
+スロット2のカードが追加スキル(スキル2、3)を持つ場合、追加スキル(スキル2、3)の合成テーブルはS1だけが使用されます。<br />
+また、候補はスロット1、スロット2のカードが持つスキルによって変化が生じることがあります。<br />
+<br />
+上記を合成のイメージで表にすると<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l">スロット</td><td class="c">1</td><td class="c">2</td><td class="c" rowspan="2">合成テーブルを使うのはスロット2のカードだけ</td></tr>
+<tr><td class="l">武将</td><td class="c">カード1</td><td class="c">カード2</td></tr>
+</thead>
+<tbody><tr><td class="l">所持スキル1</td><td class="c"></td><td class="c">スキル1</td><td class="c">スキル1の合成テーブルが候補のベースになる</td></tr>
+<tr><td class="l">所持スキル2</td><td class="c"></td><td class="c">スキル2</td><td class="c" rowspan="2">追加スキル(スキル2や3)を持つ場合、<br class="spacer" />その合成テーブルからはS1だけが使用される</td></tr>
+<tr><td class="l">所持スキル3</td><td class="c"></td><td class="c">スキル3</td></tr>
+</tbody>
+</table></div>
+<p><br /></p>
+<p>■合成テーブルのA,B,C,S1,S2の説明<br />
+槍隊襲撃の<a href="https://ixawiki.com/index.php?%C9%F0%BE%AD%C4%C9%B2%C3%A5%B9%A5%AD%A5%EB%B0%EC%CD%F7" title="武将追加スキル一覧">合成テーブル</a>は以下の通りですが<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c">A</td><td class="c">B</td><td class="c">C</td><td class="c">S1</td><td class="c">S2</td></tr>
+</thead>
+<tbody><tr><td class="c">槍隊襲撃</td><td class="c">槍隊進撃</td><td class="c">騎馬隊襲撃</td><td class="c">槍隊堅守</td><td class="c">兵器突撃</td></tr>
+<tr><td class="c" colspan="3">通常</td><td class="c" colspan="2">隠し</td></tr>
+</tbody>
+</table></div>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li>通常は、スキル1の合成テーブルからA,B,Cのスキルが候補として出現します(法則1)</li>
+<li>S1は隠し候補で、「スキル1の合成テーブルからS1が出現する法則」と「スキル2、3の合成テーブルからS1が出現する法則」があります 。
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>(スキル2、3の合成テーブルからS1が出現する場合)
+<ul class="list3" style="padding-left:16px;margin-left:16px"><li>スロット2が追加スキルを持つ場合には、追加スキル数に応じてスキル1の合成テーブルからA,Bが消え、追加スキルの合成テーブルからS1(2S1,3S1)が候補に出現します(法則2)<br /></li></ul></li>
+<li>(スキル1の合成テーブルからS1が出現する場合)
+<ul class="list3" style="padding-left:16px;margin-left:16px"><li>A,B,C,(2S1,3S1)が、スロット1が持つスキルと重複する場合に出現します(法則3-i)</li>
+<li>B,C,(2S1,3S1)が、スロット2が追加スキルを持つ場合に追加される候補(2S1,3S1)と重複する場合に出現します(法則3-ii)</li></ul></li></ul></li>
+<li>S2は隠し候補で、同No.カード合成でのみ出現します(法則4)</li></ul>
+<p><br />
+Q.2S1,3S1って？<br />
+A.ここでは、スロット2のスキル2のS1=2S1、スキル3のS1=3S1、と表現しています。<br />
+<br />
+■合成の法則<br /></p>
+<ol class="list1" style="padding-left:16px;margin-left:16px"><li><a href="#i17984f6">スキル追加合成をされていない異なるカード同士を合成した場合、カード2の持つスキルに対応した追加スキル候補A,B,Cが出現する</a></li>
+<li><a href="#y3314f33">スロット2のカードが付加スキルを持つ場合、付加スキルの数に応じてA,Bが消え、付加スキルのS1が出現する</a><br /></li>
+<li><a href="#ke316333">スロット1の所持しているスキル、または、スロット2カードに付与したスキルのS1が追加スキル候補と重複すると該当候補が消え、S1が出現する</a><br /></li>
+<li><a href="#p491742e">S2は同じNo.カード同士を合成した場合のみ出現する</a></li></ol>
+<p><br /></p>
+<pre>＜追加スキル出現パターン＞
+1.スロット1の所持スキルがA,B,C以外の場合
+- A,B,Cが出現
+2.スロット2が付加スキルXを持つ場合：XのS1＝2S1 / (X,Yを持つ場合:XのS1=2S1,YのS1=3S1)
+- B,C,2S1が出現 / (C,2S1,3S1が出現)
+3-i.スロット1が所持スキルにAを含む場合
+- B,C,S1が出現
+3-ii.スロット2に追加されたスキルのS1(2S1)がB or Cと同じ場合(2S1は2参照)
+- B,C,S1が出現
+4.スロット1がスロット2と同じ(No.)武将の場合 / (基本スキル≠Aの場合)
+- B,C,S1,S2が出現 / (A,B,C,S2が出現)</pre>
+<p><br />
+ヒント<br />
+読むだけでは分かり辛いので、実際にカードをセットして確認画面まで表示し(合成は行わない)、<br />
+このページの該当する法則や<a href="https://ixawiki.com/index.php?%C9%F0%BE%AD%C4%C9%B2%C3%A5%B9%A5%AD%A5%EB%B0%EC%CD%F7" title="武将追加スキル一覧">追加合成</a>と見比べると理解しやすいと思います。<br /></p>
+<ol class="list1" style="padding-left:16px;margin-left:16px"><li>合成テーブルを使う事を理解しよう<br />
+まずは、追加スキルがなく、初期スキルが別なカードを2枚用意し合成画面まで進める(合成はしない)<br />
+(スロット1の初期スキルとA,B,Cのスキルが別の場合)スロット2の持つ初期スキルの<a href="https://ixawiki.com/index.php?%C9%F0%BE%AD%C4%C9%B2%C3%A5%B9%A5%AD%A5%EB%B0%EC%CD%F7" title="武将追加スキル一覧">合成テーブル</a>からA,B,Cのスキルが選択されている事が確認できると思います。これが法則1。<br />
+※スロット1の初期スキルがA,B,Cのスキルのどれかと同じ場合には、その同じスキル(スロット1初期スキル＝A or B or C)の代わりにS1が追加されます(法則3-i)</li>
+<li>カード2が追加スキルを持つ場合の合成テーブルの変化を理解しよう<br />
+次に、カードに何でも良いのでスキルを合成する(練習なので不要なカードで)<br />
+(スキルの追加に成功した)そのカードをスロット2にセットすると先程の1とは変わって、スキルがB,C,2S1(2S1とはカード2に付与したスキルのS1)が表示されるようになっていると思います(法則2)<br />
+※スロット1の持つスキルとB,C,2S1のどれかと同じの場合には、そのスキル(スロット1の所持スキル＝B or C or 2S1)の代わりにS1が追加されます(法則3-i)<br />
+※2S1がB or Cと同じ場合は、2S1の代わりにS1が追加されます(法則3-ii)<br />
+※(カード2の)所持スキル&quot;2&quot;のS1を&quot;2&quot;S1と表現しています。所持スキル3のS1なら3S1。</li>
+<li>スキルが重複する場合の合成テーブルの変化を理解しよう<br />
+次に、同じ初期スキルを持つ2枚のカードを用意し、合成画面を表示する(合成はしない)<br />
+こちらも1とは変わって、B,C,S1が表示されていると思います(法則3-i)<br />
+同じNo.カードであれば更にS2も表示されて、B,C,S1,S2が表示されていると思います(法則4)<br />
+※合成テーブルのAが初期スキルと一致しないスキルもあり、その場合にはA,B,CやA,B,C,S2が表示される。</li></ol>
+
+<h3 id="content_1_1">基本パターン  <a class="anchor_super" id="i17984f6" href="https://ixawiki.com/index.php?%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE#i17984f6" title="i17984f6">&dagger;</a> <a class="anchor_super" href="https://ixawiki.com/index.php?cmd=edit&amp;page=%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE&amp;id=i17984f6"><img src="./image/common/plus/paraedit.png" width="9" height="9" alt="Edit" title="Edit" /></a></h3>
+<blockquote><p class="quotation"><span style="font-size:16px;display:inline-block;line-height:130%;text-indent:0px"><span class="b">スキル追加合成をされていない異なるカード同士を合成した場合、<br class="spacer" />カード2の所持スキル1に対応した追加スキル候補A,B,Cが出現する</span></span></p></blockquote>
+<p><br class="spacer" /></p>
+
+<p><br />
+例として以下のようにセットした場合<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l">スロット</td><td class="c">1</td><td class="c">2</td></tr>
+</thead>
+<tbody><tr><td class="l">武将</td><td class="c">木下藤吉郎</td><td class="c">百武賢兼</td></tr>
+<tr><td class="l">所持スキル1</td><td class="c">槍撃の真髄</td><td class="c"><span style="color:firebrick">槍隊襲撃</span></td></tr>
+<tr><td class="l">所持スキル2</td><td class="c">なし</td><td class="c">なし</td></tr>
+<tr><td class="l">所持スキル3</td><td class="c">なし</td><td class="c">なし</td></tr>
+</tbody>
+</table></div>
+<p><br />
+追加スキル候補は「スロット2の所持スキル1の合成テーブルがベースになる」ので、<br />
+<a href="https://ixawiki.com/index.php?%C9%F0%BE%AD%C4%C9%B2%C3%A5%B9%A5%AD%A5%EB%B0%EC%CD%F7" title="武将追加スキル一覧">武将追加スキル一覧</a>で<span style="color:firebrick">槍隊襲撃</span>の合成テーブルを確認すると以下の様になっていると思います。<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c">A</td><td class="c">B</td><td class="c">C</td><td class="c">S1</td><td class="c">S2</td></tr>
+</thead>
+<tbody><tr><td class="c">槍隊襲撃</td><td class="c">槍隊進撃</td><td class="c">騎馬隊襲撃</td><td class="c">槍隊堅守</td><td class="c">兵器突撃</td></tr>
+<tr><td class="c" colspan="3">通常</td><td class="c" colspan="2">隠し</td></tr>
+</tbody>
+</table></div>
+<p><br />
+通常はスロット2のスキル1の合成テーブルからA,B,Cが出現します。<br />
+S1,S2は特定の条件を満たした場合に出現しますが、それは別の項目で説明します。<br />
+<br />
+候補は、<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l"></td><td class="c">追加スキル候補</td></tr>
+</thead>
+<tbody><tr><td class="l">第一候補</td><td class="c">槍隊襲撃(A)</td></tr>
+<tr><td class="l">第二候補</td><td class="c">槍隊進撃(B)</td></tr>
+<tr><td class="l">第三候補</td><td class="c">騎馬隊襲撃(C)</td></tr>
+</tbody>
+</table></div>
+<p>になります<br />
+<br /></p>
+
+<h3 id="content_1_2">スロット2の追加スキルによる変化  <a class="anchor_super" id="y3314f33" href="https://ixawiki.com/index.php?%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE#y3314f33" title="y3314f33">&dagger;</a> <a class="anchor_super" href="https://ixawiki.com/index.php?cmd=edit&amp;page=%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE&amp;id=y3314f33"><img src="./image/common/plus/paraedit.png" width="9" height="9" alt="Edit" title="Edit" /></a></h3>
+<blockquote><p class="quotation"><span style="font-size:16px;display:inline-block;line-height:130%;text-indent:0px"><span class="b">スロット2のカードが付加スキルを持つ場合、付加スキルの数に応じてA,Bが消え、<br class="spacer" />カード2に付加されているスキルのS1(以下2S1,3S1とする)が出現する</span></span></p></blockquote>
+<p>カード2の追加スキル1つにつき1つのスキル候補がA,Bの順で消え、代わりにカード2に追加されている所持スキルのS1(以下2S1,3S1とする)が候補に追加される。<br />
+※2S1は(カード2の)所持スキル2のS1だから2S1、3S1は所持スキル3のS1だから3S1としただけですので、各自で分かりやすいように考えてください。<br /></p>
+<p><br class="spacer" /></p>
+<pre>＜追加スキル出現パターン＞
+2.スロット2が付加スキルXを持つ場合：XのS1＝2S1 / (X,Yを持つ場合:XのS1=2S1,YのS1=3S1)
+- B,C,2S1が出現 / (C,2S1,3S1が出現)</pre>
+<p><br />
+<span class="b">例1 スロット2のカードが追加スキルを1つ持つ場合、候補Aが消えて2S1が出現する</span><br />
+<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l">スロット</td><td class="c">1</td><td class="c">2</td></tr>
+</thead>
+<tbody><tr><td class="l">武将</td><td class="c">吉弘鑑理</td><td class="c">赤尾清綱</td></tr>
+<tr><td class="l">所持スキル1</td><td class="c">槍隊急襲</td><td class="c">槍隊襲撃</td></tr>
+<tr><td class="l">所持スキル2</td><td class="c">なし</td><td class="c">槍隊奇襲</td></tr>
+<tr><td class="l">所持スキル3</td><td class="c">なし</td><td class="c">なし</td></tr>
+</tbody>
+</table></div>
+<p><br />
+カード2所持スキル1の槍隊襲撃の合成候補テーブル<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c">A(1A)</td><td class="c">B(1B)</td><td class="c">C(1C)</td><td class="c">S1(1S1)</td><td class="c">S2(1S2)</td></tr>
+</thead>
+<tbody><tr><td class="c">槍隊襲撃</td><td class="c">槍隊進撃</td><td class="c">騎馬隊襲撃</td><td class="c">槍隊堅守</td><td class="c">兵器突撃</td></tr>
+</tbody>
+</table></div>
+<p><br />
+カード2所持スキル2の槍隊奇襲の合成候補テーブル<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><span style="background-color:silver">A(2A)</span></td><td class="c"><span style="background-color:silver">B(2B)</span></td><td class="c"><span style="background-color:silver">C(2C)</span></td><td class="c">S1(2S1)</td><td class="c"><span style="background-color:silver">S2(2S2)</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><span style="background-color:silver">槍隊奇襲</span></td><td class="c"><span style="background-color:silver">槍隊突撃</span></td><td class="c"><span style="background-color:silver">騎馬隊奇襲</span></td><td class="c"><span style="color:firebrick">槍隊堅陣</span></td><td class="c"><span style="background-color:silver">槍隊挟撃</span></td></tr>
+<tr><td class="c" colspan="3">無視</td><td class="c">追加スキルの合成テーブルからは<br class="spacer" />S1だけが出現する</td><td class="c">無視</td></tr>
+</tbody>
+</table></div>
+<p>カード2に追加したスキル(スキル2)も合成テーブルを使用しますが、<br />
+スキル1と違いその合成テーブルからはS1(2S1)だけが使用されます。2A,2B,2C,2S2は無視してください。<br />
+※2S1とは、(カード2の)所持スキル2のS1だから2S1と表現しています。<br />
+<br />
+<span class="b">解説</span><br />
+スロット2のカードにスキルが追加されている場合には、合成候補テーブルの1Aが消え、追加スキルのS1(2S1)が追加される。<br class="spacer" />
+合成候補テーブルの状態</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><del><span style="background-color:silver">1A</span></del></td><td class="c">1B</td><td class="c">1C</td><td class="c">2S1</td><td class="c"><span style="background-color:silver">1S1</span></td><td class="c"><span style="background-color:silver">1S2</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><del><span style="background-color:silver">槍隊襲撃</span></del></td><td class="c">槍隊進撃</td><td class="c">騎馬隊襲撃</td><td class="c"><span style="color:firebrick">槍隊堅陣</span></td><td class="c"><span style="background-color:silver">槍隊堅守</span></td><td class="c"><span style="background-color:silver">兵器突撃</span></td></tr>
+<tr><td class="c">スロット2に所持スキル2が<br class="spacer" />追加されているため消える</td><td class="c"></td><td class="c"></td><td class="c">所持スキル2のS1(2S1)が<br class="spacer" />追加される</td><td class="c" colspan="2">条件を満たしていないため<br class="spacer" />出現しない</td></tr>
+</tbody>
+</table></div>
+<p><br />
+1B,1C,2S1が候補となる<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l"></td><td class="c">追加スキル候補</td></tr>
+</thead>
+<tbody><tr><td class="l">第一候補</td><td class="c">槍隊進撃(1B)</td></tr>
+<tr><td class="l">第二候補</td><td class="c">騎馬隊襲撃(1C)</td></tr>
+<tr><td class="l">第三候補</td><td class="c"><span style="color:firebrick">槍隊堅陣</span>(2S1)</td></tr>
+</tbody>
+</table></div>
+<p><br />
+上記とスキルは違いますが同じ法則の<a href="#j5afe786">参考画像</a><br />
+<a href="https://ixawiki.com/index.php?%C9%F0%BE%AD%C4%C9%B2%C3%A5%B9%A5%AD%A5%EB%B0%EC%CD%F7#d121c082" title="武将追加スキル一覧">追加スキル一覧にある表</a>も同じ法則です。<br />
+<br />
+今項目の要点は、<br />
+カード2が追加スキルを持つ場合には、<br />
+追加スキル数に応じて、スキル1の合成テーブルのA,B※が消えて、追加スキルのS1(2S1,3S1)がスキル1の合成テーブルに追加される事<br />
+です。<br />
+※カードに追加できるスキル数は2つまでなので、(この法則では)A,Bまでしか消えません。<br />
+<br /></p>
+<p><span class="b">例2 スロット2のカードが追加スキルを2つ持つ場合には、候補A,Bが消えて2S1,3S1が出現する</span><br />
+<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l">スロット</td><td class="c">1</td><td class="c">2</td></tr>
+</thead>
+<tbody><tr><td class="l">武将</td><td class="c">吉弘鑑理</td><td class="c">赤尾清綱</td></tr>
+<tr><td class="l">所持スキル1</td><td class="c">槍隊急襲</td><td class="c">槍隊襲撃</td></tr>
+<tr><td class="l">所持スキル2</td><td class="c">なし</td><td class="c">槍隊奇襲</td></tr>
+<tr><td class="l">所持スキル3</td><td class="c">なし</td><td class="c">槍隊剛撃</td></tr>
+</tbody>
+</table></div>
+<p><br />
+カード2の所有するスキルの追加スキル候補はそれぞれ<br />
+<br />
+カード2の所持スキル1槍隊襲撃の合成候補テーブル<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c">A(1A)</td><td class="c">B(1B)</td><td class="c">C(1C)</td><td class="c">S1(1S1)</td><td class="c">S2(1S2)</td></tr>
+</thead>
+<tbody><tr><td class="c">槍隊襲撃</td><td class="c">槍隊進撃</td><td class="c">騎馬隊襲撃</td><td class="c">槍隊堅守</td><td class="c">兵器突撃</td></tr>
+</tbody>
+</table></div>
+<p><br />
+カード2の所持スキル2槍隊奇襲の合成候補テーブル<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><span style="background-color:silver">A(2A)</span></td><td class="c"><span style="background-color:silver">B(2B)</span></td><td class="c"><span style="background-color:silver">C(2C)</span></td><td class="c">S1(2S1)</td><td class="c"><span style="background-color:silver">S2(2S2)</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><span style="background-color:silver">槍隊奇襲</span></td><td class="c"><span style="background-color:silver">槍隊突撃</span></td><td class="c"><span style="background-color:silver">騎馬隊奇襲</span></td><td class="c"><span style="color:firebrick">槍隊堅陣</span></td><td class="c"><span style="background-color:silver">槍隊挟撃</span></td></tr>
+</tbody>
+</table></div>
+<p>S1のみ注目<br />
+<br />
+カード2の所持スキル3槍隊剛撃の合成候補テーブル<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><span style="background-color:silver">A(3A)</span></td><td class="c"><span style="background-color:silver">B(3B)</span></td><td class="c"><span style="background-color:silver">C(3C)</span></td><td class="c">S1(3S1)</td><td class="c"><span style="background-color:silver">S2(3S2)</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><span style="background-color:silver">槍隊剛撃</span></td><td class="c"><span style="background-color:silver">槍隊円陣</span></td><td class="c"><span style="background-color:silver">騎馬隊剛撃</span></td><td class="c"><span style="color:green">足軽軍法</span></td><td class="c"><span style="background-color:silver">槍撃 修羅</span></td></tr>
+</tbody>
+</table></div>
+<p>S1のみ注目<br />
+<br />
+※2S1は(カード2の)所持スキル2のS1だから2S1、3S1は所持スキル3のS1だから3S1としただけですので、各自で分かりやすいように考えてください。<br />
+<br />
+<span class="b">解説</span><br />
+スロット2にスキルが2つ追加されている場合には、A,Bが消えてスロット2の所持スキル2と3のS1(2S1,3S1)が追加される<br />
+合成候補テーブルの状態<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><del><span style="background-color:silver">1A</span></del></td><td class="c"><del><span style="background-color:silver">1B</span></del></td><td class="c">1C</td><td class="c">2S1</td><td class="c">3S1</td><td class="c"><span style="background-color:silver">1S1</span></td><td class="c"><span style="background-color:silver">1S2</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><del><span style="background-color:silver">槍隊襲撃</span></del></td><td class="c"><del><span style="background-color:silver">槍隊進撃</span></del></td><td class="c">騎馬隊襲撃</td><td class="c"><span style="color:firebrick">槍隊堅陣</span></td><td class="c"><span style="color:green">足軽軍法</span></td><td class="c"><span style="background-color:silver">槍隊堅守</span></td><td class="c"><span style="background-color:silver">兵器突撃</span></td></tr>
+</tbody>
+</table></div>
+<p>1S1,1S2は条件を満たしていないため出現しない<br />
+<br />
+1C,2S1,3S1が候補になる。</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l"></td><td class="c">追加スキル候補</td></tr>
+</thead>
+<tbody><tr><td class="l">第一候補</td><td class="c">騎馬隊襲撃(1C)</td></tr>
+<tr><td class="l">第ニ候補</td><td class="c"><span style="color:firebrick">槍隊堅陣</span>(2S1)</td></tr>
+<tr><td class="l">第三候補</td><td class="c"><span style="color:green">足軽軍法</span>(3S1)</td></tr>
+</tbody>
+</table></div>
+<p><br /></p>
+
+<h3 id="content_1_3">候補S1の出現条件  <a class="anchor_super" id="ke316333" href="https://ixawiki.com/index.php?%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE#ke316333" title="ke316333">&dagger;</a> <a class="anchor_super" href="https://ixawiki.com/index.php?cmd=edit&amp;page=%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE&amp;id=ke316333"><img src="./image/common/plus/paraedit.png" width="9" height="9" alt="Edit" title="Edit" /></a></h3>
+<blockquote><p class="quotation"><span style="font-size:16px;display:inline-block;line-height:130%;text-indent:0px"><span class="b">S1はスロット1の所持しているスキル、または、<br class="spacer" />スロット2カードに付与したスキルのS1<br class="spacer" />　　　が追加スキル候補と重複する場合に出現する</span></span></p></blockquote>
+<p>S1は追加候補A,B,C,2S1,3S1のどれかが重複で消える(=候補にならなくなる)際に、代わりに追加される隠しスキル候補。<br /></p>
+
+<h4 id="content_1_4">パターン1  <a class="anchor_super" id="nc8a8189" href="https://ixawiki.com/index.php?%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE#nc8a8189" title="nc8a8189">&dagger;</a> <a class="anchor_super" href="https://ixawiki.com/index.php?cmd=edit&amp;page=%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE&amp;id=nc8a8189"><img src="./image/common/plus/paraedit.png" width="9" height="9" alt="Edit" title="Edit" /></a></h4>
+<p><span class="b">追加スキル候補のいずれかをスロット1のカードが既に所持している場合</span><br />
+<br class="spacer" /></p>
+<pre>＜追加スキル出現パターン＞
+3-i.スロット1が所持スキルにAを含む場合
+- B,C,S1が出現</pre>
+<p><br />
+<span class="b">例1 スロット1のカードが追加スキル候補を持っている場合</span><br />
+<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l">スロット</td><td class="c">1</td><td class="c">2</td></tr>
+</thead>
+<tbody><tr><td class="l">武将</td><td class="c">百武賢兼</td><td class="c">赤尾清綱</td></tr>
+<tr><td class="l">所持スキル1</td><td class="c"><span style="color:firebrick">槍隊襲撃</span></td><td class="c">槍隊襲撃</td></tr>
+<tr><td class="l">所持スキル2</td><td class="c">なし</td><td class="c">なし</td></tr>
+<tr><td class="l">所持スキル3</td><td class="c">なし</td><td class="c">なし</td></tr>
+</tbody>
+</table></div>
+<p><br />
+スロット2の所持スキル1槍隊襲撃の合成候補テーブル<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c">A</td><td class="c">B</td><td class="c">C</td><td class="c">S1</td><td class="c">S2</td></tr>
+</thead>
+<tbody><tr><td class="c"><span style="color:firebrick">槍隊襲撃</span></td><td class="c">槍隊進撃</td><td class="c">騎馬隊襲撃</td><td class="c">槍隊堅守</td><td class="c">兵器突撃</td></tr>
+</tbody>
+</table></div>
+<p><br />
+<span class="b">解説</span><br />
+1. スロット1のカードは、既に合成テーブルのA：<span style="color:firebrick">槍隊襲撃</span>を持っていて(これをここでは重複と表現しています)、<br />
+カードは同じスキルを複数持つことはできないので？、合成テーブルから重複しているスキルが消えます。<br />
+候補テーブルの状態</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c">A</td><td class="c">B</td><td class="c">C</td><td class="c"><span style="background-color:silver">S1</span></td><td class="c"><span style="background-color:silver">S2</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><del><span style="color:firebrick">槍隊襲撃</span></del></td><td class="c">槍隊進撃</td><td class="c">騎馬隊襲撃</td><td class="c"><span style="background-color:silver">槍隊堅守</span></td><td class="c"><span style="background-color:silver">兵器突撃</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+2. 候補が重複して消えるとS1が出現するようになります。<br />
+これが隠しスキルS1の出現条件です。<br />
+今回の例では、重複しているA：槍隊襲撃が消えて、S1：槍隊堅守が出現します。<br />
+候補テーブルの状態</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><span style="background-color:silver">A</span></td><td class="c">B</td><td class="c">C</td><td class="c">S1</td><td class="c"><span style="background-color:silver">S2</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><del><span style="background-color:silver">槍隊襲撃</span></del></td><td class="c">槍隊進撃</td><td class="c">騎馬隊襲撃</td><td class="c">槍隊堅守</td><td class="c"><span style="background-color:silver">兵器突撃</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+3. B,C,S1が候補となる。</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l"></td><td class="c">追加スキル候補</td></tr>
+</thead>
+<tbody><tr><td class="l">第一候補</td><td class="c">槍隊進撃(B)</td></tr>
+<tr><td class="l">第二候補</td><td class="c">騎馬隊襲撃(C)</td></tr>
+<tr><td class="l">第三候補</td><td class="c">槍隊堅守(S1)</td></tr>
+</tbody>
+</table></div>
+<p><br />
+<span class="b">例2 スロット1に追加されたスキルが候補と重複する場合も同様</span><br />
+<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l">スロット</td><td class="c">1</td><td class="c">2</td></tr>
+</thead>
+<tbody><tr><td class="l">武将</td><td class="c">吉弘鑑理</td><td class="c">赤尾清綱</td></tr>
+<tr><td class="l">所持スキル1</td><td class="c">槍隊急襲</td><td class="c">槍隊襲撃</td></tr>
+<tr><td class="l">所持スキル2</td><td class="c"><span style="color:firebrick">騎馬隊襲撃</span></td><td class="c">なし</td></tr>
+<tr><td class="l">所持スキル3</td><td class="c">なし</td><td class="c">なし</td></tr>
+</tbody>
+</table></div>
+<p><br />
+スロット2の所持スキル1の槍隊襲撃の合成候補テーブル<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c">A</td><td class="c">B</td><td class="c">C</td><td class="c">S1</td><td class="c">S2</td></tr>
+</thead>
+<tbody><tr><td class="c">槍隊襲撃</td><td class="c">槍隊進撃</td><td class="c"><span style="color:firebrick">騎馬隊襲撃</span></td><td class="c">槍隊堅守</td><td class="c">兵器突撃</td></tr>
+</tbody>
+</table></div>
+<p><br />
+<span class="b">解説</span><br />
+1. スロット1のカードは、既に合成テーブルのC：<span style="color:firebrick">騎馬隊襲撃</span>を持っているため、合成テーブルのC：<span style="color:firebrick">騎馬隊襲撃</span>が消る。<br />
+合成候補テーブルの状態</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c">A</td><td class="c">B</td><td class="c">C</td><td class="c"><span style="background-color:silver">S1</span></td><td class="c"><span style="background-color:silver">S2</span></td></tr>
+</thead>
+<tbody><tr><td class="c">槍隊襲撃</td><td class="c">槍隊進撃</td><td class="c"><del><span style="color:firebrick">騎馬隊襲撃</span></del></td><td class="c"><span style="background-color:silver">槍隊堅守</span></td><td class="c"><span style="background-color:silver">兵器突撃</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+2. C：<span style="color:firebrick">騎馬隊襲撃</span>が重複で消えたため、S1：槍隊堅守が候補に出現する。<br />
+合成候補テーブルの状態</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c">A</td><td class="c">B</td><td class="c"><span style="background-color:silver">C</span></td><td class="c">S1</td><td class="c"><span style="background-color:silver">S2</span></td></tr>
+</thead>
+<tbody><tr><td class="c">槍隊襲撃</td><td class="c">槍隊進撃</td><td class="c"><del><span style="background-color:silver">騎馬隊襲撃</span></del></td><td class="c">槍隊堅守</td><td class="c"><span style="background-color:silver">兵器突撃</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+3. A,B,S1が候補になる。</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l"></td><td class="c">追加スキル候補</td></tr>
+</thead>
+<tbody><tr><td class="l">第一候補</td><td class="c">槍隊襲撃(A)</td></tr>
+<tr><td class="l">第二候補</td><td class="c">槍隊進撃(B)</td></tr>
+<tr><td class="l">第三候補</td><td class="c">槍隊堅守(S1)</td></tr>
+</tbody>
+</table></div>
+<p><br /></p>
+
+<h4 id="content_1_5">パターン2  <a class="anchor_super" id="h5134fa1" href="https://ixawiki.com/index.php?%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE#h5134fa1" title="h5134fa1">&dagger;</a> <a class="anchor_super" href="https://ixawiki.com/index.php?cmd=edit&amp;page=%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE&amp;id=h5134fa1"><img src="./image/common/plus/paraedit.png" width="9" height="9" alt="Edit" title="Edit" /></a></h4>
+<p><span class="b">スロット2カードに付与したスキルのS1が追加スキル候補と重複する場合</span><br />
+<br class="spacer" /></p>
+<pre>＜追加スキル出現パターン＞
+3-ii.スロット2に追加されたスキルのS1がB or Cと同じ場合
+- B,C,S1が出現</pre>
+<p><br />
+<span class="b">例1 スロット2のカードに付与したスキルのS1が候補と重複する場合</span><br />
+<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l">スロット</td><td class="c">1</td><td class="c">2</td></tr>
+</thead>
+<tbody><tr><td class="l">武将</td><td class="c">吉弘鑑理</td><td class="c">武田晴信</td></tr>
+<tr><td class="l">所持スキル1</td><td class="c">槍隊急襲</td><td class="c">騎馬隊挟撃</td></tr>
+<tr><td class="l">所持スキル2</td><td class="c">なし</td><td class="c">弓隊守護</td></tr>
+<tr><td class="l">所持スキル3</td><td class="c">なし</td><td class="c">なし</td></tr>
+</tbody>
+</table></div>
+<p><br />
+スロット2の所持スキル1騎馬隊挟撃の合成候補テーブル<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c">A(1A)</td><td class="c">B(1B)</td><td class="c">C(1C)</td><td class="c">S1(1S1)</td><td class="c">S2(1S2)</td></tr>
+</thead>
+<tbody><tr><td class="c">騎馬隊挟撃</td><td class="c"><span style="color:firebrick">弓隊挟撃</span></td><td class="c">槍隊挟撃</td><td class="c">騎馬隊守護</td><td class="c">騎馬隊剛撃</td></tr>
+</tbody>
+</table></div>
+<p><br />
+スロット2の所持スキル2弓隊守護の合成候補テーブル<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><span style="background-color:silver">A(2A)</span></td><td class="c"><span style="background-color:silver">B(2B)</span></td><td class="c"><span style="background-color:silver">C(2C)</span></td><td class="c">S1(2S1)</td><td class="c"><span style="background-color:silver">S2(2S2)</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><span style="background-color:silver">弓隊守護</span></td><td class="c"><span style="background-color:silver">槍隊守護</span></td><td class="c"><span style="background-color:silver">騎馬隊守護</span></td><td class="c"><span style="color:firebrick">弓隊挟撃</span></td><td class="c"><span style="background-color:silver">弓隊円陣</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+<span class="b">解説</span><br />
+1. カード2が追加スキル(所持スキル2)を持つので候補1Aが消えて、代わりに所持スキル2のS1である<span style="color:firebrick">弓隊挟撃</span>(2S1)が追加される<br />
+合成候補テーブルの状態</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><del>1A</del></td><td class="c">1B</td><td class="c">1C</td><td class="c">2S1</td><td class="c"><span style="background-color:silver">1S1</span></td><td class="c"><span style="background-color:silver">1S2</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><del>騎馬隊挟撃</del></td><td class="c"><span style="color:firebrick">弓隊挟撃</span></td><td class="c">槍隊挟撃</td><td class="c"><span style="color:firebrick">弓隊挟撃</span></td><td class="c"><span style="background-color:silver">騎馬隊守護</span></td><td class="c"><span style="background-color:silver">騎馬隊剛撃</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+2. 候補に同じスキルが複数並ぶ事はできないため？、候補と候補が重複する場合は該当する候補が消えて1S1が出現するようになります。<br />
+追加された<span style="color:firebrick">弓隊挟撃</span>(2S1)は、合成テーブルの1B：弓隊挟撃と重複するため消える。<br />
+合成候補テーブルの状態</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><del><span style="background-color:silver">1A</span></del></td><td class="c">1B</td><td class="c">1C</td><td class="c">2S1</td><td class="c"><span style="background-color:silver">1S1</span></td><td class="c"><span style="background-color:silver">1S2</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><del><span style="background-color:silver">騎馬隊挟撃</span></del></td><td class="c"><span style="color:firebrick">弓隊挟撃</span></td><td class="c">槍隊挟撃</td><td class="c"><del><span style="color:firebrick">弓隊挟撃</span></del></td><td class="c"><span style="background-color:silver">騎馬隊守護</span></td><td class="c"><span style="background-color:silver">騎馬隊剛撃</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+3. 2S1が重複で消えたので1S1が出現する。<br />
+合成候補テーブルの状態</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><del><span style="background-color:silver">1A</span></del></td><td class="c">1B</td><td class="c">1C</td><td class="c"><span style="background-color:silver">2S1</span></td><td class="c">1S1</td><td class="c"><span style="background-color:silver">1S2</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><del><span style="background-color:silver">騎馬隊挟撃</span></del></td><td class="c">弓隊挟撃</td><td class="c">槍隊挟撃</td><td class="c"><del><span style="background-color:silver">弓隊挟撃</span></del></td><td class="c">騎馬隊守護</td><td class="c"><span style="background-color:silver">騎馬隊剛撃</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+4. 候補は1B,1C,1S1になる。</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l"></td><td class="c">追加スキル候補</td></tr>
+</thead>
+<tbody><tr><td class="l">第一候補</td><td class="c">弓隊挟撃(1B)</td></tr>
+<tr><td class="l">第二候補</td><td class="c">槍隊挟撃(1C)</td></tr>
+<tr><td class="l">第三候補</td><td class="c">騎馬隊守護(1S1)</td></tr>
+</tbody>
+</table></div>
+<p><br />
+A：騎馬隊挟撃が候補から消えるのとカード2に追加されたスキルのS1が出現する理由については、<a href="#y3314f33">こちら</a>を参考に。<br />
+<br />
+<span class="b">例2 スロット2に追加した2つのスキルのS1が重複する場合</span><br />
+<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l">スロット</td><td class="c">1</td><td class="c">2</td></tr>
+</thead>
+<tbody><tr><td class="l">武将</td><td class="c">吉弘鑑理</td><td class="c">赤尾清綱</td></tr>
+<tr><td class="l">所持スキル1</td><td class="c">槍隊急襲</td><td class="c">槍隊襲撃</td></tr>
+<tr><td class="l">所持スキル2</td><td class="c">なし</td><td class="c">槍隊進撃</td></tr>
+<tr><td class="l">所持スキル3</td><td class="c">なし</td><td class="c">槍隊堅守</td></tr>
+</tbody>
+</table></div>
+<p><br />
+スロット2の所持スキル1槍隊襲撃の合成候補テーブル<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c">A(1A)</td><td class="c">B(1B)</td><td class="c">C(1C)</td><td class="c">S1(1S1)</td><td class="c">S2(1S2)</td></tr>
+</thead>
+<tbody><tr><td class="c">槍隊襲撃</td><td class="c">槍隊進撃</td><td class="c">騎馬隊襲撃</td><td class="c">槍隊堅守</td><td class="c">兵器突撃</td></tr>
+</tbody>
+</table></div>
+<p><br />
+スロット2の所持スキル2槍隊進撃の合成候補テーブル<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><span style="background-color:silver">A(2A)</span></td><td class="c"><span style="background-color:silver">B(2B)</span></td><td class="c"><span style="background-color:silver">C(2C)</span></td><td class="c">S1(2S1)</td><td class="c"><span style="background-color:silver">S2(2S2)</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><span style="background-color:silver">槍隊進撃</span></td><td class="c"><span style="background-color:silver">槍隊備え</span></td><td class="c"><span style="background-color:silver">騎馬隊進撃</span></td><td class="c"><span style="color:firebrick">槍隊襲撃</span></td><td class="c"><span style="background-color:silver">槍隊突撃</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+スロット2の所持スキル3槍隊堅守の追加スキル候補<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><span style="background-color:silver">A(3A)</span></td><td class="c"><span style="background-color:silver">B(3B)</span></td><td class="c"><span style="background-color:silver">C(3C)</span></td><td class="c">S1(3S1)</td><td class="c"><span style="background-color:silver">S2(3S2)</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><span style="background-color:silver">槍隊堅守</span></td><td class="c"><span style="background-color:silver">槍隊備え</span></td><td class="c"><span style="background-color:silver">騎馬隊堅守</span></td><td class="c"><span style="color:firebrick">槍隊襲撃</span></td><td class="c"><span style="background-color:silver">槍隊堅陣</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+<span class="b">解説</span><br />
+1. スロット2のカードに2つスキルが追加されているため、1A,1Bが消えて<span style="color:firebrick">槍隊襲撃</span>(2S1),<span style="color:firebrick">槍隊襲撃</span>(3S1)が追加される<br />
+合成候補テーブルの状態</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><del>1A</del></td><td class="c"><del>1B</del></td><td class="c">1C</td><td class="c">2S1</td><td class="c">3S1</td><td class="c"><span style="background-color:silver">1S1</span></td><td class="c"><span style="background-color:silver">1S2</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><del>槍隊襲撃</del></td><td class="c"><del>槍隊進撃</del></td><td class="c">騎馬隊襲撃</td><td class="c"><span style="color:firebrick">槍隊襲撃</span></td><td class="c"><span style="color:firebrick">槍隊襲撃</span></td><td class="c"><span style="background-color:silver">槍隊堅守</span></td><td class="c"><span style="background-color:silver">兵器突撃</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+2. 追加された<span style="color:firebrick">槍隊襲撃</span>(2S1)と<span style="color:firebrick">槍隊襲撃</span>(3S1)は同じで、候補間でスキルが重複するため3S1：槍隊襲撃が消える。<br />
+合成候補テーブルの状態</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><del><span style="background-color:silver">1A</span></del></td><td class="c"><del><span style="background-color:silver">1B</span></del></td><td class="c">1C</td><td class="c">2S1</td><td class="c">3S1</td><td class="c"><span style="background-color:silver">1S1</span></td><td class="c"><span style="background-color:silver">1S2</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><del><span style="background-color:silver">槍隊襲撃</span></del></td><td class="c"><del><span style="background-color:silver">槍隊進撃</span></del></td><td class="c">騎馬隊襲撃</td><td class="c"><span style="color:firebrick">槍隊襲撃</span></td><td class="c"><del><span style="color:firebrick">槍隊襲撃</span></del></td><td class="c"><span style="background-color:silver">槍隊堅守</span></td><td class="c"><span style="background-color:silver">兵器突撃</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+3. 3S1が重複で消えたので1S1が出現する。<br />
+合成候補テーブルの状態</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><del><span style="background-color:silver">1A</span></del></td><td class="c"><del><span style="background-color:silver">1B</span></del></td><td class="c">1C</td><td class="c">2S1</td><td class="c"><span style="background-color:silver">3S1</span></td><td class="c">1S1</td><td class="c"><span style="background-color:silver">1S2</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><del><span style="background-color:silver">槍隊襲撃</span></del></td><td class="c"><del><span style="background-color:silver">槍隊進撃</span></del></td><td class="c">騎馬隊襲撃</td><td class="c">槍隊襲撃</td><td class="c"><del><span style="background-color:silver">槍隊襲撃</span></del></td><td class="c">槍隊堅守</td><td class="c"><span style="background-color:silver">兵器突撃</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+4. 候補は1C,2S1,1S1となる。</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l"></td><td class="c">追加スキル候補</td></tr>
+</thead>
+<tbody><tr><td class="l">第一候補</td><td class="c">騎馬隊襲撃(1C)</td></tr>
+<tr><td class="l">第二候補</td><td class="c">槍隊襲撃(2S1)</td></tr>
+<tr><td class="l">第三候補</td><td class="c">槍隊堅守(1S1)</td></tr>
+</tbody>
+</table></div>
+<p><br />
+A：槍隊襲撃,B：槍隊進撃が候補から消えてカード2に追加されたスキルのS1(2S1,3S1)が追加される理由については<a href="#y3314f33">こちら</a>を参考に。
+<br /></p>
+
+<h3 id="content_1_6">候補S2の出現条件  <a class="anchor_super" id="p491742e" href="https://ixawiki.com/index.php?%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE#p491742e" title="p491742e">&dagger;</a> <a class="anchor_super" href="https://ixawiki.com/index.php?cmd=edit&amp;page=%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE&amp;id=p491742e"><img src="./image/common/plus/paraedit.png" width="9" height="9" alt="Edit" title="Edit" /></a></h3>
+<blockquote><p class="quotation"><span style="font-size:16px;display:inline-block;line-height:130%;text-indent:0px"><span class="b">S2は同カード(No.)同士を合成した場合にのみ出現する特殊な候補である</span></span></p></blockquote>
+<pre>＜追加スキル出現パターン＞
+4.スロット1がスロット2と同じ(No.)武将の場合 / (基本スキル≠Aの場合)
+- B,C,S1,S2が出現 / (A,B,C,S2が出現)</pre>
+<p><br />
+<span class="b">例1 一般的な同No.カード合成</span><br />
+<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l">スロット</td><td class="c">1</td><td class="c">2</td></tr>
+</thead>
+<tbody><tr><td class="l">武将</td><td class="c">百武賢兼</td><td class="c">百武賢兼</td></tr>
+<tr><td class="l">所持スキル1</td><td class="c"><span style="color:firebrick">槍隊襲撃</span></td><td class="c">槍隊襲撃</td></tr>
+<tr><td class="l">所持スキル2</td><td class="c">なし</td><td class="c">なし</td></tr>
+<tr><td class="l">所持スキル3</td><td class="c">なし</td><td class="c">なし</td></tr>
+</tbody>
+</table></div>
+<p><br />
+参考<br />
+槍隊襲撃の合成候補テーブル<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c">A</td><td class="c">B</td><td class="c">C</td><td class="c">S1</td><td class="c">S2</td></tr>
+</thead>
+<tbody><tr><td class="c"><span style="color:firebrick">槍隊襲撃</span></td><td class="c">槍隊進撃</td><td class="c">騎馬隊襲撃</td><td class="c">槍隊堅守</td><td class="c">兵器突撃</td></tr>
+</tbody>
+</table></div>
+<p><br />
+<span class="b">解説</span><br />
+1. スキル候補A:槍隊襲撃がスロット1の所持スキル1と重複するため消える。<br />
+候補テーブルの状態</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c">A</td><td class="c">B</td><td class="c">C</td><td class="c"><span style="background-color:silver">S1</span></td><td class="c"><span style="background-color:silver">S2</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><del><span style="color:firebrick">槍隊襲撃</span></del></td><td class="c">槍隊進撃</td><td class="c">騎馬隊襲撃</td><td class="c"><span style="background-color:silver">槍隊堅守</span></td><td class="c"><span style="background-color:silver">兵器突撃</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+2. Aが重複で消えているのでS1が出現する<br />
+合成候補テーブルの状態</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><span style="background-color:silver">A</span></td><td class="c">B</td><td class="c">C</td><td class="c">S1</td><td class="c"><span style="background-color:silver">S2</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><del><span style="background-color:silver">槍隊襲撃</span></del></td><td class="c">槍隊進撃</td><td class="c">騎馬隊襲撃</td><td class="c">槍隊堅守</td><td class="c"><span style="background-color:silver">兵器突撃</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+3. 同No.カード同士の合成では更にS2が出現する<br />
+合成候補テーブルの状態</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><span style="background-color:silver">A</span></td><td class="c">B</td><td class="c">C</td><td class="c">S1</td><td class="c">S2</td></tr>
+</thead>
+<tbody><tr><td class="c"><del><span style="background-color:silver">槍隊襲撃</span></del></td><td class="c">槍隊進撃</td><td class="c">騎馬隊襲撃</td><td class="c">槍隊堅守</td><td class="c">兵器突撃</td></tr>
+</tbody>
+</table></div>
+<p><br />
+4. 候補はB,C,S1,S2<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l"></td><td class="c">追加スキル候補</td></tr>
+</thead>
+<tbody><tr><td class="l">第一候補</td><td class="c">槍隊進撃(B)</td></tr>
+<tr><td class="l">第二候補</td><td class="c">騎馬隊襲撃(C)</td></tr>
+<tr><td class="l">第三候補</td><td class="c">槍隊堅守(S1)</td></tr>
+<tr><td class="l">第四候補</td><td class="c">兵器突撃(S2)</td></tr>
+</tbody>
+</table></div>
+<p><br />
+同カード合成でも、例えば「○○の真髄」などのように合成テーブルに初期スキルが含まれないものがあり、その場合には初期スキルとABCに重複がない(＝S1が出現しない)ためA,B,C,S2になる。<br />
+S2は同カード同士の合成でしか出現させることができない。<br />
+<br />
+<span class="b">例2 追加スキルを所持している同カード合成はやや変則的に見えるが基本通りである</span><br />
+<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l">スロット</td><td class="c">1</td><td class="c">2</td></tr>
+</thead>
+<tbody><tr><td class="l">武将</td><td class="c">百武賢兼</td><td class="c">百武賢兼</td></tr>
+<tr><td class="l">所持スキル1</td><td class="c">槍隊襲撃</td><td class="c">槍隊襲撃</td></tr>
+<tr><td class="l">所持スキル2</td><td class="c">なし</td><td class="c">槍隊奇襲</td></tr>
+<tr><td class="l">所持スキル3</td><td class="c">なし</td><td class="c">なし</td></tr>
+</tbody>
+</table></div>
+<p><br />
+カード2の所持スキル1槍隊襲撃の合成候補テーブル<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c">A(1A)</td><td class="c">B(1B)</td><td class="c">C(1C)</td><td class="c">S1(1S1)</td><td class="c">S2(1S2)</td></tr>
+</thead>
+<tbody><tr><td class="c">槍隊襲撃</td><td class="c">槍隊進撃</td><td class="c">騎馬隊襲撃</td><td class="c">槍隊堅守</td><td class="c">兵器突撃</td></tr>
+</tbody>
+</table></div>
+<p><br />
+カード2所持スキル2の槍隊奇襲の合成候補テーブル<br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><span style="background-color:silver">A(2A)</span></td><td class="c"><span style="background-color:silver">B(2B)</span></td><td class="c"><span style="background-color:silver">C(2C)</span></td><td class="c">S1(2S1)</td><td class="c"><span style="background-color:silver">S2(2S2)</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><span style="background-color:silver">槍隊奇襲</span></td><td class="c"><span style="background-color:silver">槍隊突撃</span></td><td class="c"><span style="background-color:silver">騎馬隊奇襲</span></td><td class="c"><span style="color:firebrick">槍隊堅陣</span></td><td class="c"><span style="background-color:silver">槍隊挟撃</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+<span class="b">解説</span><br />
+1. カード2にスキルが追加されているのでAが消えて2S1が追加される<br />
+合成候補テーブルの状態</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><del>1A</del></td><td class="c">1B</td><td class="c">1C</td><td class="c">2S1</td><td class="c"><span style="background-color:silver">1S1</span></td><td class="c"><span style="background-color:silver">1S2</span></td></tr>
+</thead>
+<tbody><tr><td class="c"><del>槍隊襲撃</del></td><td class="c">槍隊進撃</td><td class="c">騎馬隊襲撃</td><td class="c"><span style="color:firebrick">槍隊堅陣</span></td><td class="c"><span style="background-color:silver">槍隊堅守</span></td><td class="c"><span style="background-color:silver">兵器突撃</span></td></tr>
+</tbody>
+</table></div>
+<p><br />
+2. 同カード(No.)同士の合成では更に1S2が追加される<br />
+合成候補テーブルの状態</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c"><del><span style="background-color:silver">1A</span></del></td><td class="c">1B</td><td class="c">1C</td><td class="c">2S1</td><td class="c"><span style="background-color:silver">1S1</span></td><td class="c">1S2</td></tr>
+</thead>
+<tbody><tr><td class="c"><del><span style="background-color:silver">槍隊襲撃</span></del></td><td class="c">槍隊進撃</td><td class="c">騎馬隊襲撃</td><td class="c"><span style="color:firebrick">槍隊堅陣</span></td><td class="c"><span style="background-color:silver">槍隊堅守</span></td><td class="c">兵器突撃</td></tr>
+</tbody>
+</table></div>
+<p>重複で消えるスキルがないためS1は出現しない(今回のAは重複ではなく、追加スキルの影響で消えている)<br />
+<br />
+3. 候補は1B,1C,2S1,1S2になる</p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="l"></td><td class="c">追加スキル候補</td></tr>
+</thead>
+<tbody><tr><td class="l">�

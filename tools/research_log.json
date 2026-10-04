@@ -57172,6 +57172,23 @@
    "url": "https://ixanary.com/skills/%E9%BB%92%E8%84%9B%E5%B7%BE%E7%B5%84/"
   }
  ],
+ "synth-rate": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 123053,
+    "cache": "9950ea7ffa7675ca.txt",
+    "cache_bytes": 65536,
+    "cache_sha256": "a75ff78a8dad4829",
+    "sha256": "fd21013b2ea951ba",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(123053 bytes)",
+   "source": "ixawiki",
+   "url": "https://ixawiki.com/index.php?%A5%B9%A5%AD%A5%EB%C4%C9%B2%C3%B9%E7%C0%AE"
+  }
+ ],
  "ランク:星神闘覇": [
   {
    "date": "2026-08-13",
