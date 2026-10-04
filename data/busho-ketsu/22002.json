@@ -27,6 +27,8 @@
  "notes": [
   "2026-08-23 新規登録(青丸)。うぐさんのゲーム内スクリーンショットから tools/crop_card.py でカード画像を切り抜き、カード画像・ixanary 埋め込みJSON・ixawiki カードページの3ソースで全項目を突き合わせた。統率は4値とも XXX、成長値は「-」(傑の共通仕様)。busho-ketsu のスキーマに cost・rankGrades・成長値・trTable・synthesisTable が無いのはこのため。ixanary の合成素材欄は「合成不可スキルです」。",
   "2026-08-23: 章は ixawiki の該当カードページの一番古いコメントの日付から推定した(chSource=wikiOldestComment)。**ゲーム内で確認した値ではない。**ixagno blog-entry-10740「傑【一覧表】」には章の記載が無い。",
-  "2026-08-23: 20001〜20007 が持つ「本領と陣、出城が黄金造りになる」等の4行と「覇道」はこのカードには無い。カード本文の灰色行(常時効果)は alwaysEffects に入れ、赤字行(戦闘時効果)を skillDetail にした。hasHado は false。"
- ]
+  "2026-08-23: 20001〜20007 が持つ「本領と陣、出城が黄金造りになる」等の4行と「覇道」はこのカードには無い。カード本文の灰色行(常時効果)は alwaysEffects に入れ、赤字行(戦闘時効果)を skillDetail にした。hasHado は false。",
+  "2026-10-04: noSynthesis(合成不可)にした。ixawiki(BushoCard/22002)が「合成素材としても使用不可、スキル追加も不可能」、ixanaryのスキルページも「合成不可スキルです」で、2ソースが一致。うぐさん承認。"
+ ],
+ "noSynthesis": true
 }
