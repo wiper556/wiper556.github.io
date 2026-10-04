@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7334304987274613"
+     crossorigin="anonymous"></script>
+<title>鍛錬シミュレーター｜戦国IXA シミュレーター置き場</title>
+<meta name="description" content="戦国IXAの鍛錬(TR)の成功率と、目標の鍛錬レベルまでに必要な素材の期待値を計算します。素材の種類・入手時期・同一No.・傑・たつじい・素材のTRスキルに対応。">
+<link rel="stylesheet" href="assets/css/site.css">
+<style>
+  /* ============ 鍛錬シミュレーター専用の見た目 ============ */
+  .tr-controls{
+    display:flex; flex-wrap:wrap; gap:14px 22px; align-items:flex-end;
+    padding:14px 16px; border:1px solid var(--line,#d8d2c4); border-radius:8px;
+    background:var(--panel,#fbf9f4); margin-bottom:18px;
+  }
+  .tr-field{ display:flex; flex-direction:column; gap:4px; }
+  .tr-field label{ font-size:12px; font-weight:700; letter-spacing:.04em; opacity:.75; }
+  .tr-field select, .tr-field input{
+    font:inherit; padding:5px 8px; border:1px solid var(--line,#c9c2b2);
+    border-radius:5px; background:#fff; color:#222;
+  }
+  .tr-scroll{ overflow-x:auto; }
+  table.tr-table{ border-collapse:collapse; width:100%; font-size:13px; }
+  table.tr-table th, table.tr-table td{
+    border:1px solid var(--line,#d8d2c4); padding:6px 10px; text-align:right;
+    font-variant-numeric:tabular-nums; white-space:nowrap;
+  }
+  table.tr-table th{ background:var(--panel,#f3efe4); text-align:center; font-weight:700; }
+  table.tr-table td.tr-lbl{ text-align:left; font-variant-numeric:normal; }
+  table.tr-table input[type="number"]{
+    font:inherit; width:5em; padding:3px 6px; text-align:right;
+    border:1px solid var(--line,#c9c2b2); border-radius:4px; background:#fff; color:#222;
+  }
+  .tr-total{
+    display:flex; flex-wrap:wrap; gap:10px 34px; align-items:baseline;
+    padding:16px; border:2px solid #7a1f1f; border-radius:8px; margin:20px 0 18px;
+  }
+  .tr-total .tr-cap{ font-size:12px; font-weight:700; opacity:.7; }
+  .tr-total .tr-num{ font-size:28px; font-weight:700; font-variant-numeric:tabular-nums; }
+  .tr-btn{
+    font:inherit; font-weight:700; cursor:pointer; padding:7px 14px;
+    border:1px solid var(--line,#b9b1a0); border-radius:5px; background:#fff; color:#222;
+  }
+  .tr-btn:hover{ background:#f0ece1; }
+  .tr-btn-primary{ background:#7a1f1f; border-color:#7a1f1f; color:#fff; }
+  .tr-btn-primary:hover{ background:#631919; }
+  .tr-log{ font-size:13px; line-height:1.7; max-height:220px; overflow-y:auto;
+    border:1px solid var(--line,#d8d2c4); border-radius:6px; padding:8px 12px; margin-top:10px; }
+  .tr-note{ font-size:12px; line-height:1.7; opacity:.8; }
+  .tr-ok{ color:#2e7d32; font-weight:700; }
+  .tr-ng{ color:#a8410f; font-weight:700; }
+</style>
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="192x192" href="assets/img/icon-192.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<!-- SEO:auto -->
+<link rel="canonical" href="https://wiper556.github.io/tanren-simulator.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="戦国IXA シミュレーター置き場">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:title" content="鍛錬シミュレーター｜戦国IXA シミュレーター置き場">
+<meta property="og:url" content="https://wiper556.github.io/tanren-simulator.html">
+<meta property="og:image" content="https://wiper556.github.io/assets/img/icon-192.png">
+<meta property="og:description" content="戦国IXAの鍛錬(TR)の成功率と、目標の鍛錬レベルまでに必要な素材の期待値を計算します。素材の種類・入手時期・同一No.・傑・たつじい・素材のTRスキルに対応。">
+<meta name="twitter:card" content="summary_large_image">
+<!-- /SEO:auto -->
+</head>
+<body>
+<div class="site-layout">
+  <aside class="site-sidebar" id="siteSidebar">
+    <div class="sidebar-header">
+      <span class="sidebar-title">メニュー</span>
+    </div>
+    <nav class="sidebar-nav">
+      <a href="index.html">シミュレーター一覧</a>
+      <a href="attack-simulator.html">攻撃/防御シミュレーター</a>
+      <a href="gacha-simulator.html">金くじシミュレーター</a>
+      <a href="characters-hub.html">武将データベース</a>
+      <a href="skills-hub.html">スキル一覧</a>
+      <a href="blog.html">記事</a>
+      <a href="privacy.html">プライバシーポリシー</a>
+    </nav>
+  </aside>
+
+  <div class="site-content">
+  <header class="site-header">
+    <a class="site-logo" href="index.html">戦国IXA シミュレーター置き場</a>
+  </header>
+
+  <main class="site-main">
+    <h1 class="page-title">鍛錬シミュレーター</h1>
+    <p class="page-lead">鍛錬1回ぶんの素材を入れると、成功率と、目標の鍛錬レベルまで同じ素材で続けたときに何回・何ポイントかかるかの期待値を出します。</p>
+
+    <div class="tr-controls">
+      <div class="tr-field">
+        <label for="trNow">いまの鍛錬レベル</label>
+        <select id="trNow">
+          <option value="0" selected>LV10(鍛錬なし)</option>
+          <option value="1">TR1</option>
+          <option value="2">TR2</option>
+          <option value="3">TR3</option>
+          <option value="4">TR4</option>
+        </select>
+      </div>
+      <div class="tr-field">
+        <label for="trGoal">目標</label>
+        <select id="trGoal">
+          <option value="1">TR1</option>
+          <option value="2">TR2</option>
+          <option value="3">TR3</option>
+          <option value="4">TR4</option>
+          <option value="5" selected>TR5</option>
+        </select>
+      </div>
+      <div>
+        <button type="button" class="tr-btn" id="trClear">素材を全部0にする</button>
+      </div>
+    </div>
+
+    <div class="content-block">
+      <h2>鍛錬1回に入れる素材</h2>
+      <div class="tr-scroll">
+        <table class="tr-table" id="trMatTable">
+          <thead>
+            <tr><th>素材</th><th>31章以前に入手</th><th>32章以降に入手</th><th>32章以降に金・琥珀くじで入手</th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <div class="tr-scroll" style="margin-top:12px;">
+        <table class="tr-table" id="trExtraTable">
+          <thead><tr><th>そのほかの素材</th><th>1枚(1つ)あたり</th><th>枚数(個数)</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="tr-total">
+      <div><div class="tr-cap">1回に入るポイント</div><div class="tr-num" id="trPoints">0</div></div>
+      <div><div class="tr-cap">次の段に上がる確率</div><div class="tr-num" id="trRate">0%</div></div>
+      <div><div class="tr-cap">目標までの回数(期待値)</div><div class="tr-num" id="trTries">-</div></div>
+      <div><div class="tr-cap">目標までの消費ポイント(期待値)</div><div class="tr-num" id="trSpent">-</div></div>
+    </div>
+
+    <div class="content-block">
+      <h2>1回鍛錬したときの結果の内訳</h2>
+      <div class="tr-scroll"><table class="tr-table" id="trDistTable"></table></div>
+      <p class="tr-note" id="trDistNote"></p>
+    </div>
+
+    <div class="content-block">
+      <h2>ためしに鍛錬してみる</h2>
+      <p class="tr-note">上の素材を毎回同じだけ入れたとして、乱数で鍛錬します。</p>
+      <button type="button" class="tr-btn tr-btn-primary" id="trRoll">1回鍛錬する</button>
+      <button type="button" class="tr-btn" id="trRollGoal">目標まで続ける</button>
+      <button type="button" class="tr-btn" id="trReset">いまの鍛錬レベルに戻す</button>
+      <div class="tr-log" id="trLog"></div>
+    </div>
+
+    <div class="content-block">
+      <h2>計算の中身</h2>
+      <ul class="tr-note">
+        <li>次の段に上がるのに要るポイントは、<strong>段ごとに TR1=10 / TR2=40 / TR3=90 / TR4=150 / TR5=200</strong>です(累計ではありません)。</li>
+        <li><strong>成功率 = 入れたポイント ÷ 次の段に要るポイント</strong>(100%で頭打ち)。失敗したときは入れた素材は残りません。たとえば極(1ポイント)1枚で TR1→TR2 は 1÷40=2.5%、TR2→TR3 は 1÷90≒1.1% です。</li>
+        <li><strong>100%を超えた分は次の段の抽選に持ち越されます</strong>(2024年12月からの仕様)。たとえば TR1 から 60ポイント入れると、TR2 には必ず上がり、残り20ポイントで TR3(90)を 20÷90≒22% で抽選します。</li>
+        <li>素材の付与ポイントは、天7・天(同一No.)30・極1・極(同一No.)4・シクレ/プラチナ極7・シクレ/プラチナ極(同一No.)30。<strong>32章以降に入手したカード</strong>は天10・天(同一No.)40・シクレ/プラチナ極10・同(同一No.)40、<strong>32章以降に戦国くじ【金】【琥珀】で入手したカード</strong>はその2倍です。「新城主応援！戦国くじ【金】」から入手したものと、譲与・取引で手に入れたものは2倍になりません。</li>
+        <li>傑は1枚500ポイント。たつじいは★0=5・★1=10・★2=20。素材カードがTR3以上のスキルを持っていれば、スキル1つにつき TR3=10・TR4=50・TR5=140 が足されます。</li>
+        <li>「目標までの回数」は、毎回上の素材を同じだけ入れ続けたときの期待値です。成功率がポイントに比例するので、<strong>少しずつ入れても一度に100%分入れても、消費ポイントの期待値はほぼ同じ</strong>になります(違いが出るのは持ち越しの分だけ)。少しずつ入れると、ばらつきが大きくなります。</li>
+        <li>パラレル天のTR6、スキル入れ替え・復刻天の継承合成で付く鍛錬レベルは、このページでは扱っていません。1回に入れられる素材の枚数の上限も見ていません。</li>
+      </ul>
+    </div>
+
+    <div id="pageComments"></div>
+  </main>
+
+  <footer class="site-footer">
+    <p>本サイトは戦国IXA(Sengoku IXA)の非公式ファンメイドツールです。運営会社・関連団体とは一切関係ありません。<br>
+    記載されている会社名・製品名・システム名などは、各社の商標、または登録商標です。<br>
+    © SQUARE ENIX</p>
+    <p><a href="privacy.html">プライバシーポリシー</a></p>
+  </footer>
+
+  </div>
+</div>
+
+<script>
+  // ============ 鍛錬の決まり ============
+  // 段ごとに要るポイント(累計ではない)。TRn に上がるのに REQ[n] ポイント。
+  const REQ = {1:10, 2:40, 3:90, 4:150, 5:200};
+  const MAX_TR = 5;
+
+  // 素材カードの付与ポイント。[31章以前, 32章以降, 32章以降の金・琥珀くじ]
+  const MATS = [
+    {key:'ten',        label:'天',                         pts:[7, 10, 20]},
+    {key:'tenSame',    label:'天(鍛錬ベースと同一No.)',     pts:[30, 40, 80]},
+    {key:'kyoku',      label:'極',                         pts:[1, 1, 2]},
+    {key:'kyokuSame',  label:'極(鍛錬ベースと同一No.)',     pts:[4, 4, 8]},
+    {key:'ps',         label:'シクレ/プラチナ極',            pts:[7, 10, 20]},
+    {key:'psSame',     label:'シクレ/プラチナ極(同一No.)',   pts:[30, 40, 80]}
+  ];
+  const EXTRAS = [
+    {key:'ketsu', label:'傑',                         pts:500},
+    {key:'tatsu0', label:'たつじい★0',                 pts:5},
+    {key:'tatsu1', label:'たつじい★1',                 pts:10},
+    {key:'tatsu2', label:'たつじい★2',                 pts:20},
+    {key:'sk3', label:'素材カードが持つTR3のスキル',    pts:10},
+    {key:'sk4', label:'素材カードが持つTR4のスキル',    pts:50},
+    {key:'sk5', label:'素材カードが持つTR5のスキル',    pts:140}
+  ];
+
+  // ============ 計算 ============
+  // いまの段 lv から points を入れたときの、到達する段の分布。
+  // 足りていれば必ず上がり、余りで次の段を抽選する(持ち越し)。
+  function attempt(lv, points){
+    const out = {};
+    function go(l, p, w){
+      if(l >= MAX_TR || p <= 0){ out[l] = (out[l] || 0) + w; return; }
+      const r = REQ[l + 1];
+      if(p >= r){ go(l + 1, p - r, w); return; }
+      const s = p / r;
+      out[l + 1] = (out[l + 1] || 0) + w * s;
+      out[l] = (out[l] || 0) + w * (1 - s);
+    }
+    go(lv, points, 1);
+    return out;
+  }
+
+  // 毎回 points を入れ続けたときの、goal に届くまでの回数の期待値。
+  function expectedTries(now, goal, points){
+    if(now >= goal) return 0;
+    if(points <= 0) return Infinity;
+    const E = {};
+    for(let l = goal; l <= MAX_TR; l++) E[l] = 0;
+    for(let l = goal - 1; l >= now; l--){
+      const d = attempt(l, points);
+      const stay = d[l] || 0;
+      let s = 1;
+      Object.keys(d).forEach(function(k){
+        const t = +k;
+        if(t > l) s += d[k] * E[Math.min(t, goal)];
+      });
+      E[l] = stay >= 1 ? Infinity : s / (1 - stay);
+    }
+    return E[now];
+  }
+
+  // ============ 画面 ============
+  const $ = function(id){ return document.getElementById(id); };
+  function num(el){ const v = parseFloat(el.value); return isFinite(v) && v > 0 ? v : 0; }
+  function pct(x){ return (x * 100 >= 10 ? (x * 100).toFixed(1) : (x * 100).toFixed(2)) + '%'; }
+  function fmt(x){ return isFinite(x) ? (x >= 100 ? Math.round(x).toLocaleString() : x.toFixed(1)) : '届かない'; }
+  function trName(l){ return l === 0 ? 'LV10' : 'TR' + l; }
+
+  function buildTables(){
+    const tb = $('trMatTable').tBodies[0];
+    MATS.forEach(function(m){
+      const tr = document.createElement('tr');
+      let h = '<td class="tr-lbl">' + m.label + '</td>';
+      m.pts.forEach(function(p, i){
+        h += '<td><span class="tr-note">' + p + 'P × </span><input type="number" min="0" step="1" value="0" data-p="' + p + '" id="m_' + m.key + '_' + i + '"></td>';
+      });
+      tr.innerHTML = h;
+      tb.appendChild(tr);
+    });
+    const eb = $('trExtraTable').tBodies[0];
+    EXTRAS.forEach(function(x){
+      const tr = document.createElement('tr');
+      tr.innerHTML = '<td class="tr-lbl">' + x.label + '</td><td>' + x.pts + 'P</td>'
+        + '<td><input type="number" min="0" step="1" value="0" data-p="' + x.pts + '" id="x_' + x.key + '"></td>';
+      eb.appendChild(tr);
+    });
+  }
+
+  function totalPoints(){
+    let s = 0;
+    document.querySelectorAll('#trMatTable input, #trExtraTable input').forEach(function(el){
+      s += num(el) * (+el.dataset.p);
+    });
+    return s;
+  }
+
+  function render(){
+    let now = +$('trNow').value, goal = +$('trGoal').value;
+    if(goal <= now){ goal = now + 1; $('trGoal').value = String(goal); }
+    const p = totalPoints();
+    $('trPoints').textContent = p.toLocaleString();
+    const d = attempt(now, p);
+    let up = 0;
+    Object.keys(d).forEach(function(k){ if(+k > now) up += d[k]; });
+    $('trRate').textContent = now >= MAX_TR ? '-' : pct(up);
+    const e = expectedTries(now, goal, p);
+    $('trTries').textContent = fmt(e) + (isFinite(e) ? '回' : '');
+    $('trSpent').textContent = isFinite(e) ? fmt(e * p) + 'P' : '-';
+
+    // 内訳の表
+    let h = '<thead><tr><th>1回鍛錬した後</th><th>確率</th></tr></thead><tbody>';
+    Object.keys(d).map(Number).sort(function(a, b){ return a - b; }).forEach(function(l){
+      if(d[l] <= 0) return;
+      h += '<tr><td class="tr-lbl">' + trName(l) + (l === now ? '(失敗・そのまま)' : '') + '</td><td>' + pct(d[l]) + '</td></tr>';
+    });
+    $('trDistTable').innerHTML = h + '</tbody>';
+    let need = 0;
+    for(let l = now + 1; l <= goal; l++) need += REQ[l];
+    $('trDistNote').textContent = trName(now) + ' から ' + trName(goal) + ' までちょうど100%ずつ入れると、合計 ' + need + 'P です。';
+  }
+
+  // ============ ためしに鍛錬 ============
+  let simLv = 0, simTries = 0, simSpent = 0;
+  function resetSim(){
+    simLv = +$('trNow').value; simTries = 0; simSpent = 0;
+    $('trLog').innerHTML = '<div>' + trName(simLv) + ' から始めます。</div>';
+  }
+  function rollOnce(){
+    const p = totalPoints();
+    if(p <= 0){ log('<span class="tr-ng">素材が入っていません。</span>'); return false; }
+    if(simLv >= MAX_TR){ log('もう TR5 です。'); return false; }
+    let l = simLv, rest = p;
+    while(l < MAX_TR && rest > 0){
+      const r = REQ[l + 1];
+      if(rest >= r){ l++; rest -= r; continue; }
+      if(Math.random() < rest / r) l++;
+      break;
+    }
+    simTries++; simSpent += p;
+    const before = simLv; simLv = l;
+    log(simTries + '回目(' + p + 'P): ' + (l > before
+      ? '<span class="tr-ok">成功 ' + trName(before) + ' → ' + trName(l) + '</span>'
+      : '<span class="tr-ng">失敗 ' + trName(before) + ' のまま</span>')
+      + ' / 累計 ' + simSpent.toLocaleString() + 'P');
+    return true;
+  }
+  function log(s){
+    const el = $('trLog');
+    el.insertAdjacentHTML('beforeend', '<div>' + s + '</div>');
+    el.scrollTop = el.scrollHeight;
+  }
+
+  buildTables();
+  document.querySelectorAll('#trMatTable input, #trExtraTable input').forEach(function(el){
+    el.addEventListener('input', render);
+  });
+  $('trNow').addEventListener('change', function(){ render(); resetSim(); });
+  $('trGoal').addEventListener('change', render);
+  $('trClear').addEventListener('click', function(){
+    document.querySelectorAll('#trMatTable input, #trExtraTable input').forEach(function(el){ el.value = 0; });
+    render();
+  });
+  $('trRoll').addEventListener('click', rollOnce);
+  $('trRollGoal').addEventListener('click', function(){
+    const goal = +$('trGoal').value;
+    let guard = 0;
+    while(simLv < goal && guard < 20000){ if(!rollOnce()) break; guard++; }
+    if(simLv >= goal) log('<span class="tr-ok">' + trName(goal) + ' に到達(' + simTries + '回・' + simSpent.toLocaleString() + 'P)</span>');
+  });
+  $('trReset').addEventListener('click', resetSim);
+  render();
+  resetSim();
+</script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="assets/js/comments-widget.js"></script>
+<script>renderCommentsWidget('pageComments', 'page:tanren-simulator');</script>
+<script src="assets/js/site-sidebar.js"></script>
+</body>
+</html>
