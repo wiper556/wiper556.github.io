@@ -23,19 +23,93 @@
   "uma": "A",
   "ki": "A"
  },
- "initialSkill": null,
- "skillDetail": null,
- "trTable": null,
+ "initialSkill": "万劫豊国",
+ "skillDetail": "S/LV10 確率 42% 攻撃 70%上昇/対象:弓・馬・砲・器\n①攻撃が70%上昇する(4部隊以下の攻撃で効果2倍)",
+ "trTable": [
+  {
+   "level": "LV10",
+   "points": "-",
+   "effect": "弓・馬・砲・器　確率 42% / 攻撃 70%上昇(4部隊以下の攻撃で効果2倍・TRなし)"
+  }
+ ],
  "reviewedOk": false,
  "notes": [
   "2026-08-17登録。カード画像が無いためixanary.com(cards/1975)とixawiki.com(BushoCard/1975ねね)の生HTML2ソースのみで作成した。imageFull/imageCharはnull。",
   "cost/lv0Troops/rankGrades/atkBase・atkGrowth/tacticsBase・tacticsGrowth/defGrowthは両ソース一致。defBaseのみixanary=1040・ixawiki=1000で食い違ったためnullにした(今回の割当20体のうち17体で発生している系統的な食い違い)。",
   "初期スキル名がixanaryは「万劫豊国」、ixawikiは「万却豊国」で食い違った(効果の数値・対象兵科は確率20%→42%/攻撃40%→70%上昇/4部隊以下の攻撃で効果2倍で完全一致、漢字1文字のみの相違)。ixawikiのアンカーIDは「skill_bankyakutoyokuni」(kyaku)でwiki側表記を支持する材料はあるが、標準2ソースのどちらかを勝たせない方針のためinitialSkill/skillDetail/trTableをnullにした。troopのみ両ソース一致内容から「弓馬砲器攻」と判断して記載した。",
   "reviewedOkはfalseのまま。カード画像による4隅バッジ・スキルパネル照合が未実施のため黄丸化はできない。",
-  "2026-08-16: 章は ixawiki の該当カードページの一番古いコメントの日付から推定した(chSource=wikiOldestComment)。**ゲーム内で確認した値ではない。** 章が分かっている146体での的中は141体(96.6%)。実物が分かったら上書きして chSource を消すこと。"
+  "2026-08-16: 章は ixawiki の該当カードページの一番古いコメントの日付から推定した(chSource=wikiOldestComment)。**ゲーム内で確認した値ではない。** 章が分かっている146体での的中は141体(96.6%)。実物が分かったら上書きして chSource を消すこと。",
+  "2026-10-04: 初期スキルを「万劫豊国」に決めて埋めた。ixanary(cards/1975 と skills/万劫豊国)と ixagno(blog-entry-6171「復刻天ねね(2)(No.1975)」)の2つが「万劫豊国」で一致(ixawikiだけ「万却豊国」で、ixanaryに万却豊国のページは無い)。LV10は確率42%・弓馬砲器・攻撃70%上昇・4部隊以下の攻撃で効果2倍(ixagnoの「4部隊以下なら140%」と一致)。合成表は ixanary の1次/2次で、ixagno の初期テーブルとも一致。C枠の移植後(無双英傑)はS1と一致(A-3-13)。"
  ],
  "wikiOldestComment": "2019-01-23",
  "wikiCommentCount": 25,
  "chGuess": "16章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "戦陣 破軍",
+   "rank": "A",
+   "afterSkill": "天穿神滅",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "44%",
+   "effectShort": "攻撃 66%上昇+防御 66%上昇",
+   "afterTarget": "砲器",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化"
+  },
+  {
+   "slot": "B",
+   "skill": "天穿神滅",
+   "rank": "SS",
+   "afterSkill": "覇王征軍",
+   "afterRank": "SS",
+   "target": "砲器",
+   "rate": "50%",
+   "effectShort": "攻撃 ((ランク+1)xコストx3) %上昇 部隊ランクとコストで効果が変化",
+   "afterTarget": "全",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 (部隊総コスト依存)%上昇(総C25=388.79%)(部隊総コストで変動・TRなし)"
+  },
+  {
+   "slot": "C",
+   "skill": "万劫豊国",
+   "rank": "S",
+   "afterSkill": "無双英傑",
+   "afterRank": "SS",
+   "target": "弓・馬・砲・器",
+   "rate": "42%",
+   "effectShort": "攻撃 70%上昇(4部隊以下の攻撃で効果2倍・TRなし)",
+   "afterTarget": "全",
+   "afterRate": "50%",
+   "afterEffectShort": "攻撃 99.9%上昇 防御 99.9%上昇 部隊消費コストを0.5低下 (特殊効果は模倣不可・TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "無双英傑",
+   "rank": "SS",
+   "afterSkill": "覇王絶世",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "50%",
+   "effectShort": "攻撃 99.9%上昇 防御 99.9%上昇 部隊消費コストを0.5低下 (特殊効果は模倣不可・TRなし)",
+   "afterTarget": "全",
+   "afterRate": "24%",
+   "afterEffectShort": "攻撃部隊ランクボーナスx15%上昇 (部隊ランクボーナスで効果が変化)"
+  },
+  {
+   "slot": "S2",
+   "skill": "天綾の誓約",
+   "rank": "SS",
+   "afterSkill": "天焉相克",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "攻撃 99.9%上昇 防御 99.9%上昇 破壊 150%上昇(TRなし)",
+   "afterTarget": "槍・弓・馬",
+   "afterRate": "70%",
+   "afterEffectShort": "全攻 (部隊総コスト依存)%上昇(総C25=393.79%)(部隊の総コストで効果が変化・TRなし)"
+  }
+ ]
 }

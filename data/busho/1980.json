@@ -39,10 +39,70 @@
   "天魔軍神はLV1(確率100%防御効果1.5倍・模倣不可)の内容が両ソースで一致したため、ixanary.comのLV10データ(防御効果2倍)をskillDetail/trTableに採用した。",
   "reviewedOkはfalseのまま。カード画像による4隅バッジ・スキルパネル照合が未実施のため黄丸化はできない。",
   "2026-08-16: 章は ixawiki の該当カードページの一番古いコメントの日付から推定した(chSource=wikiOldestComment)。**ゲーム内で確認した値ではない。** 章が分かっている146体での的中は141体(96.6%)。実物が分かったら上書きして chSource を消すこと。",
-  "2026-08-30: 鍛錬(TR)が無いことを明記した。うぐさんの規則で**鍛錬が登場したのは No.1263 が追加された28章から**であり、17章のカードで、鍛錬が登場した28章より前。データもそれを裏付けており、27章のカードは LV10 のみ・28章のカードは LV10〜TR5 を持つ。**28章以降で鍛錬の無い武将も居るため、そちらには何も書いていない。**"
+  "2026-08-30: 鍛錬(TR)が無いことを明記した。うぐさんの規則で**鍛錬が登場したのは No.1263 が追加された28章から**であり、17章のカードで、鍛錬が登場した28章より前。データもそれを裏付けており、27章のカードは LV10 のみ・28章のカードは LV10〜TR5 を持つ。**28章以降で鍛錬の無い武将も居るため、そちらには何も書いていない。**",
+  "2026-10-04: 合成表を入れた。ixawiki(BushoCard/1980織田信長)の合成候補テーブル1次/2次候補S1から。ixanaryは「合成不可カード、またはデータが欠損」と出しており表が無いので、単一ソース。掃天封壁陣・天鎖燎原陣はixawikiの表ではSだが、ixanaryのスキルページとサイト内の既存登録39件がSSなのでSSとした。"
  ],
  "wikiOldestComment": "2019-05-20",
  "wikiCommentCount": 57,
  "chGuess": "17章",
- "chSource": "wikiOldestComment"
+ "chSource": "wikiOldestComment",
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "洞察",
+   "rank": "B",
+   "afterSkill": "洞察",
+   "afterRank": "B",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "防御 7.5%上昇(部隊ランクボーナスで効果が変化)",
+   "afterEffectShort": "防御 7.5%上昇(部隊ランクボーナスで効果が変化)"
+  },
+  {
+   "slot": "B",
+   "skill": "掃天封壁陣",
+   "rank": "SS",
+   "afterSkill": "掃天封壁陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "6%",
+   "effectShort": "攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化する",
+   "afterEffectShort": "攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化する"
+  },
+  {
+   "slot": "C",
+   "skill": "幽冥主宰大神",
+   "rank": "SS",
+   "afterSkill": "幽冥主宰大神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "防御 90%上昇 攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化(模倣不可・TRなし)",
+   "afterEffectShort": "防御 90%上昇 攻撃部隊の武将が持つ特殊効果付き初期スキルを全て無効化(模倣不可・TRなし)"
+  },
+  {
+   "slot": "S1",
+   "skill": "天鎖燎原陣",
+   "rank": "SS",
+   "afterSkill": "天鎖燎原陣",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "30%",
+   "effectShort": "防御 (部隊ランクボーナス×15) %上昇 / ★28 防御 135%上昇",
+   "afterEffectShort": "防御 (部隊ランクボーナス×15) %上昇 / ★28 防御 135%上昇"
+  },
+  {
+   "slot": "S2",
+   "skill": "式神ノ冥王",
+   "rank": "SS",
+   "afterSkill": "荒破閃神",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "60%",
+   "effectShort": "攻撃 130%上昇 防御 130%上昇 破壊 50%上昇(TRなし)",
+   "afterTarget": "全",
+   "afterRate": "45%",
+   "afterEffectShort": "攻撃 110%上昇 (6部隊以下の攻撃で効果2倍)"
+  }
+ ]
 }

@@ -35,43 +35,47 @@
  "synthesisTable": [
   {
    "slot": "A",
-   "skill": null,
-   "rank": null,
+   "skill": "神光征軍",
+   "rank": "SS",
    "afterSkill": null,
    "afterRank": null,
-   "target": null,
-   "rate": null,
-   "effectShort": null
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 90%上昇+速度 200%上昇(TRなし)",
+   "afterEffectShort": null
   },
   {
    "slot": "B",
-   "skill": null,
-   "rank": null,
+   "skill": "神光征軍",
+   "rank": "SS",
    "afterSkill": null,
    "afterRank": null,
-   "target": null,
-   "rate": null,
-   "effectShort": null
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 90%上昇+速度 200%上昇(TRなし)",
+   "afterEffectShort": null
   },
   {
    "slot": "C",
-   "skill": null,
-   "rank": null,
+   "skill": "天之尾羽張",
+   "rank": "SS",
    "afterSkill": null,
    "afterRank": null,
-   "target": null,
-   "rate": null,
-   "effectShort": null
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 170%上昇+速度 150%上昇",
+   "afterEffectShort": null
   },
   {
    "slot": "S1",
-   "skill": null,
-   "rank": null,
+   "skill": "天之尾羽張",
+   "rank": "SS",
    "afterSkill": null,
    "afterRank": null,
-   "target": null,
-   "rate": null,
-   "effectShort": null
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 170%上昇+速度 150%上昇",
+   "afterEffectShort": null
   }
  ],
  "notes": [
@@ -80,7 +84,8 @@
   "指揮兵数はixanaryの★0-0の値(B-01の+0.5版の罠を避けるため突破ランク別の値は使わない)。",
   "合成候補はixanaryのスキルページの1次(移植前)・2次(移植後)。",
   "章は情報源に記載が無いため未確認。効果文が埋まっていない候補が残るため青丸のまま(D-15)。",
-  "2026-08-23: 合成候補から S2 の枠を外した。**童には S2 の枠が無い**(うぐさん)。ixanary のスキルページの合成テーブルが A/B/C/S1 の4列しか持たないのを情報源側の欠落と書いていたが、欠落ではなく童にその枠が無いのが正しかった。"
+  "2026-08-23: 合成候補から S2 の枠を外した。**童には S2 の枠が無い**(うぐさん)。ixanary のスキルページの合成テーブルが A/B/C/S1 の4列しか持たないのを情報源側の欠落と書いていたが、欠落ではなく童にその枠が無いのが正しかった。",
+  "2026-10-04: 合成表の1次(移植前)だけ入れた。ixawiki(BushoCard/1855チョコボ)の合成候補テーブルの1次候補から。2次候補は「AのS1」のような仮置きで未判明のため、afterSkill は null。童なのでS2の枠は無い。ixanaryは「合成不可カード、またはデータが欠損」で表が無く、単一ソース。"
  ],
  "wikiOldestComment": null,
  "wikiCommentCount": 0
