@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7334304987274613"
+     crossorigin="anonymous"></script>
+<title>合成シミュレーター｜戦国IXA シミュレーター置き場</title>
+<meta name="description" content="戦国IXAのスキル追加合成で、ベースと素材の武将・追加スキルの組み合わせからどの候補が出るかを表示します。">
+<link rel="stylesheet" href="assets/css/site.css">
+<style>
+  /* ============ 合成シミュレーター専用の見た目 ============ */
+  .sy-grid{ display:grid; grid-template-columns:repeat(2, minmax(0,1fr)); gap:16px; margin-bottom:18px; }
+  .sy-card{ padding:14px 16px; border:1px solid var(--line,#d8d2c4); border-radius:8px; background:var(--panel,#fbf9f4); min-width:0; }
+  .sy-card h2{ margin:0 0 10px; font-size:16px; }
+  .sy-field{ display:flex; flex-direction:column; gap:4px; margin-bottom:10px; }
+  .sy-field label{ font-size:12px; font-weight:700; letter-spacing:.04em; opacity:.75; }
+  .sy-field input{ font:inherit; padding:5px 8px; border:1px solid var(--line,#c9c2b2); border-radius:5px; background:#fff; color:#222; width:100%; box-sizing:border-box; }
+  .sy-meta{ font-size:12px; line-height:1.6; opacity:.8; min-height:1.6em; word-break:break-all; }
+  .sy-scroll{ overflow-x:auto; }
+  table.sy-table{ border-collapse:collapse; width:100%; font-size:13px; }
+  table.sy-table th, table.sy-table td{ border:1px solid var(--line,#d8d2c4); padding:6px 10px; text-align:left; white-space:nowrap; }
+  table.sy-table th{ background:var(--panel,#f3efe4); text-align:center; font-weight:700; }
+  table.sy-table td.sy-gone{ text-decoration:line-through; opacity:.5; }
+  .sy-result{ padding:16px; border:2px solid #7a1f1f; border-radius:8px; margin:6px 0 18px; }
+  .sy-result ol{ margin:6px 0 0; padding-left:1.6em; font-size:16px; line-height:1.9; }
+  .sy-why{ font-size:12px; opacity:.75; margin-left:.6em; }
+  .sy-rank{ display:inline-block; min-width:2.6em; font-size:11px; font-weight:700; padding:0 6px; margin-right:6px; border-radius:99px; background:#7a1f1f; color:#fff; text-align:center; }
+  .sy-note{ font-size:12px; line-height:1.7; opacity:.8; }
+  .sy-warn{ color:#a8410f; font-weight:700; }
+  @media (max-width: 760px){ .sy-grid{ grid-template-columns:1fr; } }
+</style>
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="192x192" href="assets/img/icon-192.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<!-- SEO:auto -->
+<link rel="canonical" href="https://wiper556.github.io/synthesis-simulator.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="戦国IXA シミュレーター置き場">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:title" content="合成シミュレーター｜戦国IXA シミュレーター置き場">
+<meta property="og:url" content="https://wiper556.github.io/synthesis-simulator.html">
+<meta property="og:image" content="https://wiper556.github.io/assets/img/icon-192.png">
+<meta property="og:description" content="戦国IXAのスキル追加合成で、ベースと素材の武将・追加スキルの組み合わせからどの候補が出るかを表示します。">
+<meta name="twitter:card" content="summary_large_image">
+<!-- /SEO:auto -->
+</head>
+<body>
+<div class="site-layout">
+  <aside class="site-sidebar" id="siteSidebar">
+    <div class="sidebar-header">
+      <span class="sidebar-title">メニュー</span>
+    </div>
+    <nav class="sidebar-nav">
+      <a href="index.html">シミュレーター一覧</a>
+      <a href="attack-simulator.html">攻撃/防御シミュレーター</a>
+      <a href="gacha-simulator.html">金くじシミュレーター</a>
+      <a href="characters-hub.html">武将データベース</a>
+      <a href="skills-hub.html">スキル一覧</a>
+      <a href="blog.html">記事</a>
+      <a href="privacy.html">プライバシーポリシー</a>
+    </nav>
+  </aside>
+
+  <div class="site-content">
+  <header class="site-header">
+    <a class="site-logo" href="index.html">戦国IXA シミュレーター置き場</a>
+  </header>
+
+  <main class="site-main">
+    <h1 class="page-title">合成シミュレーター</h1>
+    <p class="page-lead">スキル追加合成で、ベース(スロット1)と素材(スロット2)の組み合わせから、どのスキルが候補に出るかを表示します。成功率はまだ計算しません。</p>
+
+    <div class="sy-grid">
+      <div class="sy-card">
+        <h2>ベース(スロット1)</h2>
+        <div class="sy-field">
+          <label for="syBase">武将(名前かNo.で探す)</label>
+          <input type="text" id="syBase" list="syList" placeholder="例: 1121 上杉景勝" autocomplete="off">
+        </div>
+        <div class="sy-meta" id="syBaseMeta"></div>
+        <div class="sy-field">
+          <label for="syBase2">追加スキル1(付いていれば)</label>
+          <input type="text" id="syBase2" list="sySkillList" autocomplete="off">
+        </div>
+        <div class="sy-field">
+          <label for="syBase3">追加スキル2(付いていれば)</label>
+          <input type="text" id="syBase3" list="sySkillList" autocomplete="off">
+        </div>
+      </div>
+      <div class="sy-card">
+        <h2>素材(スロット2)</h2>
+        <div class="sy-field">
+          <label for="syMat">武将(名前かNo.で探す)</label>
+          <input type="text" id="syMat" list="syList" placeholder="例: 1125 伊東義祐" autocomplete="off">
+        </div>
+        <div class="sy-meta" id="syMatMeta"></div>
+        <div class="sy-field">
+          <label for="syMat2">追加スキル1(付いていれば)</label>
+          <input type="text" id="syMat2" list="sySkillList" autocomplete="off">
+        </div>
+        <div class="sy-field">
+          <label for="syMat3">追加スキル2(付いていれば)</label>
+          <input type="text" id="syMat3" list="sySkillList" autocomplete="off">
+        </div>
+      </div>
+    </div>
+
+    <div class="sy-result">
+      <div style="font-size:12px;font-weight:700;opacity:.7;">出る候補</div>
+      <div id="syOut" class="sy-note">ベースと素材の武将を選んでください。</div>
+    </div>
+
+    <div class="content-block">
+      <h2>素材の合成表</h2>
+      <div class="sy-scroll"><table class="sy-table" id="syTable"></table></div>
+      <p class="sy-note" id="syTableNote"></p>
+    </div>
+
+    <div class="content-block">
+      <h2>候補の決まり方</h2>
+      <ul class="sy-note">
+        <li>候補は<strong>素材(スロット2)の初期スキルの合成表</strong>から決まります。ベースのスキルの合成表は使いません。</li>
+        <li>ふつうは合成表の <strong>A・B・C</strong> が出ます。</li>
+        <li>素材に追加スキルが付いていると、<strong>1つにつき A、B の順に1つずつ消え</strong>、代わりにその追加スキル自身の合成表の S1(このサイトでは各スキルの「移植後」の欄)が出ます。</li>
+        <li>候補が<strong>ベースの持っているスキルと同じ</strong>とき、または追加スキルから出た候補が B・C と同じときは、その候補が消えて素材の合成表の <strong>S1</strong> が出ます。</li>
+        <li><strong>S2 は同じNo.の武将どうしを合成したときだけ</strong>出ます。</li>
+        <li>この決まりは公開されている攻略情報をもとにしています。重なりが2つ以上あるときなど、細かいところはゲーム内の画面で確かめてください。</li>
+        <li>合成できないカード(傑・吉法師【童】・前田慶次【童】)は素材に使えません。</li>
+      </ul>
+    </div>
+
+    <div id="pageComments"></div>
+  </main>
+
+  <footer class="site-footer">
+    <p>本サイトは戦国IXA(Sengoku IXA)の非公式ファンメイドツールです。運営会社・関連団体とは一切関係ありません。<br>
+    記載されている会社名・製品名・システム名などは、各社の商標、または登録商標です。<br>
+    © SQUARE ENIX</p>
+    <p><a href="privacy.html">プライバシーポリシー</a></p>
+  </footer>
+
+  </div>
+</div>
+
+<datalist id="syList"></datalist>
+<datalist id="sySkillList"></datalist>
+
+<script src="assets/js/busho-index.js"></script>
+<script>
+  // 一覧のレアリティ記号 → 正本の置き場所(順に試す)
+  const DIRS = {ten:['busho','busho-parallel'], kyoku:['busho-kyoku','busho-kyoku-ps'], toku:['busho-toku','busho-toku-s'],
+                ketsu:['busho-ketsu'], ue:['busho-ue'], jo:['busho-jo'], do:['busho-do']};
+  const $ = function(id){ return document.getElementById(id); };
+  const cache = {};
+
+  function esc(s){ return String(s == null ? '' : s).replace(/[&<>"']/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
+
+  // 「1121 上杉景勝（4）」→ 一覧の1件
+  function findEntry(text){
+    const m = String(text || '').trim().match(/^(\d{4,5})/);
+    if(!m) return null;
+    return BUSHO_INDEX.find(function(e){ return e[0] === m[1]; }) || null;
+  }
+
+  async function loadJSON(path){
+    if(path in cache) return cache[path];
+    try{
+      const r = await fetch(path);
+      cache[path] = r.ok ? await r.json() : null;
+    }catch(e){ cache[path] = null; }
+    return cache[path];
+  }
+  async function loadBusho(entry){
+    for(const d of (DIRS[entry[3]] || [])){
+      const j = await loadJSON('data/' + d + '/' + entry[0] + '.json');
+      if(j) return j;
+    }
+    return null;
+  }
+  // 追加スキル自身の合成表のS1(=このサイトの ownHiddenCandidate)
+  async function ownS1(skill){
+    if(!skill) return null;
+    const j = await loadJSON('data/skill/' + encodeURIComponent(skill) + '.json');
+    return j && j.ownHiddenCandidate ? j.ownHiddenCandidate : null;
+  }
+  function rankOf(table, name){
+    const r = (table || []).find(function(x){ return x.skill === name; });
+    return r ? r.rank : '';
+  }
+
+  async function render(){
+    const be = findEntry($('syBase').value), me = findEntry($('syMat').value);
+    const base = be ? await loadBusho(be) : null;
+    const mat = me ? await loadBusho(me) : null;
+    $('syBaseMeta').textContent = base ? ('初期スキル: ' + (base.initialSkill || '不明')) : '';
+    $('syMatMeta').textContent = mat ? ('初期スキル: ' + (mat.initialSkill || '不明')) : '';
+    if(!base || !mat){ $('syOut').textContent = 'ベースと素材の武将を選んでください。'; $('syTable').innerHTML = ''; $('syTableNote').textContent = ''; return; }
+
+    const t = mat.synthesisTable || [];
+    const slot = {};
+    t.forEach(function(r){ slot[r.slot] = r; });
+    // 素材の合成表
+    $('syTable').innerHTML = '<thead><tr><th>枠</th><th>スキル</th><th>ランク</th></tr></thead><tbody>'
+      + ['A','B','C','S1','S2'].filter(function(s){ return slot[s]; }).map(function(s){
+          return '<tr><td>' + s + '</td><td>' + esc(slot[s].skill || '不明') + '</td><td>' + esc(slot[s].rank || '') + '</td></tr>';
+        }).join('') + '</tbody>';
+    $('syTableNote').textContent = '';
+    if(!t.some(function(r){ return r.skill; })){ $('syTable').innerHTML = ''; $('syTableNote').textContent = 'このカードの合成表はありません。'; }
+    if(mat.noSynthesis){ $('syOut').innerHTML = '<span class="sy-warn">このカードは合成の素材に使えません。</span>'; return; }
+    if(!slot.A || !slot.A.skill){ $('syOut').innerHTML = '<span class="sy-warn">素材の合成表がまだ登録されていません。</span>'; return; }
+
+    const baseSkills = [base.initialSkill, $('syBase2').value.trim(), $('syBase3').value.trim()].filter(Boolean);
+    const added = [$('syMat2').value.trim(), $('syMat3').value.trim()].filter(Boolean);
+
+    // 1. A・B・C
+    let cands = ['A','B','C'].filter(function(s){ return slot[s] && slot[s].skill; })
+      .map(function(s){ return {name:slot[s].skill, rank:slot[s].rank, why:s}; });
+    // 2. 追加スキル1つにつき A, B の順に消え、その追加スキルのS1が出る
+    const unknown = [];
+    for(let i = 0; i < added.length; i++){
+      const drop = ['A','B'][i];
+      cands = cands.filter(function(c){ return c.why !== drop; });
+      const s1 = await ownS1(added[i]);
+      if(s1) cands.push({name:s1.skill, rank:s1.rank, why:'追加スキル「' + added[i] + '」のS1', fromAdded:true});
+      else unknown.push(added[i]);
+    }
+    let needS1 = false;
+    // 3-ii. 追加スキルから出た候補が B・C と同じ
+    cands = cands.filter(function(c){
+      if(c.fromAdded && cands.some(function(o){ return !o.fromAdded && o.name === c.name; })){ needS1 = true; return false; }
+      return true;
+    });
+    // 3-i. ベースの持つスキルと同じ候補
+    cands = cands.filter(function(c){
+      if(baseSkills.indexOf(c.name) >= 0){ needS1 = true; return false; }
+      return true;
+    });
+    const s1 = slot.S1 && slot.S1.skill;
+    if(needS1 && s1 && !cands.some(function(c){ return c.name === s1; })) cands.push({name:s1, rank:slot.S1.rank, why:'S1(重なった候補の代わり)'});
+    // 4. 同じNo.どうしならS2
+    if(be[0] === me[0] && slot.S2 && slot.S2.skill) cands.push({name:slot.S2.skill, rank:slot.S2.rank, why:'S2(同じNo.どうし)'});
+
+    let h = cands.length ? '<ol>' + cands.map(function(c){
+      return '<li><span class="sy-rank">' + esc(c.rank || '?') + '</span>' + esc(c.name) + '<span class="sy-why">' + esc(c.why) + '</span></li>';
+    }).join('') + '</ol>' : '<span class="sy-warn">候補がありません。</span>';
+    if(unknown.length) h += '<p class="sy-note sy-warn">「' + unknown.map(esc).join('」「') + '」の合成表(S1)がこのサイトにまだ無いので、その分の候補は出していません。</p>';
+    $('syOut').innerHTML = h;
+  }
+
+  // 入力候補
+  (function(){
+    const dl = $('syList'), sk = $('sySkillList'), seen = {};
+    let h = '', hs = '';
+    BUSHO_INDEX.forEach(function(e){
+      h += '<option value="' + esc(e[0] + ' ' + e[1]) + '">';
+      if(e[4] && !seen[e[4]]){ seen[e[4]] = 1; hs += '<option value="' + esc(e[4]) + '">'; }
+    });
+    dl.innerHTML = h; sk.innerHTML = hs;
+  })();
+  ['syBase','syBase2','syBase3','syMat','syMat2','syMat3'].forEach(function(id){
+    $(id).addEventListener('change', render);
+    $(id).addEventListener('input', function(){ if(findEntry(this.value) || this.value === '' || id.length > 5) render(); });
+  });
+</script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="assets/js/comments-widget.js"></script>
+<script>renderCommentsWidget('pageComments', 'page:synthesis-simulator');</script>
+<script src="assets/js/site-sidebar.js"></script>
+</body>
+</html>
