@@ -35,53 +35,68 @@
  "synthesisTable": [
   {
    "slot": "A",
-   "skill": null,
-   "rank": null,
-   "afterSkill": null,
-   "afterRank": null,
-   "target": null,
-   "rate": null,
-   "effectShort": null
+   "skill": "不龍獅子虎",
+   "rank": "D",
+   "afterSkill": "名人",
+   "afterRank": "B",
+   "target": "弓/馬/器",
+   "rate": "29%",
+   "effectShort": "防御 66%上昇 / 破壊 32%上昇(TRなし)",
+   "afterTarget": "槍弓馬",
+   "afterRate": "20%",
+   "afterEffectShort": "防御 42%上昇"
   },
   {
    "slot": "B",
-   "skill": null,
-   "rank": null,
-   "afterSkill": null,
-   "afterRank": null,
-   "target": null,
-   "rate": null,
-   "effectShort": null
+   "skill": "弓隊守備",
+   "rank": "F",
+   "afterSkill": "弓隊急襲",
+   "afterRank": "F",
+   "target": "弓",
+   "rate": "16%",
+   "effectShort": "防御 (コストx6) %上昇 / (武将のコストで効果が変化します)",
+   "afterTarget": "弓",
+   "afterRate": "16%",
+   "afterEffectShort": "攻撃 (コストx5) %上昇 / (武将のコストで効果が変化します)"
   },
   {
    "slot": "C",
-   "skill": null,
-   "rank": null,
-   "afterSkill": null,
-   "afterRank": null,
-   "target": null,
-   "rate": null,
-   "effectShort": null
+   "skill": "臥籠",
+   "rank": "D",
+   "afterSkill": "美龍泰天",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "10%",
+   "effectShort": "攻撃 69%上昇 防御 69%上昇",
+   "afterTarget": "槍弓馬",
+   "afterRate": "35%",
+   "afterEffectShort": "防御 58%上昇 / 自拠点防御時は防御効果1.5倍"
   },
   {
    "slot": "S1",
-   "skill": null,
-   "rank": null,
-   "afterSkill": null,
-   "afterRank": null,
-   "target": null,
-   "rate": null,
-   "effectShort": null
+   "skill": "名人",
+   "rank": "B",
+   "afterSkill": "背水之陣",
+   "afterRank": "B",
+   "target": "槍弓馬",
+   "rate": "20%",
+   "effectShort": "防御 42%上昇",
+   "afterTarget": "槍弓馬",
+   "afterRate": "20%",
+   "afterEffectShort": "防御 37%上昇"
   },
   {
    "slot": "S2",
-   "skill": null,
-   "rank": null,
-   "afterSkill": null,
-   "afterRank": null,
-   "target": null,
-   "rate": null,
-   "effectShort": null
+   "skill": "野太刀",
+   "rank": "C",
+   "afterSkill": "戦陣 凱旋",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "17%",
+   "effectShort": "攻撃 77%上昇 / 防御 77%上昇",
+   "afterTarget": "全",
+   "afterRate": "10%",
+   "afterEffectShort": "攻撃 87%上昇+防御 87%上昇(TRなし)"
   }
  ],
  "notes": [
@@ -91,7 +106,8 @@
   "合成候補はixanaryのスキルページの1次(移植前)・2次(移植後)。",
   "章は情報源に記載が無いため未確認。効果文が埋まっていない候補が残るため青丸のまま(D-15)。",
   "2026-08-16: 章は ixawiki の該当カードページの一番古いコメントの日付から推定した(chSource=wikiOldestComment)。**ゲーム内で確認した値ではない。** 章が分かっている146体での的中は141体(96.6%)。実物が分かったら上書きして chSource を消すこと。",
-  "2026-08-30: 鍛錬(TR)が無いことを明記した。うぐさんの規則で**鍛錬が登場したのは No.1263 が追加された28章から**であり、特 は現在まで鍛錬の追加が無い。データもそれを裏付けており、27章のカードは LV10 のみ・28章のカードは LV10〜TR5 を持つ。**28章以降で鍛錬の無い武将も居るため、そちらには何も書いていない。**"
+  "2026-08-30: 鍛錬(TR)が無いことを明記した。うぐさんの規則で**鍛錬が登場したのは No.1263 が追加された28章から**であり、特 は現在まで鍛錬の追加が無い。データもそれを裏付けており、27章のカードは LV10 のみ・28章のカードは LV10〜TR5 を持つ。**28章以降で鍛錬の無い武将も居るため、そちらには何も書いていない。**",
+  "2026-10-04: 合成表を入れた。ixawiki(BushoCard/3451伊東マンショ)の合成候補テーブル1次/2次候補S1から。ixanaryは「合成不可カード、またはデータが欠損」と出しており表が無いので、単一ソース。"
  ],
  "wikiOldestComment": "2021-04-10",
  "wikiCommentCount": 7,

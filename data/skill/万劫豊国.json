@@ -1,0 +1,30 @@
+{
+ "name": "万劫豊国",
+ "rank": "S",
+ "baseRate": 42,
+ "target": "弓・馬・砲・器",
+ "effectSummary": "S/LV10 確率 42% 攻撃 70%上昇/対象:弓・馬・砲・器\n①攻撃が70%上昇する(4部隊以下の攻撃で効果2倍)",
+ "categoryLinks": [],
+ "sourceCharacters": [
+  {
+   "name": "ねね-復刻-",
+   "no": "1975",
+   "slot": "C"
+  }
+ ],
+ "ownHiddenCandidate": {
+  "skill": "無双英傑",
+  "rank": "SS"
+ },
+ "trTable": [
+  {
+   "level": "LV10",
+   "points": "-",
+   "effect": "弓・馬・砲・器　確率 42% / 攻撃 70%上昇(4部隊以下の攻撃で効果2倍・TRなし)"
+  }
+ ],
+ "notes": [
+  "2026-10-04作成。S以上はページを作る規約(RULES.md S-01)。ixanary.com/skills/万劫豊国/ と ixagno(blog-entry-6171)から。",
+  "categoryLinksの9項目は該当なし(「4部隊以下」は人数依存の係数ではなく条件)。"
+ ]
+}

@@ -1,0 +1,289 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+ <meta http-equiv="content-type" content="application/xhtml+xml; charset=EUC-JP" />
+ <meta name="robots" content="index,follow" />
+<meta description="戦国IXA（戦国イクサ） Wiki ブラウザゲーム">
+<meta keywords="戦国IXA,戦国,IXA,sengokuixa,SQUARE,スクウェア,YAHOO,攻略,wiki,裏技,裏ワザ">
+<title>BushoCard/21001賀茂在昌 - 戦国IXA Wiki</title>
+ <link rel="stylesheet" type="text/css" media="screen" href="./css/ixa/pukiwiki.css?20111211">
+ <link rel="stylesheet" type="text/css" media="screen" href="./css/common/common.css?20111210">
+ <link rel="shortcut icon" href="./image/ixa/favicon.ico" type="image/x-icon">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+<script type="text/javascript" src="./js/common/utils.js"></script>
+
+<script type="text/javascript"><!--
+scrolltotop.init(540);
+//--></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17978830-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<div id="header">
+ <a href="index.php"><img id="logo" src="./image/ixa/toplogo.png" alt="戦国IXA" title="戦国IXA" /></a>
+ <h1 class="title"><a href="https://ixawiki.com/index.php?plugin=related&amp;page=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB">BushoCard/21001賀茂在昌</a> </h1>
+</div>
+<div id="navigator"><a href="https://ixawiki.com/index.php?FrontPage">ホーム</a><span class="space"></span><a href="https://ixawiki.com/index.php?plugin=newpage&amp;refer=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB">新規</a><a href="https://ixawiki.com/index.php?cmd=edit&amp;page=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB">編集</a><a href="https://ixawiki.com/index.php?plugin=attach&amp;pcmd=upload&amp;page=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB">添付</a><span class="space"></span><a href="https://ixawiki.com/index.php?cmd=list">一覧</a><a href="https://ixawiki.com/index.php?cmd=search">単語検索</a><a href="https://ixawiki.com/index.php?RecentChanges">最終更新</a><a href="https://ixawiki.com/index.php?cmd=diff&amp;page=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB">差分</a><a href="https://ixawiki.com/index.php?cmd=backup&amp;page=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB">バックアップ</a><span class="space"></span><a href="https://ixawiki.com/index.php?cmd=help">ヘルプ</a><span class="navi_acc"></span></div>
+<div id="contents">
+<table class="contents" width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+  <td class="ltable" valign="top"><div id="menubar">
+  <form action="http://www.ixawiki.com/index.php" method="get" id="searchform">
+<div><input type="hidden" name="encode_hint" value="ぷ" /></div>
+ <div class="search">
+  <input type="hidden" name="cmd" value="search" />
+  <input type="text" placeholder="Search" name="word" value="" size="20" class="searchinput"/>
+  <input type="submit" value="検索" class="btn success searchbutton"/>
+  <input type="radio" name="type" id="_p_search_AND" value="AND"  checked="checked" />
+  <label for="_p_search_AND">AND検索</label>
+  <input type="radio" name="type" id="_p_search_OR" value="OR"   />
+  <label for="_p_search_OR">OR検索</label>
+ </div>
+</form>
+<h4 id="content_1_0">ゲーム概要</h4>
+<p><a href="http://www.ixawiki.com/index.php?Guide%2F%A5%B2%A1%BC%A5%E0%BE%D2%B2%F0" title="Guide/ゲーム紹介">ゲーム紹介</a><br />
+<a href="http://www.ixawiki.com/index.php?Guide%2F%BB%CF%A4%E1%A4%EB%C1%B0%A4%CE%C3%ED%B0%D5%C5%C0" title="Guide/始める前の注意点"><span class="b">始める前の注意点</span></a><br />
+<a href="http://www.ixawiki.com/index.php?Guide%2F%B9%F1" title="Guide/国">国</a>　<a href="http://www.ixawiki.com/index.php?Guide%2F%C6%B1%CC%C1" title="Guide/同盟">同盟</a>　<a href="http://www.ixawiki.com/index.php?Guide%2F%BE%EB%BC%E7" title="Guide/城主">城主</a>　<a href="http://www.ixawiki.com/index.php?%CD%D1%B8%EC%BD%B8" title="用語集">用語</a><br />
+<a href="http://www.ixawiki.com/index.php?%C0%EF%B9%F1%A4%AF%A4%B8" title="戦国くじ">戦国くじ</a>　<a href="http://www.ixawiki.com/index.php?FAQ" title="FAQ">FAQ</a><br /></p>
+
+<h4 id="content_1_1">武将カード</h4>
+<p><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7" title="Busho/武将カード概要">武将概要</a>　<a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7%2F%BF%B7%A5%AB%A1%BC%A5%C9" title="Busho/武将カード一覧/新カード">最新カード</a><br /></p>
+<div class="ie5"><table class="style_table" cellspacing="1" border="0"><thead><tr><td class="c" style="width:40px;" colspan="4"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7" title="Busho/武将カード一覧">武将カード一覧（全）</a></td></tr>
+</thead>
+<tbody><tr><td class="c" rowspan="3">レ<br class="spacer" />ア<br class="spacer" />別</td><td class="c" style="width:40px;"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7%28%C5%B7%29" title="Busho/武将カード一覧(天)"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7&amp;src=%C5%B7.png" alt="天.png" title="天.png" width="30" height="30" /></a></td><td class="c" style="width:40px;"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7%28%B6%CB%29" title="Busho/武将カード一覧(極)"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7&amp;src=%B6%CB.png" alt="極.png" title="極.png" width="30" height="30" /></a></td><td class="c" style="width:40px;"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7%28%C6%C3%29" title="Busho/武将カード一覧(特)"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7&amp;src=%C6%C3.png" alt="特.png" title="特.png" width="30" height="30" /></a></td></tr>
+<tr><td class="c" style="width:40px;"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7%28%BE%E5%29" title="Busho/武将カード一覧(上)"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7&amp;src=%BE%E5.png" alt="上.png" title="上.png" width="30" height="30" /></a></td><td class="c" style="width:40px;"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7%28%BD%F8%29" title="Busho/武将カード一覧(序)"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7&amp;src=%BD%F8.png" alt="序.png" title="序.png" width="30" height="30" /></a></td><td class="c" style="width:40px;"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7%28%B7%E6%29" title="Busho/武将カード一覧(傑)"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7&amp;src=%B7%E6.png" alt="傑.png" title="傑.png" width="30" height="30" /></a></td></tr>
+<tr><td class="c" style="width:40px;"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7%28%C2%BE%29" title="Busho/武将カード一覧(他)"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7&amp;src=%C2%BEL.png" alt="他L.png" title="他L.png" width="30" height="30" /></a></td><td class="c" style="width:40px;"></td><td class="c" style="width:40px;"></td></tr>
+</tbody>
+</table></div>
+<p><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B2%E8%C1%FC" title="Busho/武将カード画像">画像</a>
+<a href="http://www.ixawiki.com/index.php?Busho%2F%A5%AB%A1%BC%A5%C9%BC%E8%B0%FA" title="Busho/カード取引">カード取引</a>
+<a href="http://www.ixawiki.com/index.php?Busho%2F%A5%A4%A5%E9%A5%B9%A5%C8%CA%CC" title="Busho/イラスト別">イラスト別</a></p>
+
+<h4 id="content_1_2">武将スキル</h4>
+<p><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%B9%A5%AD%A5%EB" title="Busho/武将スキル">武将スキル</a><br />
+<a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F4%C2%E2%A5%B9%A5%AD%A5%EB" title="Busho/部隊スキル">部隊スキル</a><br />
+<a href="http://www.ixawiki.com/index.php?%C9%F0%BE%AD%C4%C9%B2%C3%A5%B9%A5%AD%A5%EB%B0%EC%CD%F7" title="武将追加スキル一覧">武将追加スキル一覧</a><br /></p>
+
+<h4 id="content_1_3">武将カード育成</h4>
+<p><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%E9%C0%AE" title="Busho/武将カード育成">育成概要</a>　<a href="http://www.ixawiki.com/index.php?Busho%2F%C9%AC%CD%D7%B7%D0%B8%B3%C3%CD" title="Busho/必要経験値">必要経験値</a><br />
+<a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B9%E7%C0%AE" title="Busho/武将カード合成">合成概要</a>　<a href="http://www.ixawiki.com/index.php?%A5%B9%A5%AD%A5%EB%C6%BB%BE%EC" title="スキル道場">スキル道場</a><br /></p>
+
+<h4 id="content_1_4">所領・開拓</h4>
+<p><a href="http://www.ixawiki.com/index.php?Other%2FNPC%B6%F5%A4%AD%C3%CF" title="Other/NPC空き地">NPC空き地</a>　<a href="http://www.ixawiki.com/index.php?Other%2F%BD%EA%CE%CE" title="Other/所領">所領</a></p>
+
+<h4 id="content_1_5">内政</h4>
+<p><a href="http://www.ixawiki.com/index.php?Domestic%2F%B7%FA%C3%DB%A5%C4%A5%EA%A1%BC" title="Domestic/建築ツリー">建築ツリー</a>　<a href="http://www.ixawiki.com/index.php?Domestic%2F%BB%DC%C0%DF" title="Domestic/施設">施設</a><br />
+<a href="http://www.ixawiki.com/index.php?Busho%2F%CA%BC%BB%CE%B0%EC%CD%F7" title="Busho/兵士一覧">研究/兵士一覧</a>　<a href="http://www.ixawiki.com/index.php?%C8%EB%B6%AD%C3%B5%BA%F7" title="秘境探索">秘境探索</a><br />
+<a href="http://www.ixawiki.com/index.php?%B2%CC%BF%B4%B0%DB%B6%AD" title="果心異境">果心異境</a></p>
+
+<h4 id="content_1_6">合戦</h4>
+<p><a href="http://www.ixawiki.com/index.php?%B9%E7%C0%EF%B3%B5%CD%D7" title="合戦概要">合戦概要</a>　<a href="http://www.ixawiki.com/index.php?%B9%E7%C0%EF%A5%AC%A5%A4%A5%C9" title="合戦ガイド">合戦ガイド</a><br />
+<a href="http://www.ixawiki.com/index.php?%C0%EF%B8%F9%A4%C8%B9%E7%C0%EF%CA%F3%BD%B7" title="戦功と合戦報酬">戦功と合戦報酬</a>　<a href="http://www.ixawiki.com/index.php?%CC%BE%C0%BC%A4%C8%BB%DC%A4%B7" title="名声と施し">名声と施し</a><br /></p>
+
+<h4 id="content_1_7">クエスト/刷新</h4>
+<p><a href="http://www.ixawiki.com/index.php?%A5%AF%A5%A8%A5%B9%A5%C8" title="クエスト">クエスト</a>　<a href="http://www.ixawiki.com/index.php?%A5%EF%A1%BC%A5%EB%A5%C9%BA%FE%BF%B7" title="ワールド刷新">ワールド刷新</a>
+<br /></p>
+
+<h4 id="content_1_8">イベント</h4>
+<p><a href="http://www.ixawiki.com/index.php?%A5%A4%A5%D9%A5%F3%A5%C8%2F%B8%B8%A4%CE%C9%F0%BE%AD%C2%E7%B6%C2%B1%E3" title="イベント/幻の武将大饗宴">幻の武将大饗宴</a><br />
+<a href="http://www.ixawiki.com/index.php?%A4%EF%A4%F3%A4%C0%A4%D5%A4%EB%C7%D5%28%B2%BE%29" title="わんだふる杯(仮)">わんだふる杯(仮)</a><br />
+<br /></p>
+
+<h4 id="content_1_9">その他</h4>
+<p><a href="http://www.ixawiki.com/index.php?%A5%B3%A5%E1%A5%F3%A5%C8" title="コメント">コメント</a><br />
+<a href="http://www.ixawiki.com/index.php?BushoCard%2F%A5%C6%A5%F3%A5%D7%A5%EC" title="BushoCard/テンプレ">テンプレ(武将カード)</a><br /></p>
+<div style="text-align:right">total:13773<br class="spacer" />
+today:2<br class="spacer" />
+yesterday:7<br class="spacer" />
+<span style="font-size:12px;display:inline-block;line-height:130%;text-indent:0px">online:50</span><br class="spacer" />
+<br /></div>
+<h5>最新の10件</h5>
+<div class="recent"><strong>2026-10-04</strong>
+<ul class="recent_list">
+ <li><a href="https://ixawiki.com/index.php?levelup%20casino" title="levelup casino">levelup casino</a></li>
+ <li><a href="https://ixawiki.com/index.php?level%20up%20casino%20app" title="level up casino app">level up casino app</a></li>
+ <li><a href="https://ixawiki.com/index.php?RecentDeleted" title="RecentDeleted">RecentDeleted</a></li>
+ <li><a href="https://ixawiki.com/index.php?Busho%2F%CA%BC%BB%CE%B0%EC%CD%F7" title="Busho/兵士一覧">Busho/兵士一覧</a></li>
+</ul>
+<strong>2026-10-03</strong>
+<ul class="recent_list">
+ <li><a href="https://ixawiki.com/index.php?%C9%F0%BE%AD%C4%C9%B2%C3%A5%B9%A5%AD%A5%EB%B0%EC%CD%F7" title="武将追加スキル一覧">武将追加スキル一覧</a></li>
+</ul>
+<strong>2026-10-02</strong>
+<ul class="recent_list">
+ <li><a href="https://ixawiki.com/index.php?BushoCard%2F2035%CC%D3%CD%F8%B5%B1%B8%B5" title="BushoCard/2035毛利輝元">BushoCard/2035毛利輝元</a></li>
+</ul>
+<strong>2026-09-30</strong>
+<ul class="recent_list">
+ <li><a href="https://ixawiki.com/index.php?%A5%B3%A5%E1%A5%F3%A5%C8%2FBusho%2F%A5%A4%A5%E9%A5%B9%A5%C8%CA%CC" title="コメント/Busho/イラスト別">コメント/Busho/イラスト別</a></li>
+ <li><a href="https://ixawiki.com/index.php?%A5%B3%A5%E1%A5%F3%A5%C8%2FBusho%2F%CA%BC%BB%CE%B0%EC%CD%F7" title="コメント/Busho/兵士一覧">コメント/Busho/兵士一覧</a></li>
+ <li><a href="https://ixawiki.com/index.php?%A5%B3%A5%E1%A5%F3%A5%C8%2F%CD%D1%B8%EC%BD%B8" title="コメント/用語集">コメント/用語集</a></li>
+ <li><a href="https://ixawiki.com/index.php?%A5%B3%A5%E1%A5%F3%A5%C8%2FBusho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B0%E9%C0%AE" title="コメント/Busho/武将カード育成">コメント/Busho/武将カード育成</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+<p><br />
+<a href="http://www.ixawiki.com/index.php?RecentChanges" title="RecentChanges">最終更新</a></p>
+
+</div></td>
+  <td class="ctable" valign="top">
+   <div id ="topicpath"><a href="https://ixawiki.com/index.php?FrontPage" title="FrontPage">Top</a> &gt; <!--autolink--><a href="https://ixawiki.com/index.php?BushoCard" title="BushoCard">BushoCard</a><!--/autolink--> &gt; 21001賀茂在昌</div>   <div id="body"><h2 id="content_1_0">武将データ  <a class="anchor_super" id="bushodata" href="http://www.ixawiki.com/index.php?BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB#bushodata" title="bushodata">&dagger;</a> <a class="anchor_super" href="http://www.ixawiki.com/index.php?cmd=edit&amp;page=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB&amp;id=bushodata"><img src="./image/common/plus/paraedit.png" width="9" height="9" alt="Edit" title="Edit" /></a></h2>
+<table class="toc" cellspacing="0" border="0" cellpadding="0"><tr><td>
+<a id="contents_1"></a>
+<div><h2 class="toctitle">目次</h2></div>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="#bushodata"> 武将データ </a>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="#status"> 基本ステータス </a></li>
+<li><a href="#ikuseidata"> 育成データ </a></li>
+<li><a href="#kanrenbusho"> 関連武将 </a></li>
+<li><a href="#kanrenjikou"> 関連事項 </a></li>
+<li><a href="#comment"> 評価コメント </a></li></ul></li></ul>
+</td></tr></table>
+
+
+<h3 id="content_1_1">基本ステータス  <a class="anchor_super" id="status" href="http://www.ixawiki.com/index.php?BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB#status" title="status">&dagger;</a> <a class="anchor_super" href="http://www.ixawiki.com/index.php?cmd=edit&amp;page=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB&amp;id=status"><img src="./image/common/plus/paraedit.png" width="9" height="9" alt="Edit" title="Edit" /></a></h3>
+<p><!-- table_edit2 --></p>
+<div class="ie5"><table id="table_edit_t_1_BushoCard_2F21001_B2_EC_CC_D0_BA_DF_BE_BB" class="style_table" cellspacing="1" border="0"><thead><tr no="1"><th colspan="7" no="1" col="7">No.21001</th></tr>
+</thead>
+<tbody><tr no="3"><th style="width:40px;"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7&amp;src=%B7%E6.png" alt="傑.png" title="傑.png" width="30" height="30" /></th><th><ruby><rb>賀茂在昌</rb><rp>(</rp><rt>かものあきまさ</rt><rp>)</rp></ruby></th><th style="width:40px;"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B3%B5%CD%D7&amp;src=%B7%E62.png" alt="傑2.png" title="傑2.png" width="30" height="30" /></th><th class="c" style="width:100px;">Cost</th><td class="c" style="width:100px;">0.0</td><th class="c" style="width:100px;">指揮兵数</th><td class="c" style="width:100px;">7000</td></tr>
+<tr no="4"><th style="width:40px;" colspan="3">HP:200</th><th class="c" style="width:100px;" colspan="4">統率力</th></tr>
+<tr no="5"><td style="width:40px;" colspan="3" rowspan="16"><img src="http://www.ixawiki.com/index.php?plugin=ref&amp;page=Busho%2F%C9%F0%BE%AD%A5%AB%A1%BC%A5%C9%B2%E8%C1%FC%2F0_1&amp;src=21001.png" alt="21001.png" title="21001.png" width="224" height="315" /><br class="spacer" />Illust:塚本陽子</td></tr>
+<tr no="6"><th class="c" style="width:100px;">槍</th><td class="c" style="width:100px;">XXX</td><th class="c" style="width:100px;">馬</th><td class="c" style="width:100px;">XXX</td></tr>
+<tr no="7"><th class="c" style="width:100px;">弓</th><td class="c" style="width:100px;">XXX</td><th class="c" style="width:100px;">器</th><td class="c" style="width:100px;">XXX</td></tr>
+<tr no="8"></tr>
+<tr no="9"><th class="c" style="width:100px;" colspan="4">スキル</th></tr>
+<tr no="10"><td class="c" style="background-color:#ebca75;width:100px;" colspan="4"><a href="http://www.ixawiki.com/index.php?Busho%2F%C9%F0%BE%AD%A5%B9%A5%AD%A5%EB#skill_seionmyouzi" title="Busho/武将スキル">特：聖陰陽師</a></td></tr>
+<tr no="11"><td class="c" style="width:100px;" colspan="4" rowspan="2">●このカード所持で、名声最大値が100上昇<br class="spacer" />●このカード所持で、名声回復率が5%上昇<br class="spacer" />●防御戦闘時、自軍全武将のスキル発動率＋(占い結果の合計値)%<br class="spacer" />（上記の効果はすべて模倣不可・重複不可）</td></tr>
+<tr no="12"></tr>
+<tr no="13"></tr>
+<tr no="14"><th class="c" style="width:100px;" colspan="4">ステータス</th></tr>
+<tr no="15"><th class="c" style="width:100px;"></th><th class="c" style="width:100px;">攻撃力</th><th class="c" style="width:100px;">防御力</th><th class="c" style="width:100px;">兵法</th></tr>
+<tr no="16"><th class="c" style="width:100px;">初期値</th><td class="c" style="width:100px;">0</td><td class="c" style="width:100px;">30000</td><td class="c" style="width:100px;">4500</td></tr>
+<tr no="17"><th class="c" style="width:100px;">成長値</th><td class="c" style="width:100px;">-</td><td class="c" style="width:100px;">-</td><td class="c" style="width:100px;">-</td></tr>
+<tr no="18"></tr>
+<tr no="19"><th class="c" style="width:100px;" colspan="4">紹介文</th></tr>
+<tr no="20"><td class="c" style="width:100px;" colspan="4">朝廷で「陰陽頭」を務めた公家で、キリシタン<br class="spacer" />でもあった陰陽師だワン！<br class="spacer" />都でキリシタンになった最初の一人とも伝わる<br class="spacer" />人物なんだワン！</td></tr>
+</tbody>
+</table></div>
+
+
+<p><br />
+<br /></p>
+
+<h3 id="content_1_2">育成データ  <a class="anchor_super" id="ikuseidata" href="http://www.ixawiki.com/index.php?BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB#ikuseidata" title="ikuseidata">&dagger;</a> <a class="anchor_super" href="http://www.ixawiki.com/index.php?cmd=edit&amp;page=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB&amp;id=ikuseidata"><img src="./image/common/plus/paraedit.png" width="9" height="9" alt="Edit" title="Edit" /></a></h3>
+<ul class="list2" style="padding-left:32px;margin-left:32px"><li>最初から天限突破扱いであり、成長は一切しない</li>
+<li>合成素材としても使用不可、スキル追加も不可能</li></ul>
+
+<h3 id="content_1_3">関連武将  <a class="anchor_super" id="kanrenbusho" href="http://www.ixawiki.com/index.php?BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB#kanrenbusho" title="kanrenbusho">&dagger;</a> <a class="anchor_super" href="http://www.ixawiki.com/index.php?cmd=edit&amp;page=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB&amp;id=kanrenbusho"><img src="./image/common/plus/paraedit.png" width="9" height="9" alt="Edit" title="Edit" /></a></h3>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li><span class="b"><ruby><rb>名前</rb><rp>(</rp><rt>読み</rt><rp>)</rp></ruby></span>（同一人物）
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>名前（異名など）</li></ul></li></ul>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li>親戚縁者
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>名前（関係）</li></ul></li></ul>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li>主君
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>名前</li></ul></li></ul>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li>家臣
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>名前（補足）</li></ul></li></ul>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li>関連武将
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>名前（関係）</li></ul></li></ul>
+
+<h3 id="content_1_4">関連事項  <a class="anchor_super" id="kanrenjikou" href="http://www.ixawiki.com/index.php?BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB#kanrenjikou" title="kanrenjikou">&dagger;</a> <a class="anchor_super" href="http://www.ixawiki.com/index.php?cmd=edit&amp;page=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB&amp;id=kanrenjikou"><img src="./image/common/plus/paraedit.png" width="9" height="9" alt="Edit" title="Edit" /></a></h3>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li>著名な合戦
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>合戦名（対〜）</li></ul></li></ul>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li>関連用語
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>用語</li></ul></li></ul>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li>作品
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>作品名</li></ul></li></ul>
+
+<h3 id="content_1_5">評価コメント  <a class="anchor_super" id="comment" href="http://www.ixawiki.com/index.php?BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB#comment" title="comment">&dagger;</a> <a class="anchor_super" href="http://www.ixawiki.com/index.php?cmd=edit&amp;page=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB&amp;id=comment"><img src="./image/common/plus/paraedit.png" width="9" height="9" alt="Edit" title="Edit" /></a></h3>
+<div><p>最新の30件を表示しています。 <a href="http://www.ixawiki.com/index.php?%A5%B3%A5%E1%A5%F3%A5%C8%2FBushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB" title="コメント/BushoCard/21001賀茂在昌">コメントページを参照</a></p>
+<form action="http://www.ixawiki.com/index.php" method="post">
+<div><input type="hidden" name="encode_hint" value="ぷ" /></div>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li class="pcmt"><input class="pcmt" type="radio" name="reply" value="8f3aefa091ba1867f850b3fbd05c764a" tabindex="23" />戦国時代の公家・陰陽師。勘解由小路在富の嫡男。陰陽師でありながら切支丹となり、マノエルの洗礼名を名乗る。1580年頃には陰陽頭に叙任。秀吉に重用され、方広寺大仏殿の地鎮祭などを行った。 -- <span class="noexists">H<a href="http://www.ixawiki.com/index.php?cmd=edit&amp;page=H&amp;refer=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB">?</a></span> <span class="comment_date">2022-04-05 (火) 16:46:42</span></li>
+<li class="pcmt"><input class="pcmt" type="radio" name="reply" value="2f5678358c91b1b8a733f9633686de10" tabindex="22" />誰だお前は --  <span class="comment_date">2022-04-05 (火) 18:26:31</span>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li class="pcmt"><input class="pcmt" type="radio" name="reply" value="0474105cf2161909ab1f4239ebadf7f0" tabindex="21" />まじで誰だお前は　 --  <span class="comment_date">2022-04-06 (水) 22:16:12</span>
+<ul class="list3" style="padding-left:16px;margin-left:16px"><li>傑って戦国時代の豪傑の傑ではないの？　歴史上何した人なの？　もう天皇だせば？ --  <span class="comment_date">2022-04-06 (水) 22:18:47</span></li>
+<li>俺もてっきり「三英傑」のことだと思っていたが・・・ --  <span class="comment_date">2022-04-07 (木) 00:55:25</span></li>
+<li>結は単なるシクレ覇だから濫造しないだろうとか三英傑に限られるとか勝手に期待すんなってことだよ --  <span class="comment_date">2022-04-08 (金) 12:21:49</span></li></ul></li></ul></li>
+<li class="pcmt"><input class="pcmt" type="radio" name="reply" value="fccabb1c35dab20aee1b49ee8518190b" tabindex="20" /><a href="./link.php?url=https%3A%2F%2Fimgur.com%2F4VrbEss" target="_blank" rel="nofollow"><img src="./image/common/external_link.png">https://imgur.com/4VrbEss</a> - gif -- <span class="noexists">YoY<a href="http://www.ixawiki.com/index.php?cmd=edit&amp;page=YoY&amp;refer=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB">?</a></span> <span class="comment_date">2022-04-05 (火) 21:44:30</span>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li class="pcmt"><input class="pcmt" type="radio" name="reply" value="29cb40a1f5a7c4d3579b9f0093d2eee8" tabindex="19" />thx、ただgifの貼り方がわからない… -- <span class="noexists">H<a href="http://www.ixawiki.com/index.php?cmd=edit&amp;page=H&amp;refer=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB">?</a></span> <span class="comment_date">2022-04-05 (火) 22:24:42</span></li></ul></li>
+<li class="pcmt"><input class="pcmt" type="radio" name="reply" value="5fffe3fc51dfaad3ba0f8dcc8e9dc22d" tabindex="18" />スキル合成という概念を淘汰すんのかねえ？　引いたカードをそのまま使うゲーム路線？ --  <span class="comment_date">2022-04-09 (土) 08:56:51</span></li>
+<li class="pcmt"><input class="pcmt" type="radio" name="reply" value="cb5216d90cd1143caac0bb6275f0379f" tabindex="17" />出方が一章に付き1つではない？12傑まで出す予定なんだっけ？出し終わったらサイクル予定なのかな？ --  <span class="comment_date">2022-04-13 (水) 05:32:26</span>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li class="pcmt"><input class="pcmt" type="radio" name="reply" value="8d08517fa217d5c6ed3ad982793b6a4c" tabindex="16" />サイクル予定なら毎度使えないと需要ないからバフじみた特典盛りなのも分かる --  <span class="comment_date">2022-04-13 (水) 05:37:04</span></li></ul></li>
+<li class="pcmt"><input class="pcmt" type="radio" name="reply" value="b72d87d0a85b3dec2f56bc81ef1c60bf" tabindex="15" />おお、塚本さんか。道理で良いイラストだ。 --  <span class="comment_date">2022-05-17 (火) 13:41:20</span></li>
+<li class="pcmt"><input class="pcmt" type="radio" name="reply" value="d4876ff86f4d5c6f493e333abc48a061" tabindex="14" />600万課金すれば、1枚位出るかも＾＾；；； --  <span class="comment_date">2022-05-28 (土) 01:05:08</span>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li class="pcmt"><input class="pcmt" type="radio" name="reply" value="04abc74479bccfcbafccf8f4a9a644d9" tabindex="13" />１００日かかるな、刷新ギリか？ --  <span class="comment_date">2022-05-28 (土) 17:03:39</span></li>
+<li class="pcmt"><input class="pcmt" type="radio" name="reply" value="122efcc09e0fe2ba2894ddc31c5898c8" tabindex="12" />どうもこいつぱっとしねぇ…ハズレ傑ポジなりそうだな --  <span class="comment_date">2022-06-04 (土) 08:47:12</span></li></ul></li>
+<li class="pcmt"><input class="pcmt" type="radio" name="reply" value="5ce136c65481b2fe3e0fbe4d0db94b29" tabindex="11" />このカードって強いですか？ --  <span class="comment_date">2022-05-30 (月) 05:41:23</span>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li class="pcmt"><input class="pcmt" type="radio" name="reply" value="01be9cf1c98e93353a0ee5c0371f2490" tabindex="10" />スキルが積めない弱点こそあるが、コス０兵７０００で兵法値４５００、防御時に味方全員のスキル発動率３〜１５％アップ。本人の知名度以外には文句は付かないであろう強さ。 --  <span class="comment_date">2022-05-30 (月) 08:21:00</span>
+<ul class="list3" style="padding-left:16px;margin-left:16px"><li>今度出たのはもっと強いような気が。 --  <span class="comment_date">2022-06-13 (月) 22:57:51</span></li></ul></li></ul></li>
+<li class="pcmt"><input class="pcmt" type="radio" name="reply" value="91d2d63cbe1bde3a8eed4bedf7b3823d" tabindex="9" />よく見ると「傑」のアイコンが信長と違うようです。こやつの「傑」アイコンをどなたか持っていませんか？ -- <span class="noexists">H<a href="http://www.ixawiki.com/index.php?cmd=edit&amp;page=H&amp;refer=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB">?</a></span> <span class="comment_date">2022-05-31 (火) 21:30:12</span>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li class="pcmt"><input class="pcmt" type="radio" name="reply" value="e7324c6451d6827abd199452d39f115c" tabindex="8" />解決しました、お騒がせしました -- <span class="noexists">H<a href="http://www.ixawiki.com/index.php?cmd=edit&amp;page=H&amp;refer=BushoCard%2F21001%B2%EC%CC%D0%BA%DF%BE%BB">?</a></span> <span class="comment_date">2022-06-01 (水) 21:44:32</span></li>
+<li class="pcmt"><input class="pcmt" type="radio" name="reply" value="98b397916dc7d841520d8826ecb6250b" tabindex="7" />地味に出す度に変えてくる気ですねえ、この運営は。 --  <span class="comment_date">2022-06-02 (木) 07:42:40</span>
+<ul class="list3" style="padding-left:16px;margin-left:16px"><li>天傑、極傑、姫傑の3種があるんだとよ --  <span class="comment_date">2022-06-02 (木) 09:38:49</span></li>
+<li>「姫のケツ」だと・・・？ --  <span class="comment_date">2022-07-14 (木) 01:02:32</span></li></ul></li></ul></li>
+<li class="pcmt"><input class="pcmt" type="radio" name="reply" value="794bcb4262298fd355d932bda83f7ac3" tabindex="6" />真田昌幸登場で、「美味しいご飯」に成り下がったという。 --  <span class="comment_date">2022-08-21 (日) 23:20:08</span>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li class="pcmt"><input class="pcmt" type="radio" name="reply" value="b00336e092c4ff6c58849bbef73cd78e" tabindex="5" />こいつを使いこなせるような城なら真田如きじゃどうにもならんよ。桀を腐したい気持ちはわからんでもないが現実見ような --  <span class="comment_date">2022-08-22 (月) 06:02:06</span>
+<ul class="list3" style="padding-left:16px;margin-left:16px"><li>「使いこなす」とかｗ --  <span class="comment_date">2022-08-28 (日) 02:26:00</span></li>
+<li>万が一農民が引いてたら使いこなせないだろうなという時の想定だったが、お気に召さなかったかな？で、攻防あったけれどこいつを「美味しいご飯」にした報告はまだかな？ --  <span class="comment_date">2022-08-28 (日) 08:56:33</span></li></ul></li></ul></li>
+<li class="pcmt"><input class="pcmt" type="radio" name="reply" value="cf27408e49205efdaf938e234d8a7480" tabindex="4" />傑なのにこの人たいして使えない気がするんですけど、 --  <span class="comment_date">2022-08-29 (月) 23:52:00</span>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li class="pcmt"><input class="pcmt" type="radio" name="reply" value="f518160f86a3ae8030b485694f073897" tabindex="3" />使ってる人居たらおしえて〜 --  <span class="comment_date">2022-08-29 (月) 23:52:55</span>
+<ul class="list3" style="padding-left:16px;margin-left:16px"><li>お前が使って体感を伝えればいいぞ --  <span class="comment_date">2022-08-30 (火) 12:14:35</span></li></ul></li></ul></li>
+<li class="pcmt"><input class="pcmt" type="radio" name="reply" value="1f6e37a174f4de54cc464cbf8a06ffe4" tabindex="2" />加茂在昌を所持している状態で以心崇伝を入手しましたが、名声が上昇しません。バグかな？もしかして重複不可？ --  <span class="comment_date">2023-12-14 (木) 20:14:29</span>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li class="pcmt"><input class="pcmt" type="radio" name="reply" value="c455c1e3a816ee1d02da79c3afaac6d5" tabindex="1" />ちなみに以心崇伝入手直後はプラス１００になっていましたが、いつの間にか元に戻りました(;'∀') --  <span class="comment_date">2023-12-14 (木) 20:15:41</span></li></ul></li></ul>
+
+  <input type="hidden" name="digest" value="094acfad322277af8a2a09efdadc33f0" />
+  <input type="hidden" name="plugin" value="pcomment" />
+  <input type="hidden" name="refer"  value="BushoCard/21001賀茂在昌" />
+  <input type="hidden" name="page"   value="[[コメント/BushoCard/21001賀茂在昌]]" />
+  <input type="hidden" name="nodate" value="" />
+  <input type="hidden" name="dir"    value="1" />
+  <input type="hidden" name="count"  value="30" />
+  <input type="radio" name="reply" value="0" tabindex="0" checked="checked" /> お名前:  <input type="text" name="name" size="15" /> <input type="text" name="msg" size="70" />
+  <input type="submit" value="コメントの挿入" /></form>
+</div>
+
+
+
+   <div style="margin-top:20px">
+   <script type="text/javascript"><!--
+google_ad_client = "pub-8451216461217892";
+/* 336x280, ixawiki_rec_big 10/07/05 */
+google_ad_slot = "1425775692";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+</div>
+<script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+   </div>
+  </td>
+ </tr>
+</table>
+</div>
+
+
+<div id="footer_all">
+<p style="font-size:120%;color:white;">(C)2010,2011 SQUARE ENIX CO., LTD. All Rights Reserved.Copyright (C) 2010 Yahoo Japan Corporation. All Rights Reserved.</p>
+Last-modified: 2022-06-01 (水) 21:34:11 <br />
+convert time to 0.002 sec.<br />
+PukiWiki Plus!
+<div id="ScrollPageTop" class="ScrollPageTop">
+    <a href="#header"></a>
+</div><!-- fotter_all_end -->
+</div>
+
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"ddabf45a5ead40aea0d6bf90cadd8776","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
