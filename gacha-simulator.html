@@ -582,11 +582,12 @@
   <div class="sim-version-badge" id="simVersionBadge">v-</div>
 
 <script>
-  const GACHA_VERSION = 'v2026-10-01.1';
+  const GACHA_VERSION = 'v2026-10-01.2';
   document.addEventListener('DOMContentLoaded', ()=>{
     const badge = document.getElementById('simVersionBadge');
     if(badge) badge.textContent = GACHA_VERSION;
     loadRanking();
+    retryPendingRanking();
   });
 
   // ============ ランキング(Supabase) ============
@@ -665,6 +666,41 @@
       value_unit: '連',
     });
     return error;
+  }
+
+  // ---- つながらなかった記録を端末に預けておく ----
+  // 2026-10-04: ランキングのサーバー(Supabase)に名前が引けずつながらなくなり、
+  // コンプしても「登録に失敗しました」としか出ず記録が消えていた。
+  // 失敗した記録はこの端末に残し、次にページを開いてつながったときに登録する。
+  const PENDING_KEY = 'kujiRankingPending';
+  function readPending(){
+    try{ return JSON.parse(localStorage.getItem(PENDING_KEY) || '[]'); }catch(e){ return []; }
+  }
+  function writePending(list){
+    try{ localStorage.setItem(PENDING_KEY, JSON.stringify(list)); return true; }catch(e){ return false; }
+  }
+  function savePending(value){
+    const list = readPending();
+    list.push({scope:KUJI_SCOPE, value:value, at:new Date().toISOString()});
+    return writePending(list);
+  }
+  async function retryPendingRanking(){
+    const list = readPending();
+    if(!list.length || !supabaseClient) return;
+    const rest = [];
+    let sent = 0;
+    for(const p of list){
+      // 期間が終わったくじの記録は、いまのランキングには入れない
+      if(p.scope !== KUJI_SCOPE) continue;
+      const error = await submitRanking(p.value);
+      if(error) rest.push(p); else sent++;
+    }
+    writePending(rest);
+    if(sent){
+      const msg = document.getElementById('completeSubmitMsg');
+      if(msg){ msg.style.display = 'block'; msg.textContent = '前回つながらなかった記録 ' + sent + '件を、ランキングに登録しました。'; }
+      loadRanking();
+    }
   }
 
   const TIER_ORDER = ['傑','天','極','特','上'];
@@ -1314,9 +1350,12 @@
     {name:'朝倉宗滴', normalNo:1319, parallelNo:31319},
     {name:'伊達稙宗', normalNo:1320, parallelNo:31320},
     {name:'六角定頼', normalNo:1321, parallelNo:31321},
-    {name:'上杉謙信', normalNo:10074, parallelNo:null},
-    {name:'毛利輝元', normalNo:10075, parallelNo:null},
-    {name:'最上義光', normalNo:10076, parallelNo:null},
+    // 2026-10-04: 10月1日のくじ切り替えでここを直し忘れ、排出停止の10074〜10076が残り、
+    // 新しい天3種(とパラレル)が数えられていなかった。新しい3種にもパラレルがあるが、
+    // コンプリート条件は「天12種(1310〜1321)」のままなので inComplete:false で外す。
+    {name:'濃姫', normalNo:10077, parallelNo:40077, inComplete:false},
+    {name:'三郎信長', normalNo:10078, parallelNo:40078, inComplete:false},
+    {name:'今川氏真', normalNo:10079, parallelNo:40079, inComplete:false},
   ];
   const tenStats = TEN_UNIQUE_DEF.map(e => ({
     ...e, normalCount:0,
@@ -1636,7 +1675,7 @@
 
   function isParallelComplete(){
     // 通常版・パラレル(プラチナ)版のどちらかを引いていれば、その1種は揃った扱いにする
-    return tenStats.filter(e=>e.parallelNo!==null).every(e=>e.normalCount>0 || e.parallelCount>0);
+    return tenStats.filter(e=>e.parallelNo!==null && e.inComplete!==false).every(e=>e.normalCount>0 || e.parallelCount>0);
   }
 
   function checkParallelCompletion(){
@@ -1657,8 +1696,14 @@
     const error = await submitRanking(parallelCompleteCount);
     msg.style.display = 'block';
     if(error){
-      msg.textContent = '登録に失敗しました。時間をおいて再度お試しください。';
-      btn.disabled = false;
+      // サーバーにつながらないときは、端末に預けて次回自動で登録する
+      if(savePending(parallelCompleteCount)){
+        parallelCompleteSubmitted = true;
+        msg.textContent = 'ランキングのサーバーにつながらないため、この端末に記録を保存しました。次にこのページを開いたとき、つながれば自動で登録します。';
+      } else {
+        msg.textContent = '登録に失敗しました。時間をおいて再度お試しください。';
+        btn.disabled = false;
+      }
     } else {
       parallelCompleteSubmitted = true;
       msg.textContent = 'ランキングに登録しました!';
