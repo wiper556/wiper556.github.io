@@ -28,6 +28,8 @@
  "ch": "25章",
  "chSource": "wikiOldestComment",
  "notes": [
-  "2026-08-16: 章は ixawiki の該当カードページの一番古いコメントの日付から推定した(chSource=wikiOldestComment)。**ゲーム内で確認した値ではない。** 章が分かっている146体での的中は141体(96.6%)。実物が分かったら上書きして chSource を消すこと。"
- ]
+  "2026-08-16: 章は ixawiki の該当カードページの一番古いコメントの日付から推定した(chSource=wikiOldestComment)。**ゲーム内で確認した値ではない。** 章が分かっている146体での的中は141体(96.6%)。実物が分かったら上書きして chSource を消すこと。",
+  "2026-10-04: noSynthesis(合成不可)にした。ixawiki(BushoCard/20003)が「合成素材としても使用不可、スキル追加も不可能」、ixanaryのスキルページも「合成不可スキルです」で、2ソースが一致。うぐさん承認。"
+ ],
+ "noSynthesis": true
 }
