@@ -307,6 +307,24 @@
    "db": "kyoku"
   },
   {
+   "name": "北条氏邦",
+   "no": "7023",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "北条氏邦(7023)のsynthesisTable S2枠(2026-10-04)"
+   ]
+  },
+  {
+   "name": "北信愛（2）",
+   "no": "7024",
+   "slot": "S2",
+   "db": "kyoku",
+   "note": [
+    "北信愛（2）(7024)のsynthesisTable S2枠(2026-10-04)"
+   ]
+  },
+  {
    "name": "吉川広家（2）",
    "no": "7025",
    "slot": "S2",
