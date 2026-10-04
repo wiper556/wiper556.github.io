@@ -36,8 +36,68 @@
  "notes": [
   "2026-08-19登録。うぐさんが撮ったカード画像(スキルLV10表記)から読み取った。手順書B-00によりLV10カードはカード上の全情報を採用してよい。",
   "ixanary.com(cards/7023)はPage Not Found、ixawiki.com(BushoCard/7023北条氏邦)は未作成(編集ページが返る)。2026-08-19時点で標準2ソースとも掲載が無い新カードのため、カード画像から取れない項目(成長値・章・合成候補・鍛錬別の数値)はnullのままとした。",
-  "兵科ランクはカード4隅のバッジを拡大して読んだ(槍A/弓A/馬B/器S)。スキルのランク表記も拡大して確認した。"
+  "兵科ランクはカード4隅のバッジを拡大して読んだ(槍A/弓A/馬B/器S)。スキルのランク表記も拡大して確認した。",
+  "2026-10-04: 合成表を入れた。ixagno.blog.fc2.com(blog-entry-11190)の生HTMLの合成テーブル(初期/移植後)から。ixanaryは初期スキルのページが404で、合成表は単一ソース。"
  ],
  "wikiOldestComment": null,
- "wikiCommentCount": null
+ "wikiCommentCount": null,
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "覇軍ノ勇士",
+   "rank": "A",
+   "afterSkill": "戦陣 神楽",
+   "afterRank": "A",
+   "target": "槍・砲・器",
+   "rate": "48%",
+   "effectShort": "攻撃・防御 320%+120%×覇軍ノ勇士所持数(4人)=800%上昇",
+   "afterTarget": "全 飛翔4",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 77%上昇(卓越:追加確率30%で2倍)"
+  },
+  {
+   "slot": "B",
+   "skill": "武神ノ采配",
+   "rank": "A",
+   "afterSkill": "武神ノ采配",
+   "afterRank": "A",
+   "target": "馬・砲・器",
+   "rate": "56%",
+   "effectShort": "防御 95%上昇(拠点待機90分毎に1.5倍・上限5回)",
+   "afterEffectShort": "防御 95%上昇(拠点待機90分毎に1.5倍・上限5回)"
+  },
+  {
+   "slot": "C",
+   "skill": "破窮ノ勇将",
+   "rank": "A",
+   "afterSkill": "破窮ノ勇将",
+   "afterRank": "A",
+   "target": "弓・砲・器",
+   "rate": "60%",
+   "effectShort": "防御 100%上昇(拠点待機90分ごとに1.5倍・上限5回)",
+   "afterEffectShort": "防御 100%上昇(拠点待機90分ごとに1.5倍・上限5回)"
+  },
+  {
+   "slot": "S1",
+   "skill": "轟雷破砲",
+   "rank": "A",
+   "afterSkill": "轟雷破砲",
+   "afterRank": "A",
+   "target": "槍・器・鉄",
+   "rate": "14%",
+   "effectShort": "攻撃 210%上昇+防御 210%上昇(部隊長なら発動率と効果が4倍・模倣不可)",
+   "afterEffectShort": "攻撃 210%上昇+防御 210%上昇(部隊長なら発動率と効果が4倍・模倣不可)"
+  },
+  {
+   "slot": "S2",
+   "skill": "志半ノ矛楯",
+   "rank": "A",
+   "afterSkill": "志半ノ矛楯",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "65%",
+   "effectShort": "攻撃 465%上昇+防御 465%上昇(模倣不可)",
+   "afterEffectShort": "攻撃 465%上昇+防御 465%上昇(模倣不可)"
+  }
+ ]
 }

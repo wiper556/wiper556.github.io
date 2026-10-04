@@ -38,8 +38,68 @@
   "ixanary.com(cards/2858)はPage Not Found、ixawiki.com(BushoCard/2858長尾景春)は未作成(編集ページが返る)。2026-08-19時点で標準2ソースとも掲載が無い新カードのため、カード画像から取れない項目(成長値・章・合成候補・鍛錬別の数値)はnullのままとした。",
   "兵科ランクはカード4隅のバッジを拡大して読んだ(槍A/弓A/馬A/器S)。スキルのランク表記も拡大して確認した。",
   "2026-08-19: 極/特に同名の既存カード(無印)があるため、ユーザー判断で新しい側に（2）を付けた。",
-  "2026-09-02: プラチナ・シークレット(characters-kyoku-ps.html)へ移した。くじの「確率情報」で指揮兵数の上限が 150/150 と出ており、通常の極(100/100)ではない。うぐさんに確認済み。"
+  "2026-09-02: プラチナ・シークレット(characters-kyoku-ps.html)へ移した。くじの「確率情報」で指揮兵数の上限が 150/150 と出ており、通常の極(100/100)ではない。うぐさんに確認済み。",
+  "2026-10-04: 合成表を入れた。ixagno.blog.fc2.com(blog-entry-11191)の生HTMLの合成テーブル(初期/移植後)から。移植後の欄が空欄だった枠(S1)は同じスキルのままとした(天逆ノ冥牙は合成専用スキルで他に照合先なし。要再確認)。ixanaryは初期スキルのページが404で、合成表は単一ソース。"
  ],
  "wikiOldestComment": null,
- "wikiCommentCount": null
+ "wikiCommentCount": null,
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "黎明雲龍",
+   "rank": "A",
+   "afterSkill": "十字飛車",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 70%上昇+部隊内武将の全スキル(極限スキルを含む)の卓越追加確率30%上昇(模倣不可・自部隊内では重複不可)",
+   "afterTarget": "槍砲器",
+   "afterRate": "42%",
+   "afterEffectShort": "攻撃 77%上昇 / 防御 77%上昇 / 破壊 50%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "四至ノ神域",
+   "rank": "SSS",
+   "afterSkill": "四至ノ神域",
+   "afterRank": "SSS",
+   "target": "自身",
+   "rate": "70%",
+   "effectShort": "効果倍率 1.25倍",
+   "afterEffectShort": "効果倍率 1.25倍"
+  },
+  {
+   "slot": "C",
+   "skill": "盗賊のあかし",
+   "rank": "SS",
+   "afterSkill": "盗賊のあかし",
+   "afterRank": "SS",
+   "target": "自身",
+   "rate": "50%",
+   "effectShort": "自身の持つ初期スキルを通常攻撃/防御効果1.1倍にして模倣+速度 100%上昇(確率100%・対象:全)",
+   "afterEffectShort": "自身の持つ初期スキルを通常攻撃/防御効果1.1倍にして模倣+速度 100%上昇(確率100%・対象:全)"
+  },
+  {
+   "slot": "S1",
+   "skill": "天逆ノ冥牙",
+   "rank": "S",
+   "afterSkill": "天逆ノ冥牙",
+   "afterRank": "S",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 1050%上昇+防御 1050%上昇(部隊内全武将の兵科対象の全スキルに「槍」「弓」「馬」対象を追加)",
+   "afterEffectShort": "攻撃 1050%上昇+防御 1050%上昇(部隊内全武将の兵科対象の全スキルに「槍」「弓」「馬」対象を追加)"
+  },
+  {
+   "slot": "S2",
+   "skill": "四天轟雷",
+   "rank": "SS",
+   "afterSkill": "四天轟雷",
+   "afterRank": "SS",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 360%上昇+防御 360%上昇(砲・器対象追加)",
+   "afterEffectShort": "攻撃 360%上昇+防御 360%上昇(砲・器対象追加)"
+  }
+ ]
 }

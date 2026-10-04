@@ -39,6 +39,15 @@
    "db": "kyoku"
   },
   {
+   "name": "北条氏邦",
+   "no": "7023",
+   "slot": "A",
+   "db": "kyoku",
+   "note": [
+    "北条氏邦(7023)のsynthesisTable A枠(2026-10-04)"
+   ]
+  },
+  {
    "name": "増田長盛",
    "no": "7026",
    "slot": "B",

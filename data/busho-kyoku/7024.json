@@ -37,8 +37,66 @@
   "2026-08-19登録。うぐさんが撮ったカード画像(スキルLV10表記)から読み取った。手順書B-00によりLV10カードはカード上の全情報を採用してよい。",
   "ixanary.com(cards/7024)はPage Not Found、ixawiki.com(BushoCard/7024北信愛)は未作成(編集ページが返る)。2026-08-19時点で標準2ソースとも掲載が無い新カードのため、カード画像から取れない項目(成長値・章・合成候補・鍛錬別の数値)はnullのままとした。",
   "兵科ランクはカード4隅のバッジを拡大して読んだ(槍S/弓B/馬A/器A)。スキルのランク表記も拡大して確認した。",
-  "2026-08-19: 極/特に同名の既存カード(無印)があるため、ユーザー判断で新しい側に（2）を付けた。"
+  "2026-08-19: 極/特に同名の既存カード(無印)があるため、ユーザー判断で新しい側に（2）を付けた。",
+  "2026-10-04: 合成表を入れた。ixagno.blog.fc2.com(blog-entry-11189)の生HTMLの合成テーブル(初期/移植後)から。ixanaryは初期スキルのページが404で、合成表は単一ソース。"
  ],
  "wikiOldestComment": null,
- "wikiCommentCount": null
+ "wikiCommentCount": null,
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "鉄国",
+   "rank": "A",
+   "afterSkill": "鉄国",
+   "afterRank": "A",
+   "target": "弓・砲・器",
+   "rate": "40%",
+   "effectShort": "攻撃 440%上昇+防御 440%上昇+破壊 110%上昇",
+   "afterEffectShort": "攻撃 440%上昇+防御 440%上昇+破壊 110%上昇"
+  },
+  {
+   "slot": "B",
+   "skill": "望国術策",
+   "rank": "A",
+   "afterSkill": "望国術策",
+   "afterRank": "A",
+   "target": "砲・器",
+   "rate": "37%",
+   "effectShort": "防御 225%上昇(所領防御陣形の第壱〜第参列目配置時2倍)",
+   "afterEffectShort": "防御 225%上昇(所領防御陣形の第壱〜第参列目配置時2倍)"
+  },
+  {
+   "slot": "C",
+   "skill": "謀虎因子",
+   "rank": "A",
+   "afterSkill": "謀虎因子",
+   "afterRank": "A",
+   "target": "槍・砲・器",
+   "rate": "48%",
+   "effectShort": "防御 160%上昇(格付「戦果」上位の敵城主がいると5倍)",
+   "afterEffectShort": "防御 160%上昇(格付「戦果」上位の敵城主がいると5倍)"
+  },
+  {
+   "slot": "S1",
+   "skill": "明鏡止水",
+   "rank": "A",
+   "afterSkill": "明鏡止水",
+   "afterRank": "A",
+   "target": "槍・砲・器",
+   "rate": "36%",
+   "effectShort": "防御 560%上昇(所有者が影城主のとき1.5倍)",
+   "afterEffectShort": "防御 560%上昇(所有者が影城主のとき1.5倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "志半ノ矛楯",
+   "rank": "A",
+   "afterSkill": "志半ノ矛楯",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "65%",
+   "effectShort": "攻撃 465%上昇+防御 465%上昇(模倣不可)",
+   "afterEffectShort": "攻撃 465%上昇+防御 465%上昇(模倣不可)"
+  }
+ ]
 }

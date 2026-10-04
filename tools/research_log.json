@@ -55760,6 +55760,57 @@
    "url": "https://ixawiki.com/index.php?BushoCard%2F1125%B0%CB%C5%EC%B5%C1%CD%B4"
   }
  ],
+ "syn:1852": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 24613,
+    "cache": "3e6651d8614f34f7.txt",
+    "cache_bytes": 24613,
+    "cache_sha256": "0668666a74d374bf",
+    "sha256": "0668666a74d374bf",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(24613 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A4%A7%E3%81%86%E3%81%A4%E3%81%91/"
+  }
+ ],
+ "syn:1853": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 24613,
+    "cache": "97ad6179215ee65a.txt",
+    "cache_bytes": 24613,
+    "cache_sha256": "7b6d204c9b1c59aa",
+    "sha256": "7b6d204c9b1c59aa",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(24613 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E3%81%8B%E3%81%B6%E3%81%8D%E8%80%85/"
+  }
+ ],
+ "syn:1855": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 24571,
+    "cache": "260366c3e9cfa8fd.txt",
+    "cache_bytes": 24571,
+    "cache_sha256": "077aa0d98e90107e",
+    "sha256": "077aa0d98e90107e",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(24571 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E3%82%AF%E3%82%A7%E3%83%83%282%29/"
+  }
+ ],
  "syn:1967": [
   {
    "date": "2026-10-03",
@@ -55809,6 +55860,855 @@
    "url": "https://ixawiki.com/index.php?BushoCard%2F1977%C9%F0%C5%C4%BF%AE%B8%BC"
   }
  ],
+ "syn:1980": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 25733,
+    "cache": "129447a6a37b6ca7.txt",
+    "cache_bytes": 25733,
+    "cache_sha256": "70de3cc4e4d8162f",
+    "sha256": "70de3cc4e4d8162f",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(25733 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A4%A9%E9%AD%94%E8%BB%8D%E7%A5%9E/"
+  }
+ ],
+ "syn:20001": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 25510,
+    "cache": "1251d126fa483ff4.txt",
+    "cache_bytes": 25510,
+    "cache_sha256": "143b98b5ee4722a5",
+    "sha256": "143b98b5ee4722a5",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(25510 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A4%A9%E9%AD%94%E7%B5%B6%E7%95%8C/"
+  }
+ ],
+ "syn:20002": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 25931,
+    "cache": "8e05517ce69e8983.txt",
+    "cache_bytes": 25931,
+    "cache_sha256": "ffb9df720174596c",
+    "sha256": "ffb9df720174596c",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(25931 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E8%A6%87%E8%BB%8D%20%E6%82%89%E5%9B%BD%E5%B9%B3%E5%AE%9A/"
+  }
+ ],
+ "syn:20003": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 26352,
+    "cache": "542427d82808baf0.txt",
+    "cache_bytes": 26352,
+    "cache_sha256": "7647b6f9bd267648",
+    "sha256": "7647b6f9bd267648",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(26352 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E7%A5%9E%E5%A8%81%E8%93%8B%E4%B8%96/"
+  }
+ ],
+ "syn:20004": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 25388,
+    "cache": "1bb4395e2d28622b.txt",
+    "cache_bytes": 25388,
+    "cache_sha256": "43e97fbab305c693",
+    "sha256": "43e97fbab305c693",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(25388 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E8%87%B3%E5%A4%A9%E3%83%8E%E5%BE%A1%E6%97%97/"
+  }
+ ],
+ "syn:20005": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 25982,
+    "cache": "fa36de951a05fcfd.txt",
+    "cache_bytes": 25982,
+    "cache_sha256": "9aab1d1a1112ba52",
+    "sha256": "9aab1d1a1112ba52",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(25982 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A4%A9%E7%B6%B2%E9%8E%96%E9%99%A3/"
+  }
+ ],
+ "syn:20006": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 26206,
+    "cache": "c09fbc2e59144073.txt",
+    "cache_bytes": 26206,
+    "cache_sha256": "12bb4354a0967b99",
+    "sha256": "12bb4354a0967b99",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(26206 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E7%B4%AB%E9%9B%BB%E3%83%8E%E9%BE%8D%E5%B0%86/"
+  }
+ ],
+ "syn:20007": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 25884,
+    "cache": "35b3444b1f220e25.txt",
+    "cache_bytes": 25884,
+    "cache_sha256": "1b6913ca91e04e15",
+    "sha256": "1b6913ca91e04e15",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(25884 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E7%A5%9E%E6%99%BA%E5%A4%A9%E9%8F%A1/"
+  }
+ ],
+ "syn:21001": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 24758,
+    "cache": "773bf10c4c103bd3.txt",
+    "cache_bytes": 24758,
+    "cache_sha256": "ee5760cc31ac0efd",
+    "sha256": "ee5760cc31ac0efd",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(24758 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E8%81%96%E9%99%B0%E9%99%BD%E5%B8%AB/"
+  }
+ ],
+ "syn:21002": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 24760,
+    "cache": "3b642357aa3f987b.txt",
+    "cache_bytes": 24760,
+    "cache_sha256": "3d35cc5c198626df",
+    "sha256": "3d35cc5c198626df",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(24760 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E6%8A%9B%E5%A4%A9/"
+  }
+ ],
+ "syn:21003": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 25586,
+    "cache": "111b0ae3f6a41054.txt",
+    "cache_bytes": 25586,
+    "cache_sha256": "17852cfa0225dc18",
+    "sha256": "17852cfa0225dc18",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(25586 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E6%82%AA%E5%9B%BD%E5%B8%AB/"
+  }
+ ],
+ "syn:22001": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 25688,
+    "cache": "bb0396aabaa13b7d.txt",
+    "cache_bytes": 25688,
+    "cache_sha256": "9105f4f4e3b8ec1a",
+    "sha256": "9105f4f4e3b8ec1a",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(25688 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%85%AD%E5%A4%A9%E6%B3%A2%E6%96%AC%E8%BB%8A/"
+  }
+ ],
+ "syn:22002": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 26029,
+    "cache": "f56ccf06451ae2b7.txt",
+    "cache_bytes": 26029,
+    "cache_sha256": "1e0184ac03f60ebb",
+    "sha256": "1e0184ac03f60ebb",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(26029 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E6%97%A5%E8%BC%AA%E3%83%8E%E4%BD%99%E5%85%89/"
+  }
+ ],
+ "syn:22003": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 25676,
+    "cache": "349c6eed0ac4b50c.txt",
+    "cache_bytes": 25676,
+    "cache_sha256": "0db2f693550f756d",
+    "sha256": "0db2f693550f756d",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(25676 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E6%85%88%E7%85%A7%E7%9C%BC/"
+  }
+ ],
+ "syn:2858": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 59390,
+    "cache": "23f7f9432c6484a6.txt",
+    "cache_bytes": 59390,
+    "cache_sha256": "b6da3da7383b2345",
+    "sha256": "b6da3da7383b2345",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(59390 bytes)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-11191.html"
+  },
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E9%BB%8E%E6%98%8E%E4%B8%8D%E7%9F%A5%E7%81%AB/"
+  }
+ ],
+ "syn:2859": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 62144,
+    "cache": "75f76650791993d8.txt",
+    "cache_bytes": 62144,
+    "cache_sha256": "7e398a71c6e2cee4",
+    "sha256": "7e398a71c6e2cee4",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(62144 bytes)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-11208.html"
+  },
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%BD%BC%E5%B2%B8%E3%83%8E%E5%A2%83%E5%9C%B0/"
+  }
+ ],
+ "syn:3451": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 26149,
+    "cache": "cba188cff33971de.txt",
+    "cache_bytes": 26149,
+    "cache_sha256": "6d2120ef25f05ce4",
+    "sha256": "6d2120ef25f05ce4",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(26149 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E4%B8%8D%E9%BE%8D%E7%8D%85%E5%AD%90%E8%99%8E/"
+  }
+ ],
+ "syn:3614": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 52393,
+    "cache": "a08f0a999d067c64.txt",
+    "cache_bytes": 52393,
+    "cache_sha256": "1980e86100276988",
+    "sha256": "1980e86100276988",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(52393 bytes)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-10087.html"
+  },
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%BF%97%E9%80%9F%E6%98%9F%E9%9C%9C/"
+  }
+ ],
+ "syn:3630": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 53265,
+    "cache": "8ad0279fde4344e6.txt",
+    "cache_bytes": 53265,
+    "cache_sha256": "cc13441ffd59a1e7",
+    "sha256": "cc13441ffd59a1e7",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(53265 bytes)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-10388.html"
+  },
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E7%BE%85%E9%87%9D%E5%87%9D%E8%A6%96/"
+  }
+ ],
+ "syn:3649": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 53703,
+    "cache": "b3956019130d9e6e.txt",
+    "cache_bytes": 53703,
+    "cache_sha256": "e924b4a9d8301422",
+    "sha256": "e924b4a9d8301422",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(53703 bytes)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-10569.html"
+  },
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A5%89%E6%84%9B/"
+  }
+ ],
+ "syn:3660": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 54186,
+    "cache": "a8281d7cd49bb4ba.txt",
+    "cache_bytes": 54186,
+    "cache_sha256": "a32b26a513b02e11",
+    "sha256": "a32b26a513b02e11",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(54186 bytes)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-10683.html"
+  },
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E7%8C%AA%E6%96%AD/"
+  }
+ ],
+ "syn:3668": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 54024,
+    "cache": "f63e5bbee91c7360.txt",
+    "cache_bytes": 54024,
+    "cache_sha256": "2da5ec54e9544265",
+    "sha256": "2da5ec54e9544265",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(54024 bytes)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-10775.html"
+  },
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E9%BB%92%E6%AD%B4%E5%B7%BE%E7%B5%84/"
+  }
+ ],
+ "syn:3677": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 53134,
+    "cache": "cd5afe9a91f5f1b8.txt",
+    "cache_bytes": 53134,
+    "cache_sha256": "896a564fc5ea3382",
+    "sha256": "896a564fc5ea3382",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(53134 bytes)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-10927.html"
+  },
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E8%9E%BA%E5%AD%90%E9%87%87%E9%85%8D/"
+  }
+ ],
+ "syn:3685": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 53396,
+    "cache": "eadd9e6b4ec96530.txt",
+    "cache_bytes": 53396,
+    "cache_sha256": "bd8778fc09da4875",
+    "sha256": "bd8778fc09da4875",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(53396 bytes)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-11088.html"
+  },
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E6%AB%BB%E7%9F%A5%E6%B5%81%E8%BB%A2/"
+  }
+ ],
+ "syn:3687": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 53884,
+    "cache": "2ac4c9e6b292a656.txt",
+    "cache_bytes": 53884,
+    "cache_sha256": "368b8b3532b144ab",
+    "sha256": "368b8b3532b144ab",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(53884 bytes)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-11188.html"
+  },
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%85%AB%E9%87%8D%E5%9E%A3/"
+  }
+ ],
+ "syn:3688": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 53606,
+    "cache": "bfe607060532462f.txt",
+    "cache_bytes": 53606,
+    "cache_sha256": "ed91c80a64600126",
+    "sha256": "ed91c80a64600126",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(53606 bytes)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-11187.html"
+  },
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E9%9D%A2%E5%BE%93%E8%85%B9%E8%83%8C/"
+  }
+ ],
+ "syn:3689": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 54977,
+    "cache": "aa8e592873203cf6.txt",
+    "cache_bytes": 54977,
+    "cache_sha256": "0294b52f69f82cbe",
+    "sha256": "0294b52f69f82cbe",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(54977 bytes)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-11186.html"
+  },
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%BC%BE%E6%AD%A3%E3%83%8E%E5%89%9B%E6%A7%8D/"
+  }
+ ],
+ "syn:3690": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 53783,
+    "cache": "d475edd5215fd2e7.txt",
+    "cache_bytes": 53783,
+    "cache_sha256": "b14d306185d3e36d",
+    "sha256": "b14d306185d3e36d",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(53783 bytes)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-11205.html"
+  },
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E9%A2%A8%E9%9B%85%E9%9B%A2%E4%BF%97/"
+  }
+ ],
+ "syn:4324": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 32128,
+    "cache": "cc6d8bd04ebe6e40.txt",
+    "cache_bytes": 32128,
+    "cache_sha256": "d6661b63952f99fb",
+    "sha256": "d6661b63952f99fb",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(32128 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%BC%93%E9%9A%8A%E5%AE%88%E8%AD%B7/"
+  }
+ ],
+ "syn:5272": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 33424,
+    "cache": "1374855aa545627c.txt",
+    "cache_bytes": 33424,
+    "cache_sha256": "1ec165b528ff8b55",
+    "sha256": "1ec165b528ff8b55",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(33424 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E6%A7%8D%E9%9A%8A%E9%80%B2%E6%92%83/"
+  }
+ ],
+ "syn:7023": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 57467,
+    "cache": "9ffed902abaa0770.txt",
+    "cache_bytes": 57467,
+    "cache_sha256": "60200465b465b8b4",
+    "sha256": "60200465b465b8b4",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(57467 bytes)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-11190.html"
+  },
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E8%BD%9F%E9%9B%B7%E7%A0%B4%E7%A0%B2/"
+  }
+ ],
+ "syn:7024": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 55618,
+    "cache": "bef5ef2a2c07059f.txt",
+    "cache_bytes": 55618,
+    "cache_sha256": "0a80336766fcb845",
+    "sha256": "0a80336766fcb845",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(55618 bytes)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-11189.html"
+  },
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E6%98%8E%E9%8F%A1%E6%AD%A2%E6%B0%B4/"
+  }
+ ],
+ "syn:7406": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 65433,
+    "cache": "a5f1c8e45f1d180f.txt",
+    "cache_bytes": 65433,
+    "cache_sha256": "7c0b4600addbf84e",
+    "sha256": "7c0b4600addbf84e",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(65433 bytes)",
+   "source": "ixagno",
+   "url": "https://ixagno.blog.fc2.com/blog-entry-11192.html"
+  },
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E4%B9%9D%E5%A4%89%E8%B2%82%E6%A7%8D/"
+  }
+ ],
+ "syn:八重垣": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%85%AB%E9%87%8D%E5%9E%A3/"
+  }
+ ],
+ "syn:奔愛": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 28366,
+    "cache": "9d74550702691aeb.txt",
+    "cache_bytes": 28366,
+    "cache_sha256": "67650d507c55c0c5",
+    "sha256": "67650d507c55c0c5",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(28366 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%A5%94%E6%84%9B/"
+  }
+ ],
+ "syn:弾正ノ剛槍": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%BC%BE%E6%AD%A3%E3%83%8E%E5%89%9B%E6%A7%8D/"
+  }
+ ],
+ "syn:志連星霜": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 28234,
+    "cache": "459cac7a2c06984c.txt",
+    "cache_bytes": 28234,
+    "cache_sha256": "b9d6f76f047389e7",
+    "sha256": "b9d6f76f047389e7",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(28234 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E5%BF%97%E9%80%A3%E6%98%9F%E9%9C%9C/"
+  }
+ ],
+ "syn:機知流転": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 28120,
+    "cache": "ef7841d0d4e10f06.txt",
+    "cache_bytes": 28120,
+    "cache_sha256": "49402450dbce7367",
+    "sha256": "49402450dbce7367",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(28120 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E6%A9%9F%E7%9F%A5%E6%B5%81%E8%BB%A2/"
+  }
+ ],
+ "syn:猜断": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 28452,
+    "cache": "25019ddf80c42e31.txt",
+    "cache_bytes": 28452,
+    "cache_sha256": "11c5195d81b69b42",
+    "sha256": "11c5195d81b69b42",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(28452 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E7%8C%9C%E6%96%AD/"
+  }
+ ],
  "syn:破軍一投": [
   {
    "date": "2026-10-03",
@@ -55826,6 +56726,40 @@
    "url": "https://ixanary.com/skills/%E7%A0%B4%E8%BB%8D%E4%B8%80%E6%8A%95/"
   }
  ],
+ "syn:羅針耀耀": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 28300,
+    "cache": "6b160cae41ca9331.txt",
+    "cache_bytes": 28300,
+    "cache_sha256": "fcfc89ec783d8429",
+    "sha256": "fcfc89ec783d8429",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(28300 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E7%BE%85%E9%87%9D%E8%80%80%E8%80%80/"
+  }
+ ],
+ "syn:蝮子采配": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 28064,
+    "cache": "4fef88dd1e5c67f3.txt",
+    "cache_bytes": 28064,
+    "cache_sha256": "7cc66f44473bc555",
+    "sha256": "7cc66f44473bc555",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(28064 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E8%9D%AE%E5%AD%90%E9%87%87%E9%85%8D/"
+  }
+ ],
  "syn:覇神雷霆": [
   {
    "date": "2026-10-03",
@@ -55841,6 +56775,51 @@
    "result": "取得した(28564 bytes)",
    "source": "ixanary",
    "url": "https://ixanary.com/skills/%E8%A6%87%E7%A5%9E%E9%9B%B7%E9%9C%86/"
+  }
+ ],
+ "syn:面従腹背": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E9%9D%A2%E5%BE%93%E8%85%B9%E8%83%8C/"
+  }
+ ],
+ "syn:風雅離俗": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 0,
+    "sha256": null,
+    "status": null
+   },
+   "found": false,
+   "result": "取得失敗: HTTP Error 404: Not Found",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E9%A2%A8%E9%9B%85%E9%9B%A2%E4%BF%97/"
+  }
+ ],
+ "syn:黒脛巾組": [
+  {
+   "date": "2026-10-04",
+   "evidence": {
+    "bytes": 28546,
+    "cache": "70ae881e2d681392.txt",
+    "cache_bytes": 28546,
+    "cache_sha256": "57bedab68263be23",
+    "sha256": "57bedab68263be23",
+    "status": 200
+   },
+   "found": true,
+   "result": "取得した(28546 bytes)",
+   "source": "ixanary",
+   "url": "https://ixanary.com/skills/%E9%BB%92%E8%84%9B%E5%B7%BE%E7%B5%84/"
   }
  ],
  "ランク:星神闘覇": [

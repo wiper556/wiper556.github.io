@@ -38,8 +38,70 @@
   "ixanary.com(cards/7406)はPage Not Found、ixawiki.com(BushoCard/7406脇坂安治)は未作成(編集ページが返る)。2026-08-19時点で標準2ソースとも掲載が無い新カードのため、カード画像から取れない項目(成長値・章・合成候補・鍛錬別の数値)はnullのままとした。",
   "兵科ランクはカード4隅のバッジを拡大して読んだ(槍SS/弓A/馬B/器A)。スキルのランク表記も拡大して確認した。",
   "2026-08-23: 「(N×防御参加武将数)%%」のままで数値になっていなかった。防御参加武将数の母数は280人で確定しており(audit_characters.py が母数の決まっている2つの一方として持っている)、既存の武将は「1.7%%×防御参加武将数(280人)=476.0%%上昇」の形で書いてあるのでそれに揃えた。係数は変えていない。",
-  "2026-09-02: プラチナ・シークレット(characters-kyoku-ps.html)へ移した。くじの「確率情報」で指揮兵数の上限が 150/150 と出ており、通常の極(100/100)ではない。うぐさんに確認済み。"
+  "2026-09-02: プラチナ・シークレット(characters-kyoku-ps.html)へ移した。くじの「確率情報」で指揮兵数の上限が 150/150 と出ており、通常の極(100/100)ではない。うぐさんに確認済み。",
+  "2026-10-04: 合成表を入れた。ixagno.blog.fc2.com(blog-entry-11192)の生HTMLの合成テーブル(初期/移植後)から。ixanaryは初期スキルのページが404で、合成表は単一ソース。"
  ],
  "wikiOldestComment": null,
- "wikiCommentCount": null
+ "wikiCommentCount": null,
+ "synthesisTable": [
+  {
+   "slot": "A",
+   "skill": "叛虐之貴公子",
+   "rank": "S",
+   "afterSkill": "十束ノ神域",
+   "afterRank": "SS",
+   "target": "-",
+   "rate": null,
+   "effectShort": "所属部隊内の「足軽」「弓足軽」「騎馬兵」の兵士攻撃力と兵士防御力が12上昇(模倣不可・自部隊内で重複不可)",
+   "afterTarget": "全 覇道",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 320%上昇+速度 70%上昇(所属部隊の武将のスキルを無効化・発動率低下から保護)"
+  },
+  {
+   "slot": "B",
+   "skill": "勇冠三軍",
+   "rank": "SSS",
+   "afterSkill": "勇冠三軍",
+   "afterRank": "SSS",
+   "target": "全",
+   "rate": "45%",
+   "effectShort": "攻撃 50%+10.2%×防御参加武将数(280人)=2906.0%(模倣不可)",
+   "afterEffectShort": "攻撃 50%+10.2%×防御参加武将数(280人)=2906.0%(模倣不可)"
+  },
+  {
+   "slot": "C",
+   "skill": "幻像鏡花",
+   "rank": "SSS",
+   "afterSkill": "幻像鏡花",
+   "afterRank": "SSS",
+   "target": "部隊長",
+   "rate": "56%",
+   "effectShort": "卓越追加確率40%・1.35倍",
+   "afterEffectShort": "卓越追加確率40%・1.35倍"
+  },
+  {
+   "slot": "S1",
+   "skill": "九変貂槍",
+   "rank": "S",
+   "afterSkill": "九変貂槍",
+   "afterRank": "S",
+   "target": "槍 不屈1 撤退",
+   "rate": "45%",
+   "effectShort": "攻撃 6%×防御参加武将数(280人)=1680.0%上昇(部隊全員が足軽または長槍足軽なら2倍)",
+   "afterEffectShort": "攻撃 6%×防御参加武将数(280人)=1680.0%上昇(部隊全員が足軽または長槍足軽なら2倍)"
+  },
+  {
+   "slot": "S2",
+   "skill": "紅蓮炎槍騎兵",
+   "rank": "A",
+   "afterSkill": "鬼滅刺",
+   "afterRank": "A",
+   "target": "全",
+   "rate": "100%",
+   "effectShort": "攻撃 94%上昇+防御 94%上昇(部隊内全武将の初期スキルに「槍弓馬」対象を追加・兵科対象スキル限定・TRなし)",
+   "afterTarget": "全",
+   "afterRate": "100%",
+   "afterEffectShort": "攻撃 70%上昇 防御 70%上昇(卓越確率+25%加算・模倣不可)"
+  }
+ ]
 }
