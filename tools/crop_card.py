@@ -182,7 +182,15 @@ def _same_rarity_refs(no):
             here = d
             break
     if here is None:
-        return []
+        # 2026-10-03: 切り抜きは登録より先にやるので、新しい武将はまだ JSON が無い。
+        # これで型が1枚も取れず、パラレル(40077〜40079)が自動で切れなかった。
+        # 置き場所は No. から決まるので、登録ツールと同じ判定で引く。
+        import sys as _s
+        _s.path.insert(0, str(pathlib.Path(__file__).resolve().parent / "register"))
+        from regbuild import kyoku_dir
+        here = DATA / kyoku_dir(no)
+        if not here.is_dir():
+            return []
     out = []
     for p in sorted(here.glob("*.json")):
         n = p.stem
@@ -278,6 +286,16 @@ def crop_one(no, verbose=True, origin=None):
             if res and not (res[2] > 25 or res[3] > 25 or res[4] > 110):
                 break
         way = "通常"
+        # 2026-10-03: パラレルのハートは暗い赤紫(152,0,12 など)で HEART の色域から
+        # 外れ、別の赤を拾って数十pxずれた位置で「出力OK」になっていた(40077〜40079)。
+        # 色ではハートを当てられないので、パラレルは最初から枠の形で合わせる。
+        sno = str(no)
+        if len(sno) == 5 and sno[:2] in ("31", "32", "40"):
+            fr, ferr = find_frame(im, no)
+            if fr:
+                res, way = (fr[0] + ANCHOR_X, fr[1] + ANCHOR_Y, 0, 0, 0), "パラレル(枠の形で合わせた)"
+            else:
+                return "No.%s パラレルの枠合わせに失敗(%s)。--origin 左,上 で手で指定できる" % (no, ferr)
         ok = res and not (res[2] > 25 or res[3] > 25 or res[4] > 110)
         if ok:
             l0, t0 = res[0] - ANCHOR_X, res[1] - ANCHOR_Y
